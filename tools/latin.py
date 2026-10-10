@@ -148,10 +148,8 @@ def add_ascii(x):
     new = {}
     for code, g in glyphs(x).items():
         idx = nftr.lookup(x, code) if code in have else None
-        if idx is None:
-            new[code] = g
-        elif code in (0x20, 0x3000) and idx == 0:
-            continue  # space shares glyph 0; the renderer spaces it itself
+        if idx is None or (code in (0x20, 0x3000) and idx == 0):
+            new[code] = g  # space shares glyph 0, drawn a full cell wide: give it its own narrow glyph
         else:
             x = set_glyph(x, idx, g[0], g[1:])
     return nftr.add_glyphs(x, new) if new else x

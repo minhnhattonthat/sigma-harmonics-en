@@ -2,12 +2,12 @@
  {
   "id": "04062:0000",
   "jp": "よくない印……",
-  "en": ""
+  "en": "A bad sign..."
  },
  {
   "id": "04062:0001",
   "jp": "$c02廊下から人が走る物音\\n（仮）$c00",
-  "en": ""
+  "en": "$c02Sound of someone running in the hall (temp)$c00"
  },
  {
   "id": "04062:0002",
@@ -17,46 +17,46 @@
  {
   "id": "04062:0003",
   "jp": "もしかして、\\nこの後に……",
-  "en": ""
+  "en": "Could it be, after this..."
  },
  {
   "id": "04062:0004",
   "jp": "推測。ねねっちは、\\nこの後……",
-  "en": ""
+  "en": "Conjecture. Nene-cchi, after this..."
  },
  {
   "id": "04062:0005",
   "jp": "もしかして、\\nこの後に？",
-  "en": ""
+  "en": "Don't tell me, after this?"
  },
  {
   "id": "04062:0006",
   "jp": "……足音は犯人の\\n可能性が高いね",
-  "en": ""
+  "en": "...There's a good chance those footsteps were the culprit's."
  },
  {
   "id": "04062:0007",
   "jp": "廊下には、刻音が\\nなかったから、確認は\\nできないけどね……",
-  "en": ""
+  "en": "There was no Echo in the hall, so we can't confirm it, though..."
  },
  {
   "id": "04062:0008",
   "jp": "この時間帯は、\\n空間の破損が\\n多いわね",
-  "en": ""
+  "en": "This time period has a lot of spatial damage, doesn't it?"
  },
  {
   "id": "04062:0009",
   "jp": "そのせいで、\\n移動できる範囲も\\n少ないんでしょ？",
-  "en": ""
+  "en": "That's why the area we can move around in is so small, right?"
  },
  {
   "id": "04062:0010",
   "jp": "そうだね",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04062:0011",
   "jp": "この時間そのものが、\\n$c02逢魔$c00に封じられてた\\nみたいだしね",
-  "en": ""
+  "en": "It seems this very time was sealed by the $c02Ouma$c00, after all."
  }
 ]

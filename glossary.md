@@ -121,4 +121,25 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 - b004 言の葉使い -> Word Wielder; 封使い -> Seal Wielder; 絡繰り使い -> Mechanism Wielder; clans 守人 -> Morito, 姫籠 -> Himekago;
   上位逢魔 -> Higher Ouma; 双結界の束縛者 -> Binders of the Twin Barrier; 皇 -> Sumeragi; 現人神 -> living god;
   バールストン・ギャンビット -> Birlstone Gambit; マスターキー -> Master Key; レーダーマップ -> Radar Map; 光 -> Lights; お婆様 -> Obaa-sama.
+- b016/b017 逢魔が時 -> Hour of Ouma; 厨 -> kitchen; ねねちゃん -> Nene-chan; ご頭首 -> the Head (Fumyu voice: the honorable Head);
+  父様 -> Father; 仮面 (Fumyu's nickname for the butler) -> the Mask; 二重人格 -> split personality; 吃驚 -> Surprise.
+  Dev placeholders （仮） -> (temp), ※エフェクト予定 -> *effect planned.
+- b014/b015 居間 -> living room; 家紋 -> family crest; 俳句 -> haiku; 《黒上家の滅亡》 -> <The Fall of the Kurogami House>;
+  はてな -> "Question mark?"; お婆さん (Neon) -> the old lady.
+- b012/b013 赤茄子 -> love apple (tomato riddle); 老雀 -> old sparrow; 予告状 -> notice of intent; 殺人予告 -> Murder Notice;
+  結界師 -> barrier master; よし！ならなら -> "Right! Well then, well then!"; だみー -> Dummy.
+- b005/b006 封術の縄 -> Sealing Rope; ラウドバンコラン -> Loud Bencolin; ミス・エルキュル -> Miss Hercule; 叙述トリック -> Narrative Trick;
+  神代 -> Age of the Gods; 式紙 -> shikigami; 国之常立神 -> Kuninotokotachi; 月読 -> Tsukuyomi; オルトゴール -> Ortgol;
+  ♭ペンデュラム -> Flat Pendulum; 偉大なりし術者 -> Grand Sorcerer; 真実に挑む銃手 -> Gunner Who Challenges Truth;
+  歴史を導く剣匠 -> Swordmaster Who Guides History; 神聖機関銃少女 -> Holy Machine-Gun Girl; 天然少女剣士 -> Airhead Swordgirl;
+  麗しの魔法娘々 -> Lovely Magical Nyan-Nyan; 月弓シグマ -> Sigma Tsukiyumi; 月弓音音 -> Nene Tsukiyumi; 黒上ゆう -> Yuu Kurogami;
+  黒上のシグマ -> Sigma of the Kurogami; 調律者・シグマ -> Tuner: Sigma; 時の爆発 -> Time Explosion; 倍音 -> overtones.
+- b018-b025 玉突き -> billiards ("ball game" joke); ハーモニクス（平行世界） -> Harmonics (parallel worlds); ～ふう tic -> ", fuu";
+  現国 -> Japanese class; 予鈴 -> warning bell; 無言 (Fumyu) -> ...Silence.; 仰天 -> Astonishment.; 吃驚仰天 -> Surprised and astounded.;
+  分からんちん -> Clueless.; ゆーっち -> Yuu-cchi; りんりん -> Rin-Rin; しぐっち -> Sigu-cchi; 小婆ちゃん -> Little Granny;
+  清浄の庭 -> Garden of Purity; 電報 -> telegram (katakana telegram text in CAPS); 次期頭首 -> next head; 漢方薬 -> herbal medicine;
+  Divine Spirit tics にゃ -> -nya, っす -> -ssu; 「神降」 menu -> "Descent"; 「神」 button -> "God" button; 章の状況 -> [Movement Status];
+  裏Ⅲ楽章 -> Hidden Movement III; イベント制作中 -> Event under construction; ダミー -> Dummy; 判定エラー -> Check error.
+- RULING: 時の変革者 -> Changer of Time; 過去の変革者 -> Changer of the Past (they are distinct JP phrases).
+- RULING: 法水 is "Housui" for every character/clan mention (the glossary's のりみず reading is an in-joke; keep Housui).
 - RULING: glossary-screen headings (03976, "term / ～kana reading") -> the English term only, one line, no reading.

@@ -7,7 +7,7 @@
  {
   "id": "04032:0001",
   "jp": "あなた……？",
-  "en": ""
+  "en": "Dear...?"
  },
  {
   "id": "04032:0002",
@@ -17,166 +17,166 @@
  {
   "id": "04032:0003",
   "jp": "ユリ子……さん？",
-  "en": ""
+  "en": "Yuriko... -san?"
  },
  {
   "id": "04032:0004",
   "jp": "一体……\\n何があったの？",
-  "en": ""
+  "en": "What on earth... happened?"
  },
  {
   "id": "04032:0005",
   "jp": "わからん……",
-  "en": ""
+  "en": "I don't know..."
  },
  {
   "id": "04032:0006",
   "jp": "私が来た時には\\nもう……",
-  "en": ""
+  "en": "By the time I got here, she was already..."
  },
  {
   "id": "04032:0007",
   "jp": "大婆様を$c02殺$c00して、\\n自分も……？",
-  "en": ""
+  "en": "She $c02killed$c00 Obaba-sama, and then herself...?"
  },
  {
   "id": "04032:0008",
   "jp": "いや……",
-  "en": ""
+  "en": "No..."
  },
  {
   "id": "04032:0009",
   "jp": "……$c02自殺$c00……？",
-  "en": ""
+  "en": "...$c02Suicide$c00...?"
  },
  {
   "id": "04032:0010",
   "jp": "ん……？",
-  "en": ""
+  "en": "Hm...?"
  },
  {
   "id": "04032:0011",
   "jp": "はぁ……？\\n自殺ぅー？",
-  "en": ""
+  "en": "Huh...? Suiciiide?"
  },
  {
   "id": "04032:0012",
   "jp": "なんで……？",
-  "en": ""
+  "en": "But why...?"
  },
  {
   "id": "04032:0013",
   "jp": "スープの飲み過ぎ……\\nの訳はない",
-  "en": ""
+  "en": "Drank too much soup... cannot be the reason."
  },
  {
   "id": "04032:0014",
   "jp": "そんなふうには\\n見えないわよ",
-  "en": ""
+  "en": "She sure doesn't look like the type."
  },
  {
   "id": "04032:0015",
   "jp": "……さてね",
-  "en": ""
+  "en": "...Who knows."
  },
  {
   "id": "04032:0016",
   "jp": "これだけじゃ、\\nなんとも言えない",
-  "en": ""
+  "en": "We can't say anything from this alone."
  },
  {
   "id": "04032:0017",
   "jp": "【人物　メイド】\\nの刻音を手に入れた\\n（仮）",
-  "en": ""
+  "en": "Obtained the [Person: Maid] Echo (temp)"
  },
  {
   "id": "04032:0018",
   "jp": "【メイドは自殺？】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Maid's Suicide?] Echo!"
  },
  {
   "id": "04032:0019",
   "jp": "最初に見た、\\n始まりの事件も、\\n１度確認してみよう",
-  "en": ""
+  "en": "Let's also recheck the very first case we saw, where it all began."
  },
  {
   "id": "04032:0020",
   "jp": "さっきは、刻音も\\n作らなかったしね",
-  "en": ""
+  "en": "We didn't make any Echoes back then, after all."
  },
  {
   "id": "04032:0021",
   "jp": "あれは【居間】\\nだったよね。\\n行ってみましょう",
-  "en": ""
+  "en": "That was in the [Living Room], right? Let's go there."
  },
  {
   "id": "04032:0022",
   "jp": "この時間には、\\nこれ以上の魂の影が\\n存在しないようだ",
-  "en": ""
+  "en": "There don't seem to be any more Soul Shadows in this time."
  },
  {
   "id": "04032:0023",
   "jp": "他の時間に行けるか\\n大時計の間で\\n調べてみよう",
-  "en": ""
+  "en": "Let's check at the Great Clock Chamber whether we can go to another time."
  },
  {
   "id": "04032:0024",
   "jp": "うん",
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "04032:0025",
   "jp": "安定してる時を\\nほどいて、他の時間を\\n紡ぎ直す時は",
-  "en": ""
+  "en": "When we unravel a stable time and weave another time anew,"
  },
  {
   "id": "04032:0026",
   "jp": "大時計を調音査で\\n調べれば\\nいいんだよね？",
-  "en": ""
+  "en": "we just use Sound Search on the Great Clock, right?"
  },
  {
   "id": "04032:0027",
   "jp": "あぁ",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04032:0028",
   "jp": "大時計を【調音査】すれば\\n紡ぐ時を選べるよ",
-  "en": ""
+  "en": "Use [Sound Search] on the Great Clock to choose the time to weave."
  },
  {
   "id": "04032:0029",
   "jp": "$c01大時計の間で\\n【時紡ぎ】が\\nできるようになった$c00",
-  "en": ""
+  "en": "$c01[Time Weaving] can now be done in the Great Clock Chamber.$c00"
  },
  {
   "id": "04032:0030",
   "jp": "$c01チュートリアル\\n《時紡ぎ》《時渡り》\\nが追加された$c00",
-  "en": ""
+  "en": "$c01The tutorials <Time Weaving> and <Time Walk> were added.$c00"
  },
  {
   "id": "04032:0031",
   "jp": "この事件で必要な\\n刻音は全て\\n集まったみたいだ",
-  "en": ""
+  "en": "It seems we've gathered all the Echoes this case requires."
  },
  {
   "id": "04032:0032",
   "jp": "じゃあ……",
-  "en": ""
+  "en": "Then..."
  },
  {
   "id": "04032:0033",
   "jp": "ではでは",
-  "en": ""
+  "en": "Then, then."
  },
  {
   "id": "04032:0034",
   "jp": "よし！\\nならなら",
-  "en": ""
+  "en": "Right! Well then, well then!"
  },
  {
   "id": "04032:0035",
   "jp": "あぁ、超推理で\\nこの謎を解き明かそう",
-  "en": ""
+  "en": "Yes. Let's unravel this mystery with Super Reasoning."
  }
 ]

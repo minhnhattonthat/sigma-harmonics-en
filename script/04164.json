@@ -2,52 +2,52 @@
  {
   "id": "04164:0000",
   "jp": "イベント制作中",
-  "en": ""
+  "en": "Event under construction"
  },
  {
   "id": "04164:0001",
   "jp": "ふぅ……",
-  "en": ""
+  "en": "Haah..."
  },
  {
   "id": "04164:0002",
   "jp": "どうしました？\\nお茶が、お口に合い\\nませんでしたか？",
-  "en": ""
+  "en": "Is something wrong? Is the tea not to your liking?"
  },
  {
   "id": "04164:0003",
   "jp": "いや、そうじゃないよ\\n紅茶は美味い",
-  "en": ""
+  "en": "No, it's not that. The tea is delicious."
  },
  {
   "id": "04164:0004",
   "jp": "ユリ子は、いつも、\\nいい茶を選んでくるね",
-  "en": ""
+  "en": "You always pick out good tea, Yuriko."
  },
  {
   "id": "04164:0005",
   "jp": "ふふ、\\nありがとうございます",
-  "en": ""
+  "en": "Hehe, thank you very much."
  },
  {
   "id": "04164:0006",
   "jp": "……\\n先ほどの$c02逢魔$c00だが……",
-  "en": ""
+  "en": "... About that $c02Ouma$c00 earlier..."
  },
  {
   "id": "04164:0007",
   "jp": "はい？",
-  "en": ""
+  "en": "Yes?"
  },
  {
   "id": "04164:0008",
   "jp": "あの後、大時計を\\n調べたが、何も、\\n異常はなかった……",
-  "en": ""
+  "en": "Afterward, I examined the Great Clock, but nothing was amiss..."
  },
  {
   "id": "04164:0009",
   "jp": "なのに、\\nなぜ、$c02逢魔$c00が？",
-  "en": ""
+  "en": "And yet, why would an $c02Ouma$c00 appear?"
  },
  {
   "id": "04164:0010",
@@ -57,12 +57,12 @@
  {
   "id": "04164:0011",
   "jp": "静馬様が、お分かりに\\nならないのでしたら、",
-  "en": ""
+  "en": "If even you cannot tell, Shizuma-sama,"
  },
  {
   "id": "04164:0012",
   "jp": "私にも、\\n分かりません",
-  "en": ""
+  "en": "then I am afraid I do not know either."
  },
  {
   "id": "04164:0013",
@@ -72,101 +72,101 @@
  {
   "id": "04164:0014",
   "jp": "そうか……\\nいや、分かった",
-  "en": ""
+  "en": "I see... No, I understand."
  },
  {
   "id": "04164:0015",
   "jp": "後で、\\nもう少し調べてみよう",
-  "en": ""
+  "en": "I'll look into it a little more later."
  },
  {
   "id": "04164:0016",
   "jp": "ねぇ、シグマ",
-  "en": ""
+  "en": "Hey, Sigma."
  },
  {
   "id": "04164:0017",
   "jp": "シグマ",
-  "en": ""
+  "en": "Sigma."
  },
  {
   "id": "04164:0018",
   "jp": "あのさぁ……",
-  "en": ""
+  "en": "Say..."
  },
  {
   "id": "04164:0019",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04164:0020",
   "jp": "静馬さんの言うとおり、\\n大時計に異常がない\\nのに、",
-  "en": ""
+  "en": "Like Shizuma-san said, nothing's wrong with the Great Clock, but"
  },
  {
   "id": "04164:0021",
   "jp": "確認。\\n大時計異常なしで",
-  "en": ""
+  "en": "Confirmation. Great Clock, no anomaly, yet"
  },
  {
   "id": "04164:0022",
   "jp": "確かに、大時計に\\n異常がないのに、",
-  "en": ""
+  "en": "It's true, nothing's wrong with the Great Clock, but"
  },
  {
   "id": "04164:0023",
   "jp": "あの広間に、$c02逢魔$c00が現出\\nするのって変だよね？",
-  "en": ""
+  "en": "isn't it weird for an $c02Ouma$c00 to appear in that hall?"
  },
  {
   "id": "04164:0024",
   "jp": "広間に$c02大逢魔$c00など\\n現出するもの？",
-  "en": ""
+  "en": "$c02Great Ouma$c00 appearing in hall, possible?"
  },
  {
   "id": "04164:0025",
   "jp": "$c02大逢魔$c00なんてのが、\\nでてくるのって\\n変じゃない？",
-  "en": ""
+  "en": "Isn't it weird for something like a $c02Great Ouma$c00 to show up?"
  },
  {
   "id": "04164:0026",
   "jp": "そうだね",
-  "en": ""
+  "en": "True."
  },
  {
   "id": "04164:0027",
   "jp": "少し、普通では\\n有り得ない状況だ……",
-  "en": ""
+  "en": "It's a situation that shouldn't be possible under normal circumstances..."
  },
  {
   "id": "04164:0028",
   "jp": "何かが、\\n$c02狂$c00っている……",
-  "en": ""
+  "en": "Something has gone $c02mad$c00..."
  },
  {
   "id": "04164:0029",
   "jp": "$c02逢魔人$c00の仕業かな……？",
-  "en": ""
+  "en": "Is it the $c02Ouma-born$c00's doing...?"
  },
  {
   "id": "04164:0030",
   "jp": "$c02逢魔人$c00か",
-  "en": ""
+  "en": "$c02Ouma-born$c00, huh."
  },
  {
   "id": "04164:0031",
   "jp": "やっぱり、$c02逢魔人$c00……",
-  "en": ""
+  "en": "So it's an $c02Ouma-born$c00 after all..."
  },
  {
   "id": "04164:0032",
   "jp": "そう考えるのが普通\\nだとは思うけど……",
-  "en": ""
+  "en": "That would be the natural conclusion, but..."
  },
  {
   "id": "04164:0033",
   "jp": "【静馬が感じた疑問】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [The Doubt Shizuma Felt] Echo!"
  }
 ]

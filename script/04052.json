@@ -2,7 +2,7 @@
  {
   "id": "04052:0000",
   "jp": "入ります",
-  "en": ""
+  "en": "I'm coming in."
  },
  {
   "id": "04052:0001",
@@ -12,12 +12,12 @@
  {
   "id": "04052:0002",
   "jp": "お、お婆様！",
-  "en": ""
+  "en": "O-Obaa-sama!"
  },
  {
   "id": "04052:0003",
   "jp": "どうして？",
-  "en": ""
+  "en": "How...?"
  },
  {
   "id": "04052:0004",
@@ -37,37 +37,37 @@
  {
   "id": "04052:0007",
   "jp": "なんで、ここに\\nお婆さんが……？",
-  "en": ""
+  "en": "Why is the old lady here...?"
  },
  {
   "id": "04052:0008",
   "jp": "誰が、いつのまに\\n運んだの？",
-  "en": ""
+  "en": "Who moved her here, and when?"
  },
  {
   "id": "04052:0009",
   "jp": "誰かが運んだ？",
-  "en": ""
+  "en": "Someone moved her?"
  },
  {
   "id": "04052:0010",
   "jp": "ふみゅ……？\\n何か違和感",
-  "en": ""
+  "en": "Fumyu...? Something feels off."
  },
  {
   "id": "04052:0011",
   "jp": "どういうこと？",
-  "en": ""
+  "en": "What does this mean?"
  },
  {
   "id": "04052:0012",
   "jp": "誰か下から\\n運んだっての？",
-  "en": ""
+  "en": "So someone carried her up from downstairs?"
  },
  {
   "id": "04052:0013",
   "jp": "少し、部屋の中を\\n調べてみよう",
-  "en": ""
+  "en": "Let's look around the room a little."
  },
  {
   "id": "04052:0014",
@@ -77,81 +77,81 @@
  {
   "id": "04052:0015",
   "jp": "これ……？",
-  "en": ""
+  "en": "This is...?"
  },
  {
   "id": "04052:0016",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04052:0017",
   "jp": "何それ？",
-  "en": ""
+  "en": "What's that?"
  },
  {
   "id": "04052:0018",
   "jp": "薬剤のカプセルだね",
-  "en": ""
+  "en": "It's a medicine capsule."
  },
  {
   "id": "04052:0019",
   "jp": "中は空……？",
-  "en": ""
+  "en": "Empty inside...?"
  },
  {
   "id": "04052:0020",
   "jp": "この写真……",
-  "en": ""
+  "en": "This photo..."
  },
  {
   "id": "04052:0021",
   "jp": "よっちゃん、見て\\n驚いた写真？",
-  "en": ""
+  "en": "The photo Yocchan was shocked to see?"
  },
  {
   "id": "04052:0022",
   "jp": "写真ね……これ？",
-  "en": ""
+  "en": "A photo, huh... this one?"
  },
  {
   "id": "04052:0023",
   "jp": "静馬と……\\nこの服は姫籠の……？",
-  "en": ""
+  "en": "Shizuma, and... those clothes are the Himekago's...?"
  },
  {
   "id": "04052:0024",
   "jp": "ユリ子さん？",
-  "en": ""
+  "en": "Yuriko-san?"
  },
  {
   "id": "04052:0025",
   "jp": "後ろ姿だけど、\\nこれはユリユリふう",
-  "en": ""
+  "en": "Only from behind, but this is Yuri-Yuri-fuu."
  },
  {
   "id": "04052:0026",
   "jp": "姫籠？\\nユリ子なの？",
-  "en": ""
+  "en": "The Himekago? So it's Yuriko?"
  },
  {
   "id": "04052:0027",
   "jp": "$c01超推理に\\n「部屋の大婆の死体」\\nに関する闇が現れた！$c00",
-  "en": ""
+  "en": "$c01A Darkness appeared in Super Reasoning: \"Obaba's Body in the Room\"!$c00"
  },
  {
   "id": "04052:0028",
   "jp": "【大婆の死、再び…】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Obaba's Death, Again...] Echo!"
  },
  {
   "id": "04052:0029",
   "jp": "【薬剤のカプセル】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Medicine Capsule] Echo!"
  },
  {
   "id": "04052:0030",
   "jp": "【みつけた写真】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Found Photo] Echo!"
  }
 ]

@@ -77,77 +77,77 @@
  {
   "id": "04158:0015",
   "jp": "$c03な、なかなかやるにゃ",
-  "en": ""
+  "en": "$c03N-not bad at all-nya."
  },
  {
   "id": "04158:0016",
   "jp": "$c02ふん、ほんのちょっぴり、\\n認めてやらんこともない",
-  "en": ""
+  "en": "$c02Hmph. We might acknowledge you... just a tiny bit."
  },
  {
   "id": "04158:0017",
   "jp": "$c04にゃはは、負けたっす",
-  "en": ""
+  "en": "$c04Nyahaha, we lost-ssu."
  },
  {
   "id": "04158:0018",
   "jp": "$c02では、我らの力の一部、\\n主に貸してやろう",
-  "en": ""
+  "en": "$c02Then we shall lend you a portion of our power."
  },
  {
   "id": "04158:0019",
   "jp": "$c03ありがたく使うにゃ",
-  "en": ""
+  "en": "$c03Use it gratefully-nya."
  },
  {
   "id": "04158:0020",
   "jp": "$c04進呈っす",
-  "en": ""
+  "en": "$c04It's a gift-ssu."
  },
  {
   "id": "04158:0021",
   "jp": "【強さを見せた】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Showed Strength] Echo!"
  },
  {
   "id": "04158:0022",
   "jp": "【曲を見せた】\\nの刻音を手に入れた！ ",
-  "en": ""
+  "en": "Obtained the [Showed Song] Echo!"
  },
  {
   "id": "04158:0023",
   "jp": "【神降を見せた】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Showed Divine Descent] Echo!"
  },
  {
   "id": "04158:0024",
   "jp": "【さらに強さを見せた】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Showed Even More Strength] Echo!"
  },
  {
   "id": "04158:0025",
   "jp": "$c02では、さらばだ",
-  "en": ""
+  "en": "$c02Now, farewell."
  },
  {
   "id": "04158:0026",
   "jp": "$c03また、戯れるにゃ",
-  "en": ""
+  "en": "$c03Let's play again sometime-nya."
  },
  {
   "id": "04158:0027",
   "jp": "$c04それじゃぁねーっす",
-  "en": ""
+  "en": "$c04See ya later-ssu."
  },
  {
   "id": "04158:0028",
   "jp": "$c01【超推理】メニューに\\n【神霊の落とし物】\\nが追加された",
-  "en": ""
+  "en": "$c01[Divine Spirit's Dropped Item] was added to the [Super Reasoning] menu."
  },
  {
   "id": "04158:0029",
   "jp": "$c01各章の謎とは別の、\\n特殊な謎を解くことが\\nできます",
-  "en": ""
+  "en": "$c01You can solve special mysteries separate from each Movement's mystery."
  },
  {
   "id": "04158:0030",
@@ -157,21 +157,21 @@
  {
   "id": "04158:0031",
   "jp": "$c01いくつかの式札が\\n回復した",
-  "en": ""
+  "en": "$c01Some Shiki Cards were restored."
  },
  {
   "id": "04158:0032",
   "jp": "$c01経験値を多めに\\n入手できた",
-  "en": ""
+  "en": "$c01Gained extra experience points."
  },
  {
   "id": "04158:0033",
   "jp": "$c01神霊は何も\\n落とさなかった",
-  "en": ""
+  "en": "$c01The Divine Spirit dropped nothing."
  },
  {
   "id": "04158:0034",
   "jp": "$c01判定エラー",
-  "en": ""
+  "en": "$c01Check error"
  }
 ]

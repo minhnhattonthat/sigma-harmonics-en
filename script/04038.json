@@ -2,17 +2,17 @@
  {
   "id": "04038:0000",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04038:0001",
   "jp": "いない",
-  "en": ""
+  "en": "no one."
  },
  {
   "id": "04038:0002",
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04038:0003",
@@ -22,152 +22,152 @@
  {
   "id": "04038:0004",
   "jp": "は？",
-  "en": ""
+  "en": "Hah?"
  },
  {
   "id": "04038:0005",
   "jp": "ネオンも言ってた通り\\nあの黒衣の男が\\n犯人だろうね",
-  "en": ""
+  "en": "Just as you said, Neon, the Man in Black must be the culprit."
  },
  {
   "id": "04038:0006",
   "jp": "へ、へぇ……\\nそ、そうなんだ",
-  "en": ""
+  "en": "O-oh... I-is that so?"
  },
  {
   "id": "04038:0007",
   "jp": "……そう",
-  "en": ""
+  "en": "...Noted."
  },
  {
   "id": "04038:0008",
   "jp": "はぁ……？\\n本当に推理したの？",
-  "en": ""
+  "en": "Huh...? Did you actually reason that out?"
  },
  {
   "id": "04038:0009",
   "jp": "あぁ、僕の超推理が\\nそう結論づけている",
-  "en": ""
+  "en": "Yes. My Super Reasoning has concluded as much."
  },
  {
   "id": "04038:0010",
   "jp": "犯人不在、\\n大婆の$c02自殺$c00さ",
-  "en": ""
+  "en": "There's no culprit. It was Obaba's $c02suicide$c00."
  },
  {
   "id": "04038:0011",
   "jp": "証拠はないけど、\\n僕の超推理では\\nそういう結論だ",
-  "en": ""
+  "en": "I have no proof, but that's the conclusion of my Super Reasoning."
  },
  {
   "id": "04038:0012",
   "jp": "さぁ、これで\\n調律をしてしまおう！",
-  "en": ""
+  "en": "Now, with that, let the tuning begin!"
  },
  {
   "id": "04038:0013",
   "jp": "これは、単純な話だよ",
-  "en": ""
+  "en": "This is a simple matter."
  },
  {
   "id": "04038:0014",
   "jp": "第一に、$c02殺人$c00予告",
-  "en": ""
+  "en": "First, the $c02murder$c00 notice."
  },
  {
   "id": "04038:0015",
   "jp": "浮かび上がった俳句と\\n$c02死$c00んだのは大婆一人\\nということから",
-  "en": ""
+  "en": "From the haiku that surfaced, and the fact that Obaba alone $c02died$c00,"
  },
  {
   "id": "04038:0016",
   "jp": "毒は大婆の食事にだけ\\n盛られていたことが\\n分かる",
-  "en": ""
+  "en": "we know the poison was put only in Obaba's meal."
  },
  {
   "id": "04038:0017",
   "jp": "しかし、食事中には、\\n誰も毒を盛る\\nことはできなかった",
-  "en": ""
+  "en": "However, no one could have poisoned it during the meal."
  },
  {
   "id": "04038:0018",
   "jp": "《大婆本人》以外はね",
-  "en": ""
+  "en": "No one except <Obaba herself>, that is."
  },
  {
   "id": "04038:0019",
   "jp": "……\\nだから本人の$c02自殺$c00？",
-  "en": ""
+  "en": "...So that's why it was her own $c02suicide$c00?"
  },
  {
   "id": "04038:0020",
   "jp": "で、$c02自殺$c00？？",
-  "en": ""
+  "en": "And thus, $c02suicide$c00??"
  },
  {
   "id": "04038:0021",
   "jp": "ふーん。\\nしょーきょほー\\nってやつ？",
-  "en": ""
+  "en": "Huh. That \"process of elimination\" thingy?"
  },
  {
   "id": "04038:0022",
   "jp": "そうだね。\\nそう考えれば自然だ",
-  "en": ""
+  "en": "That's right. It's only natural, if you think about it that way."
  },
  {
   "id": "04038:0023",
   "jp": "でも……",
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "04038:0024",
   "jp": "ふみゅ……\\nならば、",
-  "en": ""
+  "en": "Fumyu... In that case,"
  },
  {
   "id": "04038:0025",
   "jp": "あのさ、\\nかてーの話だけど",
-  "en": ""
+  "en": "Listen, just hypothetically speaking..."
  },
  {
   "id": "04038:0026",
   "jp": "例えば、食事の前なら\\n毒を入れられたと\\n思うんだけど……",
-  "en": ""
+  "en": "For example, I think the poison could've been put in before the meal..."
  },
  {
   "id": "04038:0027",
   "jp": "例え。\\n食事前なら毒入れ放題",
-  "en": ""
+  "en": "Example. Before meal, poison freely added."
  },
  {
   "id": "04038:0028",
   "jp": "食事中以外で\\n毒盛られたとかは？",
-  "en": ""
+  "en": "What if it got poisoned some time other than during the meal?"
  },
  {
   "id": "04038:0029",
   "jp": "それだけの理由で\\n$c02自殺$c00と決めちゃうのは\\n…………",
-  "en": ""
+  "en": "Deciding it was $c02suicide$c00 for just that reason is.........."
  },
  {
   "id": "04038:0030",
   "jp": "他にも一杯\\n例えがある？",
-  "en": ""
+  "en": "Many other examples exist?"
  },
  {
   "id": "04038:0031",
   "jp": "全然、\\nしょーきょされてない\\n気がするけど？",
-  "en": ""
+  "en": "Doesn't feel like anything's been \"eliminated\" at all, though?"
  },
  {
   "id": "04038:0032",
   "jp": "…………\\nそうかもしれないけど",
-  "en": ""
+  "en": "..........That may be so,"
  },
  {
   "id": "04038:0033",
   "jp": "そうじゃないかも\\nしれない……",
-  "en": ""
+  "en": "or it may not be so..."
  },
  {
   "id": "04038:0034",
@@ -177,142 +177,142 @@
  {
   "id": "04038:0035",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04038:0036",
   "jp": "はい？",
-  "en": ""
+  "en": "Excuse me?"
  },
  {
   "id": "04038:0037",
   "jp": "とにかく、この事件は\\n大婆の$c02自殺$c00で、\\n決まりさ",
-  "en": ""
+  "en": "Anyway, this case was Obaba's $c02suicide$c00. That's settled."
  },
  {
   "id": "04038:0038",
   "jp": "さぁ、調律を\\nしてしまおう！",
-  "en": ""
+  "en": "Now, let the tuning begin!"
  },
  {
   "id": "04038:0039",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04038:0040",
   "jp": "あの、小さな少女さ",
-  "en": ""
+  "en": "that little girl."
  },
  {
   "id": "04038:0041",
   "jp": "……ねねちゃん？",
-  "en": ""
+  "en": "...Nene-chan?"
  },
  {
   "id": "04038:0042",
   "jp": "ねねっち？",
-  "en": ""
+  "en": "Nene-cchi?"
  },
  {
   "id": "04038:0043",
   "jp": "は？　ねね？",
-  "en": ""
+  "en": "Hah? Nene?"
  },
  {
   "id": "04038:0044",
   "jp": "彼女の居間での行動、\\n覚えているかい？",
-  "en": ""
+  "en": "Do you remember how she behaved in the living room?"
  },
  {
   "id": "04038:0045",
   "jp": "えぇ……",
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "04038:0046",
   "jp": "子細、覚えてる",
-  "en": ""
+  "en": "Details, remembered."
  },
  {
   "id": "04038:0047",
   "jp": "覚えてるわよ",
-  "en": ""
+  "en": "Of course I remember."
  },
  {
   "id": "04038:0048",
   "jp": "確か、カードで吉凶を\\n占った後、食事にも\\n手をつけなかったわ",
-  "en": ""
+  "en": "If I recall, after telling her fortune with cards, she didn't even touch her meal."
  },
  {
   "id": "04038:0049",
   "jp": "ねねっちは、\\nトマト嫌い、故に\\n食事に手をつけず",
-  "en": ""
+  "en": "Nene-cchi dislikes tomatoes, therefore meal untouched."
  },
  {
   "id": "04038:0050",
   "jp": "トマトが嫌いだから\\n食事に手をつけ\\nなかったわ",
-  "en": ""
+  "en": "She hates tomatoes, so she didn't touch her meal."
  },
  {
   "id": "04038:0051",
   "jp": "まさにそれだよ",
-  "en": ""
+  "en": "That's exactly it."
  },
  {
   "id": "04038:0052",
   "jp": "彼女は、食事に\\n手をつけなかった",
-  "en": ""
+  "en": "She didn't touch her meal,"
  },
  {
   "id": "04038:0053",
   "jp": "まるで、毒が\\n入ってるのを知って\\nいるかのようにね",
-  "en": ""
+  "en": "almost as if she knew it had been poisoned."
  },
  {
   "id": "04038:0054",
   "jp": "うーん、でも、\\n他の状況を見ても",
-  "en": ""
+  "en": "Hmm, but even looking at the rest of the situation..."
  },
  {
   "id": "04038:0055",
   "jp": "全体を見ると\\n全く筋が通ってないが\\nわざとか？",
-  "en": ""
+  "en": "Overall view: no logic at all. Intentional?"
  },
  {
   "id": "04038:0056",
   "jp": "ふーん、あっそ",
-  "en": ""
+  "en": "Hmph. Is that so."
  },
  {
   "id": "04038:0057",
   "jp": "あの子に、大婆様を\\n$c02殺$c00せたとは\\n思えないんだけど……",
-  "en": ""
+  "en": "I really don't think that girl could have $c02killed$c00 Obaba-sama..."
  },
  {
   "id": "04038:0058",
   "jp": "だみー",
-  "en": ""
+  "en": "Dummy."
  },
  {
   "id": "04038:0059",
   "jp": "シグマがそれで\\nいいなら別にいいわ",
-  "en": ""
+  "en": "If you're fine with that, Sigma, then I don't care."
  },
  {
   "id": "04038:0060",
   "jp": "…………。\\nそうかもしれないけど",
-  "en": ""
+  "en": "..........That may be so,"
  },
  {
   "id": "04038:0061",
   "jp": "あ、あぁ",
-  "en": ""
+  "en": "Y-yeah."
  },
  {
   "id": "04038:0062",
   "jp": "そうじゃないかもしれない……",
-  "en": ""
+  "en": "or it may not be so..."
  },
  {
   "id": "04038:0063",
@@ -332,277 +332,277 @@
  {
   "id": "04038:0066",
   "jp": "とにかく、この事件は\\n少女が起こした事件で\\n調律を始めよう！",
-  "en": ""
+  "en": "Anyway, this case was the girl's doing. Let the tuning begin!"
  },
  {
   "id": "04038:0067",
   "jp": "証拠は\\n何もないけどね",
-  "en": ""
+  "en": "Not that I have any proof."
  },
  {
   "id": "04038:0068",
   "jp": "ほ、本当に推理したの？",
-  "en": ""
+  "en": "D-did you really reason that out?"
  },
  {
   "id": "04038:0069",
   "jp": "見事な推理～\\n拍手、拍手",
-  "en": ""
+  "en": "Splendid reasoning~ Applause, applause."
  },
  {
   "id": "04038:0070",
   "jp": "はぁ、えらく\\n適当な推理ね",
-  "en": ""
+  "en": "Sheesh, that's some awfully sloppy reasoning."
  },
  {
   "id": "04038:0071",
   "jp": "なんか、\\nスゴイ適当な……",
-  "en": ""
+  "en": "That's, like, super sloppy..."
  },
  {
   "id": "04038:0072",
   "jp": "ふみゅ、見事なほど\\n適当な推理だ",
-  "en": ""
+  "en": "Fumyu. Reasoning, splendidly sloppy."
  },
  {
   "id": "04038:0073",
   "jp": "それなら、アタシでも\\nできそうだわ",
-  "en": ""
+  "en": "Even I could pull off reasoning like that."
  },
  {
   "id": "04038:0074",
   "jp": "適当も何も、\\n僕の超推理は、彼女が\\n犯人だと囁いている",
-  "en": ""
+  "en": "Sloppy or not, my Super Reasoning whispers that she is the culprit."
  },
  {
   "id": "04038:0075",
   "jp": "とにかく、この事件は\\n少女が起こした事件で\\n調律を始めよう！",
-  "en": ""
+  "en": "Anyway, this case was the girl's doing. Let the tuning begin!"
  },
  {
   "id": "04038:0076",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04038:0077",
   "jp": "メイドだよ",
-  "en": ""
+  "en": "the maid."
  },
  {
   "id": "04038:0078",
   "jp": "黒上家のメイド\\n姫籠ユリ子だよ",
-  "en": ""
+  "en": "The Kurogami family's maid, Yuriko Himekago."
  },
  {
   "id": "04038:0079",
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04038:0080",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04038:0081",
   "jp": "はい？",
-  "en": ""
+  "en": "Excuse me?"
  },
  {
   "id": "04038:0082",
   "jp": "証拠はないけどね",
-  "en": ""
+  "en": "I have no proof, though."
  },
  {
   "id": "04038:0083",
   "jp": "僕の勘……",
-  "en": ""
+  "en": "My intuition..."
  },
  {
   "id": "04038:0084",
   "jp": "いや、超推理では、\\nそういう結論だ",
-  "en": ""
+  "en": "I mean, my Super Reasoning has reached that conclusion."
  },
  {
   "id": "04038:0085",
   "jp": "さぁ、これで調律をしよう",
-  "en": ""
+  "en": "Now, with that, let's begin the tuning."
  },
  {
   "id": "04038:0086",
   "jp": "まず……",
-  "en": ""
+  "en": "First..."
  },
  {
   "id": "04038:0087",
   "jp": "浮かび上がった俳句と\\n$c02死$c00んだのは大婆一人\\nということから",
-  "en": ""
+  "en": "From the haiku that surfaced, and the fact that Obaba alone $c02died$c00,"
  },
  {
   "id": "04038:0088",
   "jp": "毒は大婆の食事にだけ\\n盛られていたことが\\n推理できる",
-  "en": ""
+  "en": "we can deduce that the poison was put only in Obaba's meal."
  },
  {
   "id": "04038:0089",
   "jp": "しかし、食事中には、\\n誰も毒を盛る\\nことはできなかった",
-  "en": ""
+  "en": "However, no one could have poisoned it during the meal."
  },
  {
   "id": "04038:0090",
   "jp": "じゃあ、一体、\\nどうやって……？",
-  "en": ""
+  "en": "Then how on earth...?"
  },
  {
   "id": "04038:0091",
   "jp": "ではでは、\\nどうやって毒が？",
-  "en": ""
+  "en": "Then, then, how was poison added?"
  },
  {
   "id": "04038:0092",
   "jp": "んじゃあ、\\nどうやって毒盛ったの？",
-  "en": ""
+  "en": "So then how'd she poison it?"
  },
  {
   "id": "04038:0093",
   "jp": "《食事中には》さ",
-  "en": ""
+  "en": "No one could <during the meal>, that is."
  },
  {
   "id": "04038:0094",
   "jp": "……？\\nあっ！",
-  "en": ""
+  "en": "...? Oh!"
  },
  {
   "id": "04038:0095",
   "jp": "ふみゅぅ……",
-  "en": ""
+  "en": "Fumyuu..."
  },
  {
   "id": "04038:0096",
   "jp": "んにゃ？",
-  "en": ""
+  "en": "Mnya?"
  },
  {
   "id": "04038:0097",
   "jp": "そう、\\n毒は食事中ではなく、",
-  "en": ""
+  "en": "Right. The poison wasn't added during the meal;"
  },
  {
   "id": "04038:0098",
   "jp": "それ以前に\\n盛られたと\\n考えればいい",
-  "en": ""
+  "en": "we need only assume it was added before then."
  },
  {
   "id": "04038:0099",
   "jp": "うん",
-  "en": ""
+  "en": "Uh-huh."
  },
  {
   "id": "04038:0100",
   "jp": "ふみゅ、至極当然",
-  "en": ""
+  "en": "Fumyu. Utterly obvious."
  },
  {
   "id": "04038:0101",
   "jp": "まぁ、\\nとーぜんって感じね",
-  "en": ""
+  "en": "Well, that's kinda obvious."
  },
  {
   "id": "04038:0102",
   "jp": "配膳した本人なら、\\n大婆様が\\n普段座るところに",
-  "en": ""
+  "en": "If she served it herself, then at the place where Obaba-sama always sits,"
  },
  {
   "id": "04038:0103",
   "jp": "ユリユリならば\\n婆ちゃんが座るとこに",
-  "en": ""
+  "en": "If Yuri-Yuri, then at Granny's seat,"
  },
  {
   "id": "04038:0104",
   "jp": "ユリ子なら、\\n大婆が普段から\\nいるところに",
-  "en": ""
+  "en": "If it's Yuriko, then at the spot where Obaba always is,"
  },
  {
   "id": "04038:0105",
   "jp": "毒を盛った食事を\\n置けばいいってわけね",
-  "en": ""
+  "en": "she'd just have to set down the poisoned meal."
  },
  {
   "id": "04038:0106",
   "jp": "毒入りスープを\\n置けば終了",
-  "en": ""
+  "en": "place poisoned soup. Done."
  },
  {
   "id": "04038:0107",
   "jp": "毒入りのスープを\\n置けばいいわけだし",
-  "en": ""
+  "en": "she'd just need to put down the poisoned soup."
  },
  {
   "id": "04038:0108",
   "jp": "そういうことさ",
-  "en": ""
+  "en": "Exactly."
  },
  {
   "id": "04038:0109",
   "jp": "単純な話だよ",
-  "en": ""
+  "en": "It's a simple matter."
  },
  {
   "id": "04038:0110",
   "jp": "料理を用意し\\n配膳した本人なら",
-  "en": ""
+  "en": "Since she prepared and served the food herself,"
  },
  {
   "id": "04038:0111",
   "jp": "大婆に毒入りスープを\\n飲ますことができた\\nだろうからね",
-  "en": ""
+  "en": "she could have made Obaba drink the poisoned soup."
  },
  {
   "id": "04038:0112",
   "jp": "あっ……\\nそうか",
-  "en": ""
+  "en": "Oh... I see."
  },
  {
   "id": "04038:0113",
   "jp": "そもそも、料理自体も\\n彼女が作って\\nいたしね",
-  "en": ""
+  "en": "Besides, she was the one who cooked the food in the first place."
  },
  {
   "id": "04038:0114",
   "jp": "そして……",
-  "en": ""
+  "en": "And then..."
  },
  {
   "id": "04038:0115",
   "jp": "彼女は$c02自殺$c00をして\\n自らの命に\\n幕を閉じた……",
-  "en": ""
+  "en": "she brought the curtain down on her own life with $c02suicide$c00..."
  },
  {
   "id": "04038:0116",
   "jp": "恐らく、$c02逢魔$c00によって\\n$c02魔を刺されてた$c00\\nとはいえ",
-  "en": ""
+  "en": "Though the $c02Ouma$c00 had probably left her $c02stung by evil$c00,"
  },
  {
   "id": "04038:0117",
   "jp": "大婆を$c02殺$c00して、\\n良心の呵責に耐えられ\\nなくなったんだろうね",
-  "en": ""
+  "en": "after $c02killing$c00 Obaba, she must not have been able to bear the guilt."
  },
  {
   "id": "04038:0118",
   "jp": "そうなんだ……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04038:0119",
   "jp": "ふみゅ？\\nそういうこと？",
-  "en": ""
+  "en": "Fumyu? Is that so?"
  },
  {
   "id": "04038:0120",
   "jp": "ん？\\nそこんところは\\nちと、ひっかかるわね",
-  "en": ""
+  "en": "Hm? That part bugs me a little."
  },
  {
   "id": "04038:0121",
@@ -612,62 +612,62 @@
  {
   "id": "04038:0122",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04038:0123",
   "jp": "黒上佳子……",
-  "en": ""
+  "en": "Yoshiko Kurogami..."
  },
  {
   "id": "04038:0124",
   "jp": "えっ？！",
-  "en": ""
+  "en": "Huh?!"
  },
  {
   "id": "04038:0125",
   "jp": "ふみゅ……",
-  "en": ""
+  "en": "Fumyu..."
  },
  {
   "id": "04038:0126",
   "jp": "はぁ？",
-  "en": ""
+  "en": "Haah?"
  },
  {
   "id": "04038:0127",
   "jp": "いっ居間での出来事を\\n思い出してよ、",
-  "en": ""
+  "en": "R-remember what happened in the living room,"
  },
  {
   "id": "04038:0128",
   "jp": "居間では、\\n誰も毒を盛れない",
-  "en": ""
+  "en": "In living room, nobody could poison."
  },
  {
   "id": "04038:0129",
   "jp": "あんた、自分でも\\n【食事中、誰も\\n　毒は盛れなかった】",
-  "en": ""
+  "en": "You yourself said, like, [No One Could Add Poison During the Meal]"
  },
  {
   "id": "04038:0130",
   "jp": "佳子さんに、\\n毒は盛れなかったと\\n思うんだけど……",
-  "en": ""
+  "en": "I don't think Yoshiko-san could have poisoned it..."
  },
  {
   "id": "04038:0131",
   "jp": "シグマは\\n忘れんぼさん",
-  "en": ""
+  "en": "Sigma is Mr. Forgetful."
  },
  {
   "id": "04038:0132",
   "jp": "とか言ってたじゃん？\\nもう忘れたわけ？",
-  "en": ""
+  "en": "or something, right? Forgot already?"
  },
  {
   "id": "04038:0133",
   "jp": "これは、超推理で、\\n導きだした結論さ、\\n間違ってる証拠もない",
-  "en": ""
+  "en": "Super Reasoning drew this conclusion. And there's no proof it's wrong."
  },
  {
   "id": "04038:0134",
@@ -677,102 +677,102 @@
  {
   "id": "04038:0135",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04038:0136",
   "jp": "黒上静馬……",
-  "en": ""
+  "en": "Shizuma Kurogami..."
  },
  {
   "id": "04038:0137",
   "jp": "えっ？！",
-  "en": ""
+  "en": "Huh?!"
  },
  {
   "id": "04038:0138",
   "jp": "居間での出来事を\\n思い出してよ、",
-  "en": ""
+  "en": "Remember what happened in the living room,"
  },
  {
   "id": "04038:0139",
   "jp": "居間では、\\n誰も毒を盛れない",
-  "en": ""
+  "en": "In living room, nobody could poison."
  },
  {
   "id": "04038:0140",
   "jp": "あんた、自分でも\\n【食事中、誰も\\n　毒は盛れなかった】",
-  "en": ""
+  "en": "You yourself said, like, [No One Could Add Poison During the Meal]"
  },
  {
   "id": "04038:0141",
   "jp": "静馬さんに、\\n毒は盛れなかったと\\n思うんだけど……",
-  "en": ""
+  "en": "I don't think Shizuma-san could have poisoned it..."
  },
  {
   "id": "04038:0142",
   "jp": "シグマは\\n忘れんぼさん",
-  "en": ""
+  "en": "Sigma is Mr. Forgetful."
  },
  {
   "id": "04038:0143",
   "jp": "とか言ってたじゃん？\\nもう忘れたわけ？",
-  "en": ""
+  "en": "or something, right? Forgot already?"
  },
  {
   "id": "04038:0144",
   "jp": "まず、考えるべきは２点",
-  "en": ""
+  "en": "First, there are two points to consider."
  },
  {
   "id": "04038:0145",
   "jp": "浮かび上がった俳句と\\n$c02死$c00んだのは大婆一人\\nということから",
-  "en": ""
+  "en": "From the haiku that surfaced, and the fact that Obaba alone $c02died$c00,"
  },
  {
   "id": "04038:0146",
   "jp": "毒は大婆の食事にだけ\\n盛られていたことが\\n分かる",
-  "en": ""
+  "en": "we know the poison was put only in Obaba's meal."
  },
  {
   "id": "04038:0147",
   "jp": "しかし、食事中には、\\n誰も毒を盛る\\nことはできなかった",
-  "en": ""
+  "en": "However, no one could have poisoned it during the meal."
  },
  {
   "id": "04038:0148",
   "jp": "？\\nやっぱり、佳子さんにも\\n毒は盛れないってこと？",
-  "en": ""
+  "en": "...? So Yoshiko-san couldn't have poisoned it either, after all?"
  },
  {
   "id": "04038:0149",
   "jp": "ふみゅ？\\nやはり、よっちゃんに\\n毒盛り無理？",
-  "en": ""
+  "en": "Fumyu? So Yocchan, poisoning impossible after all?"
  },
  {
   "id": "04038:0150",
   "jp": "分かってるわよ。\\n佳子にだって\\n毒は盛れない",
-  "en": ""
+  "en": "I know. Not even Yoshiko could have poisoned it."
  },
  {
   "id": "04038:0151",
   "jp": "？\\nやっぱり、静馬さんにも\\n毒は盛れないってこと？",
-  "en": ""
+  "en": "...? So Shizuma-san couldn't have poisoned it either, after all?"
  },
  {
   "id": "04038:0152",
   "jp": "ふみゅ？\\nやはり、ご頭首に毒盛り\\n無理という確認？",
-  "en": ""
+  "en": "Fumyu? Confirming: honored Head, poisoning impossible after all?"
  },
  {
   "id": "04038:0153",
   "jp": "分かってるわよ。\\n頭首にだって\\n毒は盛れない",
-  "en": ""
+  "en": "I know. Not even the head could have poisoned it."
  },
  {
   "id": "04038:0154",
   "jp": "《食事中には》さ",
-  "en": ""
+  "en": "No one could <during the meal>, that is."
  },
  {
   "id": "04038:0155",
@@ -782,227 +782,227 @@
  {
   "id": "04038:0156",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04038:0157",
   "jp": "はい？",
-  "en": ""
+  "en": "Excuse me?"
  },
  {
   "id": "04038:0158",
   "jp": "毒は、食事ではなく、",
-  "en": ""
+  "en": "The poison wasn't in the food;"
  },
  {
   "id": "04038:0159",
   "jp": "お皿か、匙（さじ）に\\n塗られてたんじゃ\\nないかな？",
-  "en": ""
+  "en": "maybe it was smeared on the plate or the spoon?"
  },
  {
   "id": "04038:0160",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04038:0161",
   "jp": "ふみゅみゅ？",
-  "en": ""
+  "en": "Fumyumyu?"
  },
  {
   "id": "04038:0162",
   "jp": "は～ん？",
-  "en": ""
+  "en": "Hmmm~?"
  },
  {
   "id": "04038:0163",
   "jp": "でも、食事は\\nメイドさんが、\\n置いてた……よね？",
-  "en": ""
+  "en": "But the maid was the one who set out the meals... right?"
  },
  {
   "id": "04038:0164",
   "jp": "食事は\\nユリユリが置いた",
-  "en": ""
+  "en": "Meal placed by Yuri-Yuri."
  },
  {
   "id": "04038:0165",
   "jp": "自分で配膳してない\\nのに、どうやって",
-  "en": ""
+  "en": "If they didn't serve it themselves, how did they"
  },
  {
   "id": "04038:0166",
   "jp": "どうやって、大婆様に\\n毒が塗ってある食器が\\n行くようにしたの？",
-  "en": ""
+  "en": "How did they make sure the poisoned tableware went to Obaba-sama?"
  },
  {
   "id": "04038:0167",
   "jp": "然らば、いかなる方法で\\n婆ちゃんとこに\\n毒が行くようにした？",
-  "en": ""
+  "en": "If so, by what method was poison made to reach Granny?"
  },
  {
   "id": "04038:0168",
   "jp": "毒入り皿を\\n大婆の所に\\n置いたのよ？",
-  "en": ""
+  "en": "get the poisoned plate over to Obaba's place?"
  },
  {
   "id": "04038:0169",
   "jp": "置く順番が決まってる\\nのかもしれないし、",
-  "en": ""
+  "en": "Maybe the order the dishes are set out in is fixed,"
  },
  {
   "id": "04038:0170",
   "jp": "メイドをうまく誘導\\nしたのかもしれない",
-  "en": ""
+  "en": "or maybe they cleverly steered the maid."
  },
  {
   "id": "04038:0171",
   "jp": "見てる限りでは、\\n分からなかった\\nけどね……",
-  "en": ""
+  "en": "Though I couldn't tell from what I saw..."
  },
  {
   "id": "04038:0172",
   "jp": "まず、居間にいた\\n人物が、犯人だと仮定\\nした場合の疑問点",
-  "en": ""
+  "en": "First, the questions if we assume someone in the living room did it."
  },
  {
   "id": "04038:0173",
   "jp": "１つ目は、",
-  "en": ""
+  "en": "The first one is"
  },
  {
   "id": "04038:0174",
   "jp": "大婆が$c02死$c00んだ後、\\n浮かび上がった俳句",
-  "en": ""
+  "en": "the haiku that surfaced after Obaba $c02died$c00."
  },
  {
   "id": "04038:0175",
   "jp": "あれは、$c02殺人$c00予告と\\n見て取れる",
-  "en": ""
+  "en": "It can be read as a $c02murder$c00 notice."
  },
  {
   "id": "04038:0176",
   "jp": "そうすると、犯人は、\\n大婆を狙って$c02殺$c00した\\nと捉える必要がある",
-  "en": ""
+  "en": "Then the culprit must have aimed at Obaba and $c02killed$c00 her."
  },
  {
   "id": "04038:0177",
   "jp": "しかし、食事中は誰も\\n毒を盛っていない",
-  "en": ""
+  "en": "However, no one poisoned anything during the meal."
  },
  {
   "id": "04038:0178",
   "jp": "そして２つ目、",
-  "en": ""
+  "en": "And the second,"
  },
  {
   "id": "04038:0179",
   "jp": "食事中には、\\n誰も毒を盛ることは\\nできなかった",
-  "en": ""
+  "en": "no one could have added poison during the meal."
  },
  {
   "id": "04038:0180",
   "jp": "そうよね……",
-  "en": ""
+  "en": "That's true..."
  },
  {
   "id": "04038:0181",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04038:0182",
   "jp": "う～ん、ってことは",
-  "en": ""
+  "en": "Hmmm~, so that means"
  },
  {
   "id": "04038:0183",
   "jp": "じゃあ、やっぱり、\\n毒は食事以外か、\\n配膳の時に",
-  "en": ""
+  "en": "Then the poison was in something besides the food, or added at serving..."
  },
  {
   "id": "04038:0184",
   "jp": "ならば、やはり\\n毒はスープ以外か\\n配膳時に",
-  "en": ""
+  "en": "In that case, poison: outside the soup, or at serving time,"
  },
  {
   "id": "04038:0185",
   "jp": "ユリ子あたりが、\\n置く時に、サクッと\\n毒、盛ったとか？",
-  "en": ""
+  "en": "Maybe Yuriko just slipped some poison in when she set it down?"
  },
  {
   "id": "04038:0186",
   "jp": "盛られている\\nってことかしら？",
-  "en": ""
+  "en": "is that what it means?"
  },
  {
   "id": "04038:0187",
   "jp": "サクッと、\\n盛られてるふうか？",
-  "en": ""
+  "en": "slipped in quick, perhaps?"
  },
  {
   "id": "04038:0188",
   "jp": "だみー",
-  "en": ""
+  "en": "Dummy."
  },
  {
   "id": "04038:0189",
   "jp": "いや、毒はスープに\\n最初から入っていた",
-  "en": ""
+  "en": "No, the poison was in the soup from the start."
  },
  {
   "id": "04038:0190",
   "jp": "ちょ、ちょっと待って",
-  "en": ""
+  "en": "W-wait a second."
  },
  {
   "id": "04038:0191",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04038:0192",
   "jp": "はぁ～～～？",
-  "en": ""
+  "en": "Haaah~~~?"
  },
  {
   "id": "04038:0193",
   "jp": "だって、静馬さんも、\\n佳子さん本人だって、\\n同じ食事を取ってたわ",
-  "en": ""
+  "en": "But Shizuma-san, and even Yoshiko-san herself, ate the same food."
  },
  {
   "id": "04038:0194",
   "jp": "婆ちゃん以外、\\nご頭首とよっちゃん\\n同じスープを飲んだ",
-  "en": ""
+  "en": "Besides Granny, honored Head and Yocchan drank same soup."
  },
  {
   "id": "04038:0195",
   "jp": "頭首も佳子も\\nトマトスープ、ガンガン\\n飲んでたわよ",
-  "en": ""
+  "en": "The head and Yoshiko were both gulping that tomato soup down."
  },
  {
   "id": "04038:0196",
   "jp": "だって、佳子さんも、\\n静馬さん本人だって、\\n同じ食事を取ってたわ",
-  "en": ""
+  "en": "But Yoshiko-san, and even Shizuma-san himself, ate the same food."
  },
  {
   "id": "04038:0197",
   "jp": "婆ちゃん以外、\\nご頭首とよっちゃん\\n同じスープを飲んだ",
-  "en": ""
+  "en": "Besides Granny, honored Head and Yocchan drank same soup."
  },
  {
   "id": "04038:0198",
   "jp": "頭首も佳子も\\nトマトスープ、ガンガン\\n飲んでたわよ",
-  "en": ""
+  "en": "The head and Yoshiko were both gulping that tomato soup down."
  },
  {
   "id": "04038:0199",
   "jp": "そうだね",
-  "en": ""
+  "en": "That's right."
  },
  {
   "id": "04038:0200",
   "jp": "量の問題だとしたら？",
-  "en": ""
+  "en": "What if it's a matter of quantity?"
  },
  {
   "id": "04038:0201",
@@ -1012,62 +1012,62 @@
  {
   "id": "04038:0202",
   "jp": "はてはて？",
-  "en": ""
+  "en": "Hmm, hmm?"
  },
  {
   "id": "04038:0203",
   "jp": "んにゃ？",
-  "en": ""
+  "en": "Mnya?"
  },
  {
   "id": "04038:0204",
   "jp": "ある程度まで\\n摂取しないと、\\n効き目がない毒だったら、",
-  "en": ""
+  "en": "If it was a poison that has no effect until you take in a certain amount,"
  },
  {
   "id": "04038:0205",
   "jp": "食事の早さで、最初に\\n$c02死$c00ぬ人を決められる\\nかもしれない",
-  "en": ""
+  "en": "then eating speed might decide who $c02dies$c00 first."
  },
  {
   "id": "04038:0206",
   "jp": "で、でも、大婆様、\\nそんなに、早く\\n食べてたかなぁ……",
-  "en": ""
+  "en": "B-but was Obaba-sama really eating that fast...?"
  },
  {
   "id": "04038:0207",
   "jp": "鍋ごとグイって\\n感じ？？",
-  "en": ""
+  "en": "Like, chugging it straight from the pot??"
  },
  {
   "id": "04038:0208",
   "jp": "大婆は、実はフード\\nファイターだった",
-  "en": ""
+  "en": "So Obaba was secretly a competitive eater"
  },
  {
   "id": "04038:0209",
   "jp": "むしろ静馬さんや\\n佳子さんの方が……",
-  "en": ""
+  "en": "If anything, Shizuma-san and Yoshiko-san were the ones..."
  },
  {
   "id": "04038:0210",
   "jp": "そんなふうには\\nみえなかったが……",
-  "en": ""
+  "en": "Did not appear so, however..."
  },
  {
   "id": "04038:0211",
   "jp": "って、訳ないでしょ",
-  "en": ""
+  "en": "--yeah, as if."
  },
  {
   "id": "04038:0212",
   "jp": "そうだよ、食事は同じ",
-  "en": ""
+  "en": "Exactly. The food was the same."
  },
  {
   "id": "04038:0213",
   "jp": "では、違ったものは？",
-  "en": ""
+  "en": "So what was different?"
  },
  {
   "id": "04038:0214",
@@ -1077,117 +1077,117 @@
  {
   "id": "04038:0215",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04038:0216",
   "jp": "んにゃ？",
-  "en": ""
+  "en": "Mnya?"
  },
  {
   "id": "04038:0217",
   "jp": "ワイン",
-  "en": ""
+  "en": "The wine."
  },
  {
   "id": "04038:0218",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04038:0219",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04038:0220",
   "jp": "はれ？",
-  "en": ""
+  "en": "Wha?"
  },
  {
   "id": "04038:0221",
   "jp": "……うん、確かに\\n２人はワインを\\n飲んでたわ",
-  "en": ""
+  "en": "...Yeah, it's true, those two were drinking wine."
  },
  {
   "id": "04038:0222",
   "jp": "確かに、よっちゃん\\nご頭首ワインを\\n一緒にグビグビ",
-  "en": ""
+  "en": "Indeed. Yocchan, honored Head: wine, glug-glug together."
  },
  {
   "id": "04038:0223",
   "jp": "まぁ、確かに\\nあの２人は、\\nワイン飲んでたわ",
-  "en": ""
+  "en": "Well, sure, those two were drinking wine."
  },
  {
   "id": "04038:0224",
   "jp": "でも、大婆様だけ\\n飲んでたなら、",
-  "en": ""
+  "en": "But if only Obaba-sama had been drinking it,"
  },
  {
   "id": "04038:0225",
   "jp": "ただし疑問。\\n婆ちゃんだけ\\nグビグビなら",
-  "en": ""
+  "en": "However, query. If only Granny glug-glugged,"
  },
  {
   "id": "04038:0226",
   "jp": "でもさ、大婆だけが\\n飲んでたなら、",
-  "en": ""
+  "en": "But if only Obaba had been drinking it,"
  },
  {
   "id": "04038:0227",
   "jp": "それに毒が入ってた\\nって考えられるかも\\nしれないけど……",
-  "en": ""
+  "en": "then you could think the poison was in it, but..."
  },
  {
   "id": "04038:0228",
   "jp": "毒ワインでコロリで\\n納得",
-  "en": ""
+  "en": "poisoned wine, down she goes. Convinced."
  },
  {
   "id": "04038:0229",
   "jp": "そのワインに毒で\\n事件解決ーだけど",
-  "en": ""
+  "en": "it'd be poison in the wine, case closed, but"
  },
  {
   "id": "04038:0230",
   "jp": "一体、\\nどういうこと？",
-  "en": ""
+  "en": "what on earth does it mean?"
  },
  {
   "id": "04038:0231",
   "jp": "でも、その逆？？",
-  "en": ""
+  "en": "Yet, the reverse??"
  },
  {
   "id": "04038:0232",
   "jp": "逆でしょ？\\nどういうことよ？",
-  "en": ""
+  "en": "It's the reverse, right? So what's that supposed to mean?"
  },
  {
   "id": "04038:0233",
   "jp": "毒は食事に入っていた",
-  "en": ""
+  "en": "The poison was in the food."
  },
  {
   "id": "04038:0234",
   "jp": "スープを\\n飲んだのは３人",
-  "en": ""
+  "en": "Three people had the soup."
  },
  {
   "id": "04038:0235",
   "jp": "ただ、大婆だけが\\n毒で$c02死$c00に、",
-  "en": ""
+  "en": "But only Obaba met her $c02death$c00 by poison,"
  },
  {
   "id": "04038:0236",
   "jp": "食事を食べていない\\n少女はもちろん、",
-  "en": ""
+  "en": "and, not to mention the girl who didn't eat the meal,"
  },
  {
   "id": "04038:0237",
   "jp": "《ワイン》を\\n飲んでいた、佳子と\\n静馬は$c02死$c00ななかった",
-  "en": ""
+  "en": "Yoshiko and Shizuma, who were drinking <Wine>, didn't $c02die$c00."
  },
  {
   "id": "04038:0238",
@@ -1197,197 +1197,197 @@
  {
   "id": "04038:0239",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04038:0240",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04038:0241",
   "jp": "分からないかい？",
-  "en": ""
+  "en": "Don't you see?"
  },
  {
   "id": "04038:0242",
   "jp": "毒は\\n食事に入っていたのに、",
-  "en": ""
+  "en": "The poison was in the food, and yet"
  },
  {
   "id": "04038:0243",
   "jp": "ワインを飲んだ\\n２人は、$c02死$c00なずに\\nすんでいる",
-  "en": ""
+  "en": "the two who drank the wine got away without $c02dying$c00."
  },
  {
   "id": "04038:0244",
   "jp": "これは、\\nこう考えればいいのさ",
-  "en": ""
+  "en": "Here's how to think about it:"
  },
  {
   "id": "04038:0245",
   "jp": "ワインに、毒を分解する、\\n解毒剤のようなものが\\n入っていたとね",
-  "en": ""
+  "en": "the wine had something like an antidote in it that broke down the poison."
  },
  {
   "id": "04038:0246",
   "jp": "えっ……？\\nそんなことって……",
-  "en": ""
+  "en": "Huh...? Could that really..."
  },
  {
   "id": "04038:0247",
   "jp": "吃驚仰天……\\n発想は逆から\\n生まれるもの？",
-  "en": ""
+  "en": "Utterly astounded... Ideas are born from the reverse?"
  },
  {
   "id": "04038:0248",
   "jp": "な！？\\nそんなのあり？！",
-  "en": ""
+  "en": "Wh-what?! Is that even allowed?!"
  },
  {
   "id": "04038:0249",
   "jp": "あれ？\\nでも、確か、\\n佳子さんって",
-  "en": ""
+  "en": "Huh? But wait, I'm pretty sure Yoshiko-san"
  },
  {
   "id": "04038:0250",
   "jp": "ふみゅ？\\nしかしながら\\nよっちゃんは、",
-  "en": ""
+  "en": "Fumyu? Nevertheless, Yocchan"
  },
  {
   "id": "04038:0251",
   "jp": "ややや？\\nでも、佳子って",
-  "en": ""
+  "en": "Whoa whoa? But Yoshiko"
  },
  {
   "id": "04038:0252",
   "jp": "ワインを飲む前に\\nスープを飲んでた\\nような……？",
-  "en": ""
+  "en": "had the soup before she drank the wine...?"
  },
  {
   "id": "04038:0253",
   "jp": "ワイン飲む前に、\\n厨にてスープを\\n飲んでるふう……",
-  "en": ""
+  "en": "before wine, drank soup in kitchen-fuu..."
  },
  {
   "id": "04038:0254",
   "jp": "厨にいた時に、もう、\\nスープ飲んでたわよ？",
-  "en": ""
+  "en": "was already drinking soup back in the kitchen, wasn't she?"
  },
  {
   "id": "04038:0255",
   "jp": "ん？　そうかい？",
-  "en": ""
+  "en": "Hm? Was she?"
  },
  {
   "id": "04038:0256",
   "jp": "ワインを飲んだ後\\nだったんじゃ\\nないかな？",
-  "en": ""
+  "en": "Wasn't that after she'd had the wine?"
  },
  {
   "id": "04038:0257",
   "jp": "恐らく毒は、",
-  "en": ""
+  "en": "Most likely, the poison"
  },
  {
   "id": "04038:0258",
   "jp": "厨で佳子がスープの\\n味見をした時に、\\n入れたんだろう",
-  "en": ""
+  "en": "was put in when Yoshiko tasted the soup in the kitchen."
  },
  {
   "id": "04038:0259",
   "jp": "あの時に……",
-  "en": ""
+  "en": "Back then..."
  },
  {
   "id": "04038:0260",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04038:0261",
   "jp": "あぁ、あん時ね",
-  "en": ""
+  "en": "Oh, that time."
  },
  {
   "id": "04038:0262",
   "jp": "そして、静馬が\\n飲もうとしている\\nワインに解毒剤を入れ",
-  "en": ""
+  "en": "Then she put the antidote in the wine Shizuma was about to drink"
  },
  {
   "id": "04038:0263",
   "jp": "静馬と共に飲んだ",
-  "en": ""
+  "en": "and drank it together with Shizuma."
  },
  {
   "id": "04038:0264",
   "jp": "それと、\\nトマトスープなら、",
-  "en": ""
+  "en": "Besides, with tomato soup,"
  },
  {
   "id": "04038:0265",
   "jp": "少女が飲まない\\nことも知っている",
-  "en": ""
+  "en": "she knew the girl wouldn't drink it."
  },
  {
   "id": "04038:0266",
   "jp": "うん、確かに、それなら、\\n大婆様だけを$c02殺$c00す\\nことができる……",
-  "en": ""
+  "en": "Yeah, true, that way she could $c02kill$c00 only Obaba-sama..."
  },
  {
   "id": "04038:0267",
   "jp": "筋は通るが、\\nちょっぴり疑問",
-  "en": ""
+  "en": "Logic holds, yet slight query."
  },
  {
   "id": "04038:0268",
   "jp": "理屈じゃ\\nそーかもしれないわね",
-  "en": ""
+  "en": "In theory, maybe so."
  },
  {
   "id": "04038:0269",
   "jp": "ユリ子さんが、\\n$c02死$c00んでしまったのは？",
-  "en": ""
+  "en": "Then why did Yuriko-san end up $c02dead$c00?"
  },
  {
   "id": "04038:0270",
   "jp": "ではでは、\\nユリユリは、一体？",
-  "en": ""
+  "en": "Then, then, Yuri-Yuri, why?"
  },
  {
   "id": "04038:0271",
   "jp": "んじゃあ、\\nユリ子の件は？",
-  "en": ""
+  "en": "Then what about Yuriko?"
  },
  {
   "id": "04038:0272",
   "jp": "メイドのユリ子は、",
-  "en": ""
+  "en": "Yuriko, the maid,"
  },
  {
   "id": "04038:0273",
   "jp": "自分が作った食事には\\n毒が入っていないと",
-  "en": ""
+  "en": "probably wanted to prove that the meal she'd made"
  },
  {
   "id": "04038:0274",
   "jp": "証明したかったんじゃ\\nないかな",
-  "en": ""
+  "en": "had no poison in it."
  },
  {
   "id": "04038:0275",
   "jp": "そう……だね",
-  "en": ""
+  "en": "I... guess so."
  },
  {
   "id": "04038:0276",
   "jp": "ふみゅ？\\nそうなのか？",
-  "en": ""
+  "en": "Fumyu? Is that so?"
  },
  {
   "id": "04038:0277",
   "jp": "え～、な～んか、\\n納得いかないなぁ",
-  "en": ""
+  "en": "Ehhh, I just don't buy it~"
  },
  {
   "id": "04038:0278",
@@ -1402,437 +1402,437 @@
  {
   "id": "04038:0280",
   "jp": "恐らく、\\n毒が入れられたのは、",
-  "en": ""
+  "en": "Most likely, the poison was put in"
  },
  {
   "id": "04038:0281",
   "jp": "僕らも見た、\\n過去の厨",
-  "en": ""
+  "en": "in the kitchen of the past that we saw too."
  },
  {
   "id": "04038:0282",
   "jp": "あの時、佳子は１口、\\nスープを飲んでいるよね",
-  "en": ""
+  "en": "Back then, Yoshiko took one sip of the soup, right?"
  },
  {
   "id": "04038:0283",
   "jp": "そういえば……",
-  "en": ""
+  "en": "Now that you mention it..."
  },
  {
   "id": "04038:0284",
   "jp": "然り",
-  "en": ""
+  "en": "Indeed so."
  },
  {
   "id": "04038:0285",
   "jp": "確かにね",
-  "en": ""
+  "en": "She sure did."
  },
  {
   "id": "04038:0286",
   "jp": "あの時の様子を\\n見る限りでは",
-  "en": ""
+  "en": "Judging by how things looked then,"
  },
  {
   "id": "04038:0287",
   "jp": "まだ、\\n毒は入っていなかった",
-  "en": ""
+  "en": "the poison wasn't in it yet --"
  },
  {
   "id": "04038:0288",
   "jp": "と考えるのが\\n自然だろうね",
-  "en": ""
+  "en": "that's the natural conclusion."
  },
  {
   "id": "04038:0289",
   "jp": "その後、静馬さんが\\n毒を入れた……",
-  "en": ""
+  "en": "Then Shizuma-san put in the poison after that..."
  },
  {
   "id": "04038:0290",
   "jp": "ということは\\nその後、ご頭首が\\n毒を入れたと",
-  "en": ""
+  "en": "Meaning, after that, the Head put in the poison."
  },
  {
   "id": "04038:0291",
   "jp": "ってことは何？\\nその後に、頭首が\\n毒入りスープにした？",
-  "en": ""
+  "en": "So what? After that, the Head turned it into poison soup?"
  },
  {
   "id": "04038:0292",
   "jp": "そして、\\nワインには予め\\n解毒剤を……？",
-  "en": ""
+  "en": "And put an antidote in the wine beforehand...?"
  },
  {
   "id": "04038:0293",
   "jp": "更に、\\nワインには解毒剤",
-  "en": ""
+  "en": "Furthermore, antidote in the wine."
  },
  {
   "id": "04038:0294",
   "jp": "その上、ワインには\\n解毒剤？？",
-  "en": ""
+  "en": "And on top of that, an antidote in the wine??"
  },
  {
   "id": "04038:0295",
   "jp": "でも、どうして、\\nそんな、手間を\\nかけて……？",
-  "en": ""
+  "en": "But why go to all that trouble...?"
  },
  {
   "id": "04038:0296",
   "jp": "しかしながら、\\nなぜに、そんな\\n手間暇？",
-  "en": ""
+  "en": "Nevertheless, why such time and effort?"
  },
  {
   "id": "04038:0297",
   "jp": "ずいぶん、面倒な\\nことしてるのね？",
-  "en": ""
+  "en": "Pretty roundabout thing to do, isn't it?"
  },
  {
   "id": "04038:0298",
   "jp": "元々は、逆だった\\nんじゃないかな？",
-  "en": ""
+  "en": "Wasn't it the other way around to begin with?"
  },
  {
   "id": "04038:0299",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04038:0300",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04038:0301",
   "jp": "はい？",
-  "en": ""
+  "en": "Excuse me?"
  },
  {
   "id": "04038:0302",
   "jp": "静馬は、\\n手間をかけたくなくて、\\nこの方法を選んだ",
-  "en": ""
+  "en": "Shizuma chose this method because he didn't want to go to any trouble."
  },
  {
   "id": "04038:0303",
   "jp": "恐らく、食事に毒を\\n入れることで、",
-  "en": ""
+  "en": "Most likely, by putting poison in the meal,"
  },
  {
   "id": "04038:0304",
   "jp": "１度に事を済ます\\nつもりだったんじゃ\\nないかな？",
-  "en": ""
+  "en": "he meant to get it all done in one go, don't you think?"
  },
  {
   "id": "04038:0305",
   "jp": "１度に済ます……？",
-  "en": ""
+  "en": "All done in one go...?"
  },
  {
   "id": "04038:0306",
   "jp": "まとめて\\nコロリ狙い？",
-  "en": ""
+  "en": "Aim: everyone drops at once?"
  },
  {
   "id": "04038:0307",
   "jp": "１度に？全員？",
-  "en": ""
+  "en": "In one go? Everyone?"
  },
  {
   "id": "04038:0308",
   "jp": "そう",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04038:0309",
   "jp": "$c02狂$c00った過去の\\n延長にあるものは",
-  "en": ""
+  "en": "What lies at the end of the $c02warped$c00 past"
  },
  {
   "id": "04038:0310",
   "jp": "《黒上家の滅亡》だよ",
-  "en": ""
+  "en": "is <The Fall of the Kurogami House>."
  },
  {
   "id": "04038:0311",
   "jp": "毒を盛るという行為で\\n１人１人、苦しめる\\n必要はないしね",
-  "en": ""
+  "en": "And with poison, there's no need to make them suffer one by one."
  },
  {
   "id": "04038:0312",
   "jp": "そうだね……",
-  "en": ""
+  "en": "I guess so..."
  },
  {
   "id": "04038:0313",
   "jp": "言い得て然り",
-  "en": ""
+  "en": "Aptly put."
  },
  {
   "id": "04038:0314",
   "jp": "むむむ、\\nまぁ、そうね……",
-  "en": ""
+  "en": "Hmmm, well, fair enough..."
  },
  {
   "id": "04038:0315",
   "jp": "皆が食べる食事に\\n毒を盛っても、",
-  "en": ""
+  "en": "Even if he poisoned the meal everyone eats,"
  },
  {
   "id": "04038:0316",
   "jp": "自分だけ食事を\\n遅らせて口にすれば\\nいいだけだし、",
-  "en": ""
+  "en": "all he had to do was put off eating his own until later,"
  },
  {
   "id": "04038:0317",
   "jp": "ワインの解毒剤は、\\n万が一、",
-  "en": ""
+  "en": "and the antidote in the wine was, in case"
  },
  {
   "id": "04038:0318",
   "jp": "自分もスープを\\n飲まなければ\\nならなくなった時の",
-  "en": ""
+  "en": "he ever found himself having to drink the soup too,"
  },
  {
   "id": "04038:0319",
   "jp": "保険だったんだと\\n考えればいい",
-  "en": ""
+  "en": "his insurance -- that's how we can see it."
  },
  {
   "id": "04038:0320",
   "jp": "じゃ、じゃあ、\\nなんのために\\n大婆様の$c02殺害$c00予告を？",
-  "en": ""
+  "en": "Th-then why announce Obaba-sama's $c02murder$c00?"
  },
  {
   "id": "04038:0321",
   "jp": "では、次の疑問。\\nなぜに、\\n$c02殺人$c00予告など？",
-  "en": ""
+  "en": "Then, next query. Why a $c02murder$c00 notice?"
  },
  {
   "id": "04038:0322",
   "jp": "ふーん、で、なんで\\nテーブルに詩なんて\\n書いたわけ？",
-  "en": ""
+  "en": "Hmph. So why'd he write a poem on the table?"
  },
  {
   "id": "04038:0323",
   "jp": "あれは、苦肉の策\\nだったんじゃないかな",
-  "en": ""
+  "en": "That was probably a desperate last resort."
  },
  {
   "id": "04038:0324",
   "jp": "計画を実行に\\n移そうにも、",
-  "en": ""
+  "en": "Just as he tried to put his plan into action,"
  },
  {
   "id": "04038:0325",
   "jp": "大婆しか、\\n$c02殺$c00せないかもという\\n状況が揃ってしまった",
-  "en": ""
+  "en": "things had lined up so he might only be able to $c02kill$c00 Obaba."
  },
  {
   "id": "04038:0326",
   "jp": "どういうこと……？",
-  "en": ""
+  "en": "What do you mean...?"
  },
  {
   "id": "04038:0327",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04038:0328",
   "jp": "ん？\\nどーゆーこと？",
-  "en": ""
+  "en": "Huh? Whaddya mean?"
  },
  {
   "id": "04038:0329",
   "jp": "少女は、\\nトマトのスープを\\n飲まない",
-  "en": ""
+  "en": "The girl won't drink tomato soup."
  },
  {
   "id": "04038:0330",
   "jp": "それと、普段、\\n白しか飲まない佳子が、",
-  "en": ""
+  "en": "And Yoshiko, who normally only drinks white,"
  },
  {
   "id": "04038:0331",
   "jp": "白ワインが\\n切れていたために、",
-  "en": ""
+  "en": "because the white wine had run out,"
  },
  {
   "id": "04038:0332",
   "jp": "静馬の赤ワインを\\n一緒に飲むと、言い\\nだしてしまったこと",
-  "en": ""
+  "en": "went and said she'd share Shizuma's red wine."
  },
  {
   "id": "04038:0333",
   "jp": "？！\\nそうか……",
-  "en": ""
+  "en": "?! I see..."
  },
  {
   "id": "04038:0334",
   "jp": "納得",
-  "en": ""
+  "en": "Convinced."
  },
  {
   "id": "04038:0335",
   "jp": "はぁ～、なるほどね",
-  "en": ""
+  "en": "Hahh~, I get it."
  },
  {
   "id": "04038:0336",
   "jp": "スープを飲まない\\nねねちゃんと、",
-  "en": ""
+  "en": "Nene-chan, who wouldn't drink the soup,"
  },
  {
   "id": "04038:0337",
   "jp": "トマト嫌いで、\\nスープ飲まずの\\nねねっち",
-  "en": ""
+  "en": "Nene-cchi, tomato-hater, soup-skipper,"
  },
  {
   "id": "04038:0338",
   "jp": "ねねは、トマトスープ\\nなんて飲まないし",
-  "en": ""
+  "en": "Nene would never drink tomato soup,"
  },
  {
   "id": "04038:0339",
   "jp": "解毒剤を飲んでしまう\\n佳子さん",
-  "en": ""
+  "en": "Yoshiko-san, who'd end up drinking the antidote..."
  },
  {
   "id": "04038:0340",
   "jp": "ワインをグビグビの\\nよっちゃん",
-  "en": ""
+  "en": "Yocchan, wine-guzzler,"
  },
  {
   "id": "04038:0341",
   "jp": "佳子は、頭首の\\nワインを飲むなんて\\n言いだしちゃうし",
-  "en": ""
+  "en": "and Yoshiko goes and says she'll drink the Head's wine,"
  },
  {
   "id": "04038:0342",
   "jp": "毒が効力を\\n発揮するのは、\\n大婆様だけ……",
-  "en": ""
+  "en": "so the only one the poison would work on was Obaba-sama..."
  },
  {
   "id": "04038:0343",
   "jp": "毒入りだけ\\n飲むのは\\n婆ちゃんだけ",
-  "en": ""
+  "en": "only one drinking poison alone: Granny."
  },
  {
   "id": "04038:0344",
   "jp": "毒をストレートで\\n飲むのは大婆だけか",
-  "en": ""
+  "en": "so Obaba's the only one drinking the poison straight, huh?"
  },
  {
   "id": "04038:0345",
   "jp": "そう",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04038:0346",
   "jp": "そうなると、静馬は、\\n残った２人を",
-  "en": ""
+  "en": "That meant Shizuma would have to find another way"
  },
  {
   "id": "04038:0347",
   "jp": "違う方法で$c02殺害$c00\\nしなくてはならない",
-  "en": ""
+  "en": "to $c02murder$c00 the remaining two."
  },
  {
   "id": "04038:0348",
   "jp": "だから、１度、\\n皆を混乱させるために、",
-  "en": ""
+  "en": "So, to throw everyone into confusion for a while,"
  },
  {
   "id": "04038:0349",
   "jp": "ああいうことを\\nしたんだろうね",
-  "en": ""
+  "en": "he must have done that."
  },
  {
   "id": "04038:0350",
   "jp": "ただ、\\n仕込みを急いだせいか",
-  "en": ""
+  "en": "But perhaps because he rushed the setup,"
  },
  {
   "id": "04038:0351",
   "jp": "あまり効果は\\nなかったと思うけどね",
-  "en": ""
+  "en": "I don't think it had much effect."
  },
  {
   "id": "04038:0352",
   "jp": "それと、\\n憶えてるかい？",
-  "en": ""
+  "en": "Also, do you remember?"
  },
  {
   "id": "04038:0353",
   "jp": "ユリ子が、\\n食事の支度を始めた時",
-  "en": ""
+  "en": "When Yuriko started preparing the meal,"
  },
  {
   "id": "04038:0354",
   "jp": "静馬は、最初から\\n居間にいたよね？",
-  "en": ""
+  "en": "Shizuma was in the living room from the start, wasn't he?"
  },
  {
   "id": "04038:0355",
   "jp": "あ、そういえば……",
-  "en": ""
+  "en": "Oh, now that you mention it..."
  },
  {
   "id": "04038:0356",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04038:0357",
   "jp": "いたわ",
-  "en": ""
+  "en": "He was."
  },
  {
   "id": "04038:0358",
   "jp": "あの時に、\\nあの俳句を\\n書いてたのさ",
-  "en": ""
+  "en": "That's when he was writing that haiku."
  },
  {
   "id": "04038:0359",
   "jp": "ワインを\\n俳句がでるところへ、\\nこぼしたのも彼だしね",
-  "en": ""
+  "en": "And he's the one who spilled wine right where the haiku would appear."
  },
  {
   "id": "04038:0360",
   "jp": "そもそも\\n黒上家の頭首が",
-  "en": ""
+  "en": "To begin with, the Head of the Kurogami house"
  },
  {
   "id": "04038:0361",
   "jp": "食事が待ちきれなくて、\\n居間にいるというのは\\nあまり説得力がないね",
-  "en": ""
+  "en": "waiting in the living room, too eager for dinner, isn't very convincing."
  },
  {
   "id": "04038:0362",
   "jp": "それとメイドの$c02自殺$c00",
-  "en": ""
+  "en": "And then the maid's $c02suicide$c00."
  },
  {
   "id": "04038:0363",
   "jp": "いくら、自分で\\n毒を飲んだとしても",
-  "en": ""
+  "en": "Even if she drank the poison herself,"
  },
  {
   "id": "04038:0364",
   "jp": "顔を鍋に入れてるのは\\nちょっとおかしいね",
-  "en": ""
+  "en": "having her face in the pot is a little strange."
  },
  {
   "id": "04038:0365",
   "jp": "あれは、かけつけた\\n静馬が、押さえつけて\\n無理矢理飲ませた",
-  "en": ""
+  "en": "Shizuma came running, held her down and forced it down her throat --"
  },
  {
   "id": "04038:0366",
   "jp": "と考えた方が自然だね",
-  "en": ""
+  "en": "that's the more natural way to see it."
  },
  {
   "id": "04038:0367",
@@ -1842,141 +1842,141 @@
  {
   "id": "04038:0368",
   "jp": "あったのさ",
-  "en": ""
+  "en": "That's how it was."
  },
  {
   "id": "04038:0369",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Now, let's go."
  },
  {
   "id": "04038:0370",
   "jp": "黒上の人間に\\n干渉をし、歴史を\\n$c02狂$c00わせている$c02逢魔$c00は",
-  "en": ""
+  "en": "The $c02Ouma$c00 meddling with the Kurogami and $c02warping$c00 history"
  },
  {
   "id": "04038:0371",
   "jp": "【居間】に\\nいるはずだ",
-  "en": ""
+  "en": "should be in the [Living Room]."
  },
  {
   "id": "04038:0372",
   "jp": "【厨】に\\nいるはずだ",
-  "en": ""
+  "en": "should be in the [Kitchen]."
  },
  {
   "id": "04038:0373",
   "jp": "どうして、$c02逢魔$c00の\\n居場所が分かるの？",
-  "en": ""
+  "en": "How do you know where the $c02Ouma$c00 is?"
  },
  {
   "id": "04038:0374",
   "jp": "ふみゅ。\\nシグマは、$c02逢魔$c00の\\n居場所分かる？",
-  "en": ""
+  "en": "Fumyu. Sigma knows $c02Ouma$c00's location?"
  },
  {
   "id": "04038:0375",
   "jp": "あ、やっぱり、その頭の\\nピンとしてるのは、\\n$c02逢魔レー$c00……",
-  "en": ""
+  "en": "Ah, so that bit of hair sticking up on your head really is an $c02Ouma rada$c00..."
  },
  {
   "id": "04038:0376",
   "jp": "$c02逢魔$c00は、犯人となった\\n人物に、",
-  "en": ""
+  "en": "The $c02Ouma$c00 hides where it most influenced"
  },
  {
   "id": "04038:0377",
   "jp": "$c02逢魔$c00は、犯人となった\\n人物に、",
-  "en": ""
+  "en": "The $c02Ouma$c00 hides where it most influenced"
  },
  {
   "id": "04038:0378",
   "jp": "違う！\\nあんまり、\\n変なこと言わない！",
-  "en": ""
+  "en": "It is not! Don't go saying such odd things!"
  },
  {
   "id": "04038:0379",
   "jp": "もっとも\\n影響を与えた場所に\\n隠れている",
-  "en": ""
+  "en": "the person who became the culprit."
  },
  {
   "id": "04038:0380",
   "jp": "もっとも\\n影響を与えた場所に\\n隠れている",
-  "en": ""
+  "en": "the person who became the culprit."
  },
  {
   "id": "04038:0381",
   "jp": "$c02逢魔$c00は、もっとも\\n犯人に、影響を\\n与えた場所にいる",
-  "en": ""
+  "en": "The $c02Ouma$c00 is in the place where it most influenced the culprit."
  },
  {
   "id": "04038:0382",
   "jp": "でも、僕の調律で\\n今は、その姿を\\n現したはずだ",
-  "en": ""
+  "en": "But my tuning should have made it reveal itself by now."
  },
  {
   "id": "04038:0383",
   "jp": "でも、僕の調律で\\n今は、その姿を\\n現したはずだ",
-  "en": ""
+  "en": "But my tuning should have made it reveal itself by now."
  },
  {
   "id": "04038:0384",
   "jp": "普段は隠れてるけど\\n今は、僕の調律で\\n姿を現してるよ",
-  "en": ""
+  "en": "It usually hides, but right now my tuning has made it show itself."
  },
  {
   "id": "04038:0385",
   "jp": "分かったわ",
-  "en": ""
+  "en": "Got it."
  },
  {
   "id": "04038:0386",
   "jp": "了解",
-  "en": ""
+  "en": "Acknowledged."
  },
  {
   "id": "04038:0387",
   "jp": "おっけー！",
-  "en": ""
+  "en": "'Kay!"
  },
  {
   "id": "04038:0388",
   "jp": "後は、この狭間にいる\\n元凶……$c02逢魔$c00を倒せば",
-  "en": ""
+  "en": "Now all that's left is to defeat the root of it all in this Rift... the $c02Ouma$c00,"
  },
  {
   "id": "04038:0389",
   "jp": "時の調律は\\n完成する！",
-  "en": ""
+  "en": "and the Time Tuning will be complete!"
  },
  {
   "id": "04038:0390",
   "jp": "うん！",
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "04038:0391",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04038:0392",
   "jp": "よし！",
-  "en": ""
+  "en": "All right!"
  },
  {
   "id": "04038:0393",
   "jp": "行きましょう、\\n$c02逢魔$c00のいる場所へ！",
-  "en": ""
+  "en": "Let's go, to where the $c02Ouma$c00 is!"
  },
  {
   "id": "04038:0394",
   "jp": "いざ、戦いの場へ",
-  "en": ""
+  "en": "Now, to the field of battle."
  },
  {
   "id": "04038:0395",
   "jp": "行っくわよ！\\n$c02逢魔$c00をぶっ飛ばしに！",
-  "en": ""
+  "en": "Here we gooo! Let's go blast the $c02Ouma$c00 away!"
  }
 ]

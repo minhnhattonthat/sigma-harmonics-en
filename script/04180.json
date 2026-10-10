@@ -2,7 +2,7 @@
  {
   "id": "04180:0000",
   "jp": "ねねちゃん、大丈夫？",
-  "en": ""
+  "en": "Nene-chan, are you all right?"
  },
  {
   "id": "04180:0001",
@@ -12,7 +12,7 @@
  {
   "id": "04180:0002",
   "jp": "ツライだろうけど\\n聞いて",
-  "en": ""
+  "en": "I know it's hard, but listen."
  },
  {
   "id": "04180:0003",
@@ -22,12 +22,12 @@
  {
   "id": "04180:0004",
   "jp": "君のいう通り、\\n他のみんなは……\\n全員$c02死$c00んでいた……",
-  "en": ""
+  "en": "Just as you said, everyone else... was $c02dead$c00..."
  },
  {
   "id": "04180:0005",
   "jp": "僕の母さんもね……",
-  "en": ""
+  "en": "My mother, too..."
  },
  {
   "id": "04180:0006",
@@ -37,7 +37,7 @@
  {
   "id": "04180:0007",
   "jp": "ねぇ、ねねちゃん、\\n一体、何があったの？",
-  "en": ""
+  "en": "Nene-chan, what on earth happened?"
  },
  {
   "id": "04180:0008",
@@ -47,191 +47,191 @@
  {
   "id": "04180:0009",
   "jp": "ねねちゃん",
-  "en": ""
+  "en": "Nene-chan."
  },
  {
   "id": "04180:0010",
   "jp": "ごめんなさい……\\n頭がぼーっとして……\\n身体もとても重くて",
-  "en": ""
+  "en": "I'm sorry... My head is all foggy... and my body feels so heavy."
  },
  {
   "id": "04180:0011",
   "jp": "ゆっくりでいい、\\n思い出して",
-  "en": ""
+  "en": "Take your time. Try to remember."
  },
  {
   "id": "04180:0012",
   "jp": "私……\\n清浄の庭でゆうと\\n一緒にいた……",
-  "en": ""
+  "en": "I... was with Yuu in the Garden of Purity..."
  },
  {
   "id": "04180:0013",
   "jp": "それで……",
-  "en": ""
+  "en": "And then..."
  },
  {
   "id": "04180:0014",
   "jp": "少し、眠くなって……",
-  "en": ""
+  "en": "I got a little sleepy..."
  },
  {
   "id": "04180:0015",
   "jp": "それは、何時頃？",
-  "en": ""
+  "en": "What time was that?"
  },
  {
   "id": "04180:0016",
   "jp": "……多分……",
-  "en": ""
+  "en": "...Probably..."
  },
  {
   "id": "04180:0017",
   "jp": "３時……くらい……",
-  "en": ""
+  "en": "Around... three o'clock..."
  },
  {
   "id": "04180:0018",
   "jp": "それで？",
-  "en": ""
+  "en": "And then?"
  },
  {
   "id": "04180:0019",
   "jp": "目が覚めたら……\\nゆうが……",
-  "en": ""
+  "en": "When I woke up... Yuu was..."
  },
  {
   "id": "04180:0020",
   "jp": "ちょっと待って、\\n３時に眠くなって\\n目が覚めたら……？",
-  "en": ""
+  "en": "Wait a moment. You got sleepy at three, and when you woke up...?"
  },
  {
   "id": "04180:0021",
   "jp": "……はい……",
-  "en": ""
+  "en": "...Yes..."
  },
  {
   "id": "04180:0022",
   "jp": "ぼ、僕が来たのは、\\n５時前だよ？",
-  "en": ""
+  "en": "B-but I got here just before five, you know?"
  },
  {
   "id": "04180:0023",
   "jp": "２時間……いや、\\n君が館をさまよった\\n時間を考えると……",
-  "en": ""
+  "en": "Two hours... no, given the time you spent wandering the mansion..."
  },
  {
   "id": "04180:0024",
   "jp": "正味１時間……？\\nそんな……ことが？",
-  "en": ""
+  "en": "Barely one hour...? Could such a thing happen?"
  },
  {
   "id": "04180:0025",
   "jp": "確かなの？？",
-  "en": ""
+  "en": "Are you sure??"
  },
  {
   "id": "04180:0026",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04180:0027",
   "jp": "眠ってしまった時、\\n時間は３時だったの？",
-  "en": ""
+  "en": "When you fell asleep, it was three o'clock?"
  },
  {
   "id": "04180:0028",
   "jp": "あ、……\\nはい……",
-  "en": ""
+  "en": "Ah... yes..."
  },
  {
   "id": "04180:0029",
   "jp": "ユリ子さんが、３時の\\nお茶を入れてくれた後\\nだったから……",
-  "en": ""
+  "en": "It was right after Yuriko-san made us our three o'clock tea..."
  },
  {
   "id": "04180:0030",
   "jp": "そんな……",
-  "en": ""
+  "en": "That can't be..."
  },
  {
   "id": "04180:0031",
   "jp": "…………\\n君の言の葉に\\n揺らぎはない……",
-  "en": ""
+  "en": "............ There's no wavering in your words..."
  },
  {
   "id": "04180:0032",
   "jp": "じゃあ、\\n一体、何が……",
-  "en": ""
+  "en": "Then what on earth..."
  },
  {
   "id": "04180:0033",
   "jp": "ど、どういうこと？",
-  "en": ""
+  "en": "Wh-what does that mean?"
  },
  {
   "id": "04180:0034",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04180:0035",
   "jp": "な！？\\nどういうことよ！？",
-  "en": ""
+  "en": "Wha?! What's that supposed to mean?!"
  },
  {
   "id": "04180:0036",
   "jp": "譲葉麟も、僕と同じ\\n疑問にぶつかった\\nみたいだ……",
-  "en": ""
+  "en": "Looks like Rin Yuzuriha ran into the same question I did..."
  },
  {
   "id": "04180:0037",
   "jp": "この時間は、\\nもう、他に\\n魂の影がないよ？！",
-  "en": ""
+  "en": "There aren't any other Soul Shadows in this time anymore?!"
  },
  {
   "id": "04180:0038",
   "jp": "あぁ、この時間で\\n再演できるのは、\\nここだけみたいだね",
-  "en": ""
+  "en": "Yeah. It seems this is the only place we can replay in this time."
  },
  {
   "id": "04180:0039",
   "jp": "これで、行ける時間は、\\n全て行った……",
-  "en": ""
+  "en": "With this, we've been to every time we can go..."
  },
  {
   "id": "04180:0040",
   "jp": "シグマ……超推理で、\\n謎、解ける？",
-  "en": ""
+  "en": "Sigma... can you solve the mystery with Super Reasoning?"
  },
  {
   "id": "04180:0041",
   "jp": "シグマ、\\n超推理、いけるか？",
-  "en": ""
+  "en": "Sigma, Super Reasoning, good to go?"
  },
  {
   "id": "04180:0042",
   "jp": "シグマ！　謎、\\n解けるんでしょうね！",
-  "en": ""
+  "en": "Sigma! You can solve the mystery, can't you?!"
  },
  {
   "id": "04180:0043",
   "jp": "……分からない",
-  "en": ""
+  "en": "...I don't know."
  },
  {
   "id": "04180:0044",
   "jp": "まだ、刻音を\\n集めた方がいいかも\\nしれない",
-  "en": ""
+  "en": "It might be better to gather more Echoes."
  },
  {
   "id": "04180:0045",
   "jp": "でも、僕の超推理で、\\n解けない謎はない",
-  "en": ""
+  "en": "But there's no mystery my Super Reasoning can't solve."
  },
  {
   "id": "04180:0046",
   "jp": "超推理を始めてみよう",
-  "en": ""
+  "en": "Let's begin the Super Reasoning."
  }
 ]

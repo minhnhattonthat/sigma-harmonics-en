@@ -2,86 +2,86 @@
  {
   "id": "04148:0000",
   "jp": "【逢魔との戦闘】",
-  "en": ""
+  "en": "[Battling the Ouma]"
  },
  {
   "id": "04148:0001",
   "jp": "逢魔との戦闘には\\nネオンだけが参加し、",
-  "en": ""
+  "en": "Only Neon takes part in battles against the Ouma,"
  },
  {
   "id": "04148:0002",
   "jp": "シグマであるあなたは、\\n後ろからネオンに指示を\\nだすことになります",
-  "en": ""
+  "en": "while you, as Sigma, give Neon instructions from behind."
  },
  {
   "id": "04148:0003",
   "jp": "戦闘中は、\\n時間の経過によって",
-  "en": ""
+  "en": "During battle, as time passes,"
  },
  {
   "id": "04148:0004",
   "jp": "式札（カード）の上にある\\n緑色のゲージが\\n増えていきます",
-  "en": ""
+  "en": "the green gauges above the Shiki Cards fill up."
  },
  {
   "id": "04148:0005",
   "jp": "ゲージが溜まったら、\\n式札をタッチして",
-  "en": ""
+  "en": "When a gauge is full, touch the Shiki Card"
  },
  {
   "id": "04148:0006",
   "jp": "上部の所定の位置に\\nスライドさせると",
-  "en": ""
+  "en": "and slide it into the designated spot at the top,"
  },
  {
   "id": "04148:0007",
   "jp": "ネオンが技を\\n使用します",
-  "en": ""
+  "en": "and Neon will use a technique."
  },
  {
   "id": "04148:0008",
   "jp": "【レーダー表示】",
-  "en": ""
+  "en": "[Radar Display]"
  },
  {
   "id": "04148:0009",
   "jp": "左画面の下部には、\\n周囲の状況を示す",
-  "en": ""
+  "en": "At the bottom of the left screen, showing the surroundings,"
  },
  {
   "id": "04148:0010",
   "jp": "レーダーが\\n表示されており、",
-  "en": ""
+  "en": "a radar is displayed."
  },
  {
   "id": "04148:0011",
   "jp": "扇形の領域が\\n現在のネオンの向きを、",
-  "en": ""
+  "en": "The fan-shaped area shows which way Neon is facing,"
  },
  {
   "id": "04148:0012",
   "jp": "赤いマーカーが\\n敵の位置を\\n表しています",
-  "en": ""
+  "en": "and the red markers show the positions of enemies."
  },
  {
   "id": "04148:0013",
   "jp": "【式札の切り替え】",
-  "en": ""
+  "en": "[Switching Shiki Cards]"
  },
  {
   "id": "04148:0014",
   "jp": "複数の式札が、一箇所で\\n重なっている場合は、",
-  "en": ""
+  "en": "When several Shiki Cards are stacked in one spot,"
  },
  {
   "id": "04148:0015",
   "jp": "一番上の式札を\\nタッチすることで、",
-  "en": ""
+  "en": "touching the top Shiki Card"
  },
  {
   "id": "04148:0016",
   "jp": "その式札を後ろに回し、\\n次の式札に切り替える\\nことができます",
-  "en": ""
+  "en": "sends it to the back and switches to the next Shiki Card."
  }
 ]

@@ -2,21 +2,21 @@
  {
   "id": "04068:0000",
   "jp": "$c01ＳＰは特定の逢魔を\\n倒すことで入手でき、",
-  "en": ""
+  "en": "$c01SP can be obtained by defeating certain Ouma,"
  },
  {
   "id": "04068:0001",
   "jp": "$c01一定量溜めると、\\n新たな神霊を降ろせる\\nようになります",
-  "en": ""
+  "en": "$c01and once you've stored a set amount, you can call down new Divine Spirits."
  },
  {
   "id": "04068:0002",
   "jp": "$c01また、戦闘中に特定の\\n行動をしていた場合、",
-  "en": ""
+  "en": "$c01Also, if you performed certain actions during battle,"
  },
  {
   "id": "04068:0003",
   "jp": "$c01得られるＳＰが\\n２倍になります",
-  "en": ""
+  "en": "$c01the SP you obtain will be doubled."
  }
 ]
