@@ -26,3 +26,24 @@
 - Advance = quantised ink width; the renderer adds 1 px. Dialogue Latin = STIX General 13 px, 3bpp, stored rotated 180.
 - A line wider than the box is clipped; a much longer one crashed once (3-line test). Lint keeps 180 px.
 - Opening scene is table 04086 (table ids are not in story order).
+
+## Text engine (NitroSystem g2d, arm9; tools/arm9dis.py, tools/lua/execlog.lua + memwatch.lua)
+- 0x2096628 UTF-8 decoder, 0x20965b4 glyph bit reader, 0x2094c10/0x2094cbc measure string/text rect.
+- 0x2096260 DrawTextRect -> 0x20960f8 lines -> 0x2096044 one line -> 0x2095a0c char (origin by CGLP flags) ->
+  canvas vtable (0x20951dc / 0x2095374 for the dialogue canvas).
+- Direction is data: callers (0x200cfac, 0x200d530) switch on the font's CGLP flags: 0,7 -> +x; 1,2 -> +y;
+  3,4 -> -x; 5,6 -> -y (raw screen). Each char advances (width + hSpace) along it; each line advances
+  (lineHeight + vSpace) along (-dy, dx).
+- Dialogue font 04387 has flags 3: raw -x = top-to-bottom for the player (Japanese vertical writing).
+  Flags 2 gives raw +y = left-to-right for the player, lines downward. Glyphs are stored pre-rotated; the
+  Japanese ones are already upright for the player under either flag, only Latin needs re-rotating.
+- Dialogue text reaches sub BG VRAM (0x06204800+) by DMA; glyph data of 04387 in RAM at 0x21dcc3c (CGLP 0x21dcc2c).
+- Dialogue bubbles do NOT use the flag direction: 0x200d864 (sole caller 0x2047340) lays out one OBJ sprite per
+  char made by 0x200d35c (measure, char canvas, OAM via 0x2095d4c, draw centred via 0x2096260, returns width+1),
+  doing x -= advance per char and taking line y from table 0x20cc0bc ([32] / [20,44] / [14,32,50]: max 3 lines).
+- Blitter 0x2095374 copies only CWDH glyphWidth raw-x columns of a cell (fine for text along x).
+- Horizontal-for-player prototype (2026-10-10, tools/exp_horizontal.py, works in the opening): font 04387 flags
+  3 -> 2; Latin stored upright (latin.orient flags 2) with glyphWidth 16, advance = ink; arm9 patches:
+  0x200d3bc/3c4 swap canvas w/h; 0x200d4b8/4c4 nop (x nudge); 0x200d5ac `mov r1,#8`, 0x200d5b0 `mov r2,fp`
+  (centre); 0x200d88c `mov r0,#K`; 0x200d8d0-8e8 newline x = x0 - 16*line, y = base - K; 0x200d920-928 y += adv.
+  K=52, wrap 56 px: about 10 chars x ~10 lines per bubble.
