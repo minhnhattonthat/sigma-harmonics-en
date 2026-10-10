@@ -12,47 +12,47 @@
  {
   "id": "04354:0002",
   "jp": "大逢魔は\\n$c02１４時$c00の【娯楽室】\\nにいるはずだ",
-  "en": "The Great Ouma should be in the [Game Room] at $c0214 o'clock$c00."
+  "en": "The Great Ouma should be in the [Game Room] at $c0214:00$c00."
  },
  {
   "id": "04354:0003",
   "jp": "大逢魔は\\n$c02１６時$c00の【佳子の部屋】\\nにいるはずだ",
-  "en": "The Great Ouma should be in [Yoshiko's Room] at $c0216 o'clock$c00."
+  "en": "The Great Ouma should be in [Yoshiko's Room] at $c0216:00$c00."
  },
  {
   "id": "04354:0004",
   "jp": "大逢魔は\\n$c02１７時$c00の【芙蓉の部屋】\\nにいるはずだ",
-  "en": "The Great Ouma should be in [Fuyou's Room] at $c0217 o'clock$c00."
+  "en": "The Great Ouma should be in [Fuyou's Room] at $c0217:00$c00."
  },
  {
   "id": "04354:0005",
   "jp": "大逢魔は\\n$c02１６時$c00の【静馬の部屋】\\nにいるはずだ",
-  "en": "The Great Ouma should be in [Shizuma's Room] at $c0216 o'clock$c00."
+  "en": "The Great Ouma should be in [Shizuma's Room] at $c0216:00$c00."
  },
  {
   "id": "04354:0006",
   "jp": "大逢魔は\\n$c02１８時$c00の【竹の部屋】\\nにいるはずだ",
-  "en": "The Great Ouma should be in [Take's Room] at $c0218 o'clock$c00."
+  "en": "The Great Ouma should be in [Take's Room] at $c0218:00$c00."
  },
  {
   "id": "04354:0007",
   "jp": "大逢魔は\\n$c02１９時$c00の【中庭】\\nにいるはずだ",
-  "en": "The Great Ouma should be in the [Courtyard] at $c0219 o'clock$c00."
+  "en": "The Great Ouma should be in the [Courtyard] at $c0219:00$c00."
  },
  {
   "id": "04354:0008",
   "jp": "大逢魔は\\n$c02２０時$c00の【倉庫】\\nにいるはずだ",
-  "en": "The Great Ouma should be in the [Storehouse] at $c0220 o'clock$c00."
+  "en": "The Great Ouma should be in the [Storehouse] at $c0220:00$c00."
  },
  {
   "id": "04354:0009",
   "jp": "大逢魔は\\n$c02１３時$c00の【梅の部屋】\\nにいるはずだ",
-  "en": "The Great Ouma should be in the [Plum Room] at $c0213 o'clock$c00."
+  "en": "The Great Ouma should be in the [Plum Room] at $c0213:00$c00."
  },
  {
   "id": "04354:0010",
   "jp": "大逢魔は\\n$c02２１時$c00の【駅ホーム】\\nにいるはずだ",
-  "en": "The Great Ouma should be on the [Station Platform] at $c0221 o'clock$c00."
+  "en": "The Great Ouma should be on the [Station Platform] at $c0221:00$c00."
  },
  {
   "id": "04354:0011",
@@ -212,7 +212,7 @@
  {
   "id": "04354:0042",
   "jp": "現場検証、基本ふう",
-  "en": "Scene examination, the basics-fuu."
+  "en": "Scene examination, basics-fuu."
  },
  {
   "id": "04354:0043",
@@ -372,7 +372,7 @@
  {
   "id": "04354:0074",
   "jp": "ふみゅ、イタタまれない",
-  "en": "Fumyu. Ow-ow, unbearable."
+  "en": "Fumyu. Ouch... too painful to bear."
  },
  {
   "id": "04354:0075",
@@ -392,7 +392,7 @@
  {
   "id": "04354:0078",
   "jp": "ふみゅ、仮面、倒そう",
-  "en": "Fumyu. The Mask, defeat it."
+  "en": "Fumyu. The Mask, let's defeat him."
  },
  {
   "id": "04354:0079",
@@ -537,7 +537,7 @@
  {
   "id": "04354:0107",
   "jp": "でもって、$c02死$c00んだ後も\\n持っとれー、って、\\n竹が言ってなかったっけ？",
-  "en": "And even after she $c02died$c00, didn't Take say \"Keep holdin' it\"?"
+  "en": "And even after she $c02died$c00, didn't Take tell her to \"hang onto it\"?"
  },
  {
   "id": "04354:0108",
@@ -737,7 +737,7 @@
  {
   "id": "04354:0147",
   "jp": "昼から出奔していた\\nロープ、遅い時間に\\nようやく発見",
-  "en": "Rope, missing since noon, at late hour finally discovered."
+  "en": "Rope, on the lam since noon, at late hour finally discovered."
  },
  {
   "id": "04354:0148",

@@ -92,7 +92,7 @@
  {
   "id": "04390:0018",
   "jp": "《いつもの屋敷？》\\nここはシグマの知っている\\nいつもの屋敷だと思う…",
-  "en": "<The Same Old Mansion?>\\nI think this is the same old\\nmansion Sigma knows..."
+  "en": "<The Same Old Mansion?>\\nThis seems to be the same old\\nmansion Sigma knows..."
  },
  {
   "id": "04390:0019",
@@ -332,7 +332,7 @@
  {
   "id": "04390:0066",
   "jp": "《Ｑ．Ｅ．Ｄ．》\\n証明終わり\\nどこに置いても推理完結",
-  "en": "<Q.E.D.>\\nProof complete.\\nEnds the reasoning anywhere."
+  "en": "<Q.E.D.>\\nProof complete.\\nWherever it goes, the reasoning is done."
  },
  {
   "id": "04390:0067",
@@ -392,7 +392,7 @@
  {
   "id": "04390:0078",
   "jp": "《ワイン》\\n厨にあった静馬が選んだワイン",
-  "en": "<Wine>\\nWine Shizuma chose, in the kitchen."
+  "en": "<Wine>\\nThe wine Shizuma chose,\\nkept in the kitchen."
  },
  {
   "id": "04390:0079",
@@ -402,7 +402,7 @@
  {
   "id": "04390:0080",
   "jp": "《厨の佳子》\\n佳子は事件前に厨に長くいた",
-  "en": "<Yoshiko in the Kitchen>\\nIn the kitchen a long while before."
+  "en": "<Yoshiko in the Kitchen>\\nYoshiko spent a long time in the\\nkitchen before the incident."
  },
  {
   "id": "04390:0081",
@@ -502,7 +502,7 @@
  {
   "id": "04390:0100",
   "jp": "《娯楽室の昇降機》\\n娯楽室にある食事を運ぶ昇降機\\nネオンは中に入れなかった",
-  "en": "<Game Room Dumbwaiter>\\nThe game room's meal dumbwaiter.\\nNeon couldn't fit inside."
+  "en": "<Game Room Dumbwaiter>\\nThe game room's dumbwaiter for meals.\\nNeon couldn't fit inside."
  },
  {
   "id": "04390:0101",
@@ -682,7 +682,7 @@
  {
   "id": "04390:0136",
   "jp": "《２階から下りていない》\\nねねのつぶやき\\nユリ子は２階から下りてきていない",
-  "en": "<Never Came Down from Upstairs>\\nNene's murmur: Yuriko never\\ncame down from the second floor."
+  "en": "<Never Came Down from the Second Floor>\\nNene's murmur: Yuriko never\\ncame down from the second floor."
  },
  {
   "id": "04390:0137",
@@ -862,7 +862,7 @@
  {
   "id": "04390:0172",
   "jp": "《２階から落とされた》\\nユリ子は２階から落とされ\\n犯人もツタを伝い…？",
-  "en": "<Pushed from the Second Floor>\\nYuriko was pushed from upstairs.\\nDid the culprit climb down the vine...?"
+  "en": "<Pushed from the Second Floor>\\nYuriko was pushed from upstairs.\\nDid the culprit climb down the vine too...?"
  },
  {
   "id": "04390:0173",
@@ -1062,7 +1062,7 @@
  {
   "id": "04390:0212",
   "jp": "《ゆうの死》\\n場所は清浄の庭\\n首を圧迫され……",
-  "en": "<Death of Yuu>\\nPlace: Garden of Purity\\nHis neck was crushed..."
+  "en": "<Death of Yuu>\\nPlace: Garden of Purity\\nHis neck was squeezed..."
  },
  {
   "id": "04390:0213",
@@ -1122,7 +1122,7 @@
  {
   "id": "04390:0224",
   "jp": "《落ちていた鍵束》\\n鍵のかかった、\\n佳子の部屋の中に落ちていた",
-  "en": "<Fallen Key Ring>\\nIt lay inside Yoshiko's room,\\nwhich was locked."
+  "en": "<Dropped Key Ring>\\nIt lay inside Yoshiko's room,\\nwhich was locked."
  },
  {
   "id": "04390:0225",
@@ -1232,7 +1232,7 @@
  {
   "id": "04390:0246",
   "jp": "《電報を盗み見る執事》\\n執事が芙蓉の部屋でみつけた電報\\nミッカノノチ、ムカエニマイリマス",
-  "en": "<The Butler Peeking at the Telegram>\\nA telegram found in Fuyou's room:\\nWILL COME FOR YOU AFTER 3 DAYS"
+  "en": "<The Butler Peeking at the Telegram>\\nA telegram found in Fuyou's room:\\nWILL COME FOR YOU IN 3 DAYS"
  },
  {
   "id": "04390:0247",
@@ -1302,7 +1302,7 @@
  {
   "id": "04390:0260",
   "jp": "《さらに強さを見せた》\\n猫は「みとめてやらんでもない」\\nと言った",
-  "en": "<Showed Even More Strength>\\nThe cat said, \"We might just\\nacknowledge you.\""
+  "en": "<Showed Even More Strength>\\nThe cat said, \"I might just\\nacknowledge you.\""
  },
  {
   "id": "04390:0261",
@@ -1632,7 +1632,7 @@
  {
   "id": "04390:0326",
   "jp": "(5) 「毒を飲んだから」ではなく\\n「～を…なかったから」…",
-  "en": "(5) Not \"because she drank poison,\"\\nbut \"because she didn't ~ the ...\"..."
+  "en": "(5) Not \"because she drank poison,\"\\nbut \"because she didn't ... the ~\"..."
  },
  {
   "id": "04390:0327",
@@ -1682,7 +1682,7 @@
  {
   "id": "04390:0336",
   "jp": "(5) 密室否定の証拠を探す前に\\n密室だった場合、どうなのか\\nそれを考えるのも道の１つ",
-  "en": "(5) Before proving it wasn't locked,\\nconsidering what if it was locked\\nis one path, too."
+  "en": "(5) Before hunting for proof it wasn't\\na locked room, consider what follows\\nif it was. That is one path, too."
  },
  {
   "id": "04390:0337",
@@ -1692,7 +1692,7 @@
  {
   "id": "04390:0338",
   "jp": "(6) 犯人を確定せずに、事実を\\n積み重ねて、結論を導きだすのは\\nそう悪くない",
-  "en": "(6) Not fixing the culprit, but\\nstacking facts to reach a conclusion\\nisn't a bad way."
+  "en": "(6) Stacking facts to reach a conclusion\\nwithout pinning down the culprit\\nisn't a bad way."
  },
  {
   "id": "04390:0339",
