@@ -2,136 +2,136 @@
  {
   "id": "04486:0000",
   "jp": "まずいぞ、$c02業逢魔$c00だ！",
-  "en": ""
+  "en": "This is bad, it's a $c02Karma Ouma$c00!"
  },
  {
   "id": "04486:0001",
   "jp": "気をつけて！\\nこの$c02逢魔$c00、危険すぎる！",
-  "en": ""
+  "en": "Be careful! This $c02Ouma$c00 is way too dangerous!"
  },
  {
   "id": "04486:0002",
   "jp": "強すぎ$c02逢魔$c00、絶体絶命",
-  "en": ""
+  "en": "Overly strong $c02Ouma$c00. Situation desperate."
  },
  {
   "id": "04486:0003",
   "jp": "ち、ちょっと！\\nこんなのと戦わなきゃ\\nなんないの？",
-  "en": ""
+  "en": "W-wait a sec! We have to fight something like this?!"
  },
  {
   "id": "04486:0004",
   "jp": "ねえ、シグマ、\\nこれ何だろ？",
-  "en": ""
+  "en": "Hey, Sigma, what do you think this is?"
  },
  {
   "id": "04486:0005",
   "jp": "ここに発見、\\n珍妙なる箱",
-  "en": ""
+  "en": "Discovered here: curious box."
  },
  {
   "id": "04486:0006",
   "jp": "ややや、\\n見てよコレ、\\nなんか怪しくない？",
-  "en": ""
+  "en": "Whoa whoa, look at this, isn't it kinda suspicious?"
  },
  {
   "id": "04486:0007",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04486:0008",
   "jp": "うわっ！",
-  "en": ""
+  "en": "Whoa!"
  },
  {
   "id": "04486:0009",
   "jp": "捕まえたわ！",
-  "en": ""
+  "en": "I've caught it!"
  },
  {
   "id": "04486:0010",
   "jp": "にゃ～ご、\\nにゃにゃーん",
-  "en": ""
+  "en": "Nyaa~go, nya-nyaaan"
  },
  {
   "id": "04486:0011",
   "jp": "捕まーえた！",
-  "en": ""
+  "en": "Caaaught you!"
  },
  {
   "id": "04486:0012",
   "jp": "行っちゃった",
-  "en": ""
+  "en": "It's gone."
  },
  {
   "id": "04486:0013",
   "jp": "存分に喋って、\\n勝手にバイバイ？",
-  "en": ""
+  "en": "Talked at length, left on own. Bye-bye?"
  },
  {
   "id": "04486:0014",
   "jp": "もう、何なのよ、\\nあいつら",
-  "en": ""
+  "en": "Geez, what is with those guys?!"
  },
  {
   "id": "04486:0015",
   "jp": "どうやら、\\n神霊の１つみたいだね",
-  "en": ""
+  "en": "It seems to be one of the Divine Spirits."
  },
  {
   "id": "04486:0016",
   "jp": "協力してもらうには、\\n探し出して",
-  "en": ""
+  "en": "To get their cooperation, we have to find them"
  },
  {
   "id": "04486:0017",
   "jp": "僕たちの力を認めて\\nもらわないと\\n駄目みたいだ",
-  "en": ""
+  "en": "and get them to acknowledge our power, it seems."
  },
  {
   "id": "04486:0018",
   "jp": "$c02では一勝負。\\n【主の力】、見せて\\nもらおう！",
-  "en": ""
+  "en": "$c02Then, a contest. Show us your [Master's Power]!"
  },
  {
   "id": "04486:0019",
   "jp": "$c03にゃらば一勝負にゃ。\\n$c00【旋律の力】$c03、聞かせて\\nもらうにゃ！",
-  "en": ""
+  "en": "$c03Then it's a contest-nya. Let us hear your $c00[Power of Melody]$c03-nya!"
  },
  {
   "id": "04486:0020",
   "jp": "$c04それじゃぁ一勝負っす。\\n$c00【神降ろしの力】$c04、\\n見せてもらうっす！",
-  "en": ""
+  "en": "$c04Then it's a contest-ssu. Show us your $c00[Power of Divine Descent]$c04-ssu!"
  },
  {
   "id": "04486:0021",
   "jp": "$c02では一勝負。\\n【主の力】、今一度見せて\\nもらおう！",
-  "en": ""
+  "en": "$c02Then, a contest. Show us your [Master's Power] once more!"
  },
  {
   "id": "04486:0022",
   "jp": "$c03にゃらば一勝負にゃ。\\nもし勝てたら同胞の力、\\n回復させてやるにゃ！",
-  "en": ""
+  "en": "$c03Then it's a contest-nya. If you win, we'll restore our brethren's power-nya!"
  },
  {
   "id": "04486:0023",
   "jp": "$c04それじゃぁ一勝負っす。\\nもし勝ったら、たらふく\\n経験させてやるっす！",
-  "en": ""
+  "en": "$c04Then it's a contest-ssu. If you win, we'll give you tons of experience-ssu!"
  },
  {
   "id": "04486:0024",
   "jp": "$c04おまけに、たらふく\\n経験させてやるっす！",
-  "en": ""
+  "en": "$c04And on top of that, tons of experience-ssu!"
  },
  {
   "id": "04486:0025",
   "jp": "【旋律の力】？\\n戦闘中に$c02曲$c00を\\n変えろ、ということかな",
-  "en": ""
+  "en": "[Power of Melody]? Does that mean I should change the $c02song$c00 during battle?"
  },
  {
   "id": "04486:0026",
   "jp": "【神降ろしの力】？\\n戦闘中に$c02神降ろし$c00を\\n行え、ということかな",
-  "en": ""
+  "en": "[Power of Divine Descent]? Does that mean I should use $c02Divine Descent$c00 in battle?"
  }
 ]

@@ -92,7 +92,7 @@
  {
   "id": "04404:0018",
   "jp": "答えは、\\n【ＹＥＳ】か【ＮＯ】",
-  "en": ""
+  "en": "The answer: [YES] or [NO]."
  },
  {
   "id": "04404:0019",
@@ -327,27 +327,27 @@
  {
   "id": "04404:0065",
   "jp": "置いた刻音は\\n全て最初の状態に\\n戻るがいいのか？",
-  "en": ""
+  "en": "all the placed Echoes will go back to their initial state. Is that all right?"
  },
  {
   "id": "04404:0066",
   "jp": "本当に推理を\\nしなおすのなら",
-  "en": ""
+  "en": "If I really want to redo my reasoning,"
  },
  {
   "id": "04404:0067",
   "jp": "もう１度、再推理\\nボタンをタッチしよう",
-  "en": ""
+  "en": "I'll touch the Re-Reason button once more."
  },
  {
   "id": "04404:0068",
   "jp": "刻音は\\n全て奏でられている",
-  "en": ""
+  "en": "All the Echoes have been played."
  },
  {
   "id": "04404:0069",
   "jp": "もう１度、奏でなおす\\nなら、再推理を選ぼう",
-  "en": ""
+  "en": "To play it all over again, I should choose Re-Reason."
  },
  {
   "id": "04404:0070",

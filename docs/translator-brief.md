@@ -57,6 +57,16 @@ in its own voice; never merge them.
 - A box that only continues a sentence from the previous box may start lowercase; keep the split readable.
 - A chant/spell that contains a glossary term keeps the term's English (式力封神 -> "Shiki Power: Divine Seal!!").
 
+## UI batches (form `ui`)
+- Echo names: `build/echoes.tsv` lists every Echo name already used in dialogue (JP<TAB>EN). When a ui row is an
+  Echo name (the Echo list in table 04390 alternates: name row, then a `《name》\n description` row), use that EN
+  exactly. A new Echo name: pick a form and report it as NEW TERM.
+- Term-list tables (04388, 04741) alternate a term row and its kana reading row (`黒上財閥` then `くろがみざいばつ`).
+  Translate the term; for the reading row write the same English term again.
+- Labels are short: keep within the pixel limit (the check measures it). Don't abbreviate names; rephrase or use
+  the shorter natural form ("Save complete.").
+- Rows that are only digits, punctuation or `　` are not in your batch; numbers stay as in the Japanese.
+
 ## Consistency
 Never edit `glossary.md` or any file except your own output. For a recurring name or term not in the glossary,
 pick a form, use it consistently, and report it.

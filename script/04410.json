@@ -242,7 +242,7 @@
  {
   "id": "04410:0048",
   "jp": "何かが見えてきた……",
-  "en": ""
+  "en": "Something is coming into view..."
  },
  {
   "id": "04410:0049",
@@ -332,7 +332,7 @@
  {
   "id": "04410:0066",
   "jp": "刻音は\\n全て奏でられている",
-  "en": ""
+  "en": "All the Echoes have been played."
  },
  {
   "id": "04410:0067",
@@ -352,22 +352,22 @@
  {
   "id": "04410:0070",
   "jp": "この闇は、\\nまだ生まれていない。\\n先に他の闇を払おう",
-  "en": ""
+  "en": "This Darkness hasn't been born yet. Let's dispel the others first."
  },
  {
   "id": "04410:0071",
   "jp": "既に\\nこの闇は払われている\\n次に進もう",
-  "en": ""
+  "en": "This Darkness has already been dispelled. On to the next."
  },
  {
   "id": "04410:0072",
   "jp": "刻音は\\n全て奏でられている",
-  "en": ""
+  "en": "All the Echoes have been played."
  },
  {
   "id": "04410:0073",
   "jp": "もう１度、奏でなおす\\nなら、再推理を選ぼう",
-  "en": ""
+  "en": "To play it all over again, I should choose Re-Reason."
  },
  {
   "id": "04410:0074",
@@ -387,6 +387,6 @@
  {
   "id": "04410:0077",
   "jp": "？？\\n置くべき場所が\\n全く……",
-  "en": ""
+  "en": "?? I have no idea at all where it should go..."
  }
 ]

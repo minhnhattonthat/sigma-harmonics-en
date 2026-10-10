@@ -2,12 +2,12 @@
  {
   "id": "04466:0000",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04466:0001",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04466:0002",
@@ -17,72 +17,72 @@
  {
   "id": "04466:0003",
   "jp": "魂の影だ",
-  "en": ""
+  "en": "It's a Soul Shadow."
  },
  {
   "id": "04466:0004",
   "jp": "あっ！本当だ",
-  "en": ""
+  "en": "Oh! You're right!"
  },
  {
   "id": "04466:0005",
   "jp": "ふみゅ。\\n魂の影",
-  "en": ""
+  "en": "Fumyu. Soul Shadow."
  },
  {
   "id": "04466:0006",
   "jp": "あったわね",
-  "en": ""
+  "en": "So there it is."
  },
  {
   "id": "04466:0007",
   "jp": "これがある所で、\\n【時の再演】が\\nできるんだよね？",
-  "en": ""
+  "en": "Where there's one of these, we can do a [Replay of Time], right?"
  },
  {
   "id": "04466:0008",
   "jp": "見つければ\\n【時の再演】が\\nできる",
-  "en": ""
+  "en": "If found, [Replay of Time] possible."
  },
  {
   "id": "04466:0009",
   "jp": "これがある所で、\\n【時の再演】が\\nできるんだったわね",
-  "en": ""
+  "en": "Where there's one of these, one can perform a [Replay of Time], as I recall."
  },
  {
   "id": "04466:0010",
   "jp": "あぁ",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "04466:0011",
   "jp": "この時間、この場所で",
-  "en": ""
+  "en": "At this time, in this place,"
  },
  {
   "id": "04466:0012",
   "jp": "一体、何が\\n起こったのかを\\n《視る》ことができる",
-  "en": ""
+  "en": "we can <see> what on earth happened."
  },
  {
   "id": "04466:0013",
   "jp": "ここは、さっき視た、\\n事件の始まり\\nみたいね",
-  "en": ""
+  "en": "This looks like the start of the case we saw earlier."
  },
  {
   "id": "04466:0014",
   "jp": "ここ、さっき視た。\\n事件の始まり",
-  "en": ""
+  "en": "Here. Seen earlier. Start of the case."
  },
  {
   "id": "04466:0015",
   "jp": "ここって、さっき視た\\n事件の始まりでしょ？",
-  "en": ""
+  "en": "This is, like, the start of the case we saw earlier, right?"
  },
  {
   "id": "04466:0016",
   "jp": "あぁ、もう１度、\\n確認してみよう",
-  "en": ""
+  "en": "Yes. Let's check it once more."
  },
  {
   "id": "04466:0017",
@@ -92,61 +92,61 @@
  {
   "id": "04466:0018",
   "jp": "あれ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04466:0019",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04466:0020",
   "jp": "そういえばさ",
-  "en": ""
+  "en": "Oh, by the way,"
  },
  {
   "id": "04466:0021",
   "jp": "時の再演をする時は、\\nどうすれば、\\nいいんだっけ？",
-  "en": ""
+  "en": "What do we do again when we want to perform a Replay of Time?"
  },
  {
   "id": "04466:0022",
   "jp": "時の再演をする時は、\\nどうすれば、\\nいいんだっけ？",
-  "en": ""
+  "en": "What do we do again when we want to perform a Replay of Time?"
  },
  {
   "id": "04466:0023",
   "jp": "時の再演をする時は、\\nどうすれば、\\nいいんだっけ？",
-  "en": ""
+  "en": "What do we do again when we want to perform a Replay of Time?"
  },
  {
   "id": "04466:0024",
   "jp": "【魂の影】を\\n【調音査】で調べるのさ",
-  "en": ""
+  "en": "We examine the [Soul Shadow] with [Sound Search]."
  },
  {
   "id": "04466:0025",
   "jp": "じゃあ、さっそく\\n時の再演を\\nしてみましょう",
-  "en": ""
+  "en": "Then let's try a Replay of Time right away."
  },
  {
   "id": "04466:0026",
   "jp": "１度、視た過去再生は\\n早送りや、スキップを\\nすることができます",
-  "en": ""
+  "en": "Past playbacks you've already seen can be fast-forwarded or skipped."
  },
  {
   "id": "04466:0027",
   "jp": "早送り・スキップの\\n仕方は、マニュアルを\\nご覧ください",
-  "en": ""
+  "en": "For how to fast-forward or skip, please see the manual."
  },
  {
   "id": "04466:0028",
   "jp": "※※現バージョンでは\\n　 入っていません",
-  "en": ""
+  "en": "** Not included in the current version"
  },
  {
   "id": "04466:0029",
   "jp": "$c01【用語集】に\\n【時の再演】\\nが追加された$c00",
-  "en": ""
+  "en": "$c01[Replay of Time] was added to the [Glossary].$c00"
  }
 ]

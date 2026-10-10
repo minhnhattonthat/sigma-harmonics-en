@@ -146,6 +146,10 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   人物刻音 -> Person Echo; 闇が生まれる -> A Darkness is born...; 歴史改変 -> alteration of history; 不在証明 -> alibi;
   凶器 -> weapon; SFX lines (扉の開く音) -> "The sound of a door opening"; 銃声 -> Gunshot; 通信機 -> transmitter; 無線(機) -> radio;
   機関室 -> engine room; 回廊 -> Corridor; 時空の裂け目 -> rift in space-time; 不可能殺人 -> impossible murder; ダイイングメッセージ -> dying message.
+- b035-b047 思考連鎖 -> Chain of Thought; 思考連結 -> Thought Link; 思考に潜む闇 -> Darkness Lurking in Thought; 払う (闇) -> dispel;
+  食い違っている証言 -> Contradictory Testimony; 不可思議な状況 -> Mysterious Situation; 知らない世界の館 -> Mansion of an Unknown World;
+  合い言葉 -> passphrase; 主の力 -> Master's Power; 旋律の力 -> Power of Melody; 第死楽章 -> Death Movement; 機関車 -> locomotive;
+  rooms: [Fuyou's Room]/[Shizuma's Room]/[Take's Room]/[Courtyard]/[Storehouse]/[Station Platform]; 判定ミス -> Check mistake.
 - RULING: Nの刻 (time slots) -> "N:00" (１２の刻 -> 12:00, ２０の刻 -> 20:00). Fix older "o'clock"/"8 PM" forms in the polish pass.
 - RULING: 法水 is "Housui" for every character/clan mention (the glossary's のりみず reading is an in-joke; keep Housui).
 - RULING: glossary-screen headings (03976, "term / ～kana reading") -> the English term only, one line, no reading.

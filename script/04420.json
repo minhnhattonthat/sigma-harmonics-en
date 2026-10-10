@@ -2,7 +2,7 @@
  {
   "id": "04420:0000",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04420:0001",
@@ -27,12 +27,12 @@
  {
   "id": "04420:0005",
   "jp": "この闇は既に\\n払われている",
-  "en": ""
+  "en": "This Darkness has already been dispelled."
  },
  {
   "id": "04420:0006",
   "jp": "全ての闇は払われた",
-  "en": ""
+  "en": "All the Darkness has been dispelled."
  },
  {
   "id": "04420:0007",
@@ -82,116 +82,116 @@
  {
   "id": "04420:0016",
   "jp": "もし、超推理を\\nやりなおすなら、\\n再推理をタッチしよう",
-  "en": ""
+  "en": "If I want to redo the Super Reasoning, I should touch Re-Reason."
  },
  {
   "id": "04420:0017",
   "jp": "この$c02大逢魔$c00は既に\\n倒している",
-  "en": ""
+  "en": "I've already defeated this $c02Great Ouma$c00."
  },
  {
   "id": "04420:0018",
   "jp": "やりなおすなら、\\n再推理をタッチしよう",
-  "en": ""
+  "en": "If I want to redo it, I should touch Re-Reason."
  },
  {
   "id": "04420:0019",
   "jp": "犯人は執事と見て\\n間違いないはずだ",
-  "en": ""
+  "en": "There should be no doubt that the butler is the culprit."
  },
  {
   "id": "04420:0020",
   "jp": "その根拠となる\\n刻音を置こう",
-  "en": ""
+  "en": "Let me place the Echo that serves as the basis for that."
  },
  {
   "id": "04420:0021",
   "jp": "今回は犯人の姿が\\n視えなかったが、",
-  "en": ""
+  "en": "This time I couldn't see the culprit's figure, but..."
  },
  {
   "id": "04420:0022",
   "jp": "本当に執事が犯人\\nだろうか？",
-  "en": ""
+  "en": "is the butler really the culprit?"
  },
  {
   "id": "04420:0023",
   "jp": "証拠となる刻音を\\n置こう",
-  "en": ""
+  "en": "Let me place the Echo that serves as proof."
  },
  {
   "id": "04420:0024",
   "jp": "芙蓉が執事に$c02殺$c00される\\n直前に問おうと\\nしたことは何か",
-  "en": ""
+  "en": "What was Fuyou trying to ask right before being $c02killed$c00 by the butler?"
  },
  {
   "id": "04420:0025",
   "jp": "芙蓉の手に入れた\\n情報に関する刻音を\\n置こう",
-  "en": ""
+  "en": "Let me place the Echo about the information Fuyou obtained."
  },
  {
   "id": "04420:0026",
   "jp": "麟$c02殺害$c00の犯人が執事では\\nないことは、譲葉の力で\\n証明されてしまった",
-  "en": ""
+  "en": "The Yuzuriha power has proven that the butler is not the one who $c02murdered$c00 Rin."
  },
  {
   "id": "04420:0027",
   "jp": "これは一体どういう\\nことだろう",
-  "en": ""
+  "en": "What on earth does this mean?"
  },
  {
   "id": "04420:0028",
   "jp": "竹の$c02殺$c00された部屋は\\n密室かのようにみえた",
-  "en": ""
+  "en": "The room where Take was $c02killed$c00 seemed to be a locked room."
  },
  {
   "id": "04420:0029",
   "jp": "執事は一体、どうやって\\n竹を$c02殺$c00したのか、",
-  "en": ""
+  "en": "So how exactly did the butler $c02kill$c00 Take?"
  },
  {
   "id": "04420:0030",
   "jp": "手がかりとなる刻音を\\n置こう",
-  "en": ""
+  "en": "Let me place the Echo that serves as a clue."
  },
  {
   "id": "04420:0031",
   "jp": "ゆうが$c02殺$c00された原因を\\n示す刻音はどれ\\nだろう？",
-  "en": ""
+  "en": "Which Echo shows the reason Yuu was $c02killed$c00?"
  },
  {
   "id": "04420:0032",
   "jp": "ユリ子は$c02死亡$c00の前に\\n犯人を確信していた\\nように思える",
-  "en": ""
+  "en": "It seems Yuriko was certain of the culprit before her $c02death$c00."
  },
  {
   "id": "04420:0033",
   "jp": "確信の根拠を示す\\n刻音を置こう",
-  "en": ""
+  "en": "Let me place the Echo that shows the basis of her certainty."
  },
  {
   "id": "04420:0034",
   "jp": "梅の$c02殺害$c00に使われた\\n凶器はどこへ\\n行ったのだろう",
-  "en": ""
+  "en": "Where did the weapon used in Ume's $c02murder$c00 go?"
  },
  {
   "id": "04420:0035",
   "jp": "探し出して、\\n刻音を置こう",
-  "en": ""
+  "en": "Let me find it and place the Echo."
  },
  {
   "id": "04420:0036",
   "jp": "$c02連続殺人$c00は達成された",
-  "en": ""
+  "en": "The $c02serial murders$c00 have been completed."
  },
  {
   "id": "04420:0037",
   "jp": "犯人の意図を明確に\\n表している刻音を\\n置こう",
-  "en": ""
+  "en": "Let me place the Echo that clearly shows the culprit's intent."
  },
  {
   "id": "04420:0038",
   "jp": "イベント番号エラー",
-  "en": ""
+  "en": "Event number error"
  }
 ]

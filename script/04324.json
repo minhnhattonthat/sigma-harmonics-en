@@ -2,17 +2,17 @@
  {
   "id": "04324:0000",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04324:0001",
   "jp": "いない",
-  "en": ""
+  "en": "no one."
  },
  {
   "id": "04324:0002",
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04324:0003",
@@ -22,7 +22,7 @@
  {
   "id": "04324:0004",
   "jp": "はぁ？",
-  "en": ""
+  "en": "Hah?"
  },
  {
   "id": "04324:0005",
@@ -47,7 +47,7 @@
  {
   "id": "04324:0009",
   "jp": "なんと、言おうと",
-  "en": ""
+  "en": "No matter what anyone says."
  },
  {
   "id": "04324:0010",
@@ -72,497 +72,497 @@
  {
   "id": "04324:0014",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Now, let's go."
  },
  {
   "id": "04324:0015",
   "jp": "……それ、どこ？",
-  "en": ""
+  "en": "...Where's that?"
  },
  {
   "id": "04324:0016",
   "jp": "……どこ？",
-  "en": ""
+  "en": "...Location?"
  },
  {
   "id": "04324:0017",
   "jp": "それってどこよ？",
-  "en": ""
+  "en": "And where's that supposed to be?"
  },
  {
   "id": "04324:0018",
   "jp": "うん！",
-  "en": ""
+  "en": "Okay!"
  },
  {
   "id": "04324:0019",
   "jp": "あぁ、行こう",
-  "en": ""
+  "en": "Yeah, let's go."
  },
  {
   "id": "04324:0020",
   "jp": "了解！",
-  "en": ""
+  "en": "Acknowledged!"
  },
  {
   "id": "04324:0021",
   "jp": "う、うん",
-  "en": ""
+  "en": "O-okay."
  },
  {
   "id": "04324:0022",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04324:0023",
   "jp": "わかったわよ\\n行けばいいんでしょ！",
-  "en": ""
+  "en": "Fine! I just have to go, right?!"
  },
  {
   "id": "04324:0024",
   "jp": "犯人は……",
-  "en": ""
+  "en": "The culprit is..."
  },
  {
   "id": "04324:0025",
   "jp": "佳子",
-  "en": ""
+  "en": "Yoshiko."
  },
  {
   "id": "04324:0026",
   "jp": "ユリ子",
-  "en": ""
+  "en": "Yuriko."
  },
  {
   "id": "04324:0027",
   "jp": "大婆",
-  "en": ""
+  "en": "Obaba."
  },
  {
   "id": "04324:0028",
   "jp": "ねね",
-  "en": ""
+  "en": "Nene."
  },
  {
   "id": "04324:0029",
   "jp": "静馬",
-  "en": ""
+  "en": "Shizuma."
  },
  {
   "id": "04324:0030",
   "jp": "執事",
-  "en": ""
+  "en": "the butler."
  },
  {
   "id": "04324:0031",
   "jp": "どういうこと？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "04324:0032",
   "jp": "何故？",
-  "en": ""
+  "en": "Reason?"
  },
  {
   "id": "04324:0033",
   "jp": "どーゆーこと？",
-  "en": ""
+  "en": "Whaddaya mean?"
  },
  {
   "id": "04324:0034",
   "jp": "順を追って話そうか",
-  "en": ""
+  "en": "Let me go through it in order."
  },
  {
   "id": "04324:0035",
   "jp": "まず、静馬が銃で\\n襲われた、一度目の$c02殺人$c00",
-  "en": ""
+  "en": "First, the first $c02murder$c00, in which Shizuma was attacked with a gun."
  },
  {
   "id": "04324:0036",
   "jp": "僕らが１８時の再演で\\n視たように、遺体が\\n発見されたのは",
-  "en": ""
+  "en": "As we saw in the Replay of Time at 6 p.m., the body was discovered"
  },
  {
   "id": "04324:0037",
   "jp": "銃撃からだいぶ時間が\\n経ってからだ",
-  "en": ""
+  "en": "a good while after the shooting."
  },
  {
   "id": "04324:0038",
   "jp": "銃で撃たれたのに、\\n遺体の発見は\\n遅れた……",
-  "en": ""
+  "en": "He was shot, and yet his body was found late..."
  },
  {
   "id": "04324:0039",
   "jp": "ズギューンなのに\\n知らんぷり？",
-  "en": ""
+  "en": "Ka-blam, yet all oblivious?"
  },
  {
   "id": "04324:0040",
   "jp": "みんな銃声に\\n気づかなかった、ってん\\nでしょ？",
-  "en": ""
+  "en": "You mean nobody noticed the gunshot, right?"
  },
  {
   "id": "04324:0041",
   "jp": "ああ",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "04324:0042",
   "jp": "これは、犯人が\\nサイレンサーか何かを\\n使って、",
-  "en": ""
+  "en": "This suggests the culprit used a silencer or something similar,"
  },
  {
   "id": "04324:0043",
   "jp": "秘密裏に事を\\n済ませようと\\nしたんだろうね",
-  "en": ""
+  "en": "trying to get the deed done in secret."
  },
  {
   "id": "04324:0044",
   "jp": "サイレンサーって\\nあれよね？",
-  "en": ""
+  "en": "A silencer is that thing, right?"
  },
  {
   "id": "04324:0045",
   "jp": "サイレンサー、\\n確か銃がだんまりを\\n決め込む？",
-  "en": ""
+  "en": "Silencer. If memory serves, gun keeps mum?"
  },
  {
   "id": "04324:0046",
   "jp": "サイレンサー、つまり\\n消音機付きで撃った",
-  "en": ""
+  "en": "A silencer, so it was fired with a suppressor on."
  },
  {
   "id": "04324:0047",
   "jp": "確かに再演の時も\\n大きな音は聞こえて\\nなかったわ",
-  "en": ""
+  "en": "True, we didn't hear any loud noise during the replay either."
  },
  {
   "id": "04324:0048",
   "jp": "うん、銃に取りつける\\n消音機さ",
-  "en": ""
+  "en": "Right. It's a suppressor you attach to a gun."
  },
  {
   "id": "04324:0049",
   "jp": "１７時の再演でも、\\n大きな音は聞こえ\\nなかったろう？",
-  "en": ""
+  "en": "We didn't hear a loud noise in the Replay of Time at 5 p.m. either, did we?"
  },
  {
   "id": "04324:0050",
   "jp": "なるほど、\\nだから静馬さんが\\n$c02殺$c00されたのは、",
-  "en": ""
+  "en": "I see. So the fact that Shizuma-san had been $c02killed$c00"
  },
  {
   "id": "04324:0051",
   "jp": "ユリ子さんが掃除に\\n来るまで、誰にも\\n気づかれなかったのね",
-  "en": ""
+  "en": "went unnoticed by anyone until Yuriko-san came to clean."
  },
  {
   "id": "04324:0052",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04324:0053",
   "jp": "だからご頭首の遺体は、\\nユリユリが後に発見",
-  "en": ""
+  "en": "Hence the honorable Head's body, found later by Yuri-Yuri."
  },
  {
   "id": "04324:0054",
   "jp": "なるほど、だから\\n頭首が$c02殺$c00されたって\\nことは、",
-  "en": ""
+  "en": "I see. So the Head having been $c02killed$c00"
  },
  {
   "id": "04324:0055",
   "jp": "ユリ子が掃除に来た時、\\n初めて発覚したのね",
-  "en": ""
+  "en": "only came to light when Yuriko came to clean."
  },
  {
   "id": "04324:0056",
   "jp": "そして次に、執事が\\n撃たれた状況に関して\\n考えてみよう",
-  "en": ""
+  "en": "Next, let's consider the circumstances in which the butler was shot."
  },
  {
   "id": "04324:0057",
   "jp": "こちらも銃撃だけど、\\n静馬の時とは大きな\\n違いがある",
-  "en": ""
+  "en": "This was also a shooting, but it differs greatly from Shizuma's case."
  },
  {
   "id": "04324:0058",
   "jp": "うん、今度は銃声を\\n聞いて、すぐにみんなが\\n集まってきてる",
-  "en": ""
+  "en": "Yeah. This time everyone heard the gunshot and came running right away."
  },
  {
   "id": "04324:0059",
   "jp": "ふみゅ、鳴り響く銃声に\\n誘われて全員集合",
-  "en": ""
+  "en": "Fumyu. Lured by ringing gunshot, all assembled."
  },
  {
   "id": "04324:0060",
   "jp": "ズギューン、ってしたから\\nみんな大慌てで\\n駆けつけてる",
-  "en": ""
+  "en": "It went ka-blam, so everybody came rushing over in a panic."
  },
  {
   "id": "04324:0061",
   "jp": "$c02逢魔$c00が操れる人間は\\n一人だけ",
-  "en": ""
+  "en": "The $c02Ouma$c00 can control only one person."
  },
  {
   "id": "04324:0062",
   "jp": "静馬を$c02殺害$c00する時は\\n慎重に事を運んだ\\n犯人が、",
-  "en": ""
+  "en": "The culprit who acted so carefully when $c02murdering$c00 Shizuma"
  },
  {
   "id": "04324:0063",
   "jp": "執事の時は、銃声が\\n響きわたるのを\\n気にしていない",
-  "en": ""
+  "en": "didn't care at all about a gunshot ringing out when it came to the butler."
  },
  {
   "id": "04324:0064",
   "jp": "同一犯による\\n犯行にしては、\\nあまりにも不自然だね",
-  "en": ""
+  "en": "That's far too unnatural for crimes by the same culprit."
  },
  {
   "id": "04324:0065",
   "jp": "つまり犯人は、銃声に\\n気づいた誰かが、",
-  "en": ""
+  "en": "In other words, the culprit made sure that someone who heard the gunshot"
  },
  {
   "id": "04324:0066",
   "jp": "わざと自分の走り去る\\n姿を目撃するように\\n仕向けた、",
-  "en": ""
+  "en": "would deliberately be allowed to witness them running away."
  },
  {
   "id": "04324:0067",
   "jp": "と考えられるんじゃ\\nないかな",
-  "en": ""
+  "en": "Or so we can reasonably conclude, wouldn't you say?"
  },
  {
   "id": "04324:0068",
   "jp": "つまり佳子さんが、\\nユリ子さんに罪を\\n押しつけるために……",
-  "en": ""
+  "en": "So Yoshiko-san did it to pin the blame on Yuriko-san..."
  },
  {
   "id": "04324:0069",
   "jp": "即ち、よっちゃんの罠。\\n罪がユリユリに\\nかぶさるふうに？",
-  "en": ""
+  "en": "That is, Yocchan's trap. Guilt falls on Yuri-Yuri-fuu?"
  },
  {
   "id": "04324:0070",
   "jp": "よーするに、佳子が\\nユリ子に罪を\\nかぶせようとして？",
-  "en": ""
+  "en": "So basically, Yoshiko was trying to frame Yuriko?"
  },
  {
   "id": "04324:0071",
   "jp": "そう、ユリ子の服を着て\\n走り去った",
-  "en": ""
+  "en": "Right. She ran off wearing Yuriko's clothes."
  },
  {
   "id": "04324:0072",
   "jp": "うーん、でも、\\nそれだけで佳子さんが\\n犯人だって",
-  "en": ""
+  "en": "Hmm, but deciding that Yoshiko-san is the culprit"
  },
  {
   "id": "04324:0073",
   "jp": "決めつけるのは、\\nちょっと無理が\\nあるんじゃない？",
-  "en": ""
+  "en": "just from that is a bit of a stretch, isn't it?"
  },
  {
   "id": "04324:0074",
   "jp": "シグマ、私は疑問",
-  "en": ""
+  "en": "Sigma, I have doubts."
  },
  {
   "id": "04324:0075",
   "jp": "よっちゃんを\\n犯人とする根拠、\\nちょっと弱いふう？",
-  "en": ""
+  "en": "Grounds for Yocchan as culprit, a bit weak-fuu?"
  },
  {
   "id": "04324:0076",
   "jp": "えー、でもさ、それだけで\\n佳子が犯人だって\\n決めつけるのは、",
-  "en": ""
+  "en": "Ehh, but come on, deciding Yoshiko's the culprit just from that"
  },
  {
   "id": "04324:0077",
   "jp": "ちょっと強引なんじゃ\\nないの？",
-  "en": ""
+  "en": "is kinda pushing it, isn't it?"
  },
  {
   "id": "04324:0078",
   "jp": "もう１つ、佳子の犯行を\\n裏付ける、おかしな\\n行動があるのさ",
-  "en": ""
+  "en": "There's one more strange action that backs up Yoshiko's guilt."
  },
  {
   "id": "04324:0079",
   "jp": "そんなのあったっけ？",
-  "en": ""
+  "en": "Was there anything like that?"
  },
  {
   "id": "04324:0080",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04324:0081",
   "jp": "えっ、どんなの？",
-  "en": ""
+  "en": "Huh? Like what?"
  },
  {
   "id": "04324:0082",
   "jp": "静馬が$c02殺$c00された後、\\n佳子がとった行動",
-  "en": ""
+  "en": "What Yoshiko did after Shizuma was $c02killed$c00."
  },
  {
   "id": "04324:0083",
   "jp": "執事との会話を\\n思い出してごらん",
-  "en": ""
+  "en": "Think back to her conversation with the butler."
  },
  {
   "id": "04324:0084",
   "jp": "会話には、おかしな所は\\nなかった……はず",
-  "en": ""
+  "en": "There wasn't anything odd about that conversation... I think."
  },
  {
   "id": "04324:0085",
   "jp": "追憶の彼方より。\\n呼び出しても、\\n会話怪しくなくない",
-  "en": ""
+  "en": "Summoned from beyond recollection. Conversation, not not-unsuspicious."
  },
  {
   "id": "04324:0086",
   "jp": "うーん、別に変な会話\\nじゃなかったよ？",
-  "en": ""
+  "en": "Hmm, it wasn't a weird conversation or anything, was it?"
  },
  {
   "id": "04324:0087",
   "jp": "よく思い出してごらん。\\n会話の後、佳子が\\n向かったのは……",
-  "en": ""
+  "en": "Think carefully. After the conversation, where Yoshiko headed was..."
  },
  {
   "id": "04324:0088",
   "jp": "あっ！",
-  "en": ""
+  "en": "Ah!"
  },
  {
   "id": "04324:0089",
   "jp": "部屋に閉じこもるって\\n言ってるのに、\\n逆の方向へ！",
-  "en": ""
+  "en": "She said she'd shut herself in her room, but she went the opposite way!"
  },
  {
   "id": "04324:0090",
   "jp": "吃驚仰天",
-  "en": ""
+  "en": "Surprised and astounded."
  },
  {
   "id": "04324:0091",
   "jp": "言われて然り、\\nよっちゃんの部屋は\\n真逆な感じ",
-  "en": ""
+  "en": "Rightly pointed out. Yocchan's room, the exact opposite way."
  },
  {
   "id": "04324:0092",
   "jp": "ややや！",
-  "en": ""
+  "en": "Whoa whoa!"
  },
  {
   "id": "04324:0093",
   "jp": "佳子、部屋に閉じこもる\\nっていいながら、\\n部屋とは逆の方へ！",
-  "en": ""
+  "en": "Yoshiko said she'd shut herself in her room, then went the other way!"
  },
  {
   "id": "04324:0094",
   "jp": "そう、佳子はこの会話の後\\nユリ子の部屋へ行き、\\nユリ子を$c02殺$c00した",
-  "en": ""
+  "en": "Yes. After this talk, Yoshiko went to Yuriko's room and $c02killed$c00 her."
  },
  {
   "id": "04324:0095",
   "jp": "そしてユリ子の服に\\n着替えて、執事を\\n撃ったのさ",
-  "en": ""
+  "en": "Then she changed into Yuriko's clothes and shot the butler."
  },
  {
   "id": "04324:0096",
   "jp": "でもシグマ、執事さんの\\n部屋には鍵が\\nかかってたでしょ？",
-  "en": ""
+  "en": "But Sigma, the butler's room was locked, wasn't it?"
  },
  {
   "id": "04324:0097",
   "jp": "マスターキーはずっと\\n大婆様が持ってた、\\nってことだけど、",
-  "en": ""
+  "en": "And Obaba-sama supposedly had the Master Key the whole time,"
  },
  {
   "id": "04324:0098",
   "jp": "大婆様に気づかれない\\nように借りて、",
-  "en": ""
+  "en": "so are you saying she borrowed it without Obaba-sama noticing,"
  },
  {
   "id": "04324:0099",
   "jp": "またこっそり\\n返しておいたってこと？",
-  "en": ""
+  "en": "and then quietly put it back?"
  },
  {
   "id": "04324:0100",
   "jp": "シグマ、も１つ確認。\\n仮面密室$c02殺人$c00事件",
-  "en": ""
+  "en": "Sigma, one more check. The Mask locked-room $c02murder$c00 case."
  },
  {
   "id": "04324:0101",
   "jp": "マスターキー、\\n婆ちゃん管理のはず",
-  "en": ""
+  "en": "Master Key, supposedly in Granny's keeping."
  },
  {
   "id": "04324:0102",
   "jp": "よっちゃん、婆ちゃんの\\n懐からこっそり借りて、\\nまたこっそり返却？",
-  "en": ""
+  "en": "Yocchan sneakily borrowed it from Granny's bosom, then sneakily returned it?"
  },
  {
   "id": "04324:0103",
   "jp": "あっ、でもシグマ。\\nそうなると執事の部屋を\\n密室にしたのも、",
-  "en": ""
+  "en": "Oh, but Sigma. Then does that mean locking up the butler's room"
  },
  {
   "id": "04324:0104",
   "jp": "佳子がやったってこと？",
-  "en": ""
+  "en": "was Yoshiko's doing too?"
  },
  {
   "id": "04324:0105",
   "jp": "マスターキーは大婆が\\nずっと持ってたんだし、",
-  "en": ""
+  "en": "Obaba had the Master Key the whole time,"
  },
  {
   "id": "04324:0106",
   "jp": "こっそり借りて、\\nまたこっそり返した、\\nとでも言うわけ？",
-  "en": ""
+  "en": "so are you saying she secretly borrowed it and secretly gave it back?"
  },
  {
   "id": "04324:0107",
   "jp": "いや、その必要はないよ",
-  "en": ""
+  "en": "No, there was no need for that."
  },
  {
   "id": "04324:0108",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04324:0109",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04324:0110",
   "jp": "ええっ？",
-  "en": ""
+  "en": "Whaaat?"
  },
  {
   "id": "04324:0111",
   "jp": "執事の部屋の前に\\nあった血痕。\\nこれが何よりの証拠さ",
-  "en": ""
+  "en": "The bloodstain in front of the butler's room. That's the best proof of all."
  },
  {
   "id": "04324:0112",
   "jp": "どういうこと？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "04324:0113",
@@ -572,727 +572,727 @@
  {
   "id": "04324:0114",
   "jp": "訳わかんない",
-  "en": ""
+  "en": "I don't get it."
  },
  {
   "id": "04324:0115",
   "jp": "銃声があれだけ大きく\\n鳴り響いたことからも\\nわかるように、",
-  "en": ""
+  "en": "As we can tell from how loudly the gunshot rang out,"
  },
  {
   "id": "04324:0116",
   "jp": "執事は廊下で\\n撃たれたに違いない",
-  "en": ""
+  "en": "the butler must have been shot in the hallway."
  },
  {
   "id": "04324:0117",
   "jp": "そして撃たれた直後、\\n執事にはまだ\\n息があった",
-  "en": ""
+  "en": "And right after being shot, the butler was still breathing."
  },
  {
   "id": "04324:0118",
   "jp": "じゃあ、執事さんは、\\n犯人から逃げる為に、\\n自分の部屋へ入って…",
-  "en": ""
+  "en": "Then the butler went into his own room to escape from the culprit..."
  },
  {
   "id": "04324:0119",
   "jp": "迫る$c02殺人鬼$c00。逃げる仮面。\\n仮面は部屋に逃避。\\nそしてそして…",
-  "en": ""
+  "en": "Approaching $c02killer$c00. Fleeing Mask. Mask escapes into room. And then, and then..."
  },
  {
   "id": "04324:0120",
   "jp": "じゃあ、執事は、犯人から\\n逃げようと、自分の\\n部屋へ入って…",
-  "en": ""
+  "en": "So the butler ran into his own room, trying to get away from the culprit..."
  },
  {
   "id": "04324:0121",
   "jp": "そう、自分で鍵を掛け、\\n部屋の中で絶命した",
-  "en": ""
+  "en": "Yes. He locked the door himself and died inside the room."
  },
  {
   "id": "04324:0122",
   "jp": "部屋の外にあったのは、\\n撃たれた時の血痕だね",
-  "en": ""
+  "en": "The blood outside the room was from when he was shot."
  },
  {
   "id": "04324:0123",
   "jp": "なるほど",
-  "en": ""
+  "en": "I see."
  },
  {
   "id": "04324:0124",
   "jp": "腑に落下",
-  "en": ""
+  "en": "Penny: dropped."
  },
  {
   "id": "04324:0125",
   "jp": "ふーん",
-  "en": ""
+  "en": "Hmm."
  },
  {
   "id": "04324:0126",
   "jp": "図らずも密室になった\\nことは、犯人にとって\\n有利に働いたけど",
-  "en": ""
+  "en": "The room becoming locked by chance worked in the culprit's favor, but"
  },
  {
   "id": "04324:0127",
   "jp": "ユリ子の$c02死$c00に関しては、\\nねねが不審を\\n抱いてしまった",
-  "en": ""
+  "en": "regarding Yuriko's $c02death$c00, Nene grew suspicious."
  },
  {
   "id": "04324:0128",
   "jp": "これが大きな誤算\\nだったようだね",
-  "en": ""
+  "en": "That seems to have been a major miscalculation."
  },
  {
   "id": "04324:0129",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Now, let's go."
  },
  {
   "id": "04324:0130",
   "jp": "$c02大逢魔$c00は\\n【静馬の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in [Shizuma's Room]."
  },
  {
   "id": "04324:0131",
   "jp": "うん、そういう\\nことだろうね",
-  "en": ""
+  "en": "Yes, I believe that's how it went."
  },
  {
   "id": "04324:0132",
   "jp": "えー、そうかなぁ？",
-  "en": ""
+  "en": "Ehh, you think so?"
  },
  {
   "id": "04324:0133",
   "jp": "だろうか？",
-  "en": ""
+  "en": "Would that be so?"
  },
  {
   "id": "04324:0134",
   "jp": "あ、それでいいんだ？",
-  "en": ""
+  "en": "Oh, you're fine with that?"
  },
  {
   "id": "04324:0135",
   "jp": "そんなことはないさ、\\n僕の超推理がそういう\\n結論を出したんだ",
-  "en": ""
+  "en": "Of course. My Super Reasoning reached that very conclusion."
  },
  {
   "id": "04324:0136",
   "jp": "それに、執事さんの\\n部屋には鍵が\\nかかってたでしょ？",
-  "en": ""
+  "en": "Besides, the butler's room was locked, wasn't it?"
  },
  {
   "id": "04324:0137",
   "jp": "ふみゅふみゅ。\\nあとあと、仮面の密室は？",
-  "en": ""
+  "en": "Fumyu fumyu. And also, also: the Mask's locked room?"
  },
  {
   "id": "04324:0138",
   "jp": "あとさ、執事の部屋には\\n鍵、かかってたじゃん？\\nあの密室も、",
-  "en": ""
+  "en": "Also, the butler's room was locked, right? That locked room too,"
  },
  {
   "id": "04324:0139",
   "jp": "そうなの？",
-  "en": ""
+  "en": "Is that so?"
  },
  {
   "id": "04324:0140",
   "jp": "そう？",
-  "en": ""
+  "en": "That so?"
  },
  {
   "id": "04324:0141",
   "jp": "えっ、そうなの？",
-  "en": ""
+  "en": "Huh, really?"
  },
  {
   "id": "04324:0142",
   "jp": "ああ、静馬を襲ったのも、\\n執事を襲ったのも、\\nユリ子に違いない",
-  "en": ""
+  "en": "Yes. Yuriko must have attacked both Shizuma and the butler."
  },
  {
   "id": "04324:0143",
   "jp": "でも、ユリ子さんが犯人\\nだとしたら、一体いつ\\n執事さんを撃ったの？",
-  "en": ""
+  "en": "But if Yuriko-san is the culprit, when exactly did she shoot the butler?"
  },
  {
   "id": "04324:0144",
   "jp": "遺体の状態から見て、\\n$c02死$c00んですぐとは思えない\\nって、",
-  "en": ""
+  "en": "Judging from the state of the body, he hadn't just $c02died$c00 -- that's what"
  },
  {
   "id": "04324:0145",
   "jp": "シグマが言ったん\\nだよね？",
-  "en": ""
+  "en": "you said, right, Sigma?"
  },
  {
   "id": "04324:0146",
   "jp": "疑問。\\nユリユリ犯人のとき、\\n執事は何時撃たれた？",
-  "en": ""
+  "en": "Query. With Yuri-Yuri as culprit, when was butler shot?"
  },
  {
   "id": "04324:0147",
   "jp": "ユリユリの遺体、\\n$c02死$c00んでしばらくふう",
-  "en": ""
+  "en": "Yuri-Yuri's body: $c02dead$c00 for a while-fuu."
  },
  {
   "id": "04324:0148",
   "jp": "シグマもそう言った",
-  "en": ""
+  "en": "Sigma said so too."
  },
  {
   "id": "04324:0149",
   "jp": "でもさ、ユリ子が犯人\\nだったら、いつ執事を\\n襲ったってのよ",
-  "en": ""
+  "en": "But if Yuriko's the culprit, when was she supposed to have attacked the butler?"
  },
  {
   "id": "04324:0150",
   "jp": "遺体の状態が、$c02死$c00んで\\nすぐじゃないみたい\\nだって、",
-  "en": ""
+  "en": "Judging by the body, he hadn't just $c02died$c00 --"
  },
  {
   "id": "04324:0151",
   "jp": "シグマが言ったんじゃ\\nなかったっけ？",
-  "en": ""
+  "en": "wasn't that what you said, Sigma?"
  },
  {
   "id": "04324:0152",
   "jp": "そんなこと\\n言ったかな……",
-  "en": ""
+  "en": "Did I say something like that...?"
  },
  {
   "id": "04324:0153",
   "jp": "きっと遺体を発見した\\n３人の勘違いだよ",
-  "en": ""
+  "en": "It must have been a mistake by the three who found the body."
  },
  {
   "id": "04324:0154",
   "jp": "立て続けに人が$c02死$c00んで、\\n気が動転して\\nいたんだろう",
-  "en": ""
+  "en": "With people $c02dying$c00 one after another, they must have been badly shaken."
  },
  {
   "id": "04324:0155",
   "jp": "自分たちが思うよりも、\\n実際はずっと長く\\n執事の部屋に居た、",
-  "en": ""
+  "en": "Perhaps they were really in the butler's room far longer than they thought."
  },
  {
   "id": "04324:0156",
   "jp": "ということも\\nあり得るしね",
-  "en": ""
+  "en": "That's quite possible, after all."
  },
  {
   "id": "04324:0157",
   "jp": "それに、執事さんの\\n部屋には鍵が\\nかかってたでしょ？",
-  "en": ""
+  "en": "Besides, the butler's room was locked, wasn't it?"
  },
  {
   "id": "04324:0158",
   "jp": "マスターキーはずっと\\n大婆様が持ってた、\\nってことだけど……",
-  "en": ""
+  "en": "But Obaba-sama had the Master Key the whole time, supposedly..."
  },
  {
   "id": "04324:0159",
   "jp": "シグマ、も１つ確認。\\n仮面密室$c02殺人$c00事件",
-  "en": ""
+  "en": "Sigma, one more check. The Mask locked-room $c02murder$c00 case."
  },
  {
   "id": "04324:0160",
   "jp": "マスターキー、\\n婆ちゃん管理のはず",
-  "en": ""
+  "en": "Master Key, supposedly in Granny's keeping."
  },
  {
   "id": "04324:0161",
   "jp": "あっ、でもシグマ。\\nそうなると執事の部屋を\\n密室にしたのも、",
-  "en": ""
+  "en": "Oh, but Sigma. Then does that mean locking up the butler's room"
  },
  {
   "id": "04324:0162",
   "jp": "ユリ子がやったっ\\nてこと？",
-  "en": ""
+  "en": "You mean Yuriko did it?"
  },
  {
   "id": "04324:0163",
   "jp": "いや、あの犯行には、\\nマスターキーは\\n必要無いんだ",
-  "en": ""
+  "en": "No, that crime didn't require the Master Key at all."
  },
  {
   "id": "04324:0164",
   "jp": "ユリ子は廊下で執事を\\n撃ち$c02殺$c00し、その場から\\n全速力で駆け去った",
-  "en": ""
+  "en": "Yuriko shot and $c02killed$c00 the butler in the hallway, then fled the scene at full speed."
  },
  {
   "id": "04324:0165",
   "jp": "そこを大婆に目撃\\nされたのさ。\\n単純な事件だね",
-  "en": ""
+  "en": "That's when Obaba saw her. It's a simple case."
  },
  {
   "id": "04324:0166",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Now, let's go."
  },
  {
   "id": "04324:0167",
   "jp": "$c02大逢魔$c00は\\n【ユリ子の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in [Yuriko's Room]."
  },
  {
   "id": "04324:0168",
   "jp": "ああ、何よりも、\\n執事が$c02死亡$c00していた\\n状況から見て、",
-  "en": ""
+  "en": "Yes. Above all, judging from the circumstances of the butler's $c02death$c00,"
  },
  {
   "id": "04324:0169",
   "jp": "マスターキーを所持\\nしていた大婆以外には、\\n犯行は不可能だ",
-  "en": ""
+  "en": "no one but Obaba, who held the Master Key, could have committed the crime."
  },
  {
   "id": "04324:0170",
   "jp": "でも、廊下を走り去って\\nいったユリ子さんは、\\nどう説明するの？",
-  "en": ""
+  "en": "But then how do you explain Yuriko-san running off down the hallway?"
  },
  {
   "id": "04324:0171",
   "jp": "ふみゅ？\\n廊下で一人運動会してた\\nユリユリは何？",
-  "en": ""
+  "en": "Fumyu? Yuri-Yuri holding a one-girl sports day in hallway: what was that?"
  },
  {
   "id": "04324:0172",
   "jp": "えっ、でも、廊下を\\n走ってったユリ子は、\\n一体何だったの？",
-  "en": ""
+  "en": "Wait, but then what on earth was Yuriko doing, running down the hallway?"
  },
  {
   "id": "04324:0173",
   "jp": "あれこそが、大婆による\\nユリ子$c02殺害$c00の現場さ",
-  "en": ""
+  "en": "That was the very scene of Obaba $c02murdering$c00 Yuriko."
  },
  {
   "id": "04324:0174",
   "jp": "えっ？\\nどういうこと？",
-  "en": ""
+  "en": "Huh? What do you mean?"
  },
  {
   "id": "04324:0175",
   "jp": "何故に？",
-  "en": ""
+  "en": "For what reason?"
  },
  {
   "id": "04324:0176",
   "jp": "んー、\\nわっかんないなあ",
-  "en": ""
+  "en": "Hmm, I don't get it at all."
  },
  {
   "id": "04324:0177",
   "jp": "大婆が中庭で茶会を\\n開いたのを\\n覚えているかい？",
-  "en": ""
+  "en": "Do you remember when Obaba held a tea party in the courtyard?"
  },
  {
   "id": "04324:0178",
   "jp": "うん、普通のお茶会\\nだったと思うけど",
-  "en": ""
+  "en": "Yeah, I thought it was just an ordinary tea party."
  },
  {
   "id": "04324:0179",
   "jp": "覚えてる。\\nごくごく平和な出来事",
-  "en": ""
+  "en": "Remembered. Very, very peaceful event."
  },
  {
   "id": "04324:0180",
   "jp": "うん、覚えてるよ。\\n別に普通だった\\nでしょ？",
-  "en": ""
+  "en": "Yeah, I remember. It was perfectly normal, wasn't it?"
  },
  {
   "id": "04324:0181",
   "jp": "あの時、大婆の出した\\n茶に、$c02毒物$c00が混入されて\\nいたんだ",
-  "en": ""
+  "en": "At that time, $c02poison$c00 had been mixed into the tea Obaba served."
  },
  {
   "id": "04324:0182",
   "jp": "$c02毒物$c00……",
-  "en": ""
+  "en": "$c02Poison$c00..."
  },
  {
   "id": "04324:0183",
   "jp": "超スピードで走る$c02毒$c00？",
-  "en": ""
+  "en": "$c02Poison$c00 that runs at super speed?"
  },
  {
   "id": "04324:0184",
   "jp": "$c02毒物$c00？",
-  "en": ""
+  "en": "$c02Poison$c00?"
  },
  {
   "id": "04324:0185",
   "jp": "ハシリドコロ、\\nという植物がある",
-  "en": ""
+  "en": "There is a plant called hashiridokoro."
  },
  {
   "id": "04324:0186",
   "jp": "この植物を食べて\\nしまうと、$c02猛毒$c00が\\n副交感神経に作用して",
-  "en": ""
+  "en": "If one eats this plant, its $c02deadly poison$c00 acts on the parasympathetic nerves,"
  },
  {
   "id": "04324:0187",
   "jp": "錯乱状態に陥り、\\n走り回った挙句、\\n$c02死亡$c00するという",
-  "en": ""
+  "en": "and the victim falls into delirium, runs around wildly, and finally $c02dies$c00, they say."
  },
  {
   "id": "04324:0188",
   "jp": "おそらく、これに類する\\n毒を混ぜ、ユリ子を\\n$c02死$c00に追いやったのさ",
-  "en": ""
+  "en": "Most likely, a similar poison was mixed in, driving Yuriko to her $c02death$c00."
  },
  {
   "id": "04324:0189",
   "jp": "へぇ、そうなんだ",
-  "en": ""
+  "en": "Huh, I see."
  },
  {
   "id": "04324:0190",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04324:0191",
   "jp": "ふーん",
-  "en": ""
+  "en": "Hmm."
  },
  {
   "id": "04324:0192",
   "jp": "これが超推理によって\\n導き出された結論だ",
-  "en": ""
+  "en": "This is the conclusion derived through Super Reasoning."
  },
  {
   "id": "04324:0193",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Now, let's go."
  },
  {
   "id": "04324:0194",
   "jp": "$c02大逢魔$c00は\\n【中庭】\\nにいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in the [Courtyard]."
  },
  {
   "id": "04324:0195",
   "jp": "えっ、そうなんだ？",
-  "en": ""
+  "en": "Huh, really?"
  },
  {
   "id": "04324:0196",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04324:0197",
   "jp": "ホント？",
-  "en": ""
+  "en": "Seriously?"
  },
  {
   "id": "04324:0198",
   "jp": "ああ、今回は銃を使った\\n犯行だからね",
-  "en": ""
+  "en": "Yes. This time, the crime was committed with a gun, after all."
  },
  {
   "id": "04324:0199",
   "jp": "誰にだって静馬を\\n$c02殺害$c00することは\\nできたはずさ",
-  "en": ""
+  "en": "Anyone could have $c02murdered$c00 Shizuma."
  },
  {
   "id": "04324:0200",
   "jp": "でも、それを言ったら、\\n佳子さんよりもっと\\n力の無い、",
-  "en": ""
+  "en": "But by that logic, even someone weaker than Yoshiko-san,"
  },
  {
   "id": "04324:0201",
   "jp": "大婆様やねねちゃんにも\\n犯行は可能よね？",
-  "en": ""
+  "en": "like Obaba-sama or Nene-chan, could have committed the crime, right?"
  },
  {
   "id": "04324:0202",
   "jp": "変。そしたらよっちゃん\\nでなく、もっと弱い",
-  "en": ""
+  "en": "Odd. Then not Yocchan, but someone weaker:"
  },
  {
   "id": "04324:0203",
   "jp": "婆ちゃん、ねねっちでも\\n犯行可能",
-  "en": ""
+  "en": "Granny, Nene-cchi, also capable of crime."
  },
  {
   "id": "04324:0204",
   "jp": "えー、それを言ったら、\\n佳子よりも力の無い、",
-  "en": ""
+  "en": "Ehh, by that logic, even people weaker than Yoshiko,"
  },
  {
   "id": "04324:0205",
   "jp": "大婆やねねにだって\\n犯行は可能でしょ？",
-  "en": ""
+  "en": "like Obaba or Nene, could have done it, right?"
  },
  {
   "id": "04324:0206",
   "jp": "うん、そこが逆に\\n怪しいんだ",
-  "en": ""
+  "en": "Yes. Which, conversely, is exactly what makes it suspicious."
  },
  {
   "id": "04324:0207",
   "jp": "僕の超推理がそういう\\n結論を導き出した",
-  "en": ""
+  "en": "My Super Reasoning led me to that conclusion."
  },
  {
   "id": "04324:0208",
   "jp": "そ、そう……",
-  "en": ""
+  "en": "I-I see..."
  },
  {
   "id": "04324:0209",
   "jp": "なら仕方ない",
-  "en": ""
+  "en": "Then it cannot be helped."
  },
  {
   "id": "04324:0210",
   "jp": "うーん、どうなのかなー",
-  "en": ""
+  "en": "Hmm, I wonder about that..."
  },
  {
   "id": "04324:0211",
   "jp": "…理由って、それだけ？",
-  "en": ""
+  "en": "...Is that really your only reason?"
  },
  {
   "id": "04324:0212",
   "jp": "それだけ？",
-  "en": ""
+  "en": "That is all?"
  },
  {
   "id": "04324:0213",
   "jp": "ホントにちゃんと\\n超推理したんで\\nしょうね？",
-  "en": ""
+  "en": "You did do your Super Reasoning properly, didn't you?"
  },
  {
   "id": "04324:0214",
   "jp": "僕の超推理が\\nそういう結論を\\n導き出したんだ",
-  "en": ""
+  "en": "My Super Reasoning led me to that conclusion."
  },
  {
   "id": "04324:0215",
   "jp": "何も問題は無い",
-  "en": ""
+  "en": "There's no problem whatsoever."
  },
  {
   "id": "04324:0216",
   "jp": "$c02大逢魔$c00は\\n【ねねの部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in [Nene's Room]."
  },
  {
   "id": "04324:0217",
   "jp": "$c02大逢魔$c00は\\n【執事の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in the [Butler's Room]."
  },
  {
   "id": "04324:0218",
   "jp": "ちょ、ちょっと待ってよ",
-  "en": ""
+  "en": "W-wait a second!"
  },
  {
   "id": "04324:0219",
   "jp": "静馬さんが$c02死$c00んだ後も、\\n事件は起きてるよね？",
-  "en": ""
+  "en": "Cases kept happening even after Shizuma-san $c02died$c00, right?"
  },
  {
   "id": "04324:0220",
   "jp": "あれはどういうこと？",
-  "en": ""
+  "en": "What about those?"
  },
  {
   "id": "04324:0221",
   "jp": "シグマ、変",
-  "en": ""
+  "en": "Sigma, odd."
  },
  {
   "id": "04324:0222",
   "jp": "ご頭首、$c02死$c00んだ後でも\\n事件起きてる",
-  "en": ""
+  "en": "The honorable Head $c02dead$c00, cases still happen."
  },
  {
   "id": "04324:0223",
   "jp": "あれは何故？",
-  "en": ""
+  "en": "That: why?"
  },
  {
   "id": "04324:0224",
   "jp": "待った！",
-  "en": ""
+  "en": "Hold it!"
  },
  {
   "id": "04324:0225",
   "jp": "頭首が$c02死$c00んだ後も、\\n事件は起きてるでしょ？",
-  "en": ""
+  "en": "Cases kept happening even after the Head $c02died$c00, didn't they?"
  },
  {
   "id": "04324:0226",
   "jp": "どう説明をつける\\nつもり？",
-  "en": ""
+  "en": "How do you plan to explain that?"
  },
  {
   "id": "04324:0227",
   "jp": "ああ、確かに静馬は\\n$c02死亡$c00していた",
-  "en": ""
+  "en": "Yes, Shizuma was certainly $c02dead$c00."
  },
  {
   "id": "04324:0228",
   "jp": "だけど、こう考えて\\nみたらどうだろう",
-  "en": ""
+  "en": "But what if we think of it like this?"
  },
  {
   "id": "04324:0229",
   "jp": "例えば、\\nある時間になると、",
-  "en": ""
+  "en": "Say, for example, that when a certain time came,"
  },
  {
   "id": "04324:0230",
   "jp": "自動で弾丸を\\n撃ち出すような\\n装置を仕掛けるんだ",
-  "en": ""
+  "en": "a device he'd planted fired a bullet automatically."
  },
  {
   "id": "04324:0231",
   "jp": "これなら、死亡した後に\\nだって、$c02殺人$c00を犯す\\nことはできるさ",
-  "en": ""
+  "en": "That way, he could commit $c02murder$c00 even after his own death."
  },
  {
   "id": "04324:0232",
   "jp": "それで、静馬さん自身は\\nどうして$c02死$c00ななきゃ\\nならないのよ",
-  "en": ""
+  "en": "And why would Shizuma-san himself have to $c02die$c00, then?"
  },
  {
   "id": "04324:0233",
   "jp": "例えば、装置。\\nご頭首自身は何故？",
-  "en": ""
+  "en": "Device, for example. Honorable Head himself, why?"
  },
  {
   "id": "04324:0234",
   "jp": "はいはい。\\nんで、頭首自身は\\nなんで$c02死$c00んだっての？",
-  "en": ""
+  "en": "Yeah, yeah. So why did the Head himself $c02die$c00, then?"
  },
  {
   "id": "04324:0235",
   "jp": "あれは事故さ",
-  "en": ""
+  "en": "That was an accident."
  },
  {
   "id": "04324:0236",
   "jp": "事故？",
-  "en": ""
+  "en": "An accident?"
  },
  {
   "id": "04324:0237",
   "jp": "フリョノ？",
-  "en": ""
+  "en": "Unforeseen?"
  },
  {
   "id": "04324:0238",
   "jp": "事故ねぇ",
-  "en": ""
+  "en": "An accident, huh."
  },
  {
   "id": "04324:0239",
   "jp": "ああ、もし静馬が\\n今言ったような装置を\\n仕掛けたとしたら、",
-  "en": ""
+  "en": "Yes. If Shizuma had set up the kind of device I just described,"
  },
  {
   "id": "04324:0240",
   "jp": "当然、ちゃんと動作するか、\\nテストを行う必要が\\nあるよね",
-  "en": ""
+  "en": "naturally, he'd need to test whether it worked properly."
  },
  {
   "id": "04324:0241",
   "jp": "はぁ",
-  "en": ""
+  "en": "Uh-huh."
  },
  {
   "id": "04324:0242",
   "jp": "テスト？",
-  "en": ""
+  "en": "Test?"
  },
  {
   "id": "04324:0243",
   "jp": "あー、そう",
-  "en": ""
+  "en": "Oh, is that so."
  },
  {
   "id": "04324:0244",
   "jp": "館内に装置を仕掛け、\\n自分の部屋に戻った",
-  "en": ""
+  "en": "He planted the device in the mansion and returned to his own room."
  },
  {
   "id": "04324:0245",
   "jp": "しかしそこでテスト用に\\n仕掛けていた装置が\\n動き出し、静馬を撃った",
-  "en": ""
+  "en": "But then the device he'd set up for the test started up and shot Shizuma."
  },
  {
   "id": "04324:0246",
   "jp": "超推理はこういう結論を\\n導き出したのさ",
-  "en": ""
+  "en": "That's the conclusion Super Reasoning arrived at."
  },
  {
   "id": "04324:0247",
   "jp": "やはり犯行は\\n$c02逢魔$c00の仕業だろう",
-  "en": ""
+  "en": "As expected, the crimes must be the work of the $c02Ouma$c00."
  },
  {
   "id": "04324:0248",
   "jp": "それ以外には\\n考えられない",
-  "en": ""
+  "en": "Nothing else is conceivable."
  },
  {
   "id": "04324:0249",
   "jp": "$c02大逢魔$c00は、最も\\n事件に影響を及ぼした\\n場所にいるはずだ",
-  "en": ""
+  "en": "The $c02Great Ouma$c00 should be in the place the cases affected most."
  },
  {
   "id": "04324:0250",
   "jp": "というより、\\nそもそも事件など\\n起きていない",
-  "en": ""
+  "en": "Or rather, no case ever happened in the first place."
  },
  {
   "id": "04324:0251",
   "jp": "問題はそう、\\nあのお茶にあったんだ",
-  "en": ""
+  "en": "The problem, you see, lay in that tea."
  },
  {
   "id": "04324:0252",
   "jp": "ど、どういうこと？",
-  "en": ""
+  "en": "Wh-what do you mean?"
  },
  {
   "id": "04324:0253",
   "jp": "シグマ、真面目に\\n話してるか？",
-  "en": ""
+  "en": "Sigma, speaking in earnest?"
  },
  {
   "id": "04324:0254",
   "jp": "何？何それ？",
-  "en": ""
+  "en": "What? What's that supposed to mean?"
  },
  {
   "id": "04324:0255",
   "jp": "どういった理由からかは\\nわからないけれど、",
-  "en": ""
+  "en": "I don't know for what reason,"
  },
  {
   "id": "04324:0256",
   "jp": "大婆、ねね、ユリ子、\\nそして佳子の飲んだ\\nお茶に、",
-  "en": ""
+  "en": "but in the tea drunk by Obaba, Nene, Yuriko and Yoshiko,"
  },
  {
   "id": "04324:0257",
   "jp": "偶然にも幻覚作用を\\n引き起こすような",
-  "en": ""
+  "en": "by pure chance, an ingredient"
  },
  {
   "id": "04324:0258",
   "jp": "成分が紛れ込んで\\nいたんだ",
-  "en": ""
+  "en": "that induces hallucinations had gotten mixed in."
  },
  {
   "id": "04324:0259",
@@ -1312,62 +1312,62 @@
  {
   "id": "04324:0262",
   "jp": "意識が低下し、\\n感覚に異常をきたした\\n状態で、",
-  "en": ""
+  "en": "With their consciousness dulled and their senses impaired,"
  },
  {
   "id": "04324:0263",
   "jp": "誰かが$c02死体$c00を発見した、\\nと言いだすことにより、",
-  "en": ""
+  "en": "someone claimed to have found a $c02corpse$c00,"
  },
  {
   "id": "04324:0264",
   "jp": "その恐怖が、他の人物\\nにも連鎖的に\\n伝播していった",
-  "en": ""
+  "en": "and that fear spread to the others in a chain reaction."
  },
  {
   "id": "04324:0265",
   "jp": "いわゆる集団催眠の\\nような状態だね",
-  "en": ""
+  "en": "A state much like so-called mass hypnosis."
  },
  {
   "id": "04324:0266",
   "jp": "つまり？",
-  "en": ""
+  "en": "Meaning?"
  },
  {
   "id": "04324:0267",
   "jp": "私もそう思ってたトコロ",
-  "en": ""
+  "en": "Precisely what I was thinking."
  },
  {
   "id": "04324:0268",
   "jp": "はぁ、……それで？",
-  "en": ""
+  "en": "Uh... and?"
  },
  {
   "id": "04324:0269",
   "jp": "はじめから$c02殺人$c00なんて\\n起きていない",
-  "en": ""
+  "en": "No $c02murder$c00 happened in the first place."
  },
  {
   "id": "04324:0270",
   "jp": "彼らの見た事件は\\nすべて幻だった、\\nというわけさ",
-  "en": ""
+  "en": "All the cases they saw were illusions, you see."
  },
  {
   "id": "04324:0271",
   "jp": "その$c02逢魔$c00、放っておいて\\n大丈夫じゃない？",
-  "en": ""
+  "en": "Then can't we just leave that $c02Ouma$c00 alone?"
  },
  {
   "id": "04324:0272",
   "jp": "とっとと行こう",
-  "en": ""
+  "en": "Let us go, quickly."
  },
  {
   "id": "04324:0273",
   "jp": "しょーがない、やろうか",
-  "en": ""
+  "en": "Oh well, guess we'll do it."
  },
  {
   "id": "04324:0274",
@@ -1377,7 +1377,7 @@
  {
   "id": "04324:0275",
   "jp": "一体、何が\\n起きているのでしょう",
-  "en": ""
+  "en": "What on earth could be happening?"
  },
  {
   "id": "04324:0276",
@@ -1397,16 +1397,16 @@
  {
   "id": "04324:0279",
   "jp": "それが宜しいかと",
-  "en": ""
+  "en": "I believe that would be best."
  },
  {
   "id": "04324:0280",
   "jp": "ユリユリ、婆ちゃんの\\n懐からこっそり借りて、\\nまたこっそり返却？",
-  "en": ""
+  "en": "Yuri-Yuri secretly borrow from Granny's pocket, then secretly return?"
  },
  {
   "id": "04324:0281",
   "jp": "ユリ子がやったってこと？",
-  "en": ""
+  "en": "You mean Yuriko did it?"
  }
 ]
