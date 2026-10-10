@@ -17,6 +17,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import fit  # noqa: E402
 import latin  # noqa: E402
+import nftr  # noqa: E402
 import text  # noqa: E402
 
 ROOT = text.ROOT
@@ -35,16 +36,17 @@ def meta():
     _, c = text.load_rom()
     byid = {f['id']: f for f in c.files}
     out = {}
-    for fid in text.load_script():
+    script = text.load_script()
+    for fid in script:
         prev = byid.get(fid - 1)
         head = c.get(prev)[:8] if prev and prev['usize'] else b''
-        if head[:4] == b'RTFN':
-            x = c.get(prev)
-            out[fid] = {'form': 'ui', 'font': fid - 1, 'cell': _cell(x)}
+        jp = {ord(ch) for r in script[fid] for ch in r['jp'] if JP.match(ch)}
+        if head[:4] == b'RTFN' and len(jp & nftr.codes(c.get(prev))) >= len(jp) / 2:
+            out[fid] = {'form': 'ui', 'font': fid - 1, 'cell': _cell(c.get(prev))}
         elif head == b'Sigma000':
             out[fid] = {'form': 'dlg', 'font': 4387, 'cell': 16}
-        else:
-            out[fid] = {'form': 'ui', 'font': None, 'cell': 10}
+        else:  # no font of its own, or one that can't draw its text: assume the main 16 px font
+            out[fid] = {'form': 'ui', 'font': 4387, 'cell': 16}
     META.parent.mkdir(exist_ok=True)
     META.write_text(json.dumps(out, indent=0), encoding='utf-8', newline='\n')
     print(f'meta: {len(out)} tables -> {META}')
@@ -63,12 +65,31 @@ def is_text(jp):
     return bool(JP.search(jp))
 
 
+UI_WINDOW = 100     # a UI row may use the widest JP line among its table neighbours: list boxes fit their longest entry
+_ui_budget = {}
+
+
+def _jp_budget(jp, cell):
+    lines = jp.split(fit.NL)
+    return len(lines), max(len(fit.CODE.sub('', ln)) for ln in lines) * (cell + fit.GAP)
+
+
 def limit_of(row, m):
     """(lines, px) budget for a row."""
     if m['form'] == 'dlg':
         return fit.DLG_LINES, fit.DLG_PX
-    lines = row['jp'].split(fit.NL)
-    return len(lines), max(len(fit.CODE.sub('', ln)) for ln in lines) * (m['cell'] + fit.GAP)
+    if not _ui_budget:
+        for rows in text.load_script().values():
+            for k, r in enumerate(rows):
+                _ui_budget[r['id']] = [r2['jp'] for r2 in rows[max(0, k - UI_WINDOW):k + UI_WINDOW + 1]
+                                       if is_text(r2['jp'])]
+    near = [_jp_budget(jp, m['cell']) for jp in _ui_budget.get(row['id'], [row['jp']])] or [_jp_budget(row['jp'], m['cell'])]
+    px = max(px for _, px in near)
+    return max(n for n, _ in near), max(px, PROVISIONAL.get(int(row['id'][:5]), 0))
+
+
+# Location-name tables: full names don't fit the JP-sized budget; box width unverified in game (docs/re/verify.md)
+PROVISIONAL = {4700: 150, 4708: 150, 6413: 180}
 
 
 def errors(row, en, m):
@@ -117,7 +138,7 @@ def term_errors(jp, en, terms):
         if tj not in jp:
             continue
         jp = jp.replace(tj, '\0')  # a longer term owns its span (時の調律者 is not 時の調律)
-        if te.lower() not in en.lower():
+        if not any(v.strip().lower() in en.lower() for v in te.split(';')):  # ';' lists accepted short forms
             out.append(f'glossary: {tj} -> {te} missing')
         for a in avoid:
             if a and re.search(r'\b' + re.escape(a) + r'\b', en):
@@ -221,18 +242,19 @@ def merge(name):
         sys.exit(f'merge {name}: refused (fix the errors above)')
     out = read_out(name)
     script = text.load_script()
-    by_jp = {}
+    m = load_meta()
+    by_jp = {}  # keyed by font too: the same JP in a smaller UI font needs its own (shorter) English
     for fid, rs in script.items():
         for r in rs:
             if r['id'] in out:
                 r['en'] = out[r['id']]
                 if len(r['jp']) >= TM_MIN:
-                    by_jp[r['jp']] = r['en']
+                    by_jp[r['jp'], m[fid]['font']] = r['en']
     n = len(out)
     for fid, rs in script.items():
         for r in rs:
-            if not r['en'] and r['jp'] in by_jp:
-                r['en'] = by_jp[r['jp']]
+            if not r['en'] and (r['jp'], m[fid]['font']) in by_jp:
+                r['en'] = by_jp[r['jp'], m[fid]['font']]
                 n += 1
     for fid, rs in script.items():
         path = text.SCRIPT / f'{fid:05d}.json'

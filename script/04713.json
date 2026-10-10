@@ -12,7 +12,7 @@
  {
   "id": "04713:0002",
   "jp": "《停止》\\n業逢魔や神霊の動きを\\nしばらく停止させる",
-  "en": ""
+  "en": "<Stop>\\nStops Karma Ouma and\\nDivine Spirits briefly."
  },
  {
   "id": "04713:0003",
@@ -37,7 +37,7 @@
  {
   "id": "04713:0007",
   "jp": "《看破》\\n魂の影を探し出す",
-  "en": ""
+  "en": "<Insight>\\nFind Soul Shadows."
  },
  {
   "id": "04713:0008",

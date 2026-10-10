@@ -2,12 +2,12 @@
  {
   "id": "04398:0000",
   "jp": "！？\\nそうか……",
-  "en": ""
+  "en": "?! I see..."
  },
  {
   "id": "04398:0001",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04398:0002",
@@ -17,262 +17,262 @@
  {
   "id": "04398:0003",
   "jp": "さぁ、真実を\\n解き明かそう……",
-  "en": ""
+  "en": "Now, let's unravel the truth..."
  },
  {
   "id": "04398:0004",
   "jp": "まずは、ユリ子$c02殺害$c00に\\nついて考えてみよう",
-  "en": ""
+  "en": "First, let's think about Yuriko's $c02murder$c00."
  },
  {
   "id": "04398:0005",
   "jp": "彼女が$c02殺$c00された事件で\\n最大の謎があるはずだ",
-  "en": ""
+  "en": "The case where she was $c02killed$c00 should hold one greatest mystery."
  },
  {
   "id": "04398:0006",
   "jp": "最初の闇に\\nそれをあてはめて\\n始めてみよう",
-  "en": ""
+  "en": "Let's apply it to the first Darkness and begin."
  },
  {
   "id": "04398:0007",
   "jp": "推理スタート\\n　　（仮）",
-  "en": ""
+  "en": "Reasoning Start (temp)"
  },
  {
   "id": "04398:0008",
   "jp": "新たな闇に必要な\\n刻音は２つ\\nこれは思考連鎖になる",
-  "en": ""
+  "en": "The new Darkness needs two Echoes. This will be a Chain of Thought."
  },
  {
   "id": "04398:0009",
   "jp": "そう、ねねの証言では\\nユリ子は《２階》に\\nいたはず",
-  "en": ""
+  "en": "Yes, by Nene's testimony, Yuriko should have been on the <second floor>."
  },
  {
   "id": "04398:0010",
   "jp": "しかし、遺体は\\n《１階》にある\\n列車の中で見つかった",
-  "en": ""
+  "en": "But her body was found inside the train on the <first floor>."
  },
  {
   "id": "04398:0011",
   "jp": "もちろん、彼女は\\nねね以外にも\\n目撃されていない",
-  "en": ""
+  "en": "And of course, no one besides Nene saw her, either."
  },
  {
   "id": "04398:0012",
   "jp": "？？\\nそう……だったかな？",
-  "en": ""
+  "en": "?? Was that... how it was?"
  },
  {
   "id": "04398:0013",
   "jp": "とりあえず、\\nこれで推理を\\n進めてみるか……",
-  "en": ""
+  "en": "For now, let's push the reasoning forward with this..."
  },
  {
   "id": "04398:0014",
   "jp": "次は、犯人でも\\n考えてみるか？",
-  "en": ""
+  "en": "Next, maybe I should think about the culprit?"
  },
  {
   "id": "04398:0015",
   "jp": "ダメだ、見えてこない\\n結論を急ぐか……？\\n犯人は……",
-  "en": ""
+  "en": "No good, I can't see it. Should I rush to a conclusion...? The culprit is..."
  },
  {
   "id": "04398:0016",
   "jp": "現れた闇を\\nタッチして\\n推理を進めよう",
-  "en": ""
+  "en": "Touch the Darkness that appeared to advance your reasoning."
  },
  {
   "id": "04398:0017",
   "jp": "前提として\\nねねの話は\\n本当だろうか？",
-  "en": ""
+  "en": "First, as a premise: is Nene's story true?"
  },
  {
   "id": "04398:0018",
   "jp": "犯人は誰だろうか？",
-  "en": ""
+  "en": "Who is the culprit?"
  },
  {
   "id": "04398:0019",
   "jp": "ここの答えは\\n《ＹＥＳかＮＯ》\\nだった……ん？",
-  "en": ""
+  "en": "The answer here was <YES or NO>... Hm?"
  },
  {
   "id": "04398:0020",
   "jp": "ここは犯人だと思う\\n【人物刻音】を\\n置く……ん？",
-  "en": ""
+  "en": "Here I place the [Person Echo] of whoever I think is the culprit... Hm?"
  },
  {
   "id": "04398:0021",
   "jp": "彼女の話は本当だろう。\\nそれを示してそうな\\n刻音は……",
-  "en": ""
+  "en": "Her story is probably true. The Echo that seems to show it is..."
  },
  {
   "id": "04398:0022",
   "jp": "それに、\\n彼女の話は本当のはず",
-  "en": ""
+  "en": "Besides, her story should be true."
  },
  {
   "id": "04398:0023",
   "jp": "それを示してそうな\\n刻音は……",
-  "en": ""
+  "en": "The Echo that seems to show it is..."
  },
  {
   "id": "04398:0024",
   "jp": "彼女の話は\\n嘘かもしれない",
-  "en": ""
+  "en": "Her story might be a lie."
  },
  {
   "id": "04398:0025",
   "jp": "それを示しそうな\\n刻音はどれだ？",
-  "en": ""
+  "en": "Which Echo might show that?"
  },
  {
   "id": "04398:0026",
   "jp": "そう、ユリ子が\\n２階にいったのは、\\n僕らも刻音にしている",
-  "en": ""
+  "en": "Yes, we even made an Echo of Yuriko going to the second floor."
  },
  {
   "id": "04398:0027",
   "jp": "他には、佳子が\\n２階から１階へ\\n下りただけ",
-  "en": ""
+  "en": "Other than that, Yoshiko only came down from the second floor to the first."
  },
  {
   "id": "04398:0028",
   "jp": "この証言は\\n譲葉も《嘘はない》と\\n認めている",
-  "en": ""
+  "en": "Yuzuriha also confirmed there's <no lie> in this testimony."
  },
  {
   "id": "04398:0029",
   "jp": "１階には\\nねねと佳子",
-  "en": ""
+  "en": "On the first floor were Nene and Yoshiko."
  },
  {
   "id": "04398:0030",
   "jp": "２階には\\n静馬、執事、大婆、\\nそしてユリ子がいた",
-  "en": ""
+  "en": "On the second floor were Shizuma, the butler, Obaba, and Yuriko."
  },
  {
   "id": "04398:0031",
   "jp": "確かにねねが、\\nどう言おうと、",
-  "en": ""
+  "en": "True, no matter what Nene says,"
  },
  {
   "id": "04398:0032",
   "jp": "ユリ子の遺体は\\n１階で見つかっている",
-  "en": ""
+  "en": "Yuriko's body was found on the first floor."
  },
  {
   "id": "04398:0033",
   "jp": "佳子が１階にいた\\nこれも事実だ",
-  "en": ""
+  "en": "Yoshiko was on the first floor. That's a fact too."
  },
  {
   "id": "04398:0034",
   "jp": "そもそも、佳子も\\n１階にいたわけだし",
-  "en": ""
+  "en": "In the first place, Yoshiko was on the first floor too."
  },
  {
   "id": "04398:0035",
   "jp": "ねねの証言だけを\\n鵜呑みにしても\\nしょうがない",
-  "en": ""
+  "en": "There's no point swallowing Nene's testimony whole."
  },
  {
   "id": "04398:0036",
   "jp": "闇を払った刻音は\\nねねの話の真偽とは",
-  "en": ""
+  "en": "As for whether Nene's story is true, the Echo that dispelled the Darkness"
  },
  {
   "id": "04398:0037",
   "jp": "関係はないように\\n感じるが……",
-  "en": ""
+  "en": "feels unrelated to it, but..."
  },
  {
   "id": "04398:0038",
   "jp": "ねねの嘘を示す\\n刻音だとは\\n感じないが……",
-  "en": ""
+  "en": "I don't feel this Echo shows that Nene lied, but..."
  },
  {
   "id": "04398:0039",
   "jp": "新たな闇に必要な\\n刻音は１個？！\\n思考連鎖になる！",
-  "en": ""
+  "en": "The new Darkness needs one Echo?! It's a Chain of Thought!"
  },
  {
   "id": "04398:0040",
   "jp": "新たな闇に必要な\\n刻音は２個？！\\n思考連鎖になる！",
-  "en": ""
+  "en": "The new Darkness needs two Echoes?! It's a Chain of Thought!"
  },
  {
   "id": "04398:0041",
   "jp": "ユリ子は１階と２階、\\nどちらで$c02殺$c00されたのか？",
-  "en": ""
+  "en": "Was Yuriko $c02killed$c00 on the first floor or the second?"
  },
  {
   "id": "04398:0042",
   "jp": "どちらにしても\\nその痕跡やできごと\\nがありそうだ",
-  "en": ""
+  "en": "Either way, there should be traces or events left behind."
  },
  {
   "id": "04398:0043",
   "jp": "すると、犯人は\\n１階にいた……？",
-  "en": ""
+  "en": "Then the culprit was on the first floor...?"
  },
  {
   "id": "04398:0044",
   "jp": "この刻音……",
-  "en": ""
+  "en": "This Echo..."
  },
  {
   "id": "04398:0045",
   "jp": "そう……何かが\\n落ちるような物音",
-  "en": ""
+  "en": "Yes... a noise like something falling."
  },
  {
   "id": "04398:0046",
   "jp": "そうか……何かが\\n落ちるような物音",
-  "en": ""
+  "en": "I see... a noise like something falling."
  },
  {
   "id": "04398:0047",
   "jp": "列車の上にできていた\\n血だまりのような染み",
-  "en": ""
+  "en": "A stain like a pool of blood on top of the train."
  },
  {
   "id": "04398:0048",
   "jp": "そして、千切れたツタ",
-  "en": ""
+  "en": "And the torn vine."
  },
  {
   "id": "04398:0049",
   "jp": "これは、ユリ子が\\n２階から落とされたと\\nいうことかもしれない",
-  "en": ""
+  "en": "This may mean Yuriko was pushed from the second floor."
  },
  {
   "id": "04398:0050",
   "jp": "更に落とした人物は\\n２階からツタを\\n伝って……？",
-  "en": ""
+  "en": "And the one who pushed her went down the vine from the second floor...?"
  },
  {
   "id": "04398:0051",
   "jp": "しかし、その後、\\nねねが２階に行き……",
-  "en": ""
+  "en": "But after that, Nene went to the second floor..."
  },
  {
   "id": "04398:0052",
   "jp": "生まれた刻音が\\nその場に刻まれず\\n手に入った……",
-  "en": ""
+  "en": "The Echo that was born didn't settle into place; it came into my hands instead..."
  },
  {
   "id": "04398:0053",
   "jp": "こういう刻音は\\n他の闇に強く\\n引かれている証拠",
-  "en": ""
+  "en": "An Echo like this is proof it's strongly drawn to another Darkness."
  },
  {
   "id": "04398:0054",
   "jp": "これは後に生まれる\\n闇に使ってみよう",
-  "en": ""
+  "en": "Let's use it on a Darkness born later."
  },
  {
   "id": "04398:0055",
@@ -282,57 +282,57 @@
  {
   "id": "04398:0056",
   "jp": "ダメだ、この刻音の\\n組み合わせでは\\n上手く推理できない",
-  "en": ""
+  "en": "No good, I can't reason it out with this combination of Echoes."
  },
  {
   "id": "04398:0057",
   "jp": "次に進んで\\nしまうか……？",
-  "en": ""
+  "en": "Should I just move on...?"
  },
  {
   "id": "04398:0058",
   "jp": "ダメだ、これだけでは\\n可能性を絞り込めない",
-  "en": ""
+  "en": "No good, this alone can't narrow down the possibilities."
  },
  {
   "id": "04398:0059",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04398:0060",
   "jp": "式札に変化が……？",
-  "en": ""
+  "en": "Something's changing on the Shiki Card...?"
  },
  {
   "id": "04398:0061",
   "jp": "他の時間への\\n道ができたみたいだ",
-  "en": ""
+  "en": "It looks like a path to another time has opened."
  },
  {
   "id": "04398:0062",
   "jp": "大時計で時紡ぎをして、\\n他の時間の刻音も\\n集めてみよう",
-  "en": ""
+  "en": "Let's use Time Weaving at the Great Clock to gather Echoes from other times."
  },
  {
   "id": "04398:0063",
   "jp": "そう、\\n静馬と執事は\\n娯楽室にいた",
-  "en": ""
+  "en": "Right, Shizuma and the butler were in the game room."
  },
  {
   "id": "04398:0064",
   "jp": "大婆も譲葉の質問に\\nずっと部屋にいたと\\n言っている",
-  "en": ""
+  "en": "Obaba also told Yuzuriha's questioning she was in her room the whole time."
  },
  {
   "id": "04398:0065",
   "jp": "やはり、この事件だけ\\n見ていても\\n結論はでない",
-  "en": ""
+  "en": "As I thought, looking at this case alone won't lead to a conclusion."
  },
  {
   "id": "04398:0066",
   "jp": "静馬$c02殺害$c00のことを\\n考えるために\\n次の階層に進もう",
-  "en": ""
+  "en": "To think about Shizuma's $c02murder$c00, let's move on to the next layer."
  },
  {
   "id": "04398:0067",

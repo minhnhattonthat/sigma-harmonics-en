@@ -40,7 +40,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 | 法水シグマ | Sigma Housui | | | |
 | 守人乱歩 | Ranpo Morito | | | |
 | 美巫女 | Mimiko | | | |
-| 黒上頭首 | Head of the Kurogami | | | |
+| 黒上頭首 | Head of the Kurogami; the Head | | | |
 | 執事 | butler | | | |
 | 仮面の執事 | Masked Butler | | | |
 | 黒衣の男 | Man in Black | | | |
@@ -88,7 +88,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 | 時渡り | Time Walk | | | |
 | 魂の影 | Soul Shadow | | | |
 | 真実への欠片 | Shard of Truth | | | |
-| 思考の闇 | Darkness of Thought | | black circles on the Super Reasoning screen | |
+| 思考の闇 | Darkness of Thought; Darkness | | short form only in tight UI labels; black circles on the Super Reasoning screen | |
 | 過去の変革者 | Changer of the Past | | | |
 | 変革者 | Changer | | full title: Changer of the Past (過去の変革者) / Changer of Time (時の変革者) | |
 | 平行世界 | parallel world | | read "harmonics" in the glossary | |
@@ -115,7 +115,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 - b001/b003 潜在式力 -> Latent Shiki Power; ＳＰ変化役 -> SP Bonus; 札置き場 -> card slot; 時の結界 -> <Barrier of Time>;
   神楽 -> <Kagura>; 追攻撃 -> Follow-up Attack; <Full Command>/<Double Line>/<Single Line>/<Quick Turn>; フィールド -> Field;
   東京区 -> Tokyo Ward; 黒上の御曹司 -> the Kurogami heir; 源流/本流 -> original line/main line.
-- b001/b003 titles: 時空の札使い -> Card Wielder of Space-Time; 闇を切る騎士 -> Knight Who Cleaves the Dark;
+- b001/b003 titles: 時空の札使い -> Card Wielder of Space-Time; 闇を切る騎士 -> Dark-Cleaving Knight;
   冒険する狙撃手 -> Adventuring Sniper; 繰り返す事件 -> Recurring Cases. 【曲】 -> [Song].
 - b002 心の残滓 -> <Heart Residue>; 結界の歯車 -> <Barrier Gears>; 隙間の世界 -> <In-Between World>; 神力 -> <Divine Power>;
   風使い -> Wind Wielder; 看破 -> <Insight>; 魔が差す -> touched by evil (partner of "stung by evil"); 同位元素 -> isotopes.
@@ -131,8 +131,8 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   結界師 -> barrier master; よし！ならなら -> "Right! Well then, well then!"; だみー -> Dummy.
 - b005/b006 封術の縄 -> Sealing Rope; ラウドバンコラン -> Loud Bencolin; ミス・エルキュル -> Miss Hercule; 叙述トリック -> Narrative Trick;
   神代 -> Age of the Gods; 式紙 -> shikigami; 国之常立神 -> Kuninotokotachi; 月読 -> Tsukuyomi; オルトゴール -> Ortgol;
-  ♭ペンデュラム -> Flat Pendulum; 偉大なりし術者 -> Grand Sorcerer; 真実に挑む銃手 -> Gunner Who Challenges Truth;
-  歴史を導く剣匠 -> Swordmaster Who Guides History; 神聖機関銃少女 -> Holy Machine-Gun Girl; 天然少女剣士 -> Airhead Swordgirl;
+  ♭ペンデュラム -> Flat Pendulum; 偉大なりし術者 -> Grand Sorcerer; 真実に挑む銃手 -> Truth-Challenging Gunner;
+  歴史を導く剣匠 -> History-Guiding Swordmaster; 神聖機関銃少女 -> Holy Machine-Gun Girl; 天然少女剣士 -> Airhead Swordgirl;
   麗しの魔法娘々 -> Lovely Magical Nyan-Nyan; 月弓シグマ -> Sigma Tsukiyumi; 月弓音音 -> Nene Tsukiyumi; 黒上ゆう -> Yuu Kurogami;
   黒上のシグマ -> Sigma of the Kurogami; 調律者・シグマ -> Tuner: Sigma; 時の爆発 -> Time Explosion; 倍音 -> overtones.
 - b018-b025 玉突き -> billiards ("ball game" joke); ハーモニクス（平行世界） -> Harmonics (parallel worlds); ～ふう tic -> "-fuu" (e.g. "Who-fuu?");
