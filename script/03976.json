@@ -87,7 +87,7 @@
  {
   "id": "03976:0017",
   "jp": "逢魔は人の意志に\\n【魔を刺し】\\n人を狂気へ走らせる",
-  "en": "Ouma [sow evil] in people's wills and drive them to madness."
+  "en": "Ouma [sting people's wills with evil] and drive them to madness."
  },
  {
   "id": "03976:0018",
@@ -162,7 +162,7 @@
  {
   "id": "03976:0032",
   "jp": "あれ？なんで１人じゃ\\nダメなんだっけな？",
-  "en": "Huh? Why was it that one person can't do it again?"
+  "en": "Huh? Why couldn't one person do it, again?"
  },
  {
   "id": "03976:0033",
@@ -227,17 +227,17 @@
  {
   "id": "03976:0045",
   "jp": "現在は【黒上財閥】が\\n運営する【黒上学園】に\\n通う高校生",
-  "en": "He attends [Kurogami Academy], run by the [Kurogami Zaibatsu]."
+  "en": "Now a high schooler at [Kurogami Academy], run by the [Kurogami Zaibatsu]."
  },
  {
   "id": "03976:0046",
   "jp": "学校内では\\n勝手気ままの行動と\\n「黒上の御曹司」",
-  "en": "At school he is known for doing as he pleases, as \"the Kurogami heir,\""
+  "en": "At school he's famous for his willful ways, for being \"the Kurogami heir,\""
  },
  {
   "id": "03976:0047",
   "jp": "「月弓ネオンを\\nドーナッツで餌付け\\nしている」として有名",
-  "en": "and as \"the one who tames Neon Tsukiyumi with donuts.\""
+  "en": "and for \"taming Neon Tsukiyumi with donuts.\""
  },
  {
   "id": "03976:0048",
@@ -402,7 +402,7 @@
  {
   "id": "03976:0080",
   "jp": "【札使い】が感じ取る\\n超自然的な意志や\\n力の方向性",
-  "en": "Supernatural wills and directions of power sensed by [Card Wielders]."
+  "en": "Supernatural wills and currents of power sensed by [Card Wielders]."
  },
  {
   "id": "03976:0081",
@@ -432,12 +432,12 @@
  {
   "id": "03976:0086",
   "jp": "草木に眠る\\n静かな気だったり",
-  "en": "like quiet spirits sleeping in plants and trees,"
+  "en": "like quiet energy sleeping in plants and trees,"
  },
  {
   "id": "03976:0087",
   "jp": "天空に漂う\\n荒ぶる気だったり",
-  "en": "or raging spirits drifting through the sky."
+  "en": "or raging energy drifting through the sky."
  },
  {
   "id": "03976:0088",
@@ -537,12 +537,12 @@
  {
   "id": "03976:0107",
   "jp": "物のエキスパート\\n刀使いとか、鋲使いとか、\\n絡繰り使いとか",
-  "en": "some are experts with objects: sword, rivet or clockwork wielders..."
+  "en": "some are experts with objects: Sword, Rivet or Mechanism Wielders..."
  },
  {
   "id": "03976:0108",
   "jp": "他にも酷く抽象的な\\n言の葉とか、封とか、\\n業とか、殺とか……",
-  "en": "and others use awfully abstract things like words, sealing, karma, killing..."
+  "en": "and others use awfully abstract things like Word, Seal, Karma, Kill..."
  },
  {
   "id": "03976:0109",
@@ -922,7 +922,7 @@
  {
   "id": "03976:0184",
   "jp": "１２時に属する\\n時間帯に存在する\\n《隙間の世界》",
-  "en": "an <In-Between World> existing in the hours belonging to 12 o'clock."
+  "en": "an <In-Between World> existing in the hours belonging to 12:00."
  },
  {
   "id": "03976:0185",
@@ -952,7 +952,7 @@
  {
   "id": "03976:0190",
   "jp": "ふ、ふーん\\n…………",
-  "en": "R-right... ......"
+  "en": "H-huh... ......"
  },
  {
   "id": "03976:0191",
@@ -962,7 +962,7 @@
  {
   "id": "03976:0192",
   "jp": "とにかく、私とシグマは\\nこの狭間の世界を\\n探索します",
-  "en": "Anyway, Sigma and I explore these worlds in the Rift."
+  "en": "Anyway, Sigma and I explore this world in the Rift."
  },
  {
   "id": "03976:0193",
@@ -1007,7 +1007,7 @@
  {
   "id": "03976:0201",
   "jp": "黒上と月弓の\\n秘中の秘とされる技",
-  "en": "A technique held as the secret of secrets of the Kurogami and Tsukiyumi."
+  "en": "A technique regarded as the Kurogami and Tsukiyumi's greatest secret."
  },
  {
   "id": "03976:0202",
@@ -1022,12 +1022,12 @@
  {
   "id": "03976:0204",
   "jp": "本作での\\nシグマはネオンの生み\\nだした式札の力を使い",
-  "en": "In this game, Sigma used the power of the Shiki Cards that Neon made,"
+  "en": "In this game, Sigma is said to have used the power of the Shiki Cards Neon made"
  },
  {
   "id": "03976:0205",
   "jp": "その【式力】をもって、\\n他人が紡いだ時を\\n繋げ直したという",
-  "en": "and with their [Shiki Power], rejoined time woven by others, it's said."
+  "en": "and, with their [Shiki Power], rejoined time woven by others."
  },
  {
   "id": "03976:0206",
@@ -1117,17 +1117,17 @@
  {
   "id": "03976:0223",
   "jp": "【時紡ぎ】によって\\n紡いだ、本来の時間に\\n存在する",
-  "en": "Existing in the true time woven through [Time Weaving],"
+  "en": "From the original time woven through [Time Weaving],"
  },
  {
   "id": "03976:0224",
   "jp": "過去の人たちの\\n想いや残留した思念が",
-  "en": "people of the past leave behind feelings and lingering thoughts,"
+  "en": "the feelings and lingering thoughts of people of the past"
  },
  {
   "id": "03976:0225",
   "jp": "【時の狭間】に\\n映しだされたもの",
-  "en": "which are projected into the [Rift of Time]."
+  "en": "are projected into the [Rift of Time]."
  },
  {
   "id": "03976:0226",
@@ -1247,12 +1247,12 @@
  {
   "id": "03976:0249",
   "jp": "戦争により散り散りに\\nなって人数が減って\\nしまった",
-  "en": "Scattered by the war, their numbers dwindling,"
+  "en": "He is endlessly troubled over"
  },
  {
   "id": "03976:0250",
   "jp": "使い人を\\nまとめ上げるのに\\n気苦労が絶えない",
-  "en": "the Tsukaibito give him no end of worry as he tries to unite them."
+  "en": "uniting the Tsukaibito, scattered and thinned out by the war."
  },
  {
   "id": "03976:0251",
@@ -1437,7 +1437,7 @@
  {
   "id": "03976:0287",
   "jp": "転じ、逢魔に悪意を\\n植え付けられることを\\n魔を刺されたという",
-  "en": "and having malice planted by the Ouma is, by a twist, \"stung by evil.\""
+  "en": "and, by extension, having malice planted by the Ouma is \"stung by evil.\""
  },
  {
   "id": "03976:0288",
@@ -1522,7 +1522,7 @@
  {
   "id": "03976:0304",
   "jp": "まぁ、ほっとかない\\nって言っても、現れても\\nスグ消えちゃうから",
-  "en": "Well, even if we didn't, he vanishes right after he shows up,"
+  "en": "Well, even if we chose not to ignore him, he vanishes right after he shows up,"
  },
  {
   "id": "03976:0305",
@@ -1547,12 +1547,12 @@
  {
   "id": "03976:0309",
   "jp": "【時の調律】\\n（過去の修復）",
-  "en": "explaining [Time Tuning] (repairing the past)"
+  "en": "[Time Tuning] (repairing the past)"
  },
  {
   "id": "03976:0310",
   "jp": "についての\\nお話をしまーす",
-  "en": "for everyone~!"
+  "en": "is what we'll talk about~!"
  },
  {
   "id": "03976:0311",
@@ -1677,7 +1677,7 @@
  {
   "id": "03976:0335",
   "jp": "現在の大時計の間に、\\n時空の歪みが\\n存在する限り、",
-  "en": "As long as a space-time distortion exists in today's Great Clock Chamber,"
+  "en": "As long as a space-time distortion exists in the Great Clock Chamber now,"
  },
  {
   "id": "03976:0336",
@@ -1772,12 +1772,12 @@
  {
   "id": "03976:0354",
   "jp": "逢魔は、過去改変……",
-  "en": "The Ouma, in order to alter the past..."
+  "en": "The Ouma, to alter the past..."
  },
  {
   "id": "03976:0355",
   "jp": "完全な時の再構築を\\n行うために、",
-  "en": "to completely reconstruct time,"
+  "en": "and completely reconstruct time,"
  },
  {
   "id": "03976:0356",
@@ -1907,7 +1907,7 @@
  {
   "id": "03976:0381",
   "jp": "自分の力を分けて\\nしまってると考えて",
-  "en": "have a share of its power split into them. Think of it like that."
+  "en": "hold a share of its power. Think of it like that."
  },
  {
   "id": "03976:0382",
@@ -1942,7 +1942,7 @@
  {
   "id": "03976:0388",
   "jp": "ってわけね",
-  "en": "...is how it works, huh."
+  "en": "So that's how it works, huh."
  },
  {
   "id": "03976:0389",
@@ -1982,12 +1982,12 @@
  {
   "id": "03976:0396",
   "jp": "過去の黒上の館に\\n登場するメイド",
-  "en": "A maid who appears in the past Kurogami Mansion."
+  "en": "A maid who appears in the Kurogami Mansion of the past."
  },
  {
   "id": "03976:0397",
   "jp": "元々は黒上の分家で\\n姫籠も使い人であるが、",
-  "en": "Once a Kurogami branch family, the Himekago are Tsukaibito too, but"
+  "en": "Originally a Kurogami branch family, the Himekago are Tsukaibito too, but"
  },
  {
   "id": "03976:0398",
@@ -2012,7 +2012,7 @@
  {
   "id": "03976:0402",
   "jp": "お嫁さんにしたい人\\nナンバー１です！",
-  "en": "No. 1 on the list of people you'd want to marry!"
+  "en": "The No. 1 girl you'd want as a wife!"
  },
  {
   "id": "03976:0403",
@@ -2097,7 +2097,7 @@
  {
   "id": "03976:0419",
   "jp": "ふみゅ。\\n細かい作業は苦手、\\n猪突猛進",
-  "en": "Fumyu. Fiddly work, not my forte. Charge like a boar."
+  "en": "Fumyu. Fiddly work, not my forte. Reckless boar charge."
  },
  {
   "id": "03976:0420",
@@ -2147,7 +2147,7 @@
  {
   "id": "03976:0429",
   "jp": "大逢魔クラスになると\\n人への干渉も大きく",
-  "en": "At the Great Ouma class, their interference with people is also great,"
+  "en": "At the Great Ouma class, their interference with people is greater too,"
  },
  {
   "id": "03976:0430",
@@ -2162,7 +2162,7 @@
  {
   "id": "03976:0432",
   "jp": "上位能力者しか\\n渡り合えず、",
-  "en": "only the highest-ranking adepts can stand up to them,"
+  "en": "only high-ranking adepts can stand up to them,"
  },
  {
   "id": "03976:0433",
@@ -2347,7 +2347,7 @@
  {
   "id": "03976:0469",
   "jp": "【超推理】で\\nＡとかＳとか、",
-  "en": "If you get an A or an S or so in [Super Reasoning],"
+  "en": "If you get an A, an S, or the like in [Super Reasoning],"
  },
  {
   "id": "03976:0470",
@@ -2582,12 +2582,12 @@
  {
   "id": "03976:0516",
   "jp": "調音査の時に\\nフィールドに現れる\\n光は",
-  "en": "The lights that appear on the field during a Sound Search"
+  "en": "The lights that appear on the Field during a Sound Search"
  },
  {
   "id": "03976:0517",
   "jp": "その多くが【超推理】の\\nヒントにもなる\\n《真実への欠片》だが",
-  "en": "are mostly a <Shard of Truth>, which also hints at [Super Reasoning], but"
+  "en": "are mostly <Shard of Truth> lights that also hint at [Super Reasoning], but"
  },
  {
   "id": "03976:0518",
@@ -2632,7 +2632,7 @@
  {
   "id": "03976:0526",
   "jp": "くまなく【調音査】で\\n探ってもいいかも\\nしれません",
-  "en": "searching that field thoroughly with [Sound Search]."
+  "en": "searching that Field thoroughly with [Sound Search]."
  },
  {
   "id": "03976:0527",
@@ -2652,7 +2652,7 @@
  {
   "id": "03976:0530",
   "jp": "赤く大きな点に\\nなっている逢魔は\\nＳＰを持っている",
-  "en": "Ouma shown as large red dots carry SP."
+  "en": "Ouma shown as large red dots carry Shiki Power."
  },
  {
   "id": "03976:0531",
@@ -2677,17 +2677,17 @@
  {
   "id": "03976:0535",
   "jp": "稀にいるという\\n実体を持ち会話する\\n【神霊】の１種",
-  "en": "A rare [Divine Spirit] said to have a physical form and to talk."
+  "en": "A rare type of [Divine Spirit] said to have a body and the ability to talk."
  },
  {
   "id": "03976:0536",
   "jp": "長い年月を経て\\nそうなったのか",
-  "en": "Whether it became so over many long years,"
+  "en": "It is unclear whether it became this way over many long years,"
  },
  {
   "id": "03976:0537",
   "jp": "発生した時から\\nそうだったのか\\n定かではない",
-  "en": "or was that way from the moment it came to be, is uncertain."
+  "en": "or was like this from the moment it came to be."
  },
  {
   "id": "03976:0538",
@@ -2797,7 +2797,7 @@
  {
   "id": "03976:0559",
   "jp": "使い人は、逢魔と\\n直接、戦っている\\n人の方が偉い！",
-  "en": "Tsukaibito who fight Ouma directly are more important!"
+  "en": "Tsukaibito who fight Ouma directly are superior!"
  },
  {
   "id": "03976:0560",
@@ -2887,7 +2887,7 @@
  {
   "id": "03976:0577",
   "jp": "外の世界でなんて\\n出会ったら……",
-  "en": "If we ever ran into them out in the real world..."
+  "en": "If we ever ran into them outside the Rift..."
  },
  {
   "id": "03976:0578",
@@ -3007,7 +3007,7 @@
  {
   "id": "03976:0601",
   "jp": "仕える家柄だった\\n姫籠から黒上に嫁ぎ\\n周りを驚かせた",
-  "en": "The Himekago were a serving house; wedding the Kurogami shocked all."
+  "en": "Her marriage from the servant Himekago into the Kurogami shocked all."
  },
  {
   "id": "03976:0602",
@@ -3082,7 +3082,7 @@
  {
   "id": "03976:0616",
   "jp": "《黒上》を中心に逢魔と\\n戦う以外の力の\\n行使を拒んだ者",
-  "en": "and those around the <Kurogami>, using power only to fight Ouma."
+  "en": "and those around the <Kurogami>, refusing to use power except on Ouma."
  },
  {
   "id": "03976:0617",
@@ -3127,7 +3127,7 @@
  {
   "id": "03976:0625",
   "jp": "減ることなき\\n逢魔との戦いに\\n不安を感じている",
-  "en": "and he feels uneasy about the never-lessening battle against the Ouma."
+  "en": "and he feels uneasy about the unending battle against Ouma."
  },
  {
   "id": "03976:0626",
@@ -3297,7 +3297,7 @@
  {
   "id": "03976:0659",
   "jp": "何が？",
-  "en": "What is?"
+  "en": "What's easy to understand?"
  },
  {
   "id": "03976:0660",
@@ -3322,7 +3322,7 @@
  {
   "id": "03976:0664",
   "jp": "あの縄は、\\n封使いの姫籠\\nとかが作れるんだけど",
-  "en": "That rope can be made by the Himekago, the Seal Wielders, and others, but"
+  "en": "Seal Wielders like the Himekago can make that rope, but"
  },
  {
   "id": "03976:0665",
@@ -3372,12 +3372,12 @@
  {
   "id": "03976:0674",
   "jp": "左目の大きな傷\\n不自由な左手",
-  "en": "the large scar over his left eye, his crippled left hand..."
+  "en": "the large scar over his left eye, his impaired left hand..."
  },
  {
   "id": "03976:0675",
   "jp": "顔を背ける仕草なんか\\nからも窺えるけど",
-  "en": "You can also tell from the way he turns his face away, but"
+  "en": "and as the way he turns his face away also hints,"
  },
  {
   "id": "03976:0676",
@@ -3417,7 +3417,7 @@
  {
   "id": "03976:0683",
   "jp": "シグマたちが探索中に\\n歴史から消えてしまった\\n《黒上ゆう》",
-  "en": "<Yuu Kurogami>, who vanished from history as Sigma and Neon searched."
+  "en": "<Yuu Kurogami>, lost from history as Sigma and the others searched."
  },
  {
   "id": "03976:0684",
@@ -3477,7 +3477,7 @@
  {
   "id": "03976:0695",
   "jp": "伝言を飛ばすくらいなら\\n札に少し精通してれば\\n扱えます",
-  "en": "Anyone fairly versed in cards can manage sending a message."
+  "en": "Anyone a little versed in Shiki Cards can manage sending a message."
  },
  {
   "id": "03976:0696",
@@ -3582,7 +3582,7 @@
  {
   "id": "03976:0716",
   "jp": "麟は黒上静馬から\\n譲葉の名を継ぐことを\\n勧められた",
-  "en": "Shizuma Kurogami urged Rin to inherit the Yuzuriha name."
+  "en": "Shizuma Kurogami encouraged Rin to inherit the Yuzuriha name."
  },
  {
   "id": "03976:0717",
@@ -3592,12 +3592,12 @@
  {
   "id": "03976:0718",
   "jp": "この頃では既に、\\n頭首となるものは、",
-  "en": "By this time already, for whoever would become head,"
+  "en": "By this time, it seems the prevailing view was already that whoever became head"
  },
  {
   "id": "03976:0719",
   "jp": "血筋より力という風潮が\\nできていたようだ",
-  "en": "the prevailing view seems to have been power over bloodline."
+  "en": "was chosen for power, not bloodline."
  },
  {
   "id": "03976:0720",
@@ -3717,7 +3717,7 @@
  {
   "id": "03976:0743",
   "jp": "彼は、法水とは、一体、\\n何者だったのか？",
-  "en": "What, in the end, were he and the Housui?"
+  "en": "Who was he, and who were the Housui, really?"
  },
  {
   "id": "03976:0744",
@@ -3727,7 +3727,7 @@
  {
   "id": "03976:0745",
   "jp": "神代の血\\n～かみよのち",
-  "en": "Blood of the Age of Gods"
+  "en": "Blood of the Age of the Gods"
  },
  {
   "id": "03976:0746",
@@ -3747,7 +3747,7 @@
  {
   "id": "03976:0749",
   "jp": "《月弓》はそのまま\\n《月読》の子孫だと\\n考えられている",
-  "en": "and the <Tsukiyumi>, as the name says, from <Tsukuyomi>."
+  "en": "and the <Tsukiyumi> are thought to descend directly from <Tsukuyomi>."
  },
  {
   "id": "03976:0750",
@@ -3757,7 +3757,7 @@
  {
   "id": "03976:0751",
   "jp": "実際、神代の時代より\\n存在する黒上の大時計は\\n使い人の血にしか",
-  "en": "In fact, the Great Clock, from the Age of Gods, reacts only to Tsukaibito"
+  "en": "In fact, the Great Clock, from the Age of the Gods, reacts only to Tsukaibito"
  },
  {
   "id": "03976:0752",
@@ -4117,7 +4117,7 @@
  {
   "id": "03976:0823",
   "jp": "過去の執事など\\nとは、別人である",
-  "en": "He is a different person from the butler of the past and the like."
+  "en": "He is a different person from the butler of the past and others."
  },
  {
   "id": "03976:0824",
@@ -4147,7 +4147,7 @@
  {
   "id": "03976:0829",
   "jp": "【調律者】とは\\n【シグマ】の総称",
-  "en": "[Tuner] is the general term for a [Sigma]."
+  "en": "[Tuner] is the collective term for [Sigma]s."
  },
  {
   "id": "03976:0830",
@@ -4182,7 +4182,7 @@
  {
   "id": "03976:0836",
   "jp": "時紡ぎが行われた\\nその時に、生まれる\\nことが多いようだ",
-  "en": "it often seems to be born at the very moment a Time Weaving is performed."
+  "en": "a Sigma often seems to be born at the very moment a Time Weaving is performed."
  },
  {
   "id": "03976:0837",
@@ -4212,7 +4212,7 @@
  {
   "id": "03976:0842",
   "jp": "では、シグマが\\nネオンと共に調律した\\n黒上滅亡の世界は？",
-  "en": "Then the world of the Kurogami's ruin, which Sigma tuned with Neon?"
+  "en": "Then the world where the Kurogami fell, which Sigma tuned with Neon?"
  },
  {
   "id": "03976:0843",
@@ -4352,7 +4352,7 @@
  {
   "id": "03976:0870",
   "jp": "シグマたちは混乱した\\n歴史が生む平行世界を\\nハーモニクスと呼ぶ",
-  "en": "Sigma and co. call parallel worlds born of muddled history \"Harmonics.\""
+  "en": "Sigma's group calls parallel worlds born of muddled history \"Harmonics.\""
  },
  {
   "id": "03976:0871",
@@ -4447,12 +4447,12 @@
  {
   "id": "03976:0889",
   "jp": "最強となりつつあった\\n法水シグマと戦うため",
-  "en": "The final weapon to fight Sigma Housui, who was becoming the strongest:"
+  "en": "To fight Sigma Housui, who was becoming the strongest, it is"
  },
  {
   "id": "03976:0890",
   "jp": "黒上頭首と美巫女が\\n命をかけて、シグマに\\n届けた最終兵器",
-  "en": "Mimiko and the Head of the Kurogami gave their lives to bring it to Sigma."
+  "en": "the final weapon the Head and Mimiko risked their lives to give Sigma."
  },
  {
   "id": "03976:0891",
@@ -4532,7 +4532,7 @@
  {
   "id": "03976:0906",
   "jp": "闇を切る騎士の\\nバリエーションだが\\n基本性能が高い",
-  "en": "A variation of the Knight Who Cleaves the Dark, but with higher base stats."
+  "en": "A variation of the Dark-Cleaving Knight, but with higher base stats."
  },
  {
   "id": "03976:0907",
@@ -4547,7 +4547,7 @@
  {
   "id": "03976:0909",
   "jp": "真実に挑む銃手の\\nアップバリエーション\\n更なる強さを見せる",
-  "en": "An upgrade of the Gunner Who Challenges Truth. Stronger still."
+  "en": "An upgrade of the Truth-Challenging Gunner. Stronger still."
  },
  {
   "id": "03976:0910",
@@ -4562,7 +4562,7 @@
  {
   "id": "03976:0912",
   "jp": "歴史を導く剣匠の\\nアップバリエーション\\n更なる強さを見せる",
-  "en": "An upgrade of the Swordmaster Who Guides History. Stronger still."
+  "en": "An upgrade of the History-Guiding Swordmaster. Stronger still."
  },
  {
   "id": "03976:0913",
@@ -4617,7 +4617,7 @@
  {
   "id": "03976:0923",
   "jp": "ベースとなった人間\\n《月弓音音》の名を\\n使っていたシグマ",
-  "en": "A Sigma using the name of her base human, <Nene Tsukiyumi>, read \"Neon.\""
+  "en": "A Sigma who used the name of her base human, <Nene Tsukiyumi>, read as \"Neon.\""
  },
  {
   "id": "03976:0924",
@@ -4822,7 +4822,7 @@
  {
   "id": "03976:0964",
   "jp": "再構成による影響と\\n本来、消えるはずだった",
-  "en": "Its effects, and the fact that the world that should have vanished --"
+  "en": "Likely due to its effects, and because the world that should have vanished --"
  },
  {
   "id": "03976:0965",
@@ -4832,7 +4832,7 @@
  {
   "id": "03976:0966",
   "jp": "ゆらぎとして、再び\\n現れつつあった\\nからだろう",
-  "en": "beginning to reappear as a fluctuation. That is likely why."
+  "en": "beginning to reappear as a fluctuation."
  },
  {
   "id": "03976:0967",
@@ -4877,7 +4877,7 @@
  {
   "id": "03976:0975",
   "jp": "他にも、彼や彼女も\\nあの世界には\\nいるのかもしれない",
-  "en": "Perhaps he and she, and others too, are somewhere in that world."
+  "en": "Perhaps others, too -- him, her -- are somewhere in that world."
  },
  {
   "id": "03976:0976",
@@ -4952,6 +4952,6 @@
  {
   "id": "03976:0990",
   "jp": "ダメですよ、ちゃんと\\nクリアしてくださいね",
-  "en": "No fair! Please clear the game properly first."
+  "en": "Now, now. Please clear the game properly first."
  }
 ]

@@ -62,7 +62,7 @@
  {
   "id": "04010:0012",
   "jp": "$c02大逢魔$c00より更に危険",
-  "en": "More dangerous than $c02Great Ouma$c00."
+  "en": "Even more dangerous than $c02Great Ouma$c00."
  },
  {
   "id": "04010:0013",
@@ -132,7 +132,7 @@
  {
   "id": "04010:0026",
   "jp": "時紡ぎでは、\\n使えなくなっちゃう\\n時があるんだった",
-  "en": "so sometimes you can't use them in Time Weaving. I forgot."
+  "en": "so sometimes the cards can't be used in Time Weaving. I forgot."
  },
  {
   "id": "04010:0027",
@@ -147,7 +147,7 @@
  {
   "id": "04010:0029",
   "jp": "嘘",
-  "en": "Falsehood."
+  "en": "A lie."
  },
  {
   "id": "04010:0030",
@@ -157,12 +157,12 @@
  {
   "id": "04010:0031",
   "jp": "でも、式力、\\nぴょこんと減るので、",
-  "en": "However, Shiki Power drops. Boing."
+  "en": "However, Shiki Power drops with a little hop."
  },
  {
   "id": "04010:0032",
   "jp": "時紡ぎで、\\n使えなくならないよう\\n注意、注意",
-  "en": "Avoid becoming unable to use them in Time Weaving. Caution, caution."
+  "en": "Avoid being unable to use the cards in Time Weaving. Caution, caution."
  },
  {
   "id": "04010:0033",
@@ -202,7 +202,7 @@
  {
   "id": "04010:0040",
   "jp": "紡げる時間があるのに\\n式力がないせいで、\\nその時間に行けず",
-  "en": "Even if there's a time we could weave, without Shiki Power we couldn't reach it,"
+  "en": "Even when there's a time we could weave, without Shiki Power we couldn't reach it,"
  },
  {
   "id": "04010:0041",
@@ -227,7 +227,7 @@
  {
   "id": "04010:0045",
   "jp": "ふみゅ。\\n子細注意",
-  "en": "Fumyu. Caution in every detail."
+  "en": "Fumyu. Rat-tention to detail."
  },
  {
   "id": "04010:0046",

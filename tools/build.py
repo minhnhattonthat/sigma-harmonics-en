@@ -14,6 +14,7 @@ import fit  # noqa: E402
 import latin  # noqa: E402
 import rom  # noqa: E402
 import text  # noqa: E402
+import texedit  # noqa: E402
 
 BUILD = text.ROOT / 'build'
 JP = re.compile('[぀-ヿ一-鿿]')
@@ -79,6 +80,10 @@ def main(argv):
                     r['en'] = to_fullwidth(r['en'])
         rep, out = text.replacements(c, script), BUILD / 'sigma_en.nds'
     rep.update(fonts(c))
+    byid = {f['id']: f for f in c.files}
+    for tid, recipe in texedit.recipes().items():  # English UI textures (font/textures.json)
+        _, new = texedit.apply(tid, recipe, c.get(byid[int(tid)]))
+        rep[int(tid)] = (new, len(new))
     BUILD.mkdir(exist_ok=True)
     out.write_bytes(rom.put_cpk(data, c.build(rep)))
     print(f'build: {len(rep)} files changed -> {out}')

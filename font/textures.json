@@ -1,0 +1,603 @@
+{
+ "08381": {
+  "start": {
+   "text": "Start Movement",
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ]
+  },
+  "m1": {
+   "text": "Movement I",
+   "box": [
+    0,
+    32,
+    88,
+    64
+   ]
+  },
+  "m4death": {
+   "text": "Death Movement",
+   "box": [
+    89,
+    32,
+    176,
+    64
+   ]
+  },
+  "m2": {
+   "text": "Movement II",
+   "box": [
+    0,
+    64,
+    88,
+    96
+   ]
+  },
+  "m3": {
+   "text": "Movement III",
+   "box": [
+    0,
+    96,
+    88,
+    128
+   ]
+  },
+  "m4": {
+   "text": "Movement IV",
+   "box": [
+    0,
+    128,
+    88,
+    160
+   ]
+  },
+  "m5": {
+   "text": "Movement V",
+   "box": [
+    0,
+    160,
+    88,
+    192
+   ]
+  },
+  "m6": {
+   "text": "Movement VI",
+   "box": [
+    0,
+    192,
+    88,
+    224
+   ]
+  },
+  "m3h": {
+   "text": "Hidden\nMovement III",
+   "box": [
+    0,
+    224,
+    88,
+    256
+   ]
+  }
+ },
+ "06518": {
+  "use": {
+   "text": "Use Shiki Card",
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ]
+  },
+  "time": {
+   "text": "Change Time",
+   "box": [
+    128,
+    16,
+    256,
+    48
+   ]
+  },
+  "yes": {
+   "text": "Yes",
+   "box": [
+    0,
+    129,
+    73,
+    161
+   ]
+  },
+  "no": {
+   "text": "No",
+   "box": [
+    0,
+    169,
+    73,
+    201
+   ]
+  }
+ },
+ "08370": {
+  "hand": {
+   "text": "Dominant Hand",
+   "box": [
+    0,
+    0,
+    128,
+    14
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 10
+  },
+  "speed": {
+   "text": "Message Speed",
+   "box": [
+    0,
+    15,
+    128,
+    29
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 10
+  },
+  "fast": {
+   "text": "Fast",
+   "box": [
+    0,
+    31,
+    40,
+    46
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 10
+  },
+  "slow": {
+   "text": "Slow",
+   "box": [
+    138,
+    31,
+    178,
+    46
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 10
+  },
+  "cards": {
+   "text": "Remember Battle Cards",
+   "box": [
+    0,
+    47,
+    128,
+    62
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 10
+  },
+  "left": {
+   "text": "Left",
+   "box": [
+    0,
+    64,
+    63,
+    92
+   ]
+  },
+  "right": {
+   "text": "Right",
+   "box": [
+    64,
+    64,
+    127,
+    92
+   ]
+  },
+  "reset": {
+   "text": "Restore Defaults",
+   "box": [
+    0,
+    160,
+    98,
+    183
+   ]
+  },
+  "story": {
+   "text": "Begin the Story",
+   "box": [
+    0,
+    184,
+    98,
+    207
+   ]
+  }
+ },
+ "08627": {
+  "god": {
+   "text": "Descent",
+   "box": [
+    0,
+    0,
+    72,
+    32
+   ]
+  },
+  "song": {
+   "text": "Song",
+   "box": [
+    72,
+    0,
+    144,
+    32
+   ]
+  },
+  "song_eq": {
+   "text": "Song\nequipped",
+   "box": [
+    0,
+    78,
+    47,
+    103
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 8
+  },
+  "god_eq": {
+   "text": "God\nequipped",
+   "box": [
+    0,
+    103,
+    47,
+    128
+   ],
+   "clear": true,
+   "align": "left",
+   "size": 8
+  }
+ },
+ "06815": {
+  "notes": {
+   "text": "Notes",
+   "box": [
+    0,
+    2,
+    86,
+    39
+   ],
+   "border": 1,
+   "size": 14
+  },
+  "echoes": {
+   "text": "Obtained Echoes",
+   "box": [
+    86,
+    10,
+    192,
+    24
+   ],
+   "border": 1,
+   "size": 10
+  }
+ },
+ "06362": {
+  "cards": {
+   "text": "Cards",
+   "box": [
+    0,
+    0,
+    64,
+    40
+   ],
+   "wipe_mode": "row"
+  },
+  "reason": {
+   "text": "Reasoning",
+   "box": [
+    64,
+    0,
+    128,
+    40
+   ],
+   "wipe_mode": "row"
+  },
+  "search": {
+   "text": "Search",
+   "box": [
+    0,
+    40,
+    64,
+    80
+   ],
+   "wipe_mode": "row"
+  },
+  "descent": {
+   "text": "Descent",
+   "box": [
+    64,
+    40,
+    128,
+    80
+   ],
+   "wipe_mode": "row"
+  },
+  "config": {
+   "text": "Config",
+   "box": [
+    0,
+    80,
+    64,
+    120
+   ],
+   "wipe_mode": "row"
+  }
+ },
+ "06423": {
+  "reason": {
+   "text": "Super\nReasoning",
+   "box": [
+    72,
+    0,
+    120,
+    24
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  },
+  "system": {
+   "text": "System",
+   "box": [
+    72,
+    24,
+    120,
+    48
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  },
+  "search": {
+   "text": "Sound\nSearch",
+   "box": [
+    0,
+    32,
+    48,
+    56
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  },
+  "notes": {
+   "text": "Notes",
+   "box": [
+    0,
+    56,
+    48,
+    80
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  },
+  "equip": {
+   "text": "Descent",
+   "box": [
+    0,
+    80,
+    48,
+    104
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  },
+  "cards": {
+   "text": "Shiki\nCards",
+   "box": [
+    0,
+    104,
+    48,
+    128
+   ],
+   "border": 1,
+   "wipe_mode": "row"
+  }
+ },
+ "08634": {
+  "new": {
+   "text": "New Game",
+   "box": [
+    0,
+    0,
+    112,
+    32
+   ]
+  },
+  "cont": {
+   "text": "Continue",
+   "box": [
+    0,
+    32,
+    112,
+    64
+   ]
+  }
+ },
+ "08390": {
+  "explain": {
+   "text": "Explanation",
+   "box": [
+    0,
+    0,
+    112,
+    26
+   ]
+  },
+  "furigana": {
+   "text": "Readings",
+   "box": [
+    0,
+    112,
+    50,
+    128
+   ],
+   "border": 2,
+   "size": 8
+  }
+ },
+ "03446": {
+  "rereason": {
+   "text": "Re-Reason",
+   "box": [
+    0,
+    96,
+    49,
+    112
+   ],
+   "border": 2,
+   "size": 8
+  }
+ },
+ "08376": {
+  "save": {
+   "text": "Save",
+   "box": [
+    0,
+    0,
+    112,
+    32
+   ]
+  },
+  "load": {
+   "text": "Load",
+   "box": [
+    0,
+    32,
+    112,
+    64
+   ]
+  },
+  "status": {
+   "text": "Movements",
+   "box": [
+    0,
+    64,
+    112,
+    96
+   ]
+  },
+  "glossary": {
+   "text": "Glossary",
+   "box": [
+    0,
+    96,
+    112,
+    128
+   ]
+  },
+  "config": {
+   "text": "Config",
+   "box": [
+    0,
+    128,
+    112,
+    160
+   ]
+  },
+  "yes": {
+   "text": "Yes",
+   "box": [
+    112,
+    0,
+    186,
+    34
+   ]
+  },
+  "no": {
+   "text": "No",
+   "box": [
+    112,
+    34,
+    186,
+    69
+   ]
+  }
+ },
+ "08633": {
+  "prompt": {
+   "text": "How would you like to start the game?",
+   "box": [
+    0,
+    11,
+    192,
+    24
+   ],
+   "border": 1,
+   "fill": [
+    0,
+    0,
+    0
+   ],
+   "outline": null,
+   "font": "DejaVuSans.ttf",
+   "size": 10
+  }
+ },
+ "04988": {
+  "exp": {
+   "text": "EXP gained:",
+   "box": [
+    30,
+    0,
+    94,
+    13
+   ],
+   "clear": true,
+   "size": 9
+  },
+  "next": {
+   "text": "To next LV:",
+   "box": [
+    64,
+    12,
+    128,
+    25
+   ],
+   "clear": true,
+   "size": 9
+  }
+ },
+ "08635": {
+  "msg": {
+   "outline": null,
+   "font": "DejaVuSans.ttf",
+   "size": 10,
+   "border": 1,
+   "text": "Failed to load data.\nTurn the power off\nand reinsert the card.",
+   "box": [
+    0,
+    0,
+    128,
+    64
+   ]
+  }
+ },
+ "08636": {
+  "msg": {
+   "outline": null,
+   "font": "DejaVuSans.ttf",
+   "size": 10,
+   "border": 1,
+   "text": "Initialization failed.\nTurn the power off\nand reinsert the card.",
+   "box": [
+    0,
+    0,
+    128,
+    64
+   ]
+  }
+ }
+}
