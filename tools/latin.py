@@ -122,7 +122,13 @@ def glyphs(x):
             width = max(inked) + 1 if inked else 0
             adv += 1
         out[ord(ch)] = (pack(stored, p['bpp'], p['size']), 0, width, adv)
+        out[fullwidth(ch)] = out[ord(ch)]
     return out
+
+
+def fullwidth(ch):
+    """Full-width twin of an ASCII char: some UI routines only step 3-byte UTF-8, so those tables get these."""
+    return 0x3000 if ch == ' ' else ord(ch) - 0x21 + 0xFF01
 
 
 def set_glyph(x, idx, bitmap, widths):
@@ -144,7 +150,7 @@ def add_ascii(x):
         idx = nftr.lookup(x, code) if code in have else None
         if idx is None:
             new[code] = g
-        elif code == 0x20 and idx == 0:
+        elif code in (0x20, 0x3000) and idx == 0:
             continue  # space shares glyph 0; the renderer spaces it itself
         else:
             x = set_glyph(x, idx, g[0], g[1:])

@@ -2,71 +2,71 @@
  {
   "id": "04008:0000",
   "jp": "そうだ、シグマ",
-  "en": ""
+  "en": "Oh right, Sigma."
  },
  {
   "id": "04008:0001",
   "jp": "はい、これ",
-  "en": ""
+  "en": "Here, take this."
  },
  {
   "id": "04008:0002",
   "jp": "【手帳】？",
-  "en": ""
+  "en": "A [Notebook]?"
  },
  {
   "id": "04008:0003",
   "jp": "うん、こんなことも\\nあろうかと\\n持ってきてたわ",
-  "en": ""
+  "en": "Yep. I had a feeling something like this might happen, so I brought it."
  },
  {
   "id": "04008:0004",
   "jp": "あぁ、\\n使わせてもらうよ",
-  "en": ""
+  "en": "Ah, I'll put it to good use."
  },
  {
   "id": "04008:0005",
   "jp": "えへへ、やっと言えた",
-  "en": ""
+  "en": "Ehehe, I finally got to say it."
  },
  {
   "id": "04008:0006",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04008:0007",
   "jp": "こんなことも\\nあろうかとって",
-  "en": ""
+  "en": "\"I had a feeling something like this might happen.\""
  },
  {
   "id": "04008:0008",
   "jp": "なかなか、言える\\n機会ないのよね～",
-  "en": ""
+  "en": "You don't get many chances to say that, you know~"
  },
  {
   "id": "04008:0009",
   "jp": "はは、そうだね",
-  "en": ""
+  "en": "Haha, that's true."
  },
  {
   "id": "04008:0010",
   "jp": "$c01《超推理メニュー》から\\n【手帳】\\nが選べるようになった$c00",
-  "en": ""
+  "en": "$c01[Notebook] can now be selected from the <Super Reasoning Menu>.$c00"
  },
  {
   "id": "04008:0011",
   "jp": "【手帳】では、１度見た\\n魂の影のリストを\\n見ることができます",
-  "en": ""
+  "en": "In the [Notebook], you can view a list of the Soul Shadows you have seen."
  },
  {
   "id": "04008:0012",
   "jp": "また、その魂の影で\\n手に入れた【刻音】の\\n確認も可能です",
-  "en": ""
+  "en": "You can also check the [Echoes] obtained in each Soul Shadow."
  },
  {
   "id": "04008:0013",
   "jp": "超推理に\\n役立てましょう",
-  "en": ""
+  "en": "Put it to use in Super Reasoning."
  }
 ]

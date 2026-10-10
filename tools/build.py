@@ -19,7 +19,8 @@ BUILD = text.ROOT / 'build'
 JP = re.compile('[぀-ヿ一-鿿]')
 
 
-MARK_LINES = ['The quick brown fox', 'jumps over the lazy dog.', 'Sphinx of black quartz!']
+MARK_DLG = {k: v['form'] == 'dlg' for k, v in batches.load_meta().items()} if batches.META.exists() else {}
+MARK_LINES =['The quick brown fox', 'jumps over the lazy dog.', 'Sphinx of black quartz!']
 
 
 def marker(r):
@@ -28,7 +29,18 @@ def marker(r):
         return r['jp']
     n = r['jp'].count('\\n') + 1
     f, i = r['id'].split(':')
-    return '\\n'.join([f'[{int(f)}:{int(i)}] ' + MARK_LINES[0]] + MARK_LINES[1:n])
+    s = '\\n'.join([f'[{int(f)}:{int(i)}] ' + MARK_LINES[0]] + MARK_LINES[1:n])
+    return s if MARK_DLG.get(int(f), True) else to_fullwidth(s)
+
+
+CTRL = re.compile(r'(\$c\d\d|\\n)')
+
+
+def to_fullwidth(s):
+    """UI routines (e.g. location names, table 6413) hang on 1-byte UTF-8, so UI English uses the full-width
+    twins, which the fonts draw with the same narrow Latin glyphs. Control codes stay ASCII."""
+    return ''.join(p if CTRL.fullmatch(p) else ''.join(chr(latin.fullwidth(ch)) if ' ' <= ch <= '~' else ch for ch in p)
+                   for p in CTRL.split(s))
 
 
 def fonts(c):
@@ -60,6 +72,8 @@ def main(argv):
             for r in rows:
                 if r['en'] and meta[fid]['form'] == 'dlg':
                     r['en'] = fit.fit_dialogue(r['en'])
+                elif r['en']:
+                    r['en'] = to_fullwidth(r['en'])
         rep, out = text.replacements(c, script), BUILD / 'sigma_en.nds'
     rep.update(fonts(c))
     BUILD.mkdir(exist_ok=True)

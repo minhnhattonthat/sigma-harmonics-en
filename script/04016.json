@@ -2,101 +2,101 @@
  {
   "id": "04016:0000",
   "jp": "$c01すべての式札の\\n残り使用回数が\\n＋１された",
-  "en": ""
+  "en": "$c01The remaining uses of all Shiki Cards increased by 1."
  },
  {
   "id": "04016:0001",
   "jp": "$c01魂の影の位置が\\n判明した",
-  "en": ""
+  "en": "$c01The location of the Soul Shadow was revealed."
  },
  {
   "id": "04016:0002",
   "jp": "$c01刻音\\n【真実への欠片】を\\n入手した",
-  "en": ""
+  "en": "$c01Obtained the [Shard of Truth] Echo."
  },
  {
   "id": "04016:0003",
   "jp": "$c01【真実への欠片】は\\n【超推理】メニューから\\n確認できます",
-  "en": ""
+  "en": "$c01The [Shard of Truth] can be checked from the [Super Reasoning] menu."
  },
  {
   "id": "04016:0004",
   "jp": "$c01【キュウソ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Kyuuso] Shiki Card was restored."
  },
  {
   "id": "04016:0005",
   "jp": "$c01【テツギュウ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Tetsugyuu] Shiki Card was restored."
  },
  {
   "id": "04016:0006",
   "jp": "$c01【ジュウオウ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Juuou] Shiki Card was restored."
  },
  {
   "id": "04016:0007",
   "jp": "$c01【ゲッセイ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Gessei] Shiki Card was restored."
  },
  {
   "id": "04016:0008",
   "jp": "$c01【リュウジン】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Ryuujin] Shiki Card was restored."
  },
  {
   "id": "04016:0009",
   "jp": "$c01【オロチ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Orochi] Shiki Card was restored."
  },
  {
   "id": "04016:0010",
   "jp": "$c01【ワカコマ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Wakakoma] Shiki Card was restored."
  },
  {
   "id": "04016:0011",
   "jp": "$c01【ヨウシン】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Youshin] Shiki Card was restored."
  },
  {
   "id": "04016:0012",
   "jp": "$c01【ショウジョウ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Shoujou] Shiki Card was restored."
  },
  {
   "id": "04016:0013",
   "jp": "$c01【シラトリ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Shiratori] Shiki Card was restored."
  },
  {
   "id": "04016:0014",
   "jp": "$c01【イヌボエ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Inuboe] Shiki Card was restored."
  },
  {
   "id": "04016:0015",
   "jp": "$c01【ヤマクジラ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Yamakujira] Shiki Card was restored."
  },
  {
   "id": "04016:0016",
   "jp": "$c01【ミツネコ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Mitsuneko] Shiki Card was restored."
  },
  {
   "id": "04016:0017",
   "jp": "$c01【カラクリ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Karakuri] Shiki Card was restored."
  },
  {
   "id": "04016:0018",
   "jp": "$c01【ニンギョ】\\nの式札が回復した",
-  "en": ""
+  "en": "$c01The [Ningyo] Shiki Card was restored."
  },
  {
   "id": "04016:0019",
   "jp": "$c01式札はこれ以上\\n回復しなかった",
-  "en": ""
+  "en": "$c01No further Shiki Cards were restored."
  }
 ]

@@ -55,6 +55,9 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 | 時の狭間 | Rift of Time | | | |
 | 黒上学園 | Kurogami Academy | | | |
 | 黒上の列車 | Kurogami Train | | | |
+| 娯楽室 | game room | | [Second Floor Game Room] for 【２階の娯楽室】 | Rec Room |
+| 佳子の部屋 | Yoshiko's Room | | | |
+| 梅の部屋 | Plum Room | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -86,11 +89,36 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 | 真実への欠片 | Shard of Truth | | | |
 | 思考の闇 | Darkness of Thought | | black circles on the Super Reasoning screen | |
 | 過去の変革者 | Changer of the Past | | | |
+| 変革者 | Changer | | full title: Changer of the Past (過去の変革者) / Changer of Time (時の変革者) | |
 | 平行世界 | parallel world | | read "harmonics" in the glossary | |
 | 黒上財閥 | Kurogami Zaibatsu | | | |
 | 楽章 | Movement | | chapters: 第Ⅰ楽章 -> Movement I | Chapter |
 | 幕間 | Interlude | | | |
 | 用語集 | Glossary | | menu | |
+| 昇降機 | dumbwaiter | | | |
+| 魔を刺される | stung by evil | | pun on 魔が差す | |
+| バールストン | Birlstone | | Birlstone Gambit (Doyle) | |
+| 式力 | Shiki Power | | SP | |
+| 手帳 | Notebook | | | |
+| 診断書 | medical report | | | |
 | 八咫に持たれし非時香果 | the Everlasting Fruit held by Yata | | Kurogami passphrase | |
 
 ## Decisions from earlier batches
+- b010 式力 -> Shiki Power (chant 式力封神 -> "Shiki Power: Divine Seal!!"); 手帳 -> [Notebook]; 《超推理メニュー》 -> <Super Reasoning Menu>
+- b010 Shiki Card spirits romanised: Kyuuso, Tetsugyuu, Juuou, Gessei, Ryuujin, Orochi, Wakakoma, Youshin, Shoujou, Shiratori, Inuboe, Yamakujira, Mitsuneko, Karakuri, Ningyo; 【子】の札 -> [Rat] card
+- b010 竹/梅/小梅/百合 -> Take/Ume/Koume-san/Yuri; ユリユリ -> Yuri-Yuri (Neon's nickname for Yuriko); 診断書 -> medical report
+- b008/b009 Neon's nicknames: ねねっち -> Nene-cchi, よっちゃん -> Yocchan, ユリユリ -> Yuri-Yuri, 婆ちゃん -> Granny. Tics: ふみゅ -> Fumyu, ではでは -> Then, then.
+- b008 【ホーム】 (train) -> [Platform]; 大トリ -> grand finale. 闇 on the Super Reasoning screen -> Darkness (short for Darkness of Thought).
+- b011 負け犬 -> beaten dog (Woof joke); はなまる -> gold star.
+- b008 密室 -> locked room (or "locked" in context; not lint-enforced).
+- b001/b003 潜在式力 -> Latent Shiki Power; ＳＰ変化役 -> SP Bonus; 札置き場 -> card slot; 時の結界 -> <Barrier of Time>;
+  神楽 -> <Kagura>; 追攻撃 -> Follow-up Attack; <Full Command>/<Double Line>/<Single Line>/<Quick Turn>; フィールド -> Field;
+  東京区 -> Tokyo Ward; 黒上の御曹司 -> the Kurogami heir; 源流/本流 -> original line/main line.
+- b001/b003 titles: 時空の札使い -> Card Wielder of Space-Time; 闇を切る騎士 -> Knight Who Cleaves the Dark;
+  冒険する狙撃手 -> Adventuring Sniper; 繰り返す事件 -> Recurring Cases. 【曲】 -> [Song].
+- b002 心の残滓 -> <Heart Residue>; 結界の歯車 -> <Barrier Gears>; 隙間の世界 -> <In-Between World>; 神力 -> <Divine Power>;
+  風使い -> Wind Wielder; 看破 -> <Insight>; 魔が差す -> touched by evil (partner of "stung by evil"); 同位元素 -> isotopes.
+- b004 言の葉使い -> Word Wielder; 封使い -> Seal Wielder; 絡繰り使い -> Mechanism Wielder; clans 守人 -> Morito, 姫籠 -> Himekago;
+  上位逢魔 -> Higher Ouma; 双結界の束縛者 -> Binders of the Twin Barrier; 皇 -> Sumeragi; 現人神 -> living god;
+  バールストン・ギャンビット -> Birlstone Gambit; マスターキー -> Master Key; レーダーマップ -> Radar Map; 光 -> Lights; お婆様 -> Obaa-sama.
+- RULING: glossary-screen headings (03976, "term / ～kana reading") -> the English term only, one line, no reading.

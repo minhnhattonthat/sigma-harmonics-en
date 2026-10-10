@@ -49,6 +49,14 @@ in its own voice; never merge them.
 - No ordinal suffix glued to a number ("1th"): write "No. 1", "the first", etc.
 - Sound effects / stammers: "Wh-what?", "Ngh!", "Kyaaa!".
 
+## Notes from earlier batches
+- Also read the "Decisions from earlier batches" list at the end of `glossary.md`: settled renderings (game room,
+  Nene-cchi, Fumyu, Birlstone Gambit, ...). Use them; don't invent a second form.
+- Glossary-screen headings (03976 entries like `黒上財閥 / ～くろがみざいばつ`): the English term only, one line,
+  no reading, no `\n`.
+- A box that only continues a sentence from the previous box may start lowercase; keep the split readable.
+- A chant/spell that contains a glossary term keeps the term's English (式力封神 -> "Shiki Power: Divine Seal!!").
+
 ## Consistency
 Never edit `glossary.md` or any file except your own output. For a recurring name or term not in the glossary,
 pick a form, use it consistently, and report it.

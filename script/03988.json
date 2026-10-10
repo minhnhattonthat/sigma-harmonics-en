@@ -2,12 +2,12 @@
  {
   "id": "03988:0000",
   "jp": "あ、やっと起きた？",
-  "en": ""
+  "en": "Oh, you're finally awake?"
  },
  {
   "id": "03988:0001",
   "jp": "もう、昼休み\\n終わっちゃうよ",
-  "en": ""
+  "en": "Come on, lunch break's almost over."
  },
  {
   "id": "03988:0002",
@@ -17,17 +17,17 @@
  {
   "id": "03988:0003",
   "jp": "どうしたの？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "03988:0004",
   "jp": "何か……変だ？",
-  "en": ""
+  "en": "Something's... strange?"
  },
  {
   "id": "03988:0005",
   "jp": "始めよう、\\nただ１つの明日を……",
-  "en": ""
+  "en": "Let us begin... the one and only tomorrow..."
  },
  {
   "id": "03988:0006",
@@ -37,42 +37,42 @@
  {
   "id": "03988:0007",
   "jp": "シ、シグマ、\\n何これ？！",
-  "en": ""
+  "en": "S-Sigma, what is this?!"
  },
  {
   "id": "03988:0008",
   "jp": "何が起こったんだ？",
-  "en": ""
+  "en": "What happened?"
  },
  {
   "id": "03988:0009",
   "jp": "まさか……",
-  "en": ""
+  "en": "Don't tell me..."
  },
  {
   "id": "03988:0010",
   "jp": "シグマ！\\n列車は無事！",
-  "en": ""
+  "en": "Sigma! The train's all right!"
  },
  {
   "id": "03988:0011",
   "jp": "これなら、シグマの家\\nまでは帰れるよね？",
-  "en": ""
+  "en": "With this, we can make it back to your house, Sigma, right?"
  },
  {
   "id": "03988:0012",
   "jp": "あぁ",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "03988:0013",
   "jp": "$c02逢魔$c00が溢れてる……",
-  "en": ""
+  "en": "The place is overflowing with $c02Ouma$c00..."
  },
  {
   "id": "03988:0014",
   "jp": "それに街の中……\\n誰もいない",
-  "en": ""
+  "en": "And in town... there's nobody."
  },
  {
   "id": "03988:0015",
@@ -82,6 +82,6 @@
  {
   "id": "03988:0016",
   "jp": "今は、\\n黒上の館へ戻ろう……",
-  "en": ""
+  "en": "For now, let's head back to the Kurogami Mansion..."
  }
 ]

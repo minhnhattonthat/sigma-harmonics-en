@@ -12,132 +12,132 @@
  {
   "id": "04010:0002",
   "jp": "あれは……",
-  "en": ""
+  "en": "That's..."
  },
  {
   "id": "04010:0003",
   "jp": "《$c02業逢魔$c00》……",
-  "en": ""
+  "en": "<$c02Karma Ouma$c00>..."
  },
  {
   "id": "04010:0004",
   "jp": "$c02カルマ$c00って\\n呼ばれる$c02逢魔$c00……\\nよね？",
-  "en": ""
+  "en": "The $c02Ouma$c00 they call $c02Karma$c00... right?"
  },
  {
   "id": "04010:0005",
   "jp": "……《業逢魔》",
-  "en": ""
+  "en": "...<Karma Ouma>."
  },
  {
   "id": "04010:0006",
   "jp": "$c02カルマ$c00\\nとも呼ぶ",
-  "en": ""
+  "en": "Also called $c02Karma$c00."
  },
  {
   "id": "04010:0007",
   "jp": "あれって《$c02業逢魔$c00》\\nじゃないの？！",
-  "en": ""
+  "en": "Isn't that a <$c02Karma Ouma$c00>?!"
  },
  {
   "id": "04010:0008",
   "jp": "$c02カルマ$c00って\\n呼ぶんだっけ？",
-  "en": ""
+  "en": "They call it $c02Karma$c00, right?"
  },
  {
   "id": "04010:0009",
   "jp": "あぁ、\\n人の業が集まり\\n$c02逢魔$c00となったもの",
-  "en": ""
+  "en": "Yes. Human karma gathered together and became an $c02Ouma$c00."
  },
  {
   "id": "04010:0010",
   "jp": "$c02大逢魔$c00より\\n$c02凶悪$c00だって\\n聞いたことがある",
-  "en": ""
+  "en": "I heard it's more $c02vicious$c00 than a $c02Great Ouma$c00."
  },
  {
   "id": "04010:0011",
   "jp": "ふみゅ……\\nあれはとても危険",
-  "en": ""
+  "en": "Fumyu... That is very dangerous."
  },
  {
   "id": "04010:0012",
   "jp": "$c02大逢魔$c00より更に危険",
-  "en": ""
+  "en": "More dangerous than $c02Great Ouma$c00."
  },
  {
   "id": "04010:0013",
   "jp": "あいつって、\\n$c02大逢魔$c00よりヤバイん\\nじゃなかったっけ？",
-  "en": ""
+  "en": "Isn't that thing way nastier than a $c02Great Ouma$c00?"
  },
  {
   "id": "04010:0014",
   "jp": "そうだね",
-  "en": ""
+  "en": "That's right."
  },
  {
   "id": "04010:0015",
   "jp": "戦闘は避けた方が\\nいいだろう",
-  "en": ""
+  "en": "We'd best avoid fighting it."
  },
  {
   "id": "04010:0016",
   "jp": "幸い、$c02業逢魔$c00は、\\n常に実体化していて",
-  "en": ""
+  "en": "Fortunately, $c02Karma Ouma$c00 are always materialized,"
  },
  {
   "id": "04010:0017",
   "jp": "遠目にも見えるから、\\n近寄らないように\\nしよう",
-  "en": ""
+  "en": "so we can see them even from afar. Let's keep our distance."
  },
  {
   "id": "04010:0018",
   "jp": "それと、やつらは、",
-  "en": ""
+  "en": "Also, they're"
  },
  {
   "id": "04010:0019",
   "jp": "不安定な空間を\\n一定のルールで\\n移動してるだけだから",
-  "en": ""
+  "en": "only moving through the unstable space by fixed rules,"
  },
  {
   "id": "04010:0020",
   "jp": "扉のある部屋には\\n入ってこない",
-  "en": ""
+  "en": "so they won't come into rooms with doors."
  },
  {
   "id": "04010:0021",
   "jp": "見つかりそうに\\nなったら、",
-  "en": ""
+  "en": "If it looks like they're about to spot us,"
  },
  {
   "id": "04010:0022",
   "jp": "部屋の中へ、\\n逃げ込むのも\\nいいかもしれない",
-  "en": ""
+  "en": "it might be a good idea to escape into a room."
  },
  {
   "id": "04010:0023",
   "jp": "うん",
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "04010:0024",
   "jp": "あと、式札の\\n特殊能力を使っても、\\n避けれたよね",
-  "en": ""
+  "en": "Also, we could avoid them using a Shiki Card's special ability, right?"
  },
  {
   "id": "04010:0025",
   "jp": "あ、でも、特殊能力を\\n使っちゃうと、\\n式力が減るから、",
-  "en": ""
+  "en": "Oh, but using a special ability lowers Shiki Power,"
  },
  {
   "id": "04010:0026",
   "jp": "時紡ぎでは、\\n使えなくなっちゃう\\n時があるんだった",
-  "en": ""
+  "en": "so sometimes you can't use them in Time Weaving. I forgot."
  },
  {
   "id": "04010:0027",
   "jp": "シグマを盾にしても\\nいいかもしれない",
-  "en": ""
+  "en": "Using Sigma as a shield: also possible."
  },
  {
   "id": "04010:0028",
@@ -147,136 +147,136 @@
  {
   "id": "04010:0029",
   "jp": "嘘",
-  "en": ""
+  "en": "Falsehood."
  },
  {
   "id": "04010:0030",
   "jp": "面倒なら、\\n式札の特殊能力を\\n発動させるも吉",
-  "en": ""
+  "en": "If troublesome, activating a Shiki Card's special ability: also auspicious."
  },
  {
   "id": "04010:0031",
   "jp": "でも、式力、\\nぴょこんと減るので、",
-  "en": ""
+  "en": "However, Shiki Power drops. Boing."
  },
  {
   "id": "04010:0032",
   "jp": "時紡ぎで、\\n使えなくならないよう\\n注意、注意",
-  "en": ""
+  "en": "Avoid becoming unable to use them in Time Weaving. Caution, caution."
  },
  {
   "id": "04010:0033",
   "jp": "選択権はシグマにある",
-  "en": ""
+  "en": "The choice belongs to Sigma."
  },
  {
   "id": "04010:0034",
   "jp": "知ってるわよ！",
-  "en": ""
+  "en": "I know that!"
  },
  {
   "id": "04010:0035",
   "jp": "それと、\\n式札を使っても\\n避けれるんでしょ？",
-  "en": ""
+  "en": "Also, you can avoid them with Shiki Cards, right?"
  },
  {
   "id": "04010:0036",
   "jp": "まぁ、\\n使ったら、使ったで\\n式力は減るわけだから",
-  "en": ""
+  "en": "Well, if you use them, your Shiki Power goes down, so"
  },
  {
   "id": "04010:0037",
   "jp": "時紡ぎの時に、\\n使えなくなる可能性は\\nあるわけだけど",
-  "en": ""
+  "en": "there's a chance they'll be unusable during Time Weaving, though."
  },
  {
   "id": "04010:0038",
   "jp": "あぁ、使う時は、\\nその後の時紡ぎの\\nことも、考えながら",
-  "en": ""
+  "en": "Yes. We should consider the Time Weaving that follows"
  },
  {
   "id": "04010:0039",
   "jp": "使った方が\\n良さそうだね",
-  "en": ""
+  "en": "whenever we use them. That seems best."
  },
  {
   "id": "04010:0040",
   "jp": "紡げる時間があるのに\\n式力がないせいで、\\nその時間に行けず",
-  "en": ""
+  "en": "Even if there's a time we could weave, without Shiki Power we couldn't reach it,"
  },
  {
   "id": "04010:0041",
   "jp": "刻音を集められない\\nかもしれないからね",
-  "en": ""
+  "en": "and we might not be able to collect Echoes."
  },
  {
   "id": "04010:0042",
   "jp": "うん、\\n気をつけましょう",
-  "en": ""
+  "en": "Right, let's be careful."
  },
  {
   "id": "04010:0043",
   "jp": "あ、でも、たしか\\n【子】の札だけは、\\n何度でも使えるから、",
-  "en": ""
+  "en": "Oh, but I think only the [Rat] card can be used as many times as you like,"
  },
  {
   "id": "04010:0044",
   "jp": "安心して、\\n使っていいと思う",
-  "en": ""
+  "en": "so you can use it without worrying."
  },
  {
   "id": "04010:0045",
   "jp": "ふみゅ。\\n子細注意",
-  "en": ""
+  "en": "Fumyu. Caution in every detail."
  },
  {
   "id": "04010:0046",
   "jp": "？\\n思い出した",
-  "en": ""
+  "en": "? Recalled."
  },
  {
   "id": "04010:0047",
   "jp": "【子】の札だけは\\nいつでも、何度でも\\n使えるはず",
-  "en": ""
+  "en": "[Rat] card alone: should be usable anytime, any number of times."
  },
  {
   "id": "04010:0048",
   "jp": "流石は【子】、\\n増殖、増殖で\\n元気いっぱい",
-  "en": ""
+  "en": "As expected of [Rat]. Multiply, multiply, full of energy."
  },
  {
   "id": "04010:0049",
   "jp": "そうね。\\n注意一秒、怪我一生",
-  "en": ""
+  "en": "Indeed. A second of carelessness, a lifetime of injury."
  },
  {
   "id": "04010:0050",
   "jp": "あ、そういえばさ\\n確か【子】の札は\\n何回でも使えるわよ",
-  "en": ""
+  "en": "Oh, by the way, I'm pretty sure the [Rat] card can be used any number of times."
  },
  {
   "id": "04010:0051",
   "jp": "あれだけは、\\n気にせず使えばいいわ",
-  "en": ""
+  "en": "That one, you can use without a care."
  },
  {
   "id": "04010:0052",
   "jp": "$c01メニューから\\n【式札】\\nが選べるようになった$c00",
-  "en": ""
+  "en": "$c01[Shiki Cards] can now be selected from the menu.$c00"
  },
  {
   "id": "04010:0053",
   "jp": "【式札】を選ぶと\\n式札が持つ、特殊な力を\\n使用できます",
-  "en": ""
+  "en": "Selecting [Shiki Cards] lets you use the special powers held by Shiki Cards."
  },
  {
   "id": "04010:0054",
   "jp": "特殊効果は、様々ですが\\n使用した式札は",
-  "en": ""
+  "en": "Special effects vary, but Shiki Cards you've used"
  },
  {
   "id": "04010:0055",
   "jp": "時紡ぎで\\n使用できなくなります\\n注意しましょう",
-  "en": ""
+  "en": "can't be used in Time Weaving. Be careful."
  }
 ]
