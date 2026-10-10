@@ -2,7 +2,7 @@
  {
   "id": "06813:0000",
   "jp": "？？？",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "06813:0001",
@@ -67,7 +67,7 @@
  {
   "id": "06813:0013",
   "jp": "鍵を借りる佳子",
-  "en": "Yoshiko's key"
+  "en": "Yoshiko borrows"
  },
  {
   "id": "06813:0014",
@@ -77,7 +77,7 @@
  {
   "id": "06813:0015",
   "jp": "密室で死んだ静馬",
-  "en": "Shizuma, locked"
+  "en": "Shizuma dies, locked in"
  },
  {
   "id": "06813:0016",
@@ -87,17 +87,17 @@
  {
   "id": "06813:0017",
   "jp": "譲葉親子登場",
-  "en": "Yuzurihas in"
+  "en": "Yuzuriha pair arrive"
  },
  {
   "id": "06813:0018",
   "jp": "言の葉を揺する譲葉",
-  "en": "Yuzuriha's words"
+  "en": "Yuzuriha's Words"
  },
  {
   "id": "06813:0019",
   "jp": "大婆様、再び毒殺？",
-  "en": "Obaba-sama again?"
+  "en": "Obaba-sama re-poisoned?"
  },
  {
   "id": "06813:0020",
@@ -107,7 +107,7 @@
  {
   "id": "06813:0021",
   "jp": "娯楽室には鍵が…",
-  "en": "Game room key..."
+  "en": "Game room locked..."
  },
  {
   "id": "06813:0022",
@@ -117,12 +117,12 @@
  {
   "id": "06813:0023",
   "jp": "消えた大婆の遺体",
-  "en": "Obaba vanishes"
+  "en": "Obaba's body gone"
  },
  {
   "id": "06813:0024",
   "jp": "無残なユリ子…",
-  "en": "Poor Yuriko..."
+  "en": "Yuriko's grim fate..."
  },
  {
   "id": "06813:0025",
@@ -142,7 +142,7 @@
  {
   "id": "06813:0028",
   "jp": "佳子の死",
-  "en": "Yoshiko"
+  "en": "Yoshiko dies"
  },
  {
   "id": "06813:0029",
@@ -152,7 +152,7 @@
  {
   "id": "06813:0030",
   "jp": "大婆は二重人格？",
-  "en": "Split Obaba?"
+  "en": "Obaba's two selves?"
  },
  {
   "id": "06813:0031",
@@ -182,7 +182,7 @@
  {
   "id": "06813:0036",
   "jp": "扉を破る麟",
-  "en": "Rin's kick"
+  "en": "Rin breaks door"
  },
  {
   "id": "06813:0037",
@@ -192,27 +192,27 @@
  {
   "id": "06813:0038",
   "jp": "執事の死",
-  "en": "Butler"
+  "en": "Butler dies"
  },
  {
   "id": "06813:0039",
   "jp": "芙蓉の死",
-  "en": "Fuyou"
+  "en": "Fuyou dies"
  },
  {
   "id": "06813:0040",
   "jp": "竹の死",
-  "en": "Take"
+  "en": "Take dies"
  },
  {
   "id": "06813:0041",
   "jp": "大婆の死",
-  "en": "Obaba"
+  "en": "Obaba dies"
  },
  {
   "id": "06813:0042",
   "jp": "大逢魔を倒す２人",
-  "en": "Great Ouma dies"
+  "en": "Two defeat Great Ouma"
  },
  {
   "id": "06813:0043",
@@ -222,7 +222,7 @@
  {
   "id": "06813:0044",
   "jp": "大時計は正常…",
-  "en": "Great Clock..."
+  "en": "Great Clock fine..."
  },
  {
   "id": "06813:0045",
@@ -247,7 +247,7 @@
  {
   "id": "06813:0049",
   "jp": "盗み聞く執事",
-  "en": "Nosy butler"
+  "en": "Butler eavesdrops"
  },
  {
   "id": "06813:0050",
@@ -277,12 +277,12 @@
  {
   "id": "06813:0055",
   "jp": "容疑者は全員",
-  "en": "All of them"
+  "en": "All are suspects"
  },
  {
   "id": "06813:0056",
   "jp": "絞殺された竹",
-  "en": "Take choked"
+  "en": "Take strangled"
  },
  {
   "id": "06813:0057",
@@ -312,12 +312,12 @@
  {
   "id": "06813:0062",
   "jp": "娯楽室には鍵が",
-  "en": "Game room key"
+  "en": "Game room locked"
  },
  {
   "id": "06813:0063",
   "jp": "密室で殺された佳子",
-  "en": "Locked-in Yoshiko"
+  "en": "Yoshiko killed, locked in"
  },
  {
   "id": "06813:0064",
@@ -327,7 +327,7 @@
  {
   "id": "06813:0065",
   "jp": "式を飛ばすねね",
-  "en": "Nene's spell"
+  "en": "Nene sends shikigami"
  },
  {
   "id": "06813:0066",
@@ -352,7 +352,7 @@
  {
   "id": "06813:0070",
   "jp": "静馬とユリ子の死",
-  "en": "Shizuma, Yuriko"
+  "en": "Shizuma & Yuriko die"
  },
  {
   "id": "06813:0071",
@@ -367,7 +367,7 @@
  {
   "id": "06813:0073",
   "jp": "清浄の庭の茶会",
-  "en": "Garden tea"
+  "en": "Garden of Purity tea"
  },
  {
   "id": "06813:0074",
@@ -397,12 +397,12 @@
  {
   "id": "06813:0079",
   "jp": "密室で死んでいた執事",
-  "en": "Locked-in butler"
+  "en": "Butler dead, locked room"
  },
  {
   "id": "06813:0080",
   "jp": "絞殺された大婆",
-  "en": "Obaba choked"
+  "en": "Obaba strangled"
  },
  {
   "id": "06813:0081",
@@ -412,7 +412,7 @@
  {
   "id": "06813:0082",
   "jp": "麟、忘れ物をする",
-  "en": "Rin leaves item"
+  "en": "Rin forgets something"
  },
  {
   "id": "06813:0083",
@@ -447,7 +447,7 @@
  {
   "id": "06813:0089",
   "jp": "麟と芙蓉の死",
-  "en": "Rin & Fuyou"
+  "en": "Rin & Fuyou die"
  },
  {
   "id": "06813:0090",
@@ -457,7 +457,7 @@
  {
   "id": "06813:0091",
   "jp": "お婆様の悲鳴",
-  "en": "Obaa-sama!"
+  "en": "Obaa-sama screams"
  },
  {
   "id": "06813:0092",
@@ -467,7 +467,7 @@
  {
   "id": "06813:0093",
   "jp": "執事に怯えるゆう",
-  "en": "Butler-shy Yuu"
+  "en": "Yuu fears butler"
  },
  {
   "id": "06813:0094",
@@ -482,7 +482,7 @@
  {
   "id": "06813:0096",
   "jp": "ユリ子の調査",
-  "en": "Yuriko digs"
+  "en": "Yuriko investigates"
  },
  {
   "id": "06813:0097",
@@ -492,11 +492,11 @@
  {
   "id": "06813:0098",
   "jp": "お・し・ま・い・だ",
-  "en": "It's. All. Over."
+  "en": "It. Is. Over. Now."
  },
  {
   "id": "06813:0099",
   "jp": "連続殺人、完結",
-  "en": "Murders end"
+  "en": "Serial murders end"
  }
 ]

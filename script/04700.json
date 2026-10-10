@@ -117,37 +117,37 @@
  {
   "id": "04700:0023",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0024",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0025",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0026",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0027",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0028",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0029",
   "jp": "命脈の厨",
-  "en": "Kitchen"
+  "en": "Lifeline Kitchen"
  },
  {
   "id": "04700:0030",
@@ -217,17 +217,17 @@
  {
   "id": "04700:0043",
   "jp": "１Ｆ通路西",
-  "en": "1F West Hall"
+  "en": "First Floor West Hall"
  },
  {
   "id": "04700:0044",
   "jp": "１Ｆ通路西",
-  "en": "1F West Hall"
+  "en": "First Floor West Hall"
  },
  {
   "id": "04700:0045",
   "jp": "１Ｆ通路西",
-  "en": "1F West Hall"
+  "en": "First Floor West Hall"
  },
  {
   "id": "04700:0046",
@@ -447,72 +447,72 @@
  {
   "id": "04700:0089",
   "jp": "七賢の間",
-  "en": "Seven Sages"
+  "en": "Seven Sages Room"
  },
  {
   "id": "04700:0090",
   "jp": "七賢の間",
-  "en": "Seven Sages"
+  "en": "Seven Sages Room"
  },
  {
   "id": "04700:0091",
   "jp": "七賢の間",
-  "en": "Seven Sages"
+  "en": "Seven Sages Room"
  },
  {
   "id": "04700:0092",
   "jp": "七賢の間",
-  "en": "Seven Sages"
+  "en": "Seven Sages Room"
  },
  {
   "id": "04700:0093",
   "jp": "七賢の間",
-  "en": "Seven Sages"
+  "en": "Seven Sages Room"
  },
  {
   "id": "04700:0094",
   "jp": "絡繰りの間",
-  "en": "Mechanisms"
+  "en": "Mechanism Room"
  },
  {
   "id": "04700:0095",
   "jp": "絡繰りの間",
-  "en": "Mechanisms"
+  "en": "Mechanism Room"
  },
  {
   "id": "04700:0096",
   "jp": "絡繰りの間",
-  "en": "Mechanisms"
+  "en": "Mechanism Room"
  },
  {
   "id": "04700:0097",
   "jp": "雪白の間",
-  "en": "Snow White"
+  "en": "Snow-White Room"
  },
  {
   "id": "04700:0098",
   "jp": "雪白の間",
-  "en": "Snow White"
+  "en": "Snow-White Room"
  },
  {
   "id": "04700:0099",
   "jp": "雪白の間",
-  "en": "Snow White"
+  "en": "Snow-White Room"
  },
  {
   "id": "04700:0100",
   "jp": "稀人の間",
-  "en": "Visitor Room"
+  "en": "Guest Room"
  },
  {
   "id": "04700:0101",
   "jp": "稀人の間",
-  "en": "Visitor Room"
+  "en": "Guest Room"
  },
  {
   "id": "04700:0102",
   "jp": "稀人の間",
-  "en": "Visitor Room"
+  "en": "Guest Room"
  },
  {
   "id": "04700:0103",
@@ -532,82 +532,82 @@
  {
   "id": "04700:0106",
   "jp": "夕月の間",
-  "en": "Dusk Moon"
+  "en": "Moonlit Room"
  },
  {
   "id": "04700:0107",
   "jp": "夕月の間",
-  "en": "Dusk Moon"
+  "en": "Moonlit Room"
  },
  {
   "id": "04700:0108",
   "jp": "夕月の間",
-  "en": "Dusk Moon"
+  "en": "Moonlit Room"
  },
  {
   "id": "04700:0109",
   "jp": "天道の間",
-  "en": "Sun Room"
+  "en": "Heaven Room"
  },
  {
   "id": "04700:0110",
   "jp": "天道の間",
-  "en": "Sun Room"
+  "en": "Heaven Room"
  },
  {
   "id": "04700:0111",
   "jp": "天道の間",
-  "en": "Sun Room"
+  "en": "Heaven Room"
  },
  {
   "id": "04700:0112",
   "jp": "八紘の間",
-  "en": "Eight Winds"
+  "en": "World Room"
  },
  {
   "id": "04700:0113",
   "jp": "八紘の間",
-  "en": "Eight Winds"
+  "en": "World Room"
  },
  {
   "id": "04700:0114",
   "jp": "八紘の間",
-  "en": "Eight Winds"
+  "en": "World Room"
  },
  {
   "id": "04700:0115",
   "jp": "八紘の間",
-  "en": "Eight Winds"
+  "en": "World Room"
  },
  {
   "id": "04700:0116",
   "jp": "八紘の間",
-  "en": "Eight Winds"
+  "en": "World Room"
  },
  {
   "id": "04700:0117",
   "jp": "綺羅の間",
-  "en": "Splendor"
+  "en": "Finery Room"
  },
  {
   "id": "04700:0118",
   "jp": "綺羅の間",
-  "en": "Splendor"
+  "en": "Finery Room"
  },
  {
   "id": "04700:0119",
   "jp": "綺羅の間",
-  "en": "Splendor"
+  "en": "Finery Room"
  },
  {
   "id": "04700:0120",
   "jp": "綺羅の間",
-  "en": "Splendor"
+  "en": "Finery Room"
  },
  {
   "id": "04700:0121",
   "jp": "綺羅の間",
-  "en": "Splendor"
+  "en": "Finery Room"
  },
  {
   "id": "04700:0122",
