@@ -1,0 +1,16 @@
+rom/
+build/
+work/
+dist/
+release/
+out/
+.venv/
+__pycache__/
+tools/desmume/
+tools/*/
+!tools/routes/
+*.nds
+*.ds[0-9]
+*.dst
+*.dsv
+*.sav

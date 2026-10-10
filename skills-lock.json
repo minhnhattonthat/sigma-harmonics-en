@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "translate-retro-game": {
+      "source": "minhnhattonthat/translate-retro-game",
+      "sourceType": "github",
+      "skillPath": "skills/translate-retro-game/SKILL.md",
+      "computedHash": "07dd0e3fd9b7c17fd20c510705b657634c8ef16ecc750fb2438e382fe64610cb"
+    }
+  }
+}
