@@ -1,10 +1,11 @@
 """Measure and wrap English for the game's boxes.
 
-Dialogue (string tables driven by a Sigma script) is drawn with font 04387: auto-wrapped here to
-DLG_LINES lines of DLG_PX pixels. UI tables use their own small font (px9 Latin): the English must fit
+Dialogue (string tables driven by a Sigma script) is drawn with font 04387: reflowed here to
+DLG_LINES lines of DLG_PX pixels, then packed into chunk glyphs by dlgfont.py. UI tables use their own small font (px9 Latin): the English must fit
 the Japanese line count and pixel budget (JP chars x cell width).
 python -X utf8 tools/fit.py "Some English text" [--ui]   # dry run: prints the wrapped lines and widths
 """
+import math
 import re
 import sys
 from functools import lru_cache
@@ -13,20 +14,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import latin  # noqa: E402
 
-DLG_PX = 180        # usable line width of the dialogue box (measured: interior ~186 px)
-DLG_LINES = 3
-GAP = 1             # the renderer adds 1 px after every glyph
+DLG_PX = 62         # line width in the bubble, text left-to-right for the player (interior 64 px; dlgfont.py)
+DLG_LINES = 12      # bubble interior 184 px at a 14 px line step
+GAP = 1             # UI renderers add 1 px after every glyph (dialogue glyphs carry their natural advance)
 CODE = re.compile(r'\$c\d\d')
 NL = '\\n'          # line break as stored: a literal backslash + n
-
-
-@lru_cache(None)
-def _dlg_adv():
-    out = {}
-    for ch in latin.ASCII:
-        _, adv = latin.raster_ttf(ch, latin.DLG_TTF, latin.DLG_PX, 16, 16, 13, 3)
-        out[ch] = adv + GAP
-    return out
 
 
 @lru_cache(None)
@@ -36,8 +28,22 @@ def _ui_adv():
 
 
 def width(s, ui=False):
-    adv = _ui_adv() if ui else _dlg_adv()
-    return sum(adv.get(ch, 99) for ch in CODE.sub('', s))
+    s = CODE.sub('', s)
+    if ui:
+        return sum(_ui_adv().get(ch, 99) for ch in s)
+    return math.ceil(latin.dlg_ttf().getlength(s))  # dialogue font: natural advance, as dlgfont draws it
+
+
+def hyphenate(word, limit, ui=False):
+    """A word wider than the line, split into pieces that fit, each but the last ending in '-'."""
+    out = []
+    while width(word, ui) > limit and len(word) > 1:
+        piece = lambda k: word[:k] if word[k - 1] == '-' else word[:k] + '-'  # noqa: E731
+        fits = [k for k in range(1, len(word)) if width(piece(k), ui) <= limit] or [1]
+        k = max((k for k in fits if word[k - 1] == '-'), default=max(fits))  # prefer the word's own hyphen
+        out.append(piece(k))
+        word = word[k:]
+    return out + [word]
 
 
 def wrap(s, limit=DLG_PX, ui=False):
@@ -45,7 +51,7 @@ def wrap(s, limit=DLG_PX, ui=False):
     lines = []
     for para in s.split(NL):
         cur = ''
-        for word in para.split(' '):
+        for word in (p for w in para.split(' ') for p in hyphenate(w, limit, ui)):
             trial = word if not cur else cur + ' ' + word
             if cur and width(trial, ui) > limit:
                 lines.append(cur)
@@ -62,7 +68,7 @@ def balanced(s, limit=DLG_PX, ui=False):
     if NL in s or len(lines) < 2:
         return lines
     n = len(lines)
-    lo, hi = max(width(w, ui) for w in s.split(' ')), limit
+    lo, hi = min(max(width(w, ui) for w in s.split(' ')), limit), limit
     while lo < hi:  # smallest limit that still gives n lines
         mid = (lo + hi) // 2
         if len(wrap(s, mid, ui)) <= n:
@@ -73,8 +79,9 @@ def balanced(s, limit=DLG_PX, ui=False):
 
 
 def fit_dialogue(s):
-    """English as stored for a dialogue line: wrapped with literal \\n. Errors -> ValueError."""
-    lines = balanced(s)
+    """English as stored for a dialogue line: wrapped with literal \\n. Errors -> ValueError.
+    Translators' breaks were written for the old 3-line box, so the text is reflowed."""
+    lines = balanced(s.replace(NL, ' '))
     bad = [ln for ln in lines if width(ln) > DLG_PX]
     if bad:
         raise ValueError(f'word wider than the box: {bad[0]!r}')

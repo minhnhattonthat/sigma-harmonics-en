@@ -24,7 +24,7 @@
 - Dialogue renderer clips the glyph after any ASCII 0x50-0x5F (P-Z [ \ ] ^ _): those become full-width twins.
 - U+0020 and U+3000 get a full-cell (16 px) advance whatever their glyph says: English spaces are U+2002 (en space).
 - Advance = quantised ink width; the renderer adds 1 px. Dialogue Latin = STIX General 13 px, 3bpp, stored rotated 180.
-- A line wider than the box is clipped; a much longer one crashed once (3-line test). Lint keeps 180 px.
+- A line wider than the box is clipped; more than 60 glyphs + breaks in one bubble crashes (see Text engine).
 - Opening scene is table 04086 (table ids are not in story order).
 
 ## Text engine (NitroSystem g2d, arm9; tools/arm9dis.py, tools/lua/execlog.lua + memwatch.lua)
@@ -42,8 +42,9 @@
   char made by 0x200d35c (measure, char canvas, OAM via 0x2095d4c, draw centred via 0x2096260, returns width+1),
   doing x -= advance per char and taking line y from table 0x20cc0bc ([32] / [20,44] / [14,32,50]: max 3 lines).
 - Blitter 0x2095374 copies only CWDH glyphWidth raw-x columns of a cell (fine for text along x).
-- Horizontal-for-player prototype (2026-10-10, tools/exp_horizontal.py, works in the opening): font 04387 flags
-  3 -> 2; Latin stored upright (latin.orient flags 2) with glyphWidth 16, advance = ink; arm9 patches:
-  0x200d3bc/3c4 swap canvas w/h; 0x200d4b8/4c4 nop (x nudge); 0x200d5ac `mov r1,#8`, 0x200d5b0 `mov r2,fp`
-  (centre); 0x200d88c `mov r0,#K`; 0x200d8d0-8e8 newline x = x0 - 16*line, y = base - K; 0x200d920-928 y += adv.
-  K=52, wrap 56 px: about 10 chars x ~10 lines per bubble.
+- Bubble record array: 0x24-byte records at +0x18, count at +0x88c, NO bound: max 60 records (one per glyph and
+  one per line break); the 61st overwrites the count and the game crashes. The parser stopped at 3 lines.
+- Shipped (tools/dlgfont.py, wired into build.py): bubbles read left-to-right for the player. Font 04387 flags 2,
+  arm9 PATCH list (layout, 12 lines at 14 px, no extra 1 px), text reflowed to 62 px x 12 lines (fit.py, words
+  hyphenated) and packed into <=16 px chunk glyphs drawn into unused kanji slots, one centring spacer per line.
+  tools/exp_horizontal.py is the first prototype (kept for reference).

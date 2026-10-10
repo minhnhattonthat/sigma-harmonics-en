@@ -5,7 +5,8 @@ Small UI fonts (1bpp 9-13px): the hand-drawn pixel font font/px9.txt.
 Existing ASCII glyphs are redrawn in place so a word never mixes two styles.
 
 Orientation comes from CGLP flags (the game is played with the DS sideways):
-  0 upright; 2 rotated 90 deg clockwise; 3 rotated 180 deg; 6 rotated 90 deg counter-clockwise.
+  0 upright; 2 rotated 90 deg clockwise; 6 rotated 90 deg counter-clockwise. The dialogue font (flags 3, Japanese
+  vertical writing) is drawn as flags 2 and dlgfont.py switches its flags, so English runs left-to-right.
 Each glyph is drawn upright, left-aligned in its advance box, then rotated into the stored cell.
 """
 import struct
@@ -65,6 +66,22 @@ def raster_ttf(ch, ttf, px, w, h, base, bpp):
             for y in range(h)], adv
 
 
+def dlg_ttf():
+    return _ttf(DLG_TTF, DLG_PX)
+
+
+def dlg_glyph(s, p):
+    """Dialogue-font glyph for string `s` (one char or a chunk), upright for the player: drawn at its natural
+    advance, rotated into the cell like the flags-2 fonts. Widths (left, glyphWidth, advance): glyphWidth is the
+    full cell because the blitter copies that many raw-x columns (docs/re/README.md)."""
+    f, top = dlg_ttf(), (1 << p['bpp']) - 1
+    adv = round(f.getlength(s)) if s != ' ' else SPACE_ADV
+    im = Image.new('L', (p['h'], p['w']), 0)  # upright: width along the advance (cell h), height = cell w
+    ImageDraw.Draw(im).text((0, p['base']), s, font=f, fill=255, anchor='ls')
+    rows = [[round(im.getpixel((x, y)) * top / 255) for x in range(p['h'])] for y in range(p['w'])]
+    return pack(orient(rows, 2, p['w'], p['h']), p['bpp'], p['size']), (0, p['w'], adv)
+
+
 def raster_px9(ch, w, h, base, bpp):
     """Upright pixel glyph placed so its baseline (under px9 row 6) sits 2 rows above the cell baseline,
     as the game's own 9px glyphs fill the cell to the bottom."""
@@ -112,10 +129,11 @@ def glyphs(x):
     wu, hu = (p['h'], p['w']) if rotated else (p['w'], p['h'])
     out = {}
     for ch in ASCII:
-        if p['flags'] == 3:  # the dialogue font: rotate the advance box by 180 deg, keep it left-aligned
-            rows, adv = raster_ttf(ch, DLG_TTF, DLG_PX, wu, hu, p['base'], p['bpp'])
-            stored = [[rows[hu - 1 - y][adv - 1 - x] if x < adv else 0 for x in range(wu)] for y in range(hu)]
-            width = adv
+        if p['flags'] == 3:  # the dialogue font, switched to flags 2 by dlgfont.py: upright for the player
+            bitmap, widths = dlg_glyph(ch, p)
+            out[ord(ch)] = (bitmap, *widths)
+            out[fullwidth(ch)] = out[ord(ch)]
+            continue
         else:
             rows, adv = raster_px9(ch, wu, hu, hu, p['bpp'])
             stored = orient(rows, p['flags'], p['w'], p['h'])

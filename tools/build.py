@@ -10,6 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import batches  # noqa: E402
+import dlgfont  # noqa: E402
 import fit  # noqa: E402
 import latin  # noqa: E402
 import rom  # noqa: E402
@@ -69,19 +70,29 @@ def main(argv):
         print('identity: ok')
         return
     script = text.load_script()
+    byid = {f['id']: f for f in c.files}
+    plan = None
     if '--marker' in argv:
         rep, out = text.replacements(c, script, marker), BUILD / 'sigma_marker.nds'
     else:
         meta = batches.load_meta()
+        dlg = []
         for fid, rows in script.items():
             for r in rows:
                 if r['en'] and meta[fid]['form'] == 'dlg':
-                    r['en'] = to_fullwidth(fit.fit_dialogue(r['en']), 'P_').replace(' ', chr(latin.SPACE))
+                    r['en'] = fit.fit_dialogue(r['en'])
+                    dlg.append(r)
                 elif r['en']:
                     r['en'] = to_fullwidth(r['en'])
+        keep = {ch for rows in script.values() for r in rows if not r['en'] for ch in r['jp']}  # still Japanese
+        plan = dlgfont.Plan([r['en'] for r in dlg], dlgfont.slots(c.get(byid[dlgfont.FONT]), keep))
+        for r in dlg:
+            r['en'] = plan.encode(r['en'])
         rep, out = text.replacements(c, script), BUILD / 'sigma_en.nds'
     rep.update(fonts(c))
-    byid = {f['id']: f for f in c.files}
+    if plan:
+        new = plan.font(rep[dlgfont.FONT][0])
+        rep[dlgfont.FONT] = (new, len(new))
     for tid, recipe in texedit.recipes().items():  # English UI textures (font/textures.json)
         _, new = texedit.apply(tid, recipe, c.get(byid[int(tid)]))
         rep[int(tid)] = (new, len(new))
@@ -90,7 +101,8 @@ def main(argv):
         _, g, s = scredit.apply(*(c.get(byid[n + k]) for k in range(3)), recipe)
         rep[n], rep[n + 2] = (g, len(g)), (s, len(s))
     BUILD.mkdir(exist_ok=True)
-    out.write_bytes(rom.put_cpk(data, c.build(rep)))
+    new_rom = rom.put_cpk(data, c.build(rep))
+    out.write_bytes(dlgfont.patch_arm9(new_rom) if plan else new_rom)
     print(f'build: {len(rep)} files changed -> {out}')
 
 

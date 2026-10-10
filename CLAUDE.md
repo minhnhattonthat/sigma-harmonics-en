@@ -16,7 +16,8 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
 
 ## Rulings
 - Honorifics kept, given name first. Romanisation: official/fan (chocomog257 guide) else Hepburn. Credits English. No abbreviations.
-- Game is played sideways; dialogue font 04387 stores glyphs pre-rotated (CGLP flags 3).
+- Game is played sideways; dialogue bubbles read left-to-right for the player via tools/dlgfont.py (font flags 2,
+  arm9 patch, chunk glyphs). Bubble = 62 px x 12 lines, max 60 glyph records (else crash). RE: docs/re/README.md.
 - A character with no glyph in the active font HANGS the game. Every char used must exist in every font that draws it.
 
 - Renderer quirks + fixes: docs/re/README.md (UI tables full-width; dialogue 0x50-0x5F full-width; spaces U+2002).
@@ -24,6 +25,7 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
   style docs/style-reference.md. Echo names: `tools/echoes.py` -> build/echoes.tsv. Bisect a hang: tools/bisect_text.py.
 
 ## Status
-- Done: engine (Latin fonts, quirks), 53 batches translated + merged (~12.1k/12.3k strings, lint clean), boots + opening QA.
-- Next: gpt-6-astra review pass (blocked: safety classifier outage), in-game check of UI widths (docs/re/verify.md),
-  graphics text (title menu prompt, chapter cards), release (xdelta).
+- Done: engine, 53 batches translated + reviewed, all graphics groups (font/screens*.json), credits verified,
+  horizontal dialogue bubbles (opening QA'd).
+- Next: QA other screens that draw with font 04387 (its direction flipped), in-game UI widths (docs/re/verify.md),
+  release (xdelta). Marker build (--marker) does not apply dlgfont.

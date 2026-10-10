@@ -44,11 +44,22 @@ def fonts(c):
 
 build.fonts = fonts
 fit.fit_dialogue = lambda s: fit.NL.join(fit.wrap(s.replace(fit.NL, ' '), WRAP))
+if '--test' in sys.argv:  # opening lines 0-3 -> 58/62/75/95-char probes for the 60-record limit
+    PROBE = 'Abcde fghij klmno pqrst uvwxy zabcd efghi jklmn opqrs tuvwx yzabc defgh ijklm nopqr stuvw'
+    orig_load = build.text.load_script
+
+    def load_script():
+        s = orig_load()
+        for i, n in enumerate((58, 62, 75, 95)):
+            s[4086][i]['en'] = f'{n:02d}' + PROBE[2:n]
+        return s
+    build.text.load_script = load_script
 
 ks = keystone.Ks(keystone.KS_ARCH_ARM, keystone.KS_MODE_ARM)
 PATCH = {
     0x200d3bc: 'ldr r0, [sp, #0x18]',      # canvas raw w = text height
     0x200d3c4: 'ldr r1, [sp, #0x14]',      # canvas raw h = text width
+    0x200d778: 'cmp r0, #12',              # parser: up to 12 lines (was 3)
     0x200d4b8: 'mov r0, r0',               # no x nudge for narrow glyphs
     0x200d4c4: 'mov r0, r0',
     0x200d5ac: 'mov r1, #8',               # centre x: cell origin x = 8 + 8 - 16 = 0
