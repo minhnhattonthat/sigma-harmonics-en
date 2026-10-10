@@ -40,10 +40,31 @@ def hyphenate(word, limit, ui=False):
     while width(word, ui) > limit and len(word) > 1:
         piece = lambda k: word[:k] if word[k - 1] == '-' else word[:k] + '-'  # noqa: E731
         fits = [k for k in range(1, len(word)) if width(piece(k), ui) <= limit] or [1]
-        k = max((k for k in fits if word[k - 1] == '-'), default=max(fits))  # prefer the word's own hyphen
+        k = max(fits, key=lambda k: (_break_score(word, k), k))
         out.append(piece(k))
         word = word[k:]
     return out + [word]
+
+
+SUFFIXES = ('ing', 'ment', 'tion', 'sion', 'ness', 'able', 'ible', 'ful', 'less', 'ous', 'ive', 'est', 'ance',
+            'ence', 'ity', 'ism', 'ist', 'ize', 'ise', 'ward', 'some', 'ship', 'hood', 'er', 'ed', 'ly')
+VOWELS = set('aeiouyAEIOUY')
+
+
+def _break_score(word, k):
+    """How good a hyphen break before word[k] is: own hyphen > before a suffix > between two consonants.
+    Fewer than 3 letters on either side is worst."""
+    head, tail = word[:k], word[k:]
+    letters = lambda s: sum(c.isalpha() for c in s)  # noqa: E731
+    if head.endswith('-'):
+        return 4
+    if letters(head) < 3 or letters(tail.rstrip('.,!?;:)]>"\'')) < 3:
+        return 0
+    if tail.lower().rstrip('.,!?;:)]>"\'').startswith(SUFFIXES):
+        return 3
+    if head[-1].isalpha() and tail[0].isalpha() and head[-1] not in VOWELS and tail[0] not in VOWELS:
+        return 2
+    return 1
 
 
 def wrap(s, limit=DLG_PX, ui=False):
