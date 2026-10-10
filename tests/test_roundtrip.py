@@ -49,12 +49,17 @@ def test_screen_edit_roundtrip(orig):
     import scredit
     _, c = orig
     byid = {f['id']: f for f in c.files}
-    for n in (63, 93):  # 8bpp and 4bpp with per-tile palettes
+    for n in (63, 93, 2624):  # 8bpp, 4bpp with per-tile palettes, 72 tiles sharing a blank one
         g, p, s = (c.get(byid[n + k]) for k in range(3))
         im = scredit.player_view(g, p, s)
-        assert scredit.encode(g, p, s, im.rotate(-90, expand=True)) == g  # untouched image: bytes unchanged
-        _, new = scredit.apply(g, p, s, scredit.recipes()[f'{n:05d}'])
-        assert len(new) == len(g) and new != g
+        assert scredit.encode(g, p, s, im.rotate(-90, expand=True)) == (g, s)  # untouched image: bytes unchanged
+        fill = [214, 82, 165] if n == 93 else [255, 255, 255]  # 4bpp cells only have their palette's colours
+        recipe = {'text': [{'text': 'Test', 'box': [0, 0, 192, 256], 'size': 40, 'fill': fill}]}
+        ed, ng, ns = scredit.apply(g, p, s, recipe)
+        assert ng != g
+        back = scredit.player_view(ng, p, ns)  # every changed pixel lands; colours only shift by quantisation
+        diff = sum(1 for a, b in zip(back.getdata(), ed.getdata()) if sum(abs(x - y) for x, y in zip(a, b)) > 96)
+        assert diff < 0.01 * back.width * back.height, diff
 
 
 def test_script_ids_stable():
