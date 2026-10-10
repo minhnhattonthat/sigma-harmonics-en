@@ -72,7 +72,7 @@
  {
   "id": "04038:0014",
   "jp": "第一に、$c02殺人$c00予告",
-  "en": "First, the $c02murder$c00 notice."
+  "en": "First, the $c02Murder$c00 Notice."
  },
  {
   "id": "04038:0015",
@@ -147,7 +147,7 @@
  {
   "id": "04038:0029",
   "jp": "それだけの理由で\\n$c02自殺$c00と決めちゃうのは\\n…………",
-  "en": "Deciding it was $c02suicide$c00 for just that reason is.........."
+  "en": "Deciding it was $c02suicide$c00 for just that reason is......"
  },
  {
   "id": "04038:0030",
@@ -162,7 +162,7 @@
  {
   "id": "04038:0032",
   "jp": "…………\\nそうかもしれないけど",
-  "en": "..........That may be so,"
+  "en": "......That may be so,"
  },
  {
   "id": "04038:0033",
@@ -282,7 +282,7 @@
  {
   "id": "04038:0056",
   "jp": "ふーん、あっそ",
-  "en": "Hmph. Is that so."
+  "en": "Huh. Whatever you say."
  },
  {
   "id": "04038:0057",
@@ -427,7 +427,7 @@
  {
   "id": "04038:0085",
   "jp": "さぁ、これで調律をしよう",
-  "en": "Now, with that, let's begin the tuning."
+  "en": "Now, with that, let the tuning begin!"
  },
  {
   "id": "04038:0086",
@@ -582,7 +582,7 @@
  {
   "id": "04038:0116",
   "jp": "恐らく、$c02逢魔$c00によって\\n$c02魔を刺されてた$c00\\nとはいえ",
-  "en": "Though the $c02Ouma$c00 had probably left her $c02stung by evil$c00,"
+  "en": "Though an $c02Ouma$c00 had probably left her $c02stung by evil$c00,"
  },
  {
   "id": "04038:0117",
@@ -667,7 +667,7 @@
  {
   "id": "04038:0133",
   "jp": "これは、超推理で、\\n導きだした結論さ、\\n間違ってる証拠もない",
-  "en": "Super Reasoning drew this conclusion. And there's no proof it's wrong."
+  "en": "My Super Reasoning drew this conclusion, and there's no proof it's wrong."
  },
  {
   "id": "04038:0134",
@@ -762,17 +762,17 @@
  {
   "id": "04038:0152",
   "jp": "ふみゅ？\\nやはり、ご頭首に毒盛り\\n無理という確認？",
-  "en": "Fumyu? Confirming: honored Head, poisoning impossible after all?"
+  "en": "Fumyu? Confirming: the honorable Head, poisoning impossible after all?"
  },
  {
   "id": "04038:0153",
   "jp": "分かってるわよ。\\n頭首にだって\\n毒は盛れない",
-  "en": "I know. Not even the head could have poisoned it."
+  "en": "I know. Not even the Head could have poisoned it."
  },
  {
   "id": "04038:0154",
   "jp": "《食事中には》さ",
-  "en": "No one could <during the meal>, that is."
+  "en": "<During the meal>, that is."
  },
  {
   "id": "04038:0155",
@@ -877,7 +877,7 @@
  {
   "id": "04038:0175",
   "jp": "あれは、$c02殺人$c00予告と\\n見て取れる",
-  "en": "It can be read as a $c02murder$c00 notice."
+  "en": "It can be read as a $c02Murder$c00 Notice."
  },
  {
   "id": "04038:0176",
@@ -972,12 +972,12 @@
  {
   "id": "04038:0194",
   "jp": "婆ちゃん以外、\\nご頭首とよっちゃん\\n同じスープを飲んだ",
-  "en": "Besides Granny, honored Head and Yocchan drank same soup."
+  "en": "Besides Granny, the honorable Head and Yocchan drank same soup."
  },
  {
   "id": "04038:0195",
   "jp": "頭首も佳子も\\nトマトスープ、ガンガン\\n飲んでたわよ",
-  "en": "The head and Yoshiko were both gulping that tomato soup down."
+  "en": "The Head and Yoshiko were both gulping that tomato soup down."
  },
  {
   "id": "04038:0196",
@@ -1042,7 +1042,7 @@
  {
   "id": "04038:0208",
   "jp": "大婆は、実はフード\\nファイターだった",
-  "en": "So Obaba was secretly a competitive eater"
+  "en": "Obaba, secretly a competitive eater."
  },
  {
   "id": "04038:0209",
@@ -1057,7 +1057,7 @@
  {
   "id": "04038:0211",
   "jp": "って、訳ないでしょ",
-  "en": "--yeah, as if."
+  "en": "--as if that could be true."
  },
  {
   "id": "04038:0212",
@@ -1112,7 +1112,7 @@
  {
   "id": "04038:0222",
   "jp": "確かに、よっちゃん\\nご頭首ワインを\\n一緒にグビグビ",
-  "en": "Indeed. Yocchan, honored Head: wine, glug-glug together."
+  "en": "Indeed. Yocchan, the honorable Head: wine, glug-glug together."
  },
  {
   "id": "04038:0223",
@@ -1237,7 +1237,7 @@
  {
   "id": "04038:0247",
   "jp": "吃驚仰天……\\n発想は逆から\\n生まれるもの？",
-  "en": "Utterly astounded... Ideas are born from the reverse?"
+  "en": "Surprised and astounded... Do ideas come from the opposite direction?"
  },
  {
   "id": "04038:0248",
@@ -1452,7 +1452,7 @@
  {
   "id": "04038:0290",
   "jp": "ということは\\nその後、ご頭首が\\n毒を入れたと",
-  "en": "Meaning, after that, the Head put in the poison."
+  "en": "Meaning, after that, the honorable Head put in the poison."
  },
  {
   "id": "04038:0291",
@@ -1557,7 +1557,7 @@
  {
   "id": "04038:0311",
   "jp": "毒を盛るという行為で\\n１人１人、苦しめる\\n必要はないしね",
-  "en": "And with poison, there's no need to make them suffer one by one."
+  "en": "And by poisoning, there's no need to make them suffer one by one."
  },
  {
   "id": "04038:0312",
@@ -1622,7 +1622,7 @@
  {
   "id": "04038:0324",
   "jp": "計画を実行に\\n移そうにも、",
-  "en": "Just as he tried to put his plan into action,"
+  "en": "Even if he tried to put his plan into action,"
  },
  {
   "id": "04038:0325",
@@ -1742,7 +1742,7 @@
  {
   "id": "04038:0348",
   "jp": "だから、１度、\\n皆を混乱させるために、",
-  "en": "So, to throw everyone into confusion for a while,"
+  "en": "So, just once, to throw everyone into confusion,"
  },
  {
   "id": "04038:0349",
@@ -1872,12 +1872,12 @@
  {
   "id": "04038:0374",
   "jp": "ふみゅ。\\nシグマは、$c02逢魔$c00の\\n居場所分かる？",
-  "en": "Fumyu. Sigma knows $c02Ouma$c00's location?"
+  "en": "Fumyu. Sigma, know where the $c02Ouma$c00 is?"
  },
  {
   "id": "04038:0375",
   "jp": "あ、やっぱり、その頭の\\nピンとしてるのは、\\n$c02逢魔レー$c00……",
-  "en": "Ah, so that bit of hair sticking up on your head really is an $c02Ouma rada$c00..."
+  "en": "Ah, so that bit of hair sticking up on your head really is an $c02Ouma radar$c00..."
  },
  {
   "id": "04038:0376",

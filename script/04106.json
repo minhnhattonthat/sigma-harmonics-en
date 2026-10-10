@@ -137,7 +137,7 @@
  {
   "id": "04106:0027",
   "jp": "全て彼女の証言を元に\\nなりたっている",
-  "en": "rests entirely on her testimony."
+  "en": "rests entirely on Nene's testimony."
  },
  {
   "id": "04106:0028",
@@ -147,7 +147,7 @@
  {
   "id": "04106:0029",
   "jp": "つまり、彼女の証言さえ、\\n無視すれば、",
-  "en": "In other words, as long as we ignore her testimony,"
+  "en": "In other words, as long as we ignore Nene's testimony,"
  },
  {
   "id": "04106:0030",
@@ -192,7 +192,7 @@
  {
   "id": "04106:0038",
   "jp": "後で、下りたところを、\\n$c02逢魔$c00が隠してる\\nのかもしれない",
-  "en": "Maybe the $c02Ouma$c00 is hiding the moment she came back down later."
+  "en": "Maybe an $c02Ouma$c00 is hiding the moment she came back down later."
  },
  {
   "id": "04106:0039",
@@ -287,7 +287,7 @@
  {
   "id": "04106:0057",
   "jp": "【ユリ子の部屋】だ",
-  "en": "[Yuriko's Room]."
+  "en": "It's [Yuriko's Room]."
  },
  {
   "id": "04106:0058",
@@ -332,7 +332,7 @@
  {
   "id": "04106:0066",
   "jp": "恐らく、ねねに\\n見つからないように\\nこっそり下りてきて、",
-  "en": "Most likely, she snuck down so Nene wouldn't spot her,"
+  "en": "Most likely, she slipped down so Nene wouldn't spot her,"
  },
  {
   "id": "04106:0067",
@@ -347,7 +347,7 @@
  {
   "id": "04106:0069",
   "jp": "無言……",
-  "en": "Speechless..."
+  "en": "...Silence."
  },
  {
   "id": "04106:0070",
@@ -362,7 +362,7 @@
  {
   "id": "04106:0072",
   "jp": "ではでは、\\nご頭首の件は？",
-  "en": "Then, then, the matter of the Head?"
+  "en": "Then, then, the matter of the honorable Head?"
  },
  {
   "id": "04106:0073",
@@ -372,7 +372,7 @@
  {
   "id": "04106:0074",
   "jp": "彼も$c02自殺$c00か、\\nはたまた$c02事故死$c00だろう",
-  "en": "He was a $c02suicide$c00 too, or else an $c02accidental death$c00."
+  "en": "Most likely his death was a $c02suicide$c00 too, or else an $c02accidental death$c00."
  },
  {
   "id": "04106:0075",
@@ -742,12 +742,12 @@
  {
   "id": "04106:0148",
   "jp": "そう、あれは、\\nあの直前に戻って\\nきたってわけさ",
-  "en": "Yes. He had come back just before that, you see."
+  "en": "Yes. He had come back just before that,"
  },
  {
   "id": "04106:0149",
   "jp": "ねねと佳子が、\\nユリ子の遺体に\\n驚いてる間にね",
-  "en": "While Nene and Yoshiko were shocked by Yuriko's body."
+  "en": "while Nene and Yoshiko were shocked by Yuriko's body, you see."
  },
  {
   "id": "04106:0150",
@@ -757,7 +757,7 @@
  {
   "id": "04106:0151",
   "jp": "すると、\\n静馬$c02殺害$c00は別件？",
-  "en": "Then, Shizuma's $c02murder$c00 a separate matter?"
+  "en": "Then is Shizuma's $c02murder$c00 a separate matter?"
  },
  {
   "id": "04106:0152",
@@ -872,7 +872,7 @@
  {
   "id": "04106:0174",
   "jp": "今回の事件で、\\n一番無関係そうなのが\\n逆に怪しい",
-  "en": "In this case, the one least involved is, conversely, the most suspicious."
+  "en": "In this case, the one who seems least involved is actually the most suspicious."
  },
  {
   "id": "04106:0175",
@@ -887,7 +887,7 @@
  {
   "id": "04106:0177",
   "jp": "はぁ",
-  "en": "Hah."
+  "en": "Haah..."
  },
  {
   "id": "04106:0178",
@@ -1002,7 +1002,7 @@
  {
   "id": "04106:0200",
   "jp": "普通なら\\nねねっちに見つかる",
-  "en": "Normally, Nene-cchi would see."
+  "en": "Normally, Nene-cchi would've spotted her."
  },
  {
   "id": "04106:0201",
@@ -1122,7 +1122,7 @@
  {
   "id": "04106:0224",
   "jp": "とりあえず、先を",
-  "en": "For now, continue."
+  "en": "For now, go on."
  },
  {
   "id": "04106:0225",
@@ -1152,7 +1152,7 @@
  {
   "id": "04106:0230",
   "jp": "それで、２階にいた\\nユリユリが１階で\\nみつかると",
-  "en": "Thus, Yuri-Yuri on second floor found on first floor."
+  "en": "So Yuri-Yuri, who was on the second floor, turns up on the first."
  },
  {
   "id": "04106:0231",
@@ -1182,7 +1182,7 @@
  {
   "id": "04106:0236",
   "jp": "そういや、あの意味深な\\n千切れたツタは\\nなんだったの？",
-  "en": "Come to think of it, what was that meaningful torn ivy about?"
+  "en": "Come to think of it, what was that suspicious-looking torn ivy about?"
  },
  {
   "id": "04106:0237",
@@ -1197,7 +1197,7 @@
  {
   "id": "04106:0239",
   "jp": "でも、譲葉さんたちは、\\n彼女の話に\\n嘘はないって……",
-  "en": "But the Yuzurihas said there were no lies in her story..."
+  "en": "But Fuyou-san and Rin-kun said there were no lies in her story..."
  },
  {
   "id": "04106:0240",
@@ -1302,12 +1302,12 @@
  {
   "id": "04106:0260",
   "jp": "でもさ、これって\\n動機の元とかあるの？",
-  "en": "But hey, is there even a root to the motive?"
+  "en": "But hey, is there even a basis for a motive?"
  },
  {
   "id": "04106:0261",
   "jp": "$c02逢魔$c00によって、\\n$c02魔を刺されて$c00いるんだ",
-  "en": "By the $c02Ouma$c00, she's been $c02stung by evil$c00."
+  "en": "Through the $c02Ouma$c00, she's been $c02stung by evil$c00 -- seized by a sudden impulse."
  },
  {
   "id": "04106:0262",
@@ -1382,7 +1382,7 @@
  {
   "id": "04106:0276",
   "jp": "その実、衝動的で\\n偶然そうなっただけの\\n事件でしかない",
-  "en": "in truth, it was impulsive -- a case that just happened to turn out that way."
+  "en": "in truth, it is merely an impulsive case that turned out this way by chance."
  },
  {
   "id": "04106:0277",
@@ -1457,7 +1457,7 @@
  {
   "id": "04106:0291",
   "jp": "しかし、１６時以降に\\nだけついている、",
-  "en": "However, from the stain that appears only from 4 PM onward,"
+  "en": "However, from the mark that appears only after 4 PM,"
  },
  {
   "id": "04106:0292",
@@ -1477,7 +1477,7 @@
  {
   "id": "04106:0295",
   "jp": "ねねっちも\\n物音を聞いてた",
-  "en": "Nene-cchi also heard noise."
+  "en": "Nene-cchi also heard a noise."
  },
  {
   "id": "04106:0296",
@@ -1562,7 +1562,7 @@
  {
   "id": "04106:0312",
   "jp": "然らば、\\nよっちゃんなら\\n無理せずに犯人ふう",
-  "en": "If so, Yocchan as culprit, no strain-fuu."
+  "en": "If so, Yocchan could be the culprit with no strain-fuu."
  },
  {
   "id": "04106:0313",
@@ -1677,7 +1677,7 @@
  {
   "id": "04106:0335",
   "jp": "あの時、佳子はもちろん\\n僕らも、\\n気が付かなかったけど",
-  "en": "At the time, neither Yoshiko nor we noticed it, of course, but"
+  "en": "At the time, Yoshiko didn't notice, of course, and neither did we, but"
  },
  {
   "id": "04106:0336",
@@ -2052,7 +2052,7 @@
  {
   "id": "04106:0410",
   "jp": "そして、静馬は\\n$c02自殺$c00でもなく$c02殺$c00された",
-  "en": "And Shizuma was not a $c02suicide$c00, but was $c02murdered$c00."
+  "en": "And Shizuma's death wasn't $c02suicide$c00 -- he was $c02murdered$c00."
  },
  {
   "id": "04106:0411",
@@ -2112,7 +2112,7 @@
  {
   "id": "04106:0422",
   "jp": "扉の裏に\\n隠れたんだろうね",
-  "en": "he must have hidden behind it."
+  "en": "the culprit must have hidden behind it."
  },
  {
   "id": "04106:0423",
@@ -2127,12 +2127,12 @@
  {
   "id": "04106:0425",
   "jp": "そして、\\n何喰わぬ顔で、\\n扉から飛び出し、",
-  "en": "Then, acting as if nothing had happened, he sprang out from behind the door"
+  "en": "Then, as if nothing had happened, the culprit sprang out from behind the door"
  },
  {
   "id": "04106:0426",
   "jp": "あたかも、今、\\n駆けつけたかの\\nように見せた",
-  "en": "and made it look as though he had only just arrived."
+  "en": "and made it look as though they had only just arrived."
  },
  {
   "id": "04106:0427",
@@ -2147,7 +2147,7 @@
  {
   "id": "04106:0429",
   "jp": "も、盲点だわ",
-  "en": "Wh-what a blind spot."
+  "en": "T-that's a blind spot!"
  },
  {
   "id": "04106:0430",
@@ -2217,7 +2217,7 @@
  {
   "id": "04106:0443",
   "jp": "という訳だね",
-  "en": "That's all it was."
+  "en": "So that's how it was."
  },
  {
   "id": "04106:0444",
@@ -2282,7 +2282,7 @@
  {
   "id": "04106:0456",
   "jp": "重々、了解",
-  "en": "Fully, acknowledged."
+  "en": "Fully acknowledged."
  },
  {
   "id": "04106:0457",
