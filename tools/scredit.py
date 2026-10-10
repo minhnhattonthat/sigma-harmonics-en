@@ -4,8 +4,8 @@ The game is held sideways: the player sees the raw screen rotated 90 deg counter
 player-view coordinates (192x256). Steps: render the screen, rotate to player view, wipe boxes (each row filled
 with its most common dark colour, which keeps vertical gradients), draw labels with texedit.label, rotate back,
 then requantise only the changed pixels to each cell's own palette and write them into its tile.
-4bpp screens: each 8x8 cell can only show the 16 colours of its own palette, so draw text in a colour the
-original text used (check with `preview`: a wrong colour shows up as a shifted hue).
+4bpp screens: each 8x8 cell shows one 16-colour sub-palette; a changed cell switches to whichever sub-palette fits
+its new pixels best, so prefer colours the image already uses somewhere (a wrong colour shows as a hue shift).
 Recipes live in font/screens*.json (merged; an id may appear in only one file):
   {"00063": {"wipe": [[x0, y0, x1, y1], ...], "text": [{"text": "...", "box": [x0, y0, x1, y1], "size": 20,
              "font": "DejaVuSerif.ttf", "fill": [255, 255, 255], "outline": null}, ...]}}
@@ -14,6 +14,7 @@ python -X utf8 tools/scredit.py preview ID OUT.png   # apply the recipe, save th
 python -X utf8 tools/scredit.py show ID OUT.png      # original, player view (2x)
 """
 import collections
+import functools
 import json
 import struct
 import sys
@@ -66,6 +67,12 @@ def encode(g, p, s, new_raw):
     ents = list(ents)
     uses = collections.Counter(e & 0x3FF for e in ents)
     index = {tuple(t): i for i, t in reversed(list(enumerate(tiles)))}
+
+    @functools.lru_cache(maxsize=None)
+    def near(c, q):  # (index, squared error) of the closest non-transparent colour in 4bpp sub-palette q
+        return min(((j, sum((a - b) ** 2 for a, b in zip(c, pal[(q * 16 + j) % len(pal)]))) for j in range(1, 16)),
+                   key=lambda r: r[1])
+
     for k, e in enumerate(ents):
         t, hf, vf, pi = e & 0x3FF, e >> 10 & 1, e >> 11 & 1, e >> 12
         base, n = (pi * 16, 16) if bpp == 4 else (0, len(pal))
@@ -82,6 +89,15 @@ def encode(g, p, s, new_raw):
                     block[y * 8 + x] = min(cand, key=lambda j: sum((a - b) ** 2 for a, b in zip(c, pal[(base + j) % len(pal)])))
         if not changed:
             continue
+        if bpp == 4:  # the cell may switch to the sub-palette that best fits its new pixels (e.g. light text on dark)
+            tgt = [pn[cx + x, cy + y] for y in range(8) for x in range(8)]
+            keep0 = [block[i] == 0 and tgt[i] == po[cx + i % 8, cy + i // 8] for i in range(64)]  # unchanged transparent
+            err = lambda q: sum(near(c, q)[1] for c, k0 in zip(tgt, keep0) if not k0)  # noqa: E731
+            best = min(range(len(pal) // 16), key=err)
+            if err(best) < err(pi):
+                pi = best
+                block = [0 if k0 else near(c, pi)[0] for c, k0 in zip(tgt, keep0)]
+                ents[k] = (e & 0x0FFF) | pi << 12
         if uses[t] == 1:  # only this cell draws the tile: edit it in place, keeping its flips
             for y in range(8):
                 for x in range(8):
