@@ -2,37 +2,37 @@
  {
   "id": "04348:0000",
   "jp": "お茶が入りました",
-  "en": ""
+  "en": "Your tea is ready."
  },
  {
   "id": "04348:0001",
   "jp": "いつもありがとう",
-  "en": ""
+  "en": "Thank you, as always."
  },
  {
   "id": "04348:0002",
   "jp": "いえ……",
-  "en": ""
+  "en": "Not at all..."
  },
  {
   "id": "04348:0003",
   "jp": "どうかしたの？\\n浮かない顔をして",
-  "en": ""
+  "en": "What's the matter? You look troubled."
  },
  {
   "id": "04348:0004",
   "jp": "実は……",
-  "en": ""
+  "en": "Actually..."
  },
  {
   "id": "04348:0005",
   "jp": "大婆様が、$c02殺$c00された？",
-  "en": ""
+  "en": "Obaba-sama was $c02murdered$c00?"
  },
  {
   "id": "04348:0006",
   "jp": "はい",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "04348:0007",
@@ -42,36 +42,36 @@
  {
   "id": "04348:0008",
   "jp": "ユリ子さん、\\nかなり落ち込んで\\nいるみたい",
-  "en": ""
+  "en": "Yuriko-san seems really down."
  },
  {
   "id": "04348:0009",
   "jp": "ユリユリから言の葉へ、\\n最新婆ちゃん情報",
-  "en": ""
+  "en": "From Yuri-Yuri to the Word Wielder: the latest Granny news."
  },
  {
   "id": "04348:0010",
   "jp": "ふーん、この時、\\n芙蓉に大婆の情報が\\n伝わったのね",
-  "en": ""
+  "en": "Hmm, so this is when Fuyou heard about Obaba."
  },
  {
   "id": "04348:0011",
   "jp": "うん、そうだね",
-  "en": ""
+  "en": "Yes, that's right."
  },
  {
   "id": "04348:0012",
   "jp": "２人の会話が、後々、\\n何か重要な手がかりに\\nなるかもしれない",
-  "en": ""
+  "en": "The two of them talking here might turn out to be an important clue later on."
  },
  {
   "id": "04348:0013",
   "jp": "刻音にしておこう",
-  "en": ""
+  "en": "Let's make it an Echo."
  },
  {
   "id": "04348:0014",
   "jp": "【芙蓉とユリ子の会話】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Fuyou and Yuriko's Conversation] Echo!"
  }
 ]

@@ -2,12 +2,12 @@
  {
   "id": "04404:0000",
   "jp": "！？\\nそうか……",
-  "en": ""
+  "en": "?! I see..."
  },
  {
   "id": "04404:0001",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04404:0002",
@@ -22,42 +22,42 @@
  {
   "id": "04404:0004",
   "jp": "集めた刻音は\\n１つの答えを\\n示している",
-  "en": ""
+  "en": "The Echoes I've gathered point to a single answer."
  },
  {
   "id": "04404:0005",
   "jp": "そして、この事件は\\nいたってシンプルだ",
-  "en": ""
+  "en": "And this case is actually quite simple."
  },
  {
   "id": "04404:0006",
   "jp": "誰がどうやって\\n大婆を$c02殺害$c00したのか？",
-  "en": ""
+  "en": "Who $c02murdered$c00 Obaba, and how?"
  },
  {
   "id": "04404:0007",
   "jp": "順に闇を払うだけで\\n答えはでるはずだ",
-  "en": ""
+  "en": "If I dispel the Darkness in order, the answer should emerge."
  },
  {
   "id": "04404:0008",
   "jp": "まず、\\n要素を１つ絞ろう",
-  "en": ""
+  "en": "First, let me narrow down one element."
  },
  {
   "id": "04404:0009",
   "jp": "犯人は、大婆が$c02死$c00んだ時\\n【居間にいた人物】\\nだろうか？",
-  "en": ""
+  "en": "When Obaba $c02died$c00, was the culprit a [Person in the Living Room]?"
  },
  {
   "id": "04404:0010",
   "jp": "まだ、解き明かすべき\\n謎が見えてこない",
-  "en": ""
+  "en": "I still can't see the mystery that needs solving."
  },
  {
   "id": "04404:0011",
   "jp": "今は、刻音を集めよう",
-  "en": ""
+  "en": "For now, let me gather Echoes."
  },
  {
   "id": "04404:0012",
@@ -72,12 +72,12 @@
  {
   "id": "04404:0014",
   "jp": "この事件の犯人は\\n人間だろう",
-  "en": ""
+  "en": "The culprit in this case is probably human."
  },
  {
   "id": "04404:0015",
   "jp": "まず【人物刻音】から\\n犯人を特定してみよう",
-  "en": ""
+  "en": "First, let me identify the culprit from the [Person Echoes]."
  },
  {
   "id": "04404:0016",
@@ -87,7 +87,7 @@
  {
   "id": "04404:0017",
   "jp": "まず、考えるべきは\\n【居間にいた人物】が\\n犯人かどうかだ",
-  "en": ""
+  "en": "The first thing to consider is whether a [Person in the Living Room] is the culprit."
  },
  {
   "id": "04404:0018",
@@ -97,232 +97,232 @@
  {
   "id": "04404:0019",
   "jp": "よし、まずは\\nこれで、次の推理に\\n進もう",
-  "en": ""
+  "en": "Good. With this, let's move on to the next deduction."
  },
  {
   "id": "04404:0020",
   "jp": "１度、\\n他の人物刻音を\\n思考から省こう",
-  "en": ""
+  "en": "For now, let me set the other Person Echoes aside."
  },
  {
   "id": "04404:0021",
   "jp": "大婆の$c02自殺$c00……",
-  "en": ""
+  "en": "Obaba's $c02suicide$c00..."
  },
  {
   "id": "04404:0022",
   "jp": "それを指し示す\\n刻音があるはずだ",
-  "en": ""
+  "en": "There should be an Echo that points to that."
  },
  {
   "id": "04404:0023",
   "jp": "メイドが犯人……",
-  "en": ""
+  "en": "The maid is the culprit..."
  },
  {
   "id": "04404:0024",
   "jp": "それを指し示す刻音が\\nいくつかあるはずだ",
-  "en": ""
+  "en": "There should be several Echoes that point to that."
  },
  {
   "id": "04404:0025",
   "jp": "あの少女が犯人……？",
-  "en": ""
+  "en": "That girl is the culprit...?"
  },
  {
   "id": "04404:0026",
   "jp": "それを指し示す\\n刻音もあるはずだ",
-  "en": ""
+  "en": "There should be an Echo that points to that, too."
  },
  {
   "id": "04404:0027",
   "jp": "犯人は黒上佳子……",
-  "en": ""
+  "en": "The culprit is Yoshiko Kurogami..."
  },
  {
   "id": "04404:0028",
   "jp": "黒上頭首、\\n静馬が犯人……",
-  "en": ""
+  "en": "The Head of the Kurogami, Shizuma, is the culprit..."
  },
  {
   "id": "04404:0029",
   "jp": "居間にいた人物を\\n犯人とする場合",
-  "en": ""
+  "en": "If I take someone in the living room to be the culprit,"
  },
  {
   "id": "04404:0030",
   "jp": "２つの矛盾点が\\nあったはずだ、\\nまとめてみよう",
-  "en": ""
+  "en": "there should have been two contradictions. Let me sort them out."
  },
  {
   "id": "04404:0031",
   "jp": "みんなの目の前で毒を\\n入れる行為、",
-  "en": ""
+  "en": "the act of adding poison right in front of everyone,"
  },
  {
   "id": "04404:0032",
   "jp": "また、その場にいながら\\n$c02殺人予告$c00を書くと\\nいう行為",
-  "en": ""
+  "en": "and the act of writing a $c02Murder Notice$c00 while being right there."
  },
  {
   "id": "04404:0033",
   "jp": "そのどれもが\\n居間にいた人間の\\n行動としては不自然だ",
-  "en": ""
+  "en": "Both are unnatural actions for someone who was in the living room."
  },
  {
   "id": "04404:0034",
   "jp": "次に進む前に\\n１つハッキリ\\nさせておこう",
-  "en": ""
+  "en": "Before moving on, let me make one thing clear."
  },
  {
   "id": "04404:0035",
   "jp": "犯人は食事に毒を\\nもったのだろうか？",
-  "en": ""
+  "en": "Did the culprit poison the food?"
  },
  {
   "id": "04404:0036",
   "jp": "毒は、\\n食事に入っていた……",
-  "en": ""
+  "en": "The poison was in the food..."
  },
  {
   "id": "04404:0037",
   "jp": "やはり、毒は食事には\\n入っていなかった\\nと思える",
-  "en": ""
+  "en": "As I thought, it seems the poison wasn't in the food after all."
  },
  {
   "id": "04404:0038",
   "jp": "それならば、\\n同じ食事をとった\\n静馬と佳子が",
-  "en": ""
+  "en": "In that case, Shizuma and Yoshiko, who ate the same food..."
  },
  {
   "id": "04404:0039",
   "jp": "$c02死$c00ななかった\\n理由となる刻音は\\nどれだ？",
-  "en": ""
+  "en": "which Echo is the reason they didn't $c02die$c00?"
  },
  {
   "id": "04404:0040",
   "jp": "真相が見えてきた……",
-  "en": ""
+  "en": "The truth is coming into view..."
  },
  {
   "id": "04404:0041",
   "jp": "よし、次で最後だ",
-  "en": ""
+  "en": "Good, the next one is the last."
  },
  {
   "id": "04404:0042",
   "jp": "佳子が犯人である\\nことに結びつく刻音……\\nそれは１つ",
-  "en": ""
+  "en": "The Echo that ties Yoshiko to the crime... there is just one."
  },
  {
   "id": "04404:0043",
   "jp": "静馬が犯人であると\\n指し示す刻音……\\nそれを選ぼう",
-  "en": ""
+  "en": "The Echo that points to Shizuma as the culprit... let me choose it."
  },
  {
   "id": "04404:0044",
   "jp": "少女を犯人とするなら\\n証拠もあるはずだ",
-  "en": ""
+  "en": "If the girl is the culprit, there should be evidence too."
  },
  {
   "id": "04404:0045",
   "jp": "それも１つの選択……",
-  "en": ""
+  "en": "That's one choice, too..."
  },
  {
   "id": "04404:0046",
   "jp": "ならば残る謎は１つ\\n大婆が$c02自殺$c00ととれる\\n刻音があるはずだ",
-  "en": ""
+  "en": "Then one mystery is left: an Echo that suggests Obaba's $c02suicide$c00."
  },
  {
   "id": "04404:0047",
   "jp": "ならば残る謎は１つ\\n少女が犯人なのを示す\\n刻音があるはずだ",
-  "en": ""
+  "en": "Then one mystery is left: an Echo showing the girl is the culprit."
  },
  {
   "id": "04404:0048",
   "jp": "メイドが犯人……\\nそれを示す証拠は３つ\\nあるはずだ",
-  "en": ""
+  "en": "The maid is the culprit... Three pieces of evidence should show it."
  },
  {
   "id": "04404:0049",
   "jp": "居間にいた人物が\\n食事中に行った犯行\\nだと考えた場合、",
-  "en": ""
+  "en": "If I assume someone in the living room did it during the meal,"
  },
  {
   "id": "04404:0050",
   "jp": "つじつまがあわない\\n刻音が２つあったはず",
-  "en": ""
+  "en": "there should have been two Echoes that don't add up."
  },
  {
   "id": "04404:0051",
   "jp": "食事に毒は入ってたか？\\n【ＹＥＳ】か【ＮＯ】\\n答えは１つだ",
-  "en": ""
+  "en": "Was there poison in the food? [YES] or [NO]. There's only one answer."
  },
  {
   "id": "04404:0052",
   "jp": "同じ食事をとったのに\\n$c02死$c00ななかった……\\nその理由たる刻音は？",
-  "en": ""
+  "en": "They ate the same food, yet didn't $c02die$c00... Which Echo is the reason?"
  },
  {
   "id": "04404:0053",
   "jp": "これが最後だ。\\n佳子が犯人だとする\\n刻音を１つ選べ",
-  "en": ""
+  "en": "This is the last one. Choose the one Echo that marks Yoshiko as the culprit."
  },
  {
   "id": "04404:0054",
   "jp": "これが最後だ。\\n静馬が犯人だとする\\n刻音をまとめよう",
-  "en": ""
+  "en": "This is the last one. Let me gather the Echoes that mark Shizuma as the culprit."
  },
  {
   "id": "04404:0055",
   "jp": "居間にいたのは静馬、\\n佳子、ねね、$c02死$c00んだ大婆\\nいなかったのはメイド",
-  "en": ""
+  "en": "In the living room: Shizuma, Yoshiko, Nene and the $c02dead$c00 Obaba. Not there: the maid."
  },
  {
   "id": "04404:0056",
   "jp": "では、犯人は\\n居間にいた人物か？",
-  "en": ""
+  "en": "Then, is the culprit someone who was in the living room?"
  },
  {
   "id": "04404:0057",
   "jp": "【ＹＥＳ】か【ＮＯ】\\nどちらかを置こう",
-  "en": ""
+  "en": "Let me place either [YES] or [NO]."
  },
  {
   "id": "04404:0058",
   "jp": "大婆は$c02自殺$c00……\\nこれで、推理を\\n進めよう",
-  "en": ""
+  "en": "Obaba's $c02suicide$c00... With this, let's move the reasoning forward."
  },
  {
   "id": "04404:0059",
   "jp": "犯人は少女……\\nこれで、推理を\\n進めよう",
-  "en": ""
+  "en": "The girl is the culprit... With this, let's move the reasoning forward."
  },
  {
   "id": "04404:0060",
   "jp": "犯人はメイド……\\nこれで、推理を\\n進めよう",
-  "en": ""
+  "en": "The maid is the culprit... With this, let's move the reasoning forward."
  },
  {
   "id": "04404:0061",
   "jp": "犯人は佳子……\\nこれで、推理を\\n進めよう",
-  "en": ""
+  "en": "Yoshiko is the culprit... With this, let's move the reasoning forward."
  },
  {
   "id": "04404:0062",
   "jp": "犯人は静馬……\\nこれで、推理を\\n進めよう",
-  "en": ""
+  "en": "Shizuma is the culprit... With this, let's move the reasoning forward."
  },
  {
   "id": "04404:0063",
   "jp": "この闇の結論はだした\\n推理を先に進めよう",
-  "en": ""
+  "en": "I've reached a conclusion on this Darkness. Let's move the reasoning forward."
  },
  {
   "id": "04404:0064",
   "jp": "再推理をすると",
-  "en": ""
+  "en": "If I reason it out again..."
  },
  {
   "id": "04404:0065",
@@ -352,41 +352,41 @@
  {
   "id": "04404:0070",
   "jp": "ん？\\n犯人……は？？",
-  "en": ""
+  "en": "Hm? The culprit... is??"
  },
  {
   "id": "04404:0071",
   "jp": "犯人は、居間には\\nいなかった……",
-  "en": ""
+  "en": "The culprit wasn't in the living room..."
  },
  {
   "id": "04404:0072",
   "jp": "つまり、この事件、\\n最大の容疑者は\\nメイドのユリ子",
-  "en": ""
+  "en": "In other words, the prime suspect in this case is the maid, Yuriko."
  },
  {
   "id": "04404:0073",
   "jp": "ここまでの刻音から\\n犯人を絞り込めるはず、\\n恐らく犯人は……",
-  "en": ""
+  "en": "These Echoes should let me narrow it down. Most likely, the culprit is..."
  },
  {
   "id": "04404:0074",
   "jp": "【人物刻音】から\\n犯人だと思う容疑者を\\n１人、選んでみよう",
-  "en": ""
+  "en": "From the [Person Echoes], let me choose the one suspect I think is the culprit."
  },
  {
   "id": "04404:0075",
   "jp": "……？\\n分からなくなってきた",
-  "en": ""
+  "en": "...? I'm starting to lose track."
  },
  {
   "id": "04404:0076",
   "jp": "もしや、これは\\n大婆の$c02自殺$c00？！",
-  "en": ""
+  "en": "Could this be... Obaba's $c02suicide$c00?!"
  },
  {
   "id": "04404:0077",
   "jp": "もし、そうなら、\\nそれを示す刻音も\\nあるはずだ",
-  "en": ""
+  "en": "If so, there should be an Echo that shows it, too."
  }
 ]

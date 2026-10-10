@@ -2,22 +2,22 @@
  {
   "id": "04260:0000",
   "jp": "ね、ねぇ……\\nまさか……",
-  "en": ""
+  "en": "H-hey... it can't be..."
  },
  {
   "id": "04260:0001",
   "jp": "まさか……",
-  "en": ""
+  "en": "It can't be..."
  },
  {
   "id": "04260:0002",
   "jp": "ちょ、まさか！？",
-  "en": ""
+  "en": "Wait, don't tell me?!"
  },
  {
   "id": "04260:0003",
   "jp": "$c02殺$c00されてる……",
-  "en": ""
+  "en": "She's been $c02killed$c00..."
  },
  {
   "id": "04260:0004",
@@ -32,27 +32,27 @@
  {
   "id": "04260:0006",
   "jp": "くっ……",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "04260:0007",
   "jp": "刺されてる\\nみたいだね……",
-  "en": ""
+  "en": "Looks like she was stabbed..."
  },
  {
   "id": "04260:0008",
   "jp": "酷い……",
-  "en": ""
+  "en": "Horrible..."
  },
  {
   "id": "04260:0009",
   "jp": "酷いな……",
-  "en": ""
+  "en": "That's awful..."
  },
  {
   "id": "04260:0010",
   "jp": "子供相手に……",
-  "en": ""
+  "en": "Doing that to a child..."
  },
  {
   "id": "04260:0011",
@@ -62,57 +62,57 @@
  {
   "id": "04260:0012",
   "jp": "今のも……\\n再演？",
-  "en": ""
+  "en": "Was that... a replay too?"
  },
  {
   "id": "04260:0013",
   "jp": "どうしたの？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "04260:0014",
   "jp": "はてな？　シグマ？",
-  "en": ""
+  "en": "Question mark? Sigma?"
  },
  {
   "id": "04260:0015",
   "jp": "何？",
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "04260:0016",
   "jp": "いや……\\nなんでもないよ",
-  "en": ""
+  "en": "No... it's nothing."
  },
  {
   "id": "04260:0017",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04260:0018",
   "jp": "なんで……だろ",
-  "en": ""
+  "en": "I wonder why..."
  },
  {
   "id": "04260:0019",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "04260:0020",
   "jp": "ふみゅ？",
-  "en": ""
+  "en": "Fumyu?"
  },
  {
   "id": "04260:0021",
   "jp": "はい？",
-  "en": ""
+  "en": "Excuse me?"
  },
  {
   "id": "04260:0022",
   "jp": "とても、\\n穏やかに見える……",
-  "en": ""
+  "en": "She looks... so peaceful..."
  },
  {
   "id": "04260:0023",
@@ -122,37 +122,37 @@
  {
   "id": "04260:0024",
   "jp": "どうしたの？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "04260:0025",
   "jp": "一体、何事？",
-  "en": ""
+  "en": "Whatever is the matter?"
  },
  {
   "id": "04260:0026",
   "jp": "な、今度は何よ！",
-  "en": ""
+  "en": "Wh-what is it this time?!"
  },
  {
   "id": "04260:0027",
   "jp": "ゆうの刻音が\\n消えてる……",
-  "en": ""
+  "en": "Yuu's Echo... is gone..."
  },
  {
   "id": "04260:0028",
   "jp": "どういうこと？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "04260:0029",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04260:0030",
   "jp": "はい？！",
-  "en": ""
+  "en": "Excuse me?!"
  },
  {
   "id": "04260:0031",
@@ -162,52 +162,52 @@
  {
   "id": "04260:0032",
   "jp": "考えられることは\\n１つ……",
-  "en": ""
+  "en": "There's only one possibility..."
  },
  {
   "id": "04260:0033",
   "jp": "この時間、いや、\\nここの歴史から、",
-  "en": ""
+  "en": "From this time -- no, from the history of this place,"
  },
  {
   "id": "04260:0034",
   "jp": "黒上ゆうという存在が\\n消えている……",
-  "en": ""
+  "en": "the very existence of Yuu Kurogami has vanished..."
  },
  {
   "id": "04260:0035",
   "jp": "ど、どうして？！",
-  "en": ""
+  "en": "B-but why?!"
  },
  {
   "id": "04260:0036",
   "jp": "消えている？\\nなぜに？",
-  "en": ""
+  "en": "Vanished? For what reason?"
  },
  {
   "id": "04260:0037",
   "jp": "存在そのものが\\n消えてる……？",
-  "en": ""
+  "en": "His very existence... vanished...?"
  },
  {
   "id": "04260:0038",
   "jp": "……分からない……",
-  "en": ""
+  "en": "...I don't know..."
  },
  {
   "id": "04260:0039",
   "jp": "でも、刻音が消えている\\nということは、",
-  "en": ""
+  "en": "But the fact that his Echo has vanished"
  },
  {
   "id": "04260:0040",
   "jp": "今なお起こっている、\\nこの事件とゆう君は、",
-  "en": ""
+  "en": "means that this case, still unfolding even now, and Yuu-kun"
  },
  {
   "id": "04260:0041",
   "jp": "関係がない\\nってことになる……",
-  "en": ""
+  "en": "have no connection to each other..."
  },
  {
   "id": "04260:0042",
@@ -217,51 +217,51 @@
  {
   "id": "04260:0043",
   "jp": "ふみゅ……",
-  "en": ""
+  "en": "Fumyu..."
  },
  {
   "id": "04260:0044",
   "jp": "理屈はそうかも\\nしれないけど……",
-  "en": ""
+  "en": "In theory, maybe so, but..."
  },
  {
   "id": "04260:0045",
   "jp": "今は、この事件に\\n集中しよう……",
-  "en": ""
+  "en": "For now, let's focus on this case..."
  },
  {
   "id": "04260:0046",
   "jp": "時の調律をして、\\n$c02逢魔人$c00クリスティを\\n倒せば、",
-  "en": ""
+  "en": "If we perform the Time Tuning and defeat the $c02Ouma-born$c00 Christie,"
  },
  {
   "id": "04260:0047",
   "jp": "彼の存在も、歴史に\\n戻ってくるはずだ",
-  "en": ""
+  "en": "his existence should return to history too."
  },
  {
   "id": "04260:0048",
   "jp": "うん",
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "04260:0049",
   "jp": "了解",
-  "en": ""
+  "en": "Acknowledged."
  },
  {
   "id": "04260:0050",
   "jp": "分かったわ",
-  "en": ""
+  "en": "Got it."
  },
  {
   "id": "04260:0051",
   "jp": "【穏やかなねねの死】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Nene's Peaceful Death] Echo!"
  },
  {
   "id": "04260:0052",
   "jp": "刻音が消えたため\\n推理が初めからに\\nなった……",
-  "en": ""
+  "en": "Since an Echo vanished, the reasoning has started over from the beginning..."
  }
 ]

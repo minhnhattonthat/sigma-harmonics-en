@@ -2,12 +2,12 @@
  {
   "id": "04410:0000",
   "jp": "！？\\nそうか……",
-  "en": ""
+  "en": "?! I see..."
  },
  {
   "id": "04410:0001",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04410:0002",
@@ -22,222 +22,222 @@
  {
   "id": "04410:0004",
   "jp": "仮です、ＱＥＤを置いて\\n推理を終わらして\\nください",
-  "en": ""
+  "en": "Temp: please place Q.E.D. to end the reasoning."
  },
  {
   "id": "04410:0005",
   "jp": "まだ、何が起こってる\\nのかも分からない",
-  "en": ""
+  "en": "I still don't even know what's happening."
  },
  {
   "id": "04410:0006",
   "jp": "……一通り、この時間を\\n調べた方がいいだろう",
-  "en": ""
+  "en": "...I'd better look through this time thoroughly first."
  },
  {
   "id": "04410:0007",
   "jp": "この事件は今までと\\n大分、様相が違う……",
-  "en": ""
+  "en": "This case is quite different from the ones before..."
  },
  {
   "id": "04410:0008",
   "jp": "でも、この事件、\\n事実を追っていく\\nだけで",
-  "en": ""
+  "en": "But in this case, just by following the facts,"
  },
  {
   "id": "04410:0009",
   "jp": "真実に辿りつけそうな\\n予感がする",
-  "en": ""
+  "en": "I have a feeling I can reach the truth."
  },
  {
   "id": "04410:0010",
   "jp": "よし、\\n１つ１つ順を追って、\\n闇を払っていこう",
-  "en": ""
+  "en": "Right. Let's dispel the Darkness, one step at a time."
  },
  {
   "id": "04410:0011",
   "jp": "まず、多くの$c02死$c00の中で\\n一見、$c02他殺$c00に見えない\\n$c02死$c00が、１つあったはず",
-  "en": ""
+  "en": "First, of all the $c02deaths$c00, one should look unlike $c02murder$c00 at a glance: a lone $c02death$c00."
  },
  {
   "id": "04410:0012",
   "jp": "それを置くことから\\n始めてみよう",
-  "en": ""
+  "en": "Let's start by placing that one."
  },
  {
   "id": "04410:0013",
   "jp": "$c02他殺$c00だと考えた場合\\n説明がつきにくい\\n$c02死$c00はどれだろう？",
-  "en": ""
+  "en": "If we assume $c02murder$c00, which $c02death$c00 is hard to explain?"
  },
  {
   "id": "04410:0014",
   "jp": "そう、彼女だけが\\n密室で$c02死$c00んでいた",
-  "en": ""
+  "en": "Yes, she alone was found $c02dead$c00 in a locked room."
  },
  {
   "id": "04410:0015",
   "jp": "彼女が$c02殺$c00されたのでは\\nないと考えた場合",
-  "en": ""
+  "en": "If we assume she wasn't $c02killed$c00,"
  },
  {
   "id": "04410:0016",
   "jp": "彼女が他の人を$c02殺$c00した\\n犯人と考えて\\nいいだろうか？",
-  "en": ""
+  "en": "can we take her to be the culprit who $c02killed$c00 the others?"
  },
  {
   "id": "04410:0017",
   "jp": "メイドは\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "The maid wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0018",
   "jp": "黒上頭首は\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "The Head of the Kurogami wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0019",
   "jp": "ゆうは\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "Yuu wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0020",
   "jp": "竹は\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "Take wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0021",
   "jp": "大婆は\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "Obaba wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0022",
   "jp": "麟の母親は\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "Rin's mother wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0023",
   "jp": "執事は\\n$c02他殺$c00ではない？",
-  "en": ""
+  "en": "The butler wasn't $c02murdered$c00?"
  },
  {
   "id": "04410:0024",
   "jp": "つまり$c02自殺$c00？",
-  "en": ""
+  "en": "So it was $c02suicide$c00?"
  },
  {
   "id": "04410:0025",
   "jp": "では、彼だけが$c02自殺$c00\\nだと仮定した場合",
-  "en": ""
+  "en": "Then, if we assume he alone committed $c02suicide$c00,"
  },
  {
   "id": "04410:0026",
   "jp": "では、彼女だけが$c02自殺$c00\\nだと仮定した場合",
-  "en": ""
+  "en": "Then, if we assume she alone committed $c02suicide$c00,"
  },
  {
   "id": "04410:0027",
   "jp": "その他の$c02殺人$c00の\\n犯人とも考えて\\nいいだろうか？",
-  "en": ""
+  "en": "can we also take that person to be the culprit of the other $c02murders$c00?"
  },
  {
   "id": "04410:0028",
   "jp": "佳子が犯人だろうか？",
-  "en": ""
+  "en": "Is Yoshiko the culprit?"
  },
  {
   "id": "04410:0029",
   "jp": "$c02自殺$c00した人物が\\n犯人だろうか？",
-  "en": ""
+  "en": "Is the person who committed $c02suicide$c00 the culprit?"
  },
  {
   "id": "04410:0030",
   "jp": "よし、犯人だと仮定して\\n推理を進めよう",
-  "en": ""
+  "en": "Right, let's assume they're the culprit and continue reasoning."
  },
  {
   "id": "04410:0031",
   "jp": "よし、犯人は別にいる\\nとして推理を\\n進めよう",
-  "en": ""
+  "en": "Right, let's assume the culprit is someone else and continue reasoning."
  },
  {
   "id": "04410:0032",
   "jp": "では、犯人だという\\n証拠に結びつきそうな\\n刻音はどれだ？",
-  "en": ""
+  "en": "Then which Echo might lead to proof that they're the culprit?"
  },
  {
   "id": "04410:0033",
   "jp": "では、犯人ではないと\\nいう証拠になりそうな\\n刻音はどれだ？",
-  "en": ""
+  "en": "Then which Echo might serve as proof that they're not the culprit?"
  },
  {
   "id": "04410:0034",
   "jp": "何かが見えてきた\\n気がする",
-  "en": ""
+  "en": "I feel like something is coming into view."
  },
  {
   "id": "04410:0035",
   "jp": "真相はまだ、\\n闇の中だ……",
-  "en": ""
+  "en": "The truth is still in the dark..."
  },
  {
   "id": "04410:0036",
   "jp": "次の階層に進もう",
-  "en": ""
+  "en": "Let's move on to the next layer."
  },
  {
   "id": "04410:0037",
   "jp": "この事件、\\n譲葉麟も疑問に\\n感じていたように、",
-  "en": ""
+  "en": "In this case, just as Rin Yuzuriha also found it questionable,"
  },
  {
   "id": "04410:0038",
   "jp": "犯人が犯行に費やした\\n時間が短いように\\n思える……",
-  "en": ""
+  "en": "the culprit seems to have spent very little time on the crimes..."
  },
  {
   "id": "04410:0039",
   "jp": "では、時間に着目した時\\n「おかしい」と言える\\n$c02死$c00はどれだろう？",
-  "en": ""
+  "en": "Then, focusing on time, which $c02death$c00 can we call \"strange\"?"
  },
  {
   "id": "04410:0040",
   "jp": "ん……？\\nそうだろうか……？",
-  "en": ""
+  "en": "Hm...? Is that so...?"
  },
  {
   "id": "04410:0041",
   "jp": "そうすると、\\n犯人は……",
-  "en": ""
+  "en": "In that case, the culprit is..."
  },
  {
   "id": "04410:0042",
   "jp": "短い時間の犯行に\\nしては、違和感を覚える\\nいくつかの$c02死$c00……",
-  "en": ""
+  "en": "Several $c02deaths$c00 that feel off for crimes done in so little time..."
  },
  {
   "id": "04410:0043",
   "jp": "他にも、事件の\\n前にあった出来事と\\n後で起きた出来事で",
-  "en": ""
+  "en": "Besides that, between what happened before the case and what happened after,"
  },
  {
   "id": "04410:0044",
   "jp": "少し引っかかりを\\n感じるものが\\nあったはずだ",
-  "en": ""
+  "en": "there should have been something that bothered me a little."
  },
  {
   "id": "04410:0045",
   "jp": "事件の「前」と「後」で\\n少し変だと感じる\\n刻音はなんだ？",
-  "en": ""
+  "en": "Which Echo seems a little odd between \"before\" and \"after\" the case?"
  },
  {
   "id": "04410:0046",
   "jp": "真相が見えてきた……",
-  "en": ""
+  "en": "The truth is coming into view..."
  },
  {
   "id": "04410:0047",
   "jp": "何かが……\\n見えてきた……？",
-  "en": ""
+  "en": "Something... is coming into view...?"
  },
  {
   "id": "04410:0048",
@@ -247,77 +247,77 @@
  {
   "id": "04410:0049",
   "jp": "犯人は、譲葉によって\\n嘘を否定されている\\nねねではありえない",
-  "en": ""
+  "en": "The culprit can't be Nene; Yuzuriha has confirmed she wasn't lying."
  },
  {
   "id": "04410:0050",
   "jp": "そうであるのなら\\nもっとも可能性が\\nあるのは……",
-  "en": ""
+  "en": "If so, the one most likely to be the culprit is..."
  },
  {
   "id": "04410:0051",
   "jp": "そう、既に$c02死$c00んでいる\\nその人物……",
-  "en": ""
+  "en": "Yes, the person who is already $c02dead$c00..."
  },
  {
   "id": "04410:0052",
   "jp": "姫籠ユリ子……",
-  "en": ""
+  "en": "Yuriko Himekago..."
  },
  {
   "id": "04410:0053",
   "jp": "麟の母親、譲葉……",
-  "en": ""
+  "en": "Rin's mother, Yuzuriha..."
  },
  {
   "id": "04410:0054",
   "jp": "黒上家頭首、静馬……",
-  "en": ""
+  "en": "Head of the Kurogami house, Shizuma..."
  },
  {
   "id": "04410:0055",
   "jp": "黒上家の執事……",
-  "en": ""
+  "en": "The Kurogami family's butler..."
  },
  {
   "id": "04410:0056",
   "jp": "黒上佳子……",
-  "en": ""
+  "en": "Yoshiko Kurogami..."
  },
  {
   "id": "04410:0057",
   "jp": "そして、最後に……",
-  "en": ""
+  "en": "And finally..."
  },
  {
   "id": "04410:0058",
   "jp": "ならば、最後に……",
-  "en": ""
+  "en": "Then, finally..."
  },
  {
   "id": "04410:0059",
   "jp": "この事件を覆って\\nしまっている謎……",
-  "en": ""
+  "en": "The mystery that shrouds this case..."
  },
  {
   "id": "04410:0060",
   "jp": "それを解き明かす\\n可能性を秘めた\\n刻音が存在する",
-  "en": ""
+  "en": "There is an Echo that holds the potential to solve it."
  },
  {
   "id": "04410:0061",
   "jp": "その刻音を以て、\\nこの推理は完成する",
-  "en": ""
+  "en": "With that Echo, this reasoning will be complete."
  },
  {
   "id": "04410:0062",
   "jp": "謎を解く可能性を\\n秘めた刻音は？",
-  "en": ""
+  "en": "Which Echo holds the potential to solve the mystery?"
  },
  {
   "id": "04410:0063",
   "jp": "まだ、闇の中身すら\\n分からない",
-  "en": ""
+  "en": "I still don't even know what lies within the Darkness."
  },
  {
   "id": "04410:0064",
@@ -337,17 +337,17 @@
  {
   "id": "04410:0067",
   "jp": "この推理は謎を順に\\n追う必要がある",
-  "en": ""
+  "en": "This reasoning has to follow the mysteries in order."
  },
  {
   "id": "04410:0068",
   "jp": "そのため、他の階層も\\n消えてしまうが\\nいいか？",
-  "en": ""
+  "en": "So the other layers will vanish too. Is that all right?"
  },
  {
   "id": "04410:0069",
   "jp": "問題なければ\\nもう１度、再推理を\\nタッチしよう",
-  "en": ""
+  "en": "If that's fine, touch Re-Reason once more."
  },
  {
   "id": "04410:0070",
@@ -372,17 +372,17 @@
  {
   "id": "04410:0074",
   "jp": "ねねの証言は本当\\nの刻音を生みだした",
-  "en": ""
+  "en": "Created the [Nene's Testimony Is True] Echo!"
  },
  {
   "id": "04410:0075",
   "jp": "２階から落とされた\\nの刻音を手に入れた",
-  "en": ""
+  "en": "Obtained the [Pushed from the Second Floor] Echo!"
  },
  {
   "id": "04410:0076",
   "jp": "制作中です\\nＱＥＤを置くと\\nボス戦です",
-  "en": ""
+  "en": "Under construction. Placing Q.E.D. starts the boss battle."
  },
  {
   "id": "04410:0077",

@@ -7,7 +7,7 @@
  {
   "id": "04234:0001",
   "jp": "電気が消えてるのか？",
-  "en": ""
+  "en": "The lights are out?"
  },
  {
   "id": "04234:0002",
@@ -17,7 +17,7 @@
  {
   "id": "04234:0003",
   "jp": "ショートしてる\\nみたいだ",
-  "en": ""
+  "en": "Looks like a short circuit."
  },
  {
   "id": "04234:0004",
@@ -27,72 +27,72 @@
  {
   "id": "04234:0005",
   "jp": "ダメだ$c02死$c00んでる……",
-  "en": ""
+  "en": "It's no use. She's $c02dead$c00..."
  },
  {
   "id": "04234:0006",
   "jp": "首にあざ……？",
-  "en": ""
+  "en": "Bruises on her neck...?"
  },
  {
   "id": "04234:0007",
   "jp": "絞められた痕か……？",
-  "en": ""
+  "en": "Strangulation marks...?"
  },
  {
   "id": "04234:0008",
   "jp": "おかしい……",
-  "en": ""
+  "en": "That's strange..."
  },
  {
   "id": "04234:0009",
   "jp": "確か、竹さんと、\\n大婆様は、互いを\\n感じ合えたはず",
-  "en": ""
+  "en": "Take-san and Obaba-sama were supposed to be able to sense each other."
  },
  {
   "id": "04234:0010",
   "jp": "竹さんが$c02殺$c00されて、\\n大婆様が気がつかない\\nはずがない……",
-  "en": ""
+  "en": "If Take-san was $c02killed$c00, there's no way Obaba-sama wouldn't notice..."
  },
  {
   "id": "04234:0011",
   "jp": "居間には、\\n執事を除く全員が\\nそろっていた……",
-  "en": ""
+  "en": "Everyone except the butler was gathered in the living room..."
  },
  {
   "id": "04234:0012",
   "jp": "母さん？",
-  "en": ""
+  "en": "Mother?"
  },
  {
   "id": "04234:0013",
   "jp": "……竹さんが\\n$c02殺$c00されています",
-  "en": ""
+  "en": "...Take-san has been $c02murdered$c00."
  },
  {
   "id": "04234:0014",
   "jp": "なんですって？",
-  "en": ""
+  "en": "What did you say?"
  },
  {
   "id": "04234:0015",
   "jp": "首を絞められた\\nようです",
-  "en": ""
+  "en": "It seems she was strangled."
  },
  {
   "id": "04234:0016",
   "jp": "誰か、執事の行方を\\n知っているか\\n聞いてください",
-  "en": ""
+  "en": "Please ask if anyone knows where the butler is."
  },
  {
   "id": "04234:0017",
   "jp": "ごめんなさい、今、\\nここには、ねねと\\nゆう君しかいないわ",
-  "en": ""
+  "en": "I'm sorry, right now only Nene and Yuu-kun are here with me."
  },
  {
   "id": "04234:0018",
   "jp": "ねぇ、執事さんを、\\nどこかで見た？",
-  "en": ""
+  "en": "Say, have you seen the butler anywhere?"
  },
  {
   "id": "04234:0019",
@@ -102,242 +102,242 @@
  {
   "id": "04234:0020",
   "jp": "２人とも\\n見てないそうよ",
-  "en": ""
+  "en": "Neither of them has seen him."
  },
  {
   "id": "04234:0021",
   "jp": "他の方たちは？",
-  "en": ""
+  "en": "And the others?"
  },
  {
   "id": "04234:0022",
   "jp": "？　待って、",
-  "en": ""
+  "en": "Hm? Wait,"
  },
  {
   "id": "04234:0023",
   "jp": "庭の方から……",
-  "en": ""
+  "en": "from the garden..."
  },
  {
   "id": "04234:0024",
   "jp": "ちょっと見てくるわ",
-  "en": ""
+  "en": "I'll go take a look."
  },
  {
   "id": "04234:0025",
   "jp": "お婆さん、首を\\n絞められてるの？",
-  "en": ""
+  "en": "The old lady was strangled?"
  },
  {
   "id": "04234:0026",
   "jp": "婆ちゃん、\\n首しめられてる",
-  "en": ""
+  "en": "Granny, neck strangled."
  },
  {
   "id": "04234:0027",
   "jp": "$c02絞殺$c00……？",
-  "en": ""
+  "en": "$c02Strangled$c00...?"
  },
  {
   "id": "04234:0028",
   "jp": "そうだね……",
-  "en": ""
+  "en": "Looks that way..."
  },
  {
   "id": "04234:0029",
   "jp": "ん？　どうしたの？",
-  "en": ""
+  "en": "Hm? What's wrong?"
  },
  {
   "id": "04234:0030",
   "jp": "はてな？",
-  "en": ""
+  "en": "Question mark?"
  },
  {
   "id": "04234:0031",
   "jp": "何よ？",
-  "en": ""
+  "en": "What is it?"
  },
  {
   "id": "04234:0032",
   "jp": "譲葉麟が疑問に\\n思ってたことさ",
-  "en": ""
+  "en": "It's what Rin Yuzuriha was wondering about."
  },
  {
   "id": "04234:0033",
   "jp": "彼は、竹と大婆は\\n互いを感じ合うって\\n言ってたね",
-  "en": ""
+  "en": "He said that Take and Obaba could sense each other, didn't he?"
  },
  {
   "id": "04234:0034",
   "jp": "うん",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "04234:0035",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04234:0036",
   "jp": "言ってたわ",
-  "en": ""
+  "en": "He did."
  },
  {
   "id": "04234:0037",
   "jp": "双子故の特別な感覚\\nなのかもしれない",
-  "en": ""
+  "en": "Maybe it's a special sense they share as twins."
  },
  {
   "id": "04234:0038",
   "jp": "確かに、僕らが視た\\n３番目の事件の時も",
-  "en": ""
+  "en": "Indeed, in the third case we saw, too,"
  },
  {
   "id": "04234:0039",
   "jp": "うん、\\n１人が起きてる時は\\n１人が眠っているって",
-  "en": ""
+  "en": "Yeah, when one of them was awake, the other was asleep."
  },
  {
   "id": "04234:0040",
   "jp": "ふみゅ。婆ちゃん\\n起きてる時は、\\n小婆ちゃん寝てた",
-  "en": ""
+  "en": "Fumyu. Granny awake, Little Granny asleep."
  },
  {
   "id": "04234:0041",
   "jp": "確か、いつもどっちかは\\n寝てて、どっちかは\\n起きてるとかだった",
-  "en": ""
+  "en": "As I recall, one of them was always asleep and the other awake, or something."
  },
  {
   "id": "04234:0042",
   "jp": "なら……やっぱり、",
-  "en": ""
+  "en": "Then... surely,"
  },
  {
   "id": "04234:0043",
   "jp": "そうだね、\\nでも、なら、尚更……",
-  "en": ""
+  "en": "Right. But in that case, all the more..."
  },
  {
   "id": "04234:0044",
   "jp": "竹の$c02死$c00に大婆が\\n気づかないはずがない",
-  "en": ""
+  "en": "Obaba couldn't have failed to notice Take's $c02death$c00."
  },
  {
   "id": "04234:0045",
   "jp": "うん",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "04234:0046",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04234:0047",
   "jp": "そうかもね",
-  "en": ""
+  "en": "Could be."
  },
  {
   "id": "04234:0048",
   "jp": "しかし、食事の時、\\n梅はそんな素振りを\\n見せなかった",
-  "en": ""
+  "en": "But at the meal, Ume showed no sign of anything like that."
  },
  {
   "id": "04234:0049",
   "jp": "その上",
-  "en": ""
+  "en": "On top of that,"
  },
  {
   "id": "04234:0050",
   "jp": "あの場には、\\n執事と竹を除く\\n全員がそろっていた",
-  "en": ""
+  "en": "everyone except the butler and Take was gathered there."
  },
  {
   "id": "04234:0051",
   "jp": "じゃあ、犯人は……",
-  "en": ""
+  "en": "Then the culprit is..."
  },
  {
   "id": "04234:0052",
   "jp": "ではでは、\\n犯人は仮面？",
-  "en": ""
+  "en": "Then, then, the culprit is the Mask?"
  },
  {
   "id": "04234:0053",
   "jp": "いなかったのは\\n執事だけ？",
-  "en": ""
+  "en": "The only one missing was the butler?"
  },
  {
   "id": "04234:0054",
   "jp": "麟は、\\nそう考えたんだろうね",
-  "en": ""
+  "en": "That must be what Rin thought."
  },
  {
   "id": "04234:0055",
   "jp": "でも、執事さん\\n清浄の庭で、$c02死$c00んでた\\nんだよね……？",
-  "en": ""
+  "en": "But the butler was $c02dead$c00 in the Garden of Purity, wasn't he...?"
  },
  {
   "id": "04234:0056",
   "jp": "ふみゅ。然し乍ら\\n仮面は既にビリビリ\\nだった",
-  "en": ""
+  "en": "Fumyu. Nevertheless, the Mask was already torn to shreds."
  },
  {
   "id": "04234:0057",
   "jp": "って、\\nその執事も清浄の庭で\\n$c02死$c00んでなかった？",
-  "en": ""
+  "en": "Wait, wasn't that butler $c02dead$c00 in the Garden of Purity too?"
  },
  {
   "id": "04234:0058",
   "jp": "そうだね……",
-  "en": ""
+  "en": "Right..."
  },
  {
   "id": "04234:0059",
   "jp": "つまり、竹が\\n$c02死$c00んだのが、",
-  "en": ""
+  "en": "In other words, if Take $c02died$c00"
  },
  {
   "id": "04234:0060",
   "jp": "大婆と同時か、\\nそれ以降だとすると",
-  "en": ""
+  "en": "at the same time as Obaba, or later,"
  },
  {
   "id": "04234:0061",
   "jp": "全員に不在証明が\\nある訳だね……",
-  "en": ""
+  "en": "then everyone has an alibi..."
  },
  {
   "id": "04234:0062",
   "jp": "そんな……",
-  "en": ""
+  "en": "No way..."
  },
  {
   "id": "04234:0063",
   "jp": "ふみゅ。一理",
-  "en": ""
+  "en": "Fumyu. A fair point."
  },
  {
   "id": "04234:0064",
   "jp": "むぅ、面倒な展開ね",
-  "en": ""
+  "en": "Hmph, what a tiresome turn of events."
  },
  {
   "id": "04234:0065",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "04234:0066",
   "jp": "この首の痕……",
-  "en": ""
+  "en": "These marks on her neck..."
  },
  {
   "id": "04234:0067",
   "jp": "少し、変だ……\\n刻音にしておこう",
-  "en": ""
+  "en": "Something's a little off... I'll keep this as an Echo."
  },
  {
   "id": "04234:0068",
@@ -347,56 +347,56 @@
  {
   "id": "04234:0069",
   "jp": "電灯のコード、\\nむき出しになってる",
-  "en": ""
+  "en": "The lamp cord's wires are exposed."
  },
  {
   "id": "04234:0070",
   "jp": "電灯のコード、裂かれて\\n中、剥きだし",
-  "en": ""
+  "en": "Lamp cord, split. Inside, exposed."
  },
  {
   "id": "04234:0071",
   "jp": "何これ？電灯のコード\\n裂いて、銅線\\n剥きだしじゃない？",
-  "en": ""
+  "en": "What's this? The lamp cord's split open and the copper wire is bare, isn't it?"
  },
  {
   "id": "04234:0072",
   "jp": "これって、\\n危ないよね？",
-  "en": ""
+  "en": "This is dangerous, right?"
  },
  {
   "id": "04234:0073",
   "jp": "とても危険？",
-  "en": ""
+  "en": "Very dangerous?"
  },
  {
   "id": "04234:0074",
   "jp": "触ったら、\\n危なそうね",
-  "en": ""
+  "en": "It looks dangerous to touch."
  },
  {
   "id": "04234:0075",
   "jp": "あぁ、電気を流したら、\\n感電するかもしれない",
-  "en": ""
+  "en": "Yeah. If current ran through it, you could get electrocuted."
  },
  {
   "id": "04234:0076",
   "jp": "【絞殺された竹】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Strangled Take] Echo!"
  },
  {
   "id": "04234:0077",
   "jp": "【剥きだしのコード】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Bare Cord] Echo!"
  },
  {
   "id": "04234:0078",
   "jp": "【執事をみていない】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Haven't Seen the Butler] Echo!"
  },
  {
   "id": "04234:0079",
   "jp": "【竹の死に梅は…？】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Ume at Take's Death...?] Echo!"
  }
 ]

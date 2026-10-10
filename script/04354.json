@@ -7,402 +7,402 @@
  {
   "id": "04354:0001",
   "jp": "さぁ、行こう",
-  "en": ""
+  "en": "Come on, let's go."
  },
  {
   "id": "04354:0002",
   "jp": "大逢魔は\\n$c02１４時$c00の【娯楽室】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in the [Game Room] at $c0214 o'clock$c00."
  },
  {
   "id": "04354:0003",
   "jp": "大逢魔は\\n$c02１６時$c00の【佳子の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in [Yoshiko's Room] at $c0216 o'clock$c00."
  },
  {
   "id": "04354:0004",
   "jp": "大逢魔は\\n$c02１７時$c00の【芙蓉の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in [Fuyou's Room] at $c0217 o'clock$c00."
  },
  {
   "id": "04354:0005",
   "jp": "大逢魔は\\n$c02１６時$c00の【静馬の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in [Shizuma's Room] at $c0216 o'clock$c00."
  },
  {
   "id": "04354:0006",
   "jp": "大逢魔は\\n$c02１８時$c00の【竹の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in [Take's Room] at $c0218 o'clock$c00."
  },
  {
   "id": "04354:0007",
   "jp": "大逢魔は\\n$c02１９時$c00の【中庭】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in the [Courtyard] at $c0219 o'clock$c00."
  },
  {
   "id": "04354:0008",
   "jp": "大逢魔は\\n$c02２０時$c00の【倉庫】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in the [Storehouse] at $c0220 o'clock$c00."
  },
  {
   "id": "04354:0009",
   "jp": "大逢魔は\\n$c02１３時$c00の【梅の部屋】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be in the [Plum Room] at $c0213 o'clock$c00."
  },
  {
   "id": "04354:0010",
   "jp": "大逢魔は\\n$c02２１時$c00の【駅ホーム】\\nにいるはずだ",
-  "en": ""
+  "en": "The Great Ouma should be on the [Station Platform] at $c0221 o'clock$c00."
  },
  {
   "id": "04354:0011",
   "jp": "うん！",
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "04354:0012",
   "jp": "あぁ、行こう",
-  "en": ""
+  "en": "Yes, let's go."
  },
  {
   "id": "04354:0013",
   "jp": "了解！",
-  "en": ""
+  "en": "Roger!"
  },
  {
   "id": "04354:0014",
   "jp": "この事件には、\\n特に不審な点は無い。\\nこんなものだろう",
-  "en": ""
+  "en": "There's nothing especially suspicious about this case. That should about do it."
  },
  {
   "id": "04354:0015",
   "jp": "ええっ、超推理は\\nしなかったの？",
-  "en": ""
+  "en": "What?! You didn't do Super Reasoning?"
  },
  {
   "id": "04354:0016",
   "jp": "シグマ、超推理した？",
-  "en": ""
+  "en": "Sigma, Super Reasoning, done?"
  },
  {
   "id": "04354:0017",
   "jp": "シグマ、ホントに超推理\\nしたんでしょうね？",
-  "en": ""
+  "en": "Sigma, you really did do Super Reasoning, didn't you?"
  },
  {
   "id": "04354:0018",
   "jp": "したさ。\\n超推理の力で闇は\\n払われたんだ",
-  "en": ""
+  "en": "I did. The Darkness was dispelled by the power of Super Reasoning."
  },
  {
   "id": "04354:0019",
   "jp": "どうせ犯人は執事に\\n決まっているんだし、",
-  "en": ""
+  "en": "The culprit's obviously the butler anyway,"
  },
  {
   "id": "04354:0020",
   "jp": "これで時の調律を\\nしてしまおう",
-  "en": ""
+  "en": "so let's just go ahead with the Time Tuning."
  },
  {
   "id": "04354:0021",
   "jp": "ええーっ？",
-  "en": ""
+  "en": "Whaaat?"
  },
  {
   "id": "04354:0022",
   "jp": "ふみゅ",
-  "en": ""
+  "en": "Fumyu."
  },
  {
   "id": "04354:0023",
   "jp": "そんなぁ！",
-  "en": ""
+  "en": "No way!"
  },
  {
   "id": "04354:0024",
   "jp": "う、うん……",
-  "en": ""
+  "en": "O-okay..."
  },
  {
   "id": "04354:0025",
   "jp": "あたってコナゴナ？",
-  "en": ""
+  "en": "Go for broke, end up in pieces?"
  },
  {
   "id": "04354:0026",
   "jp": "しょーがないなぁ",
-  "en": ""
+  "en": "Oh, fine, if we have to."
  },
  {
   "id": "04354:0027",
   "jp": "今回の事件、時の再演で\\n犯行現場がすっかり\\n視えていた",
-  "en": ""
+  "en": "In this case, the Replay of Time let us see the crime scene completely."
  },
  {
   "id": "04354:0028",
   "jp": "あとは執事の\\n犯行だという根拠を\\n固めるだけだ",
-  "en": ""
+  "en": "All that's left is to firm up the grounds for it being the butler's crime."
  },
  {
   "id": "04354:0029",
   "jp": "うん",
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "04354:0030",
   "jp": "ふみゅふみゅ",
-  "en": ""
+  "en": "Fumyu fumyu."
  },
  {
   "id": "04354:0031",
   "jp": "うんうん",
-  "en": ""
+  "en": "Uh-huh, uh-huh."
  },
  {
   "id": "04354:0032",
   "jp": "執事は、ねねに、\\n麟が娯楽室へ向かったと\\n嘘をつき、",
-  "en": ""
+  "en": "The butler lied to Nene, telling her that Rin had gone to the game room,"
  },
  {
   "id": "04354:0033",
   "jp": "人気のない所に\\nおびき出して、$c02殺害$c00した",
-  "en": ""
+  "en": "lured her somewhere deserted, and $c02killed$c00 her."
  },
  {
   "id": "04354:0034",
   "jp": "極々、簡単な闇だね",
-  "en": ""
+  "en": "A very, very simple Darkness."
  },
  {
   "id": "04354:0035",
   "jp": "だね",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04354:0036",
   "jp": "ゴクゴク",
-  "en": ""
+  "en": "Very-very. Gulp-gulp."
  },
  {
   "id": "04354:0037",
   "jp": "おっけーだね",
-  "en": ""
+  "en": "A-okay."
  },
  {
   "id": "04354:0038",
   "jp": "犯行現場に落ちていた\\n執事のボタン",
-  "en": ""
+  "en": "The butler's button that had fallen at the crime scene."
  },
  {
   "id": "04354:0039",
   "jp": "犯人が佳子を襲った時に\\n落としたんだろう",
-  "en": ""
+  "en": "The culprit must have dropped it when he attacked Yoshiko."
  },
  {
   "id": "04354:0040",
   "jp": "まさかこんな形で\\n証拠が見つかるとはね",
-  "en": ""
+  "en": "Who'd have thought the evidence would turn up like this?"
  },
  {
   "id": "04354:0041",
   "jp": "現場検証は\\n捜査の基本だもんね",
-  "en": ""
+  "en": "Examining the scene is the basics of investigation, after all."
  },
  {
   "id": "04354:0042",
   "jp": "現場検証、基本ふう",
-  "en": ""
+  "en": "Scene examination, the basics-fuu."
  },
  {
   "id": "04354:0043",
   "jp": "ちゃんと調べたし、\\nバッチリよ",
-  "en": ""
+  "en": "I checked it properly. It's perfect."
  },
  {
   "id": "04354:0044",
   "jp": "はじめに視た、１５の刻、\\n厨の再演……",
-  "en": ""
+  "en": "The first one we saw: the kitchen replay at 15 o'clock..."
  },
  {
   "id": "04354:0045",
   "jp": "ねねちゃんの遺体が\\n発見された時ね",
-  "en": ""
+  "en": "When Nene-chan's body was found, right?"
  },
  {
   "id": "04354:0046",
   "jp": "ねねっち、ぶらりの時",
-  "en": ""
+  "en": "Nene-cchi, dangling time."
  },
  {
   "id": "04354:0047",
   "jp": "ねねが見つかったやつね",
-  "en": ""
+  "en": "The one where Nene was found, right?"
  },
  {
   "id": "04354:0048",
   "jp": "あの時、麟は執事の\\n発言に揺らぎをみつけ、",
-  "en": ""
+  "en": "At that time, Rin noticed a wavering in the butler's words,"
  },
  {
   "id": "04354:0049",
   "jp": "疑問を抱いたよう\\nだったね",
-  "en": ""
+  "en": "and seemed to have his doubts."
  },
  {
   "id": "04354:0050",
   "jp": "そして、後の再演で、\\n芙蓉に何かを\\n報告している",
-  "en": ""
+  "en": "Then, in a later replay, he's reporting something to Fuyou."
  },
  {
   "id": "04354:0051",
   "jp": "つまり芙蓉は麟から、\\n執事が怪しいという\\n情報を得て、",
-  "en": ""
+  "en": "In other words, Fuyou heard from Rin that the butler was suspicious,"
  },
  {
   "id": "04354:0052",
   "jp": "ねねの$c02殺害$c00に関して\\n問いただそうと\\nしたんだね",
-  "en": ""
+  "en": "and tried to question him about Nene's $c02murder$c00."
  },
  {
   "id": "04354:0053",
   "jp": "なるほど",
-  "en": ""
+  "en": "I see."
  },
  {
   "id": "04354:0054",
   "jp": "ご明察",
-  "en": ""
+  "en": "Keen insight."
  },
  {
   "id": "04354:0055",
   "jp": "なるほどね",
-  "en": ""
+  "en": "I see, I get it."
  },
  {
   "id": "04354:0056",
   "jp": "この事件、確かに執事が\\n直接手を下したわけでは\\nないようだね",
-  "en": ""
+  "en": "In this case, it seems the butler really didn't do the deed with his own hands."
  },
  {
   "id": "04354:0057",
   "jp": "えっ、じゃあ、一体誰が？",
-  "en": ""
+  "en": "Huh? Then who on earth did?"
  },
  {
   "id": "04354:0058",
   "jp": "ふみゅ？\\nとなると誰？",
-  "en": ""
+  "en": "Fumyu? Then who?"
  },
  {
   "id": "04354:0059",
   "jp": "えぇっ、じゃ、一体誰が\\nやったっての？",
-  "en": ""
+  "en": "Wha-? Then who on earth did it?"
  },
  {
   "id": "04354:0060",
   "jp": "麟を$c02殺害$c00したのは、\\n佳子",
-  "en": ""
+  "en": "The one who $c02killed$c00 Rin was... Yoshiko."
  },
  {
   "id": "04354:0061",
   "jp": "そんな……",
-  "en": ""
+  "en": "No way..."
  },
  {
   "id": "04354:0062",
   "jp": "よっちゃん……",
-  "en": ""
+  "en": "Yocchan..."
  },
  {
   "id": "04354:0063",
   "jp": "そんなのって……",
-  "en": ""
+  "en": "That's just..."
  },
  {
   "id": "04354:0064",
   "jp": "ねねが$c02殺害$c00された事件が、\\n$c02逢魔$c00の仕業だと\\nいうことは",
-  "en": ""
+  "en": "That the case where Nene was $c02murdered$c00 was the work of an $c02Ouma$c00..."
  },
  {
   "id": "04354:0065",
   "jp": "みんな気づいて\\nいたんだ",
-  "en": ""
+  "en": "everyone had realized that."
  },
  {
   "id": "04354:0066",
   "jp": "そんな中、\\n佳子は娯楽室で、\\n麟の持ち物を拾った",
-  "en": ""
+  "en": "Amid all that, Yoshiko picked up something of Rin's in the game room."
  },
  {
   "id": "04354:0067",
   "jp": "そして、\\n麟が$c02逢魔$c00だと思い、",
-  "en": ""
+  "en": "And thinking Rin was an $c02Ouma$c00,"
  },
  {
   "id": "04354:0068",
   "jp": "静馬さんの部屋で、\\n麟君を…？",
-  "en": ""
+  "en": "in Shizuma-san's room, she... Rin-kun...?"
  },
  {
   "id": "04354:0069",
   "jp": "よっちゃん、ご頭首の\\n部屋でりんりんと……？",
-  "en": ""
+  "en": "Yocchan, in the honorable Head's room, Rin-Rin was...?"
  },
  {
   "id": "04354:0070",
   "jp": "頭首の部屋で麟を\\n$c02殺$c00した…？",
-  "en": ""
+  "en": "She $c02killed$c00 Rin in the Head's room...?"
  },
  {
   "id": "04354:0071",
   "jp": "そう、静馬の部屋から\\n出てきた佳子が、",
-  "en": ""
+  "en": "Yes. When Yoshiko came out of Shizuma's room,"
  },
  {
   "id": "04354:0072",
   "jp": "$c02逢魔$c00、と呟いたのは、\\n逢魔を倒したと思った\\nわけさ",
-  "en": ""
+  "en": "she muttered \"$c02Ouma$c00\" because she thought she'd defeated an Ouma."
  },
  {
   "id": "04354:0073",
   "jp": "後味の悪い事件ね……",
-  "en": ""
+  "en": "What a case with a bad aftertaste..."
  },
  {
   "id": "04354:0074",
   "jp": "ふみゅ、イタタまれない",
-  "en": ""
+  "en": "Fumyu. Ow-ow, unbearable."
  },
  {
   "id": "04354:0075",
   "jp": "あちゃー",
-  "en": ""
+  "en": "Yikes."
  },
  {
   "id": "04354:0076",
   "jp": "ああ、これで事件の\\n全貌が明らかになった",
-  "en": ""
+  "en": "Yes. With this, the whole picture of the case is clear."
  },
  {
   "id": "04354:0077",
   "jp": "そうだね",
-  "en": ""
+  "en": "Right."
  },
  {
   "id": "04354:0078",
   "jp": "ふみゅ、仮面、倒そう",
-  "en": ""
+  "en": "Fumyu. The Mask, defeat it."
  },
  {
   "id": "04354:0079",
   "jp": "うん、\\n$c02大逢魔$c00やっつけよう",
-  "en": ""
+  "en": "Okay, let's take down the $c02Great Ouma$c00!"
  },
  {
   "id": "04354:0080",
   "jp": "この事件はちょっと\\n厄介だね",
-  "en": ""
+  "en": "This case is a bit troublesome."
  },
  {
   "id": "04354:0081",

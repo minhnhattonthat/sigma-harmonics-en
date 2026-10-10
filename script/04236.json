@@ -2,7 +2,7 @@
  {
   "id": "04236:0000",
   "jp": "どうしたんです？！",
-  "en": ""
+  "en": "What happened?!"
  },
  {
   "id": "04236:0001",
@@ -17,22 +17,22 @@
  {
   "id": "04236:0003",
   "jp": "車の電極を\\n握らされて……？",
-  "en": ""
+  "en": "He was made to grip the car's electrodes...?"
  },
  {
   "id": "04236:0004",
   "jp": "体も冷たく\\nなってる……",
-  "en": ""
+  "en": "His body's gone cold, too..."
  },
  {
   "id": "04236:0005",
   "jp": "今、$c02死$c00んだんじゃ\\nないのか……？",
-  "en": ""
+  "en": "Then he didn't just $c02die$c00...?"
  },
  {
   "id": "04236:0006",
   "jp": "一体、\\n何があったんです？",
-  "en": ""
+  "en": "What on earth happened here?"
  },
  {
   "id": "04236:0007",
@@ -62,82 +62,82 @@
  {
   "id": "04236:0012",
   "jp": "……もうやだ……",
-  "en": ""
+  "en": "...I hate this..."
  },
  {
   "id": "04236:0013",
   "jp": "うぇーーーーーん！！",
-  "en": ""
+  "en": "Waaaaaaah!!"
  },
  {
   "id": "04236:0014",
   "jp": "あっ、ゆう！\\n待って！",
-  "en": ""
+  "en": "Ah, Yuu! Wait!"
  },
  {
   "id": "04236:0015",
   "jp": "……見つけた方は\\n誰です？",
-  "en": ""
+  "en": "...Who found him?"
  },
  {
   "id": "04236:0016",
   "jp": "その時の状況を\\n教えてください",
-  "en": ""
+  "en": "Please tell me what the situation was at the time."
  },
  {
   "id": "04236:0017",
   "jp": "私です",
-  "en": ""
+  "en": "I did."
  },
  {
   "id": "04236:0018",
   "jp": "何か、変なにおいが\\n気になりここに\\n来ました",
-  "en": ""
+  "en": "I was bothered by a strange smell, so I came here."
  },
  {
   "id": "04236:0019",
   "jp": "その後が、私です",
-  "en": ""
+  "en": "I came after that."
  },
  {
   "id": "04236:0020",
   "jp": "……私は２階から、\\n様子がおかしいのを\\n見て来た",
-  "en": ""
+  "en": "...I saw from the second floor that something was wrong, and came."
  },
  {
   "id": "04236:0021",
   "jp": "私は、厨にいたの\\nだけど、ここが\\n騒がしかったから……",
-  "en": ""
+  "en": "I was in the kitchen, but there was a commotion here, so..."
  },
  {
   "id": "04236:0022",
   "jp": "ありがとうございます",
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "04236:0023",
   "jp": "皆さんの言葉に\\n揺らぎはありません",
-  "en": ""
+  "en": "There's no wavering in anyone's words."
  },
  {
   "id": "04236:0024",
   "jp": "執事さんは、私たちが\\n居間に集まる前に\\n$c02殺$c00されたのでしょう",
-  "en": ""
+  "en": "The butler was probably $c02killed$c00 before we gathered in the living room."
  },
  {
   "id": "04236:0025",
   "jp": "でも、そうすると、\\n竹さんは、",
-  "en": ""
+  "en": "But then, Take-san..."
  },
  {
   "id": "04236:0026",
   "jp": "一体、誰が$c02殺$c00した\\nのでしょうか……？",
-  "en": ""
+  "en": "who on earth $c02killed$c00 her...?"
  },
  {
   "id": "04236:0027",
   "jp": "お婆様が？！",
-  "en": ""
+  "en": "Obaa-sama?!"
  },
  {
   "id": "04236:0028",
@@ -147,116 +147,116 @@
  {
   "id": "04236:0029",
   "jp": "何かが爆発する音",
-  "en": ""
+  "en": "The sound of something exploding"
  },
  {
   "id": "04236:0030",
   "jp": "ホームの方だ！",
-  "en": ""
+  "en": "It came from the Platform!"
  },
  {
   "id": "04236:0031",
   "jp": "何が起こってるの？",
-  "en": ""
+  "en": "What's going on?"
  },
  {
   "id": "04236:0032",
   "jp": "はてな？\\n何が起こった？",
-  "en": ""
+  "en": "Question mark? What happened?"
  },
  {
   "id": "04236:0033",
   "jp": "もう、\\n一体、なんなのよ！",
-  "en": ""
+  "en": "Ugh, what on earth is going on?!"
  },
  {
   "id": "04236:0034",
   "jp": "……分からない。\\n今回も、大分、\\n様子が違う……",
-  "en": ""
+  "en": "...I don't know. This time, too, things are very different..."
  },
  {
   "id": "04236:0035",
   "jp": "ねぇ、そういえば、",
-  "en": ""
+  "en": "Hey, come to think of it,"
  },
  {
   "id": "04236:0036",
   "jp": "疑問",
-  "en": ""
+  "en": "Query."
  },
  {
   "id": "04236:0037",
   "jp": "ちょっと待って\\n確認だけど",
-  "en": ""
+  "en": "Hold on, just to confirm,"
  },
  {
   "id": "04236:0038",
   "jp": "居間にいなかった\\n執事さんは、",
-  "en": ""
+  "en": "the butler, who wasn't in the living room,"
  },
  {
   "id": "04236:0039",
   "jp": "姿の見えなかった\\n仮面は、その以前から\\nここで往生？",
-  "en": ""
+  "en": "The Mask, unseen, passed away here even before that?"
  },
  {
   "id": "04236:0040",
   "jp": "執事は、\\n皆の食事の前には\\n$c02死$c00んでたってこと？",
-  "en": ""
+  "en": "So the butler was already $c02dead$c00 before everyone's meal?"
  },
  {
   "id": "04236:0041",
   "jp": "その前から、ここで\\n$c02死$c00んでたってこと……？",
-  "en": ""
+  "en": "had already been $c02dead$c00 here since before that...?"
  },
  {
   "id": "04236:0042",
   "jp": "そうみたいだね……",
-  "en": ""
+  "en": "Looks that way..."
  },
  {
   "id": "04236:0043",
   "jp": "つまり、\\n竹が$c02死$c00んだのが、",
-  "en": ""
+  "en": "In other words, if Take $c02died$c00"
  },
  {
   "id": "04236:0044",
   "jp": "大婆と同時か、\\nそれ以降だとすると",
-  "en": ""
+  "en": "at the same time as Obaba, or later,"
  },
  {
   "id": "04236:0045",
   "jp": "全員に不在証明がある\\n訳だね……",
-  "en": ""
+  "en": "then everyone has an alibi..."
  },
  {
   "id": "04236:0046",
   "jp": "そんな……",
-  "en": ""
+  "en": "No way..."
  },
  {
   "id": "04236:0047",
   "jp": "ふみゅ。\\nその通り……",
-  "en": ""
+  "en": "Fumyu. Exactly so..."
  },
  {
   "id": "04236:0048",
   "jp": "あー、もう\\nどうなってんのよ？",
-  "en": ""
+  "en": "Argh, what is going on here?"
  },
  {
   "id": "04236:0049",
   "jp": "【死んでいた執事】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Dead Butler] Echo!"
  },
  {
   "id": "04236:0050",
   "jp": "【清浄の庭での会話】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Talk in the Garden of Purity] Echo!"
  },
  {
   "id": "04236:0051",
   "jp": "【逃げ出したゆう】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Yuu Ran Away] Echo!"
  }
 ]

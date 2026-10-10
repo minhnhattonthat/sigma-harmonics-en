@@ -2,17 +2,17 @@
  {
   "id": "04294:0000",
   "jp": "何か、私に\\nお聞きになりたい\\nことがあるとか",
-  "en": ""
+  "en": "I am told there is something you wish to ask me."
  },
  {
   "id": "04294:0001",
   "jp": "ああ、単刀直入に…",
-  "en": ""
+  "en": "Yes, I'll get straight to the point..."
  },
  {
   "id": "04294:0002",
   "jp": "おっと、その前に、\\n私から芙蓉様の\\nお耳に入れたいことが",
-  "en": ""
+  "en": "Ah, before that, there is something I wish to bring to Fuyou-sama's attention."
  },
  {
   "id": "04294:0003",
@@ -22,126 +22,126 @@
  {
   "id": "04294:0004",
   "jp": "麟様が、お亡くなりに\\nなりました",
-  "en": ""
+  "en": "Rin-sama has passed away."
  },
  {
   "id": "04294:0005",
   "jp": "なんですって",
-  "en": ""
+  "en": "What did you say?"
  },
  {
   "id": "04294:0006",
   "jp": "……あなたが麟を\\n$c02殺$c00したのね？",
-  "en": ""
+  "en": "...You $c02killed$c00 Rin, didn't you?"
  },
  {
   "id": "04294:0007",
   "jp": "いいえ、違いますよ",
-  "en": ""
+  "en": "No, I did not."
  },
  {
   "id": "04294:0008",
   "jp": "突然、何を\\nおっしゃいますやら",
-  "en": ""
+  "en": "Whatever do you mean, so suddenly?"
  },
  {
   "id": "04294:0009",
   "jp": "見え透いた嘘を！",
-  "en": ""
+  "en": "Such a transparent lie!"
  },
  {
   "id": "04294:0010",
   "jp": "おや、譲葉の方から\\nそのようなお言葉を\\nかけられるとは、",
-  "en": ""
+  "en": "My, to hear such words from one of the Yuzuriha,"
  },
  {
   "id": "04294:0011",
   "jp": "心外ですな",
-  "en": ""
+  "en": "I am quite offended."
  },
  {
   "id": "04294:0012",
   "jp": "確かに、\\n言の葉に揺らぎは\\n感じられなかった",
-  "en": ""
+  "en": "Indeed, I sensed no wavering in his words."
  },
  {
   "id": "04294:0013",
   "jp": "一体どういう……？",
-  "en": ""
+  "en": "What on earth...?"
  },
  {
   "id": "04294:0014",
   "jp": "これでお別れです",
-  "en": ""
+  "en": "This is goodbye."
  },
  {
   "id": "04294:0015",
   "jp": "芙蓉さん、\\n$c02何かを言おうと$c00した\\n途端に……",
-  "en": ""
+  "en": "Just as Fuyou-san was $c02about to say something$c00..."
  },
  {
   "id": "04294:0016",
   "jp": "言の葉、$c02何か聞くふう$c00\\nだった？",
-  "en": ""
+  "en": "Word Wielder, was $c02about to ask something$c00-fuu?"
  },
  {
   "id": "04294:0017",
   "jp": "芙蓉が、$c02何か言おうと$c00\\nした所だったのに",
-  "en": ""
+  "en": "Fuyou was just $c02about to say something$c00, too."
  },
  {
   "id": "04294:0018",
   "jp": "うん、それに\\n気になるのは、",
-  "en": ""
+  "en": "Yes, and what concerns me"
  },
  {
   "id": "04294:0019",
   "jp": "$c02麟が死んだ$c00、\\nという執事の発言だ",
-  "en": ""
+  "en": "is the butler's statement that $c02Rin is dead$c00."
  },
  {
   "id": "04294:0020",
   "jp": "何かの間違いじゃ\\nないのかしら",
-  "en": ""
+  "en": "Couldn't it be some kind of mistake?"
  },
  {
   "id": "04294:0021",
   "jp": "りんりん、いつの間に？\\n本当？",
-  "en": ""
+  "en": "Rin-Rin, since when? True?"
  },
  {
   "id": "04294:0022",
   "jp": "これも嘘、ってわけじゃ\\nなさそうね",
-  "en": ""
+  "en": "Doesn't look like this one's a lie either."
  },
  {
   "id": "04294:0023",
   "jp": "譲葉の者が聞いて\\n見抜けないので\\nあれば、",
-  "en": ""
+  "en": "If one of the Yuzuriha heard it and couldn't see through it,"
  },
  {
   "id": "04294:0024",
   "jp": "執事が言ったことは\\n本当だと考える\\nしかない",
-  "en": ""
+  "en": "then we have no choice but to assume what the butler said is true."
  },
  {
   "id": "04294:0025",
   "jp": "ちょっと、やっかいな\\nことになってきたね",
-  "en": ""
+  "en": "Things are getting a bit troublesome."
  },
  {
   "id": "04294:0026",
   "jp": "【芙蓉の死】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Fuyou's Death] Echo!"
  },
  {
   "id": "04294:0027",
   "jp": "超推理に\\n「芙蓉の発言」\\nに関する闇が現れた！",
-  "en": ""
+  "en": "A Darkness appeared in Super Reasoning: \"Fuyou's Statement\"!"
  },
  {
   "id": "04294:0028",
   "jp": "超推理に\\n「麟の死亡」\\nに関する闇が現れた！",
-  "en": ""
+  "en": "A Darkness appeared in Super Reasoning: \"Rin's Death\"!"
  }
 ]

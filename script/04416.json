@@ -2,12 +2,12 @@
  {
   "id": "04416:0000",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04416:0001",
   "jp": "！？\\nそうか……",
-  "en": ""
+  "en": "?! I see..."
  },
  {
   "id": "04416:0002",
@@ -22,332 +22,332 @@
  {
   "id": "04416:0004",
   "jp": "仮です、ＱＥＤを置いて\\n推理を終わらして\\nください",
-  "en": ""
+  "en": "Temp: please place Q.E.D. to end the reasoning."
  },
  {
   "id": "04416:0005",
   "jp": "まだ、何が起こってる\\nのか見えてこない……",
-  "en": ""
+  "en": "I still can't see what's going on..."
  },
  {
   "id": "04416:0006",
   "jp": "……一通り、\\n調べた方がいいだろう",
-  "en": ""
+  "en": "...I'd better look into everything first."
  },
  {
   "id": "04416:0007",
   "jp": "一見すると、今まで\\n解決してきた事件と",
-  "en": ""
+  "en": "At first glance, compared to the cases I've solved so far,"
  },
  {
   "id": "04416:0008",
   "jp": "大きく変わりない\\nように感じる……",
-  "en": ""
+  "en": "it doesn't seem all that different..."
  },
  {
   "id": "04416:0009",
   "jp": "ただ、肌に\\nまとわりつくような\\n違和感を覚える",
-  "en": ""
+  "en": "Yet I feel an unease that clings to my skin."
  },
  {
   "id": "04416:0010",
   "jp": "よし、１つ１つの$c02死$c00を\\n取り上げながら\\n推理を進めてみよう",
-  "en": ""
+  "en": "Right, let me take up each $c02death$c00 one by one and advance my reasoning."
  },
  {
   "id": "04416:0011",
   "jp": "まず、ほぼ同じ時間に\\n起こった３つの$c02殺人$c00",
-  "en": ""
+  "en": "First, the three $c02murders$c00 that happened at almost the same time."
  },
  {
   "id": "04416:0012",
   "jp": "大婆、竹、執事……\\nこの$c02殺人$c00の起こった\\n順番を考えてみよう",
-  "en": ""
+  "en": "Obaba, Take, the butler... In what order did these $c02murders$c00 happen?"
  },
  {
   "id": "04416:0013",
   "jp": "まだ、再推理すべき\\n謎もない……",
-  "en": ""
+  "en": "There's no mystery to reason out again yet..."
  },
  {
   "id": "04416:0014",
   "jp": "大婆、竹、執事、この中で\\n最初に起こった\\n$c02殺人$c00はどれだろう？",
-  "en": ""
+  "en": "Obaba, Take, the butler: which of them was the first $c02murder$c00?"
  },
  {
   "id": "04416:0015",
   "jp": "大婆、竹、執事、この中で\\n２番目に起こった\\n$c02殺人$c00はどれだろう？",
-  "en": ""
+  "en": "Obaba, Take, the butler: which of them was the second $c02murder$c00?"
  },
  {
   "id": "04416:0016",
   "jp": "大婆、竹、執事、この中で\\n３番目に起こった\\n$c02殺人$c00はどれだろう？",
-  "en": ""
+  "en": "Obaba, Take, the butler: which of them was the third $c02murder$c00?"
  },
  {
   "id": "04416:0017",
   "jp": "事件の起こった順番は\\nこれで進めよう",
-  "en": ""
+  "en": "I'll proceed with this order of events."
  },
  {
   "id": "04416:0018",
   "jp": "次に、それぞれの$c02死$c00に\\nついての事実と疑問、",
-  "en": ""
+  "en": "Next, the facts and questions about each $c02death$c00--"
  },
  {
   "id": "04416:0019",
   "jp": "つまり、それぞれに\\n関係してそうな刻音を\\nまとめてみよう",
-  "en": ""
+  "en": "in other words, let me sort out the Echoes that seem tied to each one."
  },
  {
   "id": "04416:0020",
   "jp": "最初の$c02殺人$c00に関係する\\n刻音をまとめよう",
-  "en": ""
+  "en": "Let me gather the Echoes tied to the first $c02murder$c00."
  },
  {
   "id": "04416:0021",
   "jp": "２番目の$c02殺人$c00に関係する\\n刻音をまとめよう",
-  "en": ""
+  "en": "Let me gather the Echoes tied to the second $c02murder$c00."
  },
  {
   "id": "04416:0022",
   "jp": "３番目の$c02殺人$c00に関係する\\n刻音をまとめよう",
-  "en": ""
+  "en": "Let me gather the Echoes tied to the third $c02murder$c00."
  },
  {
   "id": "04416:0023",
   "jp": "ん？　誰でも犯行が\\n可能だった……",
-  "en": ""
+  "en": "Hm? Anyone could have committed the crime..."
  },
  {
   "id": "04416:0024",
   "jp": "そうか……\\n犯人は絞れないが\\n１つ、事実を導いた",
-  "en": ""
+  "en": "I see... I can't narrow down the culprit, but I've derived one fact."
  },
  {
   "id": "04416:0025",
   "jp": "これで分かるのは\\n誰も、犯行を行えない\\nということ……",
-  "en": ""
+  "en": "What this shows is that no one could have committed the crime..."
  },
  {
   "id": "04416:0026",
   "jp": "$c02不可能殺人$c00……？",
-  "en": ""
+  "en": "An $c02impossible murder$c00...?"
  },
  {
   "id": "04416:0027",
   "jp": "これで分かるのは\\nやはり、執事が犯人かも\\nしれないということ",
-  "en": ""
+  "en": "What this shows is that the butler may be the culprit after all."
  },
  {
   "id": "04416:0028",
   "jp": "……？\\n何かがおかしい……",
-  "en": ""
+  "en": "...? Something is off..."
  },
  {
   "id": "04416:0029",
   "jp": "よし、先に進もう",
-  "en": ""
+  "en": "Right, let's move on."
  },
  {
   "id": "04416:0030",
   "jp": "今はこれで、\\n先に進もう",
-  "en": ""
+  "en": "For now, let's move on with this."
  },
  {
   "id": "04416:0031",
   "jp": "今はここまでか……",
-  "en": ""
+  "en": "That's as far as I can go for now..."
  },
  {
   "id": "04416:0032",
   "jp": "次は、佳子$c02殺害$c00について\\n考えてみよう",
-  "en": ""
+  "en": "Next, let me think about Yoshiko's $c02murder$c00."
  },
  {
   "id": "04416:0033",
   "jp": "ここで\\n払うべき闇は……",
-  "en": ""
+  "en": "The Darkness to clear here is..."
  },
  {
   "id": "04416:0034",
   "jp": "佳子$c02死亡$c00時の\\n各人物のアリバイ……",
-  "en": ""
+  "en": "Everyone's alibi at the time of Yoshiko's $c02death$c00..."
  },
  {
   "id": "04416:0035",
   "jp": "密室だったことを\\n物語る刻音……",
-  "en": ""
+  "en": "The Echoes that tell of a locked room..."
  },
  {
   "id": "04416:0036",
   "jp": "そして、その娯楽室での\\n一連のやりとりで、嘘は\\nあったかなかったか",
-  "en": ""
+  "en": "And whether or not anyone lied in that exchange in the game room."
  },
  {
   "id": "04416:0037",
   "jp": "佳子の悲鳴が館に\\n響いた時、",
-  "en": ""
+  "en": "When Yoshiko's scream echoed through the mansion,"
  },
  {
   "id": "04416:0038",
   "jp": "静馬、麟、芙蓉、ユリ子が\\nどこにいたのか、\\nまとめてみよう",
-  "en": ""
+  "en": "let me sort out where Shizuma, Rin, Fuyou and Yuriko were."
  },
  {
   "id": "04416:0039",
   "jp": "娯楽室が密室だったと\\nする、僕らが視た２つの\\n事実をまとめてみよう",
-  "en": ""
+  "en": "Let me gather the two facts we saw that make the game room a locked room."
  },
  {
   "id": "04416:0040",
   "jp": "娯楽室でのやり取りの\\n中で、麟が感じた疑問が\\nあったはずだ",
-  "en": ""
+  "en": "In the exchange in the game room, there must have been a doubt that Rin felt."
  },
  {
   "id": "04416:0041",
   "jp": "ここは、それを置き\\n隣の闇の刻音を利用し\\n闇を払おう",
-  "en": ""
+  "en": "I'll place that, and use the neighboring Darkness's Echo to clear the Darkness."
  },
  {
   "id": "04416:0042",
   "jp": "娯楽室の密室の中、\\n$c02殺$c00された佳子……",
-  "en": ""
+  "en": "Yoshiko, $c02killed$c00 inside the locked game room..."
  },
  {
   "id": "04416:0043",
   "jp": "一見、実行犯がいない、\\n$c02不可能殺人$c00にも\\n見える……",
-  "en": ""
+  "en": "At first glance, it looks like an $c02impossible murder$c00 with no one to carry it out..."
  },
  {
   "id": "04416:0044",
   "jp": "でも……",
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "04416:0045",
   "jp": "譲葉の言っていた\\n言葉の揺らぎと\\nいうのが、",
-  "en": ""
+  "en": "If the wavering in words that Yuzuriha mentioned"
  },
  {
   "id": "04416:0046",
   "jp": "あそこにいた人物が\\n嘘をついていると\\nいうことならば……",
-  "en": ""
+  "en": "means that someone who was there is lying..."
  },
  {
   "id": "04416:0047",
   "jp": "だめだ……\\nこれだけじゃ\\n真相が見えない",
-  "en": ""
+  "en": "No good... This alone isn't enough to see the truth."
  },
  {
   "id": "04416:0048",
   "jp": "もっと、刻音を\\n集めてみよう",
-  "en": ""
+  "en": "Let me gather more Echoes."
  },
  {
   "id": "04416:0049",
   "jp": "残りの$c02死$c00についても\\n考えてみよう",
-  "en": ""
+  "en": "Let me think about the remaining $c02deaths$c00 too."
  },
  {
   "id": "04416:0050",
   "jp": "今回の多くの事件で\\n容疑者を絞ることが\\nできない……",
-  "en": ""
+  "en": "In many of these cases, I can't narrow down the suspects..."
  },
  {
   "id": "04416:0051",
   "jp": "最後の時まで、犯行を\\n行った人物が存在\\nしないかのようだった",
-  "en": ""
+  "en": "To the very end, it was as if no one who did it existed."
  },
  {
   "id": "04416:0052",
   "jp": "では、可能性として\\n考えた時に、",
-  "en": ""
+  "en": "Then, if I consider the possibility..."
  },
  {
   "id": "04416:0053",
   "jp": "過去に解決した\\n３つ目の事件のように",
-  "en": ""
+  "en": "like the third case I solved in the past,"
  },
  {
   "id": "04416:0054",
   "jp": "やはり、途中で\\n$c02死$c00んだと思える\\n人物が犯人だろうか？",
-  "en": ""
+  "en": "is the culprit, after all, someone who seems to have $c02died$c00 along the way?"
  },
  {
   "id": "04416:0055",
   "jp": "答えは\\n【ＹＥＳ】か【ＮＯ】",
-  "en": ""
+  "en": "The answer is [YES] or [NO]."
  },
  {
   "id": "04416:0056",
   "jp": "そう考えれば\\nある程度、納得がいく\\nつまり……",
-  "en": ""
+  "en": "Seen that way, it makes some sense. In other words..."
  },
  {
   "id": "04416:0057",
   "jp": "バールストン\\nギャンビット",
-  "en": ""
+  "en": "The Birlstone Gambit."
  },
  {
   "id": "04416:0058",
   "jp": "過去の３つ目の\\n事件と同じ……",
-  "en": ""
+  "en": "Just like the third case in the past..."
  },
  {
   "id": "04416:0059",
   "jp": "僕らが、$c02死$c00んだと\\n思っているだけの\\n$c02死$c00が存在する……",
-  "en": ""
+  "en": "There's a $c02death$c00 that exists only because we assume someone $c02died$c00..."
  },
  {
   "id": "04416:0060",
   "jp": "よし、最後に、犯人の\\n動機が垣間見える\\n刻音はあるだろうか？",
-  "en": ""
+  "en": "Right, lastly, is there an Echo that hints at the culprit's motive?"
  },
  {
   "id": "04416:0061",
   "jp": "そして、犯人を\\n絞り込むための物証と\\n【$c02死$c00】を奏でて",
-  "en": ""
+  "en": "Then, by playing the evidence that narrows down the culprit and [$c02Death$c00],"
  },
  {
   "id": "04416:0062",
   "jp": "この事件の謎を\\n解き明かそう",
-  "en": ""
+  "en": "let me unravel the mystery of this case."
  },
  {
   "id": "04416:0063",
   "jp": "犯人は、\\n$c02死$c00んだようには\\n見えていない？？",
-  "en": ""
+  "en": "The culprit doesn't appear to have $c02died$c00??"
  },
  {
   "id": "04416:0064",
   "jp": "どういうことだ……？\\n推理を進めてみるか",
-  "en": ""
+  "en": "What does this mean...? Let me keep reasoning."
  },
  {
   "id": "04416:0065",
   "jp": "では、最後に、犯人の\\n動機が垣間見える\\n刻音はあるだろうか？",
-  "en": ""
+  "en": "Then, lastly, is there an Echo that hints at the culprit's motive?"
  },
  {
   "id": "04416:0066",
   "jp": "$c02死$c00んだように見える\\n人物が犯人か？答えは\\n【ＹＥＳ】か【ＮＯ】",
-  "en": ""
+  "en": "Is the culprit someone who seems to have $c02died$c00? The answer is [YES] or [NO]."
  },
  {
   "id": "04416:0067",
   "jp": "犯人の動機の元、または\\n$c02殺意$c00を感じさせる\\n刻音はあるだろうか？",
-  "en": ""
+  "en": "Is there an Echo pointing to the root of the motive, or hinting at $c02murderous intent$c00?"
  },
  {
   "id": "04416:0068",
   "jp": "犯人を絞り込むための\\nある物証と、ある人物の$c02死$c00\\nの刻音を置こう",
-  "en": ""
+  "en": "I'll place the Echoes of a certain piece of evidence and a certain person's $c02death$c00."
  },
  {
   "id": "04416:0069",
   "jp": "まだ、闇の中身すら\\n分からない",
-  "en": ""
+  "en": "I still don't even know what lies within the Darkness."
  },
  {
   "id": "04416:0070",
@@ -372,36 +372,36 @@
  {
   "id": "04416:0074",
   "jp": "制作中です\\nＱＥＤを置くと\\nボス戦です",
-  "en": ""
+  "en": "Under construction. Placing Q.E.D. starts the boss battle."
  },
  {
   "id": "04416:0075",
   "jp": "あてはめるべき刻音は\\n大婆、竹、執事の$c02死$c00",
-  "en": ""
+  "en": "The Echoes to apply: the $c02deaths$c00 of Obaba, Take and the butler."
  },
  {
   "id": "04416:0076",
   "jp": "他の刻音では\\n意味がない\\n推理のしなおしだ",
-  "en": ""
+  "en": "Any other Echo is meaningless. I'll redo the reasoning."
  },
  {
   "id": "04416:0077",
   "jp": "あてはめるべき刻音は\\n【ＹＥＳ】か【ＮＯ】",
-  "en": ""
+  "en": "The Echo to apply is [YES] or [NO]."
  },
  {
   "id": "04416:0078",
   "jp": "闇は深まっている……\\n次の階層に\\n進んでみよう",
-  "en": ""
+  "en": "The Darkness is deepening... Let me go on to the next layer."
  },
  {
   "id": "04416:0079",
   "jp": "闇は深まっている……\\n更に下の階層に\\n進んでみよう",
-  "en": ""
+  "en": "The Darkness is deepening... Let me go down to an even deeper layer."
  },
  {
   "id": "04416:0080",
   "jp": "【犯行は誰にでも可能】\\nの刻音を生みだした！",
-  "en": ""
+  "en": "Created the [Anyone Could Commit the Crime] Echo!"
  }
 ]

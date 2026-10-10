@@ -113,9 +113,10 @@ def glossary():
 
 def term_errors(jp, en, terms):
     out = []
-    for tj, te, avoid in terms:
+    for tj, te, avoid in sorted(terms, key=lambda t: -len(t[0])):
         if tj not in jp:
             continue
+        jp = jp.replace(tj, '\0')  # a longer term owns its span (時の調律者 is not 時の調律)
         if te.lower() not in en.lower():
             out.append(f'glossary: {tj} -> {te} missing')
         for a in avoid:

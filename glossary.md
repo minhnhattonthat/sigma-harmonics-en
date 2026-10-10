@@ -83,6 +83,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 | 再演 | replay | | | |
 | 時の調律 | Time Tuning | | "Now, let the tuning begin!" | |
 | 調律者 | Tuner | | | |
+| 時の調律者 | Tuner of Time | | | |
 | 時紡ぎ | Time Weaving | | | |
 | 時渡り | Time Walk | | | |
 | 魂の影 | Soul Shadow | | | |
@@ -134,12 +135,17 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   歴史を導く剣匠 -> Swordmaster Who Guides History; 神聖機関銃少女 -> Holy Machine-Gun Girl; 天然少女剣士 -> Airhead Swordgirl;
   麗しの魔法娘々 -> Lovely Magical Nyan-Nyan; 月弓シグマ -> Sigma Tsukiyumi; 月弓音音 -> Nene Tsukiyumi; 黒上ゆう -> Yuu Kurogami;
   黒上のシグマ -> Sigma of the Kurogami; 調律者・シグマ -> Tuner: Sigma; 時の爆発 -> Time Explosion; 倍音 -> overtones.
-- b018-b025 玉突き -> billiards ("ball game" joke); ハーモニクス（平行世界） -> Harmonics (parallel worlds); ～ふう tic -> ", fuu";
+- b018-b025 玉突き -> billiards ("ball game" joke); ハーモニクス（平行世界） -> Harmonics (parallel worlds); ～ふう tic -> "-fuu" (e.g. "Who-fuu?");
   現国 -> Japanese class; 予鈴 -> warning bell; 無言 (Fumyu) -> ...Silence.; 仰天 -> Astonishment.; 吃驚仰天 -> Surprised and astounded.;
   分からんちん -> Clueless.; ゆーっち -> Yuu-cchi; りんりん -> Rin-Rin; しぐっち -> Sigu-cchi; 小婆ちゃん -> Little Granny;
   清浄の庭 -> Garden of Purity; 電報 -> telegram (katakana telegram text in CAPS); 次期頭首 -> next head; 漢方薬 -> herbal medicine;
   Divine Spirit tics にゃ -> -nya, っす -> -ssu; 「神降」 menu -> "Descent"; 「神」 button -> "God" button; 章の状況 -> [Movement Status];
   裏Ⅲ楽章 -> Hidden Movement III; イベント制作中 -> Event under construction; ダミー -> Dummy; 判定エラー -> Check error.
 - RULING: 時の変革者 -> Changer of Time; 過去の変革者 -> Changer of the Past (they are distinct JP phrases).
+- b034-b046 再推理 -> Re-Reason; 階層 -> layer; 刻音を生みだした -> "Created the [X] Echo!"; 思考連鎖 -> Chain of Thought;
+  人物刻音 -> Person Echo; 闇が生まれる -> A Darkness is born...; 歴史改変 -> alteration of history; 不在証明 -> alibi;
+  凶器 -> weapon; SFX lines (扉の開く音) -> "The sound of a door opening"; 銃声 -> Gunshot; 通信機 -> transmitter; 無線(機) -> radio;
+  機関室 -> engine room; 回廊 -> Corridor; 時空の裂け目 -> rift in space-time; 不可能殺人 -> impossible murder; ダイイングメッセージ -> dying message.
+- RULING: Nの刻 (time slots) -> "N:00" (１２の刻 -> 12:00, ２０の刻 -> 20:00). Fix older "o'clock"/"8 PM" forms in the polish pass.
 - RULING: 法水 is "Housui" for every character/clan mention (the glossary's のりみず reading is an in-joke; keep Housui).
 - RULING: glossary-screen headings (03976, "term / ～kana reading") -> the English term only, one line, no reading.

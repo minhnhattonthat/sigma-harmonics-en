@@ -12,7 +12,7 @@
  {
   "id": "04414:0002",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "04414:0003",
@@ -27,82 +27,82 @@
  {
   "id": "04414:0005",
   "jp": "銃を使用して行われた\\n$c02殺人$c00…",
-  "en": ""
+  "en": "A $c02murder$c00 committed with a gun..."
  },
  {
   "id": "04414:0006",
   "jp": "犯行は誰にも可能だと\\n思えるが、",
-  "en": ""
+  "en": "It seems anyone could have done it,"
  },
  {
   "id": "04414:0007",
   "jp": "集めた刻音を奏でれば、\\n必ず犯人を割り出す\\nことができるはずだ",
-  "en": ""
+  "en": "but if I play the Echoes I've gathered, I should be able to pin down the culprit."
  },
  {
   "id": "04414:0008",
   "jp": "自室で$c02死亡$c00していた\\nユリ子",
-  "en": ""
+  "en": "Yuriko, found $c02dead$c00 in her own room."
  },
  {
   "id": "04414:0009",
   "jp": "一見すると、発見された\\nのは、死後しばらくして\\nからだと思われるが",
-  "en": ""
+  "en": "At first glance, she seems to have been found some time after her death, but"
  },
  {
   "id": "04414:0010",
   "jp": "本当に銃声よりも\\n前に死亡していたの\\nだろうか",
-  "en": ""
+  "en": "did she really die before the gunshot?"
  },
  {
   "id": "04414:0011",
   "jp": "ユリ子の死亡時期が、\\n銃声よりも、",
-  "en": ""
+  "en": "If Yuriko's time of death, compared with the gunshot,"
  },
  {
   "id": "04414:0012",
   "jp": "前だと思うなら【ＹＥＳ】、\\n後だと思うなら【ＮＯ】の\\n刻音を置こう",
-  "en": ""
+  "en": "was earlier, place the [YES] Echo; if it was later, the [NO] Echo."
  },
  {
   "id": "04414:0013",
   "jp": "いよいよ最後の闇だ",
-  "en": ""
+  "en": "At last, the final Darkness."
  },
  {
   "id": "04414:0014",
   "jp": "犯人と思しき人物の\\n刻音と、それを裏付ける\\n刻音を置こう",
-  "en": ""
+  "en": "Place the Echo of the likely culprit and an Echo that backs it up."
  },
  {
   "id": "04414:0015",
   "jp": "静馬の死亡状況を示す\\n刻音をまとめてみよう",
-  "en": ""
+  "en": "Let's sum up the Echoes that show how Shizuma died."
  },
  {
   "id": "04414:0016",
   "jp": "執事の死亡状況を示す\\n刻音をまとめてみよう",
-  "en": ""
+  "en": "Let's sum up the Echoes that show how the butler died."
  },
  {
   "id": "04414:0017",
   "jp": "執事の部屋は\\n密室だったの\\nだろうか？",
-  "en": ""
+  "en": "Was the butler's room a locked room?"
  },
  {
   "id": "04414:0018",
   "jp": "密室の謎を解く\\n手がかりとなる\\n刻音を置こう",
-  "en": ""
+  "en": "Place an Echo that's a clue to solving the locked-room mystery."
  },
  {
   "id": "04414:0019",
   "jp": "銃を使用して\\n行われた２度の$c02殺人$c00",
-  "en": ""
+  "en": "Two $c02murders$c00 committed with a gun."
  },
  {
   "id": "04414:0020",
   "jp": "同一人物の犯行に\\nしては、何か違和感が\\nないだろうか",
-  "en": ""
+  "en": "For the work of a single person, doesn't something seem off?"
  },
  {
   "id": "04414:0021",
@@ -112,322 +112,322 @@
  {
   "id": "04414:0022",
   "jp": "ユリ子の死亡時期が、\\n銃声よりも、",
-  "en": ""
+  "en": "If Yuriko's time of death, compared with the gunshot,"
  },
  {
   "id": "04414:0023",
   "jp": "前だと思うなら【ＹＥＳ】、\\n後だと思うなら【ＮＯ】\\nの刻音を置こう",
-  "en": ""
+  "en": "was earlier, place the [YES] Echo; if it was later, the [NO] Echo."
  },
  {
   "id": "04414:0024",
   "jp": "ユリ子が銃声より前に\\n$c02死亡$c00していたとすると、",
-  "en": ""
+  "en": "If Yuriko $c02died$c00 before the gunshot,"
  },
  {
   "id": "04414:0025",
   "jp": "矛盾してしまう\\n刻音が無いだろうか",
-  "en": ""
+  "en": "isn't there an Echo that would contradict it?"
  },
  {
   "id": "04414:0026",
   "jp": "この矛盾に隠された\\n真実を示すことができる\\n刻音が無いだろうか",
-  "en": ""
+  "en": "Isn't there an Echo that can reveal the truth hidden in this contradiction?"
  },
  {
   "id": "04414:0027",
   "jp": "犯人の人物刻音、\\nそして犯行の裏付けと\\nなる刻音を置こう",
-  "en": ""
+  "en": "Place the culprit's person Echo, and an Echo that backs up the crime."
  },
  {
   "id": "04414:0028",
   "jp": "ユリ子は銃声よりも後に\\n$c02死亡$c00した。その根拠と\\nなる刻音を置こう",
-  "en": ""
+  "en": "Yuriko $c02died$c00 after the gunshot. Place the Echo that proves it."
  },
  {
   "id": "04414:0029",
   "jp": "静馬の$c02死$c00に関する\\nまとめはこれで\\nいいだろう",
-  "en": ""
+  "en": "That should do for the summary of Shizuma's $c02death$c00."
  },
  {
   "id": "04414:0030",
   "jp": "執事の$c02死$c00に関する\\nまとめはこれで\\nいいだろう",
-  "en": ""
+  "en": "That should do for the summary of the butler's $c02death$c00."
  },
  {
   "id": "04414:0031",
   "jp": "密室の謎に対する説明は\\nこれでいいだろう",
-  "en": ""
+  "en": "That should explain the locked-room mystery."
  },
  {
   "id": "04414:0032",
   "jp": "犯行に対する違和感は\\nこれで説明がついた",
-  "en": ""
+  "en": "That explains what felt off about the crimes."
  },
  {
   "id": "04414:0033",
   "jp": "ユリ子の死亡時期は\\nとりあえずこれで\\n進めよう",
-  "en": ""
+  "en": "Let's go with this for Yuriko's time of death for now."
  },
  {
   "id": "04414:0034",
   "jp": "ユリ子に関する矛盾は\\nこれでいいだろう",
-  "en": ""
+  "en": "That should settle the contradiction about Yuriko."
  },
  {
   "id": "04414:0035",
   "jp": "重要な真実はこれで\\n明かされたはずだ",
-  "en": ""
+  "en": "The key truth should now be revealed."
  },
  {
   "id": "04414:0036",
   "jp": "犯人と、行動の裏付けは\\nこれでいいだろう",
-  "en": ""
+  "en": "That should do for the culprit and the proof of their actions."
  },
  {
   "id": "04414:0037",
   "jp": "ユリ子が$c02死亡$c00した\\n時期はこれで\\n説明がついた",
-  "en": ""
+  "en": "That explains when Yuriko $c02died$c00."
  },
  {
   "id": "04414:0038",
   "jp": "【静かな銃声】\\nの刻音を生みだした！",
-  "en": ""
+  "en": "Created the [Silent Gunshot] Echo!"
  },
  {
   "id": "04414:0039",
   "jp": "銃で撃たれていながら、\\n遺体の発見はだいぶ\\n遅れた",
-  "en": ""
+  "en": "Despite being shot, the body was found much later."
  },
  {
   "id": "04414:0040",
   "jp": "つまり、犯人は銃声を\\n聞きつけて人が\\n集まるのを恐れ、",
-  "en": ""
+  "en": "So the culprit feared people would hear the gunshot and gather,"
  },
  {
   "id": "04414:0041",
   "jp": "銃にサイレンサーの\\nようなものを\\n付けていた……？",
-  "en": ""
+  "en": "and fitted the gun with something like a silencer...?"
  },
  {
   "id": "04414:0042",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0043",
   "jp": "【鳴り響いた銃声】\\nの刻音を生みだした！",
-  "en": ""
+  "en": "Created the [Resounding Gunshot] Echo!"
  },
  {
   "id": "04414:0044",
   "jp": "ねね、大婆、佳子は\\nほぼ同時に駆けつけ、",
-  "en": ""
+  "en": "Nene, Obaba, and Yoshiko rushed over almost at the same time,"
  },
  {
   "id": "04414:0045",
   "jp": "大婆の持っていた\\nマスターキーで\\n鍵を開けた",
-  "en": ""
+  "en": "and unlocked the door with the Master Key Obaba had."
  },
  {
   "id": "04414:0046",
   "jp": "そして、部屋の中で\\n執事の遺体を見つける",
-  "en": ""
+  "en": "Then they found the butler's body inside the room."
  },
  {
   "id": "04414:0047",
   "jp": "３人がほぼ同時に\\n集まっていること\\nから、",
-  "en": ""
+  "en": "Since all three gathered almost at once,"
  },
  {
   "id": "04414:0048",
   "jp": "銃声が館全体に\\n響き渡ったと\\n考えていいだろう",
-  "en": ""
+  "en": "we can assume the gunshot echoed through the whole mansion."
  },
  {
   "id": "04414:0049",
   "jp": "闇が生まれる……！",
-  "en": ""
+  "en": "A Darkness is born...!"
  },
  {
   "id": "04414:0050",
   "jp": "生まれた闇に必要な\\n刻音数は……２つ",
-  "en": ""
+  "en": "The number of Echoes this Darkness needs is... two."
  },
  {
   "id": "04414:0051",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0052",
   "jp": "闇が生まれる……！",
-  "en": ""
+  "en": "A Darkness is born...!"
  },
  {
   "id": "04414:0053",
   "jp": "思考連鎖だ、\\n必要な刻音はすでに\\n置かれている",
-  "en": ""
+  "en": "It's a Chain of Thought. The Echoes it needs are already placed."
  },
  {
   "id": "04414:0054",
   "jp": "【異なる銃声】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Different Gunshots] Echo!"
  },
  {
   "id": "04414:0055",
   "jp": "静馬に対する銃撃と、\\n執事に対する銃撃、",
-  "en": ""
+  "en": "The shooting of Shizuma, and the shooting of the butler..."
  },
  {
   "id": "04414:0056",
   "jp": "２つの違いが、なにか\\n重要な手がかりに\\nなるかもしれない",
-  "en": ""
+  "en": "the difference between the two may prove to be an important clue."
  },
  {
   "id": "04414:0057",
   "jp": "次の超推理へ進もう",
-  "en": ""
+  "en": "On to the next Super Reasoning."
  },
  {
   "id": "04414:0058",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0059",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0060",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0061",
   "jp": "【ユリ子は銃声前に死亡】\\nの刻音を生みだした！",
-  "en": ""
+  "en": "Created the [Yuriko Died Before the Gunshot] Echo!"
  },
  {
   "id": "04414:0062",
   "jp": "ユリ子は銃声より前に\\n$c02死亡$c00していた、\\nとすると……",
-  "en": ""
+  "en": "If Yuriko $c02died$c00 before the gunshot, then..."
  },
  {
   "id": "04414:0063",
   "jp": "持っている刻音と\\n矛盾してしまう\\nものが無いだろうか",
-  "en": ""
+  "en": "isn't there an Echo I hold that would contradict it?"
  },
  {
   "id": "04414:0064",
   "jp": "ユリ子は銃声後に\\n$c02死亡$c00した。それを\\n証明できるだろうか",
-  "en": ""
+  "en": "Yuriko $c02died$c00 after the gunshot. Can I prove that?"
  },
  {
   "id": "04414:0065",
   "jp": "答えは\\n【ＹＥＳ】か【ＮＯ】だ\\n超推理をやりなおそう",
-  "en": ""
+  "en": "The answer is [YES] or [NO]. Let's redo the Super Reasoning."
  },
  {
   "id": "04414:0066",
   "jp": "確かに、銃声より前に\\nユリ子が$c02死亡$c00して\\nいたなら、",
-  "en": ""
+  "en": "True, if Yuriko had $c02died$c00 before the gunshot,"
  },
  {
   "id": "04414:0067",
   "jp": "走り去るメイドを\\n目撃した、という\\n大婆の証言と食い違う",
-  "en": ""
+  "en": "it would conflict with Obaba's testimony that she saw the maid running off."
  },
  {
   "id": "04414:0068",
   "jp": "この矛盾が示す、\\n真実は一体……？",
-  "en": ""
+  "en": "What truth does this contradiction point to...?"
  },
  {
   "id": "04414:0069",
   "jp": "闇が生まれる……",
-  "en": ""
+  "en": "A Darkness is born..."
  },
  {
   "id": "04414:0070",
   "jp": "【ユリ子は銃声後に死亡】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Yuriko Died After the Gunshot] Echo!"
  },
  {
   "id": "04414:0071",
   "jp": "銃声の後、大婆が\\n走り去るメイドを\\n目撃していることから",
-  "en": ""
+  "en": "Since Obaba saw a maid running away after the gunshot,"
  },
  {
   "id": "04414:0072",
   "jp": "ユリ子が$c02死亡$c00したのは\\n銃声より後なのは\\n明らかだ",
-  "en": ""
+  "en": "it's clear that Yuriko $c02died$c00 after the gunshot."
  },
  {
   "id": "04414:0073",
   "jp": "闇が生まれる……",
-  "en": ""
+  "en": "A Darkness is born..."
  },
  {
   "id": "04414:0074",
   "jp": "よし、\\n次の超推理に進もう",
-  "en": ""
+  "en": "Right, on to the next Super Reasoning."
  },
  {
   "id": "04414:0075",
   "jp": "闇が生まれる……",
-  "en": ""
+  "en": "A Darkness is born..."
  },
  {
   "id": "04414:0076",
   "jp": "【犯人の意図】\\nの刻音を生みだした！",
-  "en": ""
+  "en": "Created the [Culprit's Intent] Echo!"
  },
  {
   "id": "04414:0077",
   "jp": "静馬の時と違い、\\n執事の時は銃声が\\n館内に鳴り響いた",
-  "en": ""
+  "en": "Unlike with Shizuma, in the butler's case a gunshot rang out through the mansion."
  },
  {
   "id": "04414:0078",
   "jp": "そして大婆は銃声に\\n驚き、走り去るメイドを\\n目撃する",
-  "en": ""
+  "en": "And Obaba, startled by the gunshot, sees a maid running away."
  },
  {
   "id": "04414:0079",
   "jp": "これは偶然ではなく、\\n意図的に自分の姿を\\n見せようと……？",
-  "en": ""
+  "en": "This was no coincidence... Did they deliberately let themselves be seen...?"
  },
  {
   "id": "04414:0080",
   "jp": "闇が生まれる……",
-  "en": ""
+  "en": "A Darkness is born..."
  },
  {
   "id": "04414:0081",
   "jp": "闇が生まれる……",
-  "en": ""
+  "en": "A Darkness is born..."
  },
  {
   "id": "04414:0082",
   "jp": "イベント番号エラー",
-  "en": ""
+  "en": "Event number error"
  },
  {
   "id": "04414:0083",
   "jp": "２階層目もやりなおし\\nとなるが",
-  "en": ""
+  "en": "The second layer will have to be redone too."
  },
  {
   "id": "04414:0084",
   "jp": "それでもいいか？",
-  "en": ""
+  "en": "Is that all right?"
  },
  {
   "id": "04414:0085",
   "jp": "本当に超推理を\\nしなおすのなら",
-  "en": ""
+  "en": "If I truly want to redo the Super Reasoning..."
  },
  {
   "id": "04414:0086",
