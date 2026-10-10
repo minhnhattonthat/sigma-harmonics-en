@@ -2,12 +2,12 @@
  {
   "id": "04713:0000",
   "jp": "《回帰》\\n大時計の間へ瞬時に移動する",
-  "en": ""
+  "en": "<Return> Warp to the\\nGreat Clock Chamber."
  },
  {
   "id": "04713:0001",
   "jp": "《不可視》\\n少しの間、姿を隠し、\\n逢魔との戦闘を回避する",
-  "en": ""
+  "en": "<Invisible>\\nHide for a while and\\navoid Ouma battles."
  },
  {
   "id": "04713:0002",
@@ -22,12 +22,12 @@
  {
   "id": "04713:0004",
   "jp": "《交換》\\n業逢魔や神霊と自分の位置を\\n交換する",
-  "en": ""
+  "en": "<Swap> Swap places\\nwith a Karma Ouma\\nor a Divine Spirit."
  },
  {
   "id": "04713:0005",
   "jp": "《断絶》\\nこの章の間、逢魔との戦闘を\\n回避する",
-  "en": ""
+  "en": "<Sever>\\nAvoid Ouma battles\\nfor this Movement."
  },
  {
   "id": "04713:0006",

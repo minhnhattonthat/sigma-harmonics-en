@@ -19,6 +19,11 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
 - Game is played sideways; dialogue font 04387 stores glyphs pre-rotated (CGLP flags 3).
 - A character with no glyph in the active font HANGS the game. Every char used must exist in every font that draws it.
 
+- Renderer quirks + fixes: docs/re/README.md (UI tables full-width; dialogue 0x50-0x5F full-width; spaces U+2002).
+- Batches: `tools/batches.py split|check|merge|pairs`; briefs docs/translator-brief.md, docs/reviewer-brief.md;
+  style docs/style-reference.md. Echo names: `tools/echoes.py` -> build/echoes.tsv. Bisect a hang: tools/bisect_text.py.
+
 ## Status
-- Done: CPK/ROM identity rebuild, extract (362 tables, 12,685 strings), marker build boots.
-- Next: engine spike = add Latin glyphs to fonts; marker tour; then translation batches.
+- Done: engine (Latin fonts, quirks), 53 batches translated + merged (~12.1k/12.3k strings, lint clean), boots + opening QA.
+- Next: gpt-6-astra review pass (blocked: safety classifier outage), in-game check of UI widths (docs/re/verify.md),
+  graphics text (title menu prompt, chapter cards), release (xdelta).

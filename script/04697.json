@@ -67,11 +67,11 @@
  {
   "id": "04697:0013",
   "jp": "データを読めませんでした\\n電源を切って、カードを\\n差し込み直してください",
-  "en": ""
+  "en": "Could not read data.\\nTurn the power off\\nand reinsert the card."
  },
  {
   "id": "04697:0014",
   "jp": "データを書けませんでした\\n電源を切って、カードを\\n差し込み直してください",
-  "en": ""
+  "en": "Could not write data.\\nTurn the power off\\nand reinsert the card."
  }
 ]

@@ -392,82 +392,82 @@
  {
   "id": "05609:0078",
   "jp": "（このカードに曲は無い）",
-  "en": ""
+  "en": "(This card has no song)"
  },
  {
   "id": "05609:0079",
   "jp": "曲を「キュウソ」に変更する",
-  "en": ""
+  "en": "Change song to \"Kyuuso\""
  },
  {
   "id": "05609:0080",
   "jp": "曲を「テツギュウ」に変更する",
-  "en": ""
+  "en": "Change song to \"Tetsugyuu\""
  },
  {
   "id": "05609:0081",
   "jp": "曲を「ジュウオウ」に変更する",
-  "en": ""
+  "en": "Change song to \"Juuou\""
  },
  {
   "id": "05609:0082",
   "jp": "曲を「ゲッセイ」に変更する",
-  "en": ""
+  "en": "Change song to \"Gessei\""
  },
  {
   "id": "05609:0083",
   "jp": "曲を「リュウジン」に変更する",
-  "en": ""
+  "en": "Change song to \"Ryuujin\""
  },
  {
   "id": "05609:0084",
   "jp": "曲を「オロチ」に変更する",
-  "en": ""
+  "en": "Change song to \"Orochi\""
  },
  {
   "id": "05609:0085",
   "jp": "曲を「ワカコマ」に変更する",
-  "en": ""
+  "en": "Change song to \"Wakakoma\""
  },
  {
   "id": "05609:0086",
   "jp": "曲を「ヨウシン」に変更する",
-  "en": ""
+  "en": "Change song to \"Youshin\""
  },
  {
   "id": "05609:0087",
   "jp": "曲を「ショウジョウ」に変更する",
-  "en": ""
+  "en": "Change song to \"Shoujou\""
  },
  {
   "id": "05609:0088",
   "jp": "曲を「シラトリ」に変更する",
-  "en": ""
+  "en": "Change song to \"Shiratori\""
  },
  {
   "id": "05609:0089",
   "jp": "曲を「イヌボエ」に変更する",
-  "en": ""
+  "en": "Change song to \"Inuboe\""
  },
  {
   "id": "05609:0090",
   "jp": "曲を「ヤマクジラ」に変更する",
-  "en": ""
+  "en": "Change song to \"Yamakujira\""
  },
  {
   "id": "05609:0091",
   "jp": "曲を「ミツネコ」に変更する",
-  "en": ""
+  "en": "Change song to \"Mitsuneko\""
  },
  {
   "id": "05609:0092",
   "jp": "曲を「カラクリ」に変更する",
-  "en": ""
+  "en": "Change song to \"Karakuri\""
  },
  {
   "id": "05609:0093",
   "jp": "曲を「ニンギョ」に変更する",
-  "en": ""
+  "en": "Change song to \"Ningyo\""
  },
  {
   "id": "05609:0094",
@@ -557,7 +557,7 @@
  {
   "id": "05609:0111",
   "jp": "ランダムな敵１体にダメージ",
-  "en": ""
+  "en": "Damages one random foe"
  },
  {
   "id": "05609:0112",
@@ -567,62 +567,62 @@
  {
   "id": "05609:0113",
   "jp": "敵全体にダメージと確率でストップ",
-  "en": ""
+  "en": "Damages all foes; may Stop them"
  },
  {
   "id": "05609:0114",
   "jp": "ＨＰを回復し、状態変化を解除する",
-  "en": ""
+  "en": "Restores HP and cures ailments"
  },
  {
   "id": "05609:0115",
   "jp": "前方の敵１体にダメージ",
-  "en": ""
+  "en": "Damages one foe in front"
  },
  {
   "id": "05609:0116",
   "jp": "右方の敵１体にダメージ",
-  "en": ""
+  "en": "Damages one foe to the right"
  },
  {
   "id": "05609:0117",
   "jp": "左方の敵１体にダメージ",
-  "en": ""
+  "en": "Damages one foe to the left"
  },
  {
   "id": "05609:0118",
   "jp": "前方の敵１体にダメージと確率でストップ",
-  "en": ""
+  "en": "Damages one front foe; may Stop it"
  },
  {
   "id": "05609:0119",
   "jp": "一定の時間、状態変化をガードする",
-  "en": ""
+  "en": "Guards against ailments for a time"
  },
  {
   "id": "05609:0120",
   "jp": "一定の回数、自動的に攻撃する",
-  "en": ""
+  "en": "Auto-attacks several times"
  },
  {
   "id": "05609:0121",
   "jp": "前方の敵１体にダメージか即死",
-  "en": ""
+  "en": "Damages or kills one foe in front"
  },
  {
   "id": "05609:0122",
   "jp": "一定の回数、自動的にＨＰが回復する",
-  "en": ""
+  "en": "Auto-restores HP several times"
  },
  {
   "id": "05609:0123",
   "jp": "後方の敵１体にダメージ",
-  "en": ""
+  "en": "Damages one foe behind"
  },
  {
   "id": "05609:0124",
   "jp": "前方の敵全体にダメージか即死",
-  "en": ""
+  "en": "Damages or kills all foes in front"
  },
  {
   "id": "05609:0125",
@@ -692,67 +692,67 @@
  {
   "id": "05609:0138",
   "jp": "（このカードに神は存在しない）",
-  "en": ""
+  "en": "(No god exists in this card)"
  },
  {
   "id": "05609:0139",
   "jp": "「闇を切る騎士」に変身する",
-  "en": ""
+  "en": "Become \"Dark-Cleaving Knight\""
  },
  {
   "id": "05609:0140",
   "jp": "「闇を切る騎士」に変身する",
-  "en": ""
+  "en": "Become \"Dark-Cleaving Knight\""
  },
  {
   "id": "05609:0141",
   "jp": "「天然少女剣士」に変身する",
-  "en": ""
+  "en": "Become \"Airhead Swordgirl\""
  },
  {
   "id": "05609:0142",
   "jp": "「歴史を導く剣匠」に変身する",
-  "en": ""
+  "en": "Become \"History-Guiding Swordmaster\""
  },
  {
   "id": "05609:0143",
   "jp": "「冒険する狙撃手」に変身する",
-  "en": ""
+  "en": "Become \"Adventuring Sniper\""
  },
  {
   "id": "05609:0144",
   "jp": "「冒険する狙撃手」に変身する",
-  "en": ""
+  "en": "Become \"Adventuring Sniper\""
  },
  {
   "id": "05609:0145",
   "jp": "「神聖機関銃少女」に変身する",
-  "en": ""
+  "en": "Become \"Holy Machine-Gun Girl\""
  },
  {
   "id": "05609:0146",
   "jp": "「真実に挑む銃手」に変身する",
-  "en": ""
+  "en": "Become \"Truth-Challenging Gunner\""
  },
  {
   "id": "05609:0147",
   "jp": "「時空の札使い」に変身する",
-  "en": ""
+  "en": "Become \"Card Wielder of Space-Time\""
  },
  {
   "id": "05609:0148",
   "jp": "「時空の札使い」に変身する",
-  "en": ""
+  "en": "Become \"Card Wielder of Space-Time\""
  },
  {
   "id": "05609:0149",
   "jp": "「麗しの魔法娘々」に変身する",
-  "en": ""
+  "en": "Become \"Lovely Magical Nyan-Nyan\""
  },
  {
   "id": "05609:0150",
   "jp": "「偉大なりし術者」に変身する",
-  "en": ""
+  "en": "Become \"Grand Sorcerer\""
  },
  {
   "id": "05609:0151",
