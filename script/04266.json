@@ -122,7 +122,7 @@
  {
   "id": "04266:0024",
   "jp": "麟君も、竹さんの前に\\n$c02死$c00んでたって……",
-  "en": "And Rin-kun said he was $c02dead$c00 before Take-san..."
+  "en": "And Rin-kun, too, was supposedly $c02dead$c00 before Take-san..."
  },
  {
   "id": "04266:0025",
@@ -212,7 +212,7 @@
  {
   "id": "04266:0042",
   "jp": "何が？",
-  "en": "What is?"
+  "en": "What do you mean?"
  },
  {
   "id": "04266:0043",
@@ -527,7 +527,7 @@
  {
   "id": "04266:0105",
   "jp": "それは、\\n分からないけど、\\n小さな問題だ",
-  "en": "That I can't say, but it's a minor problem."
+  "en": "I don't know about that, but it's a minor problem."
  },
  {
   "id": "04266:0106",
@@ -787,7 +787,7 @@
  {
   "id": "04266:0157",
   "jp": "ユリユリは、ご頭首が\\n$c02死$c00んだ時には\\n先に亡くなりでは？",
-  "en": "Yuri-Yuri, when the honorable Head $c02died$c00, already deceased, no?"
+  "en": "Yuri-Yuri had already passed away before the honorable Head $c02died$c00, no?"
  },
  {
   "id": "04266:0158",
@@ -1357,7 +1357,7 @@
  {
   "id": "04266:0271",
   "jp": "居間にいたのを、\\n再演で視ている",
-  "en": "was in the living room. We saw that in the replay."
+  "en": "were in the living room. We saw that in the replay."
  },
  {
   "id": "04266:0272",
@@ -1532,7 +1532,7 @@
  {
   "id": "04266:0306",
   "jp": "譲葉の母親の方だ\\nって言ったわね",
-  "en": "You said it was Yuzuriha -- the mother, didn't you?"
+  "en": "You said it was the mother on the Yuzuriha side, didn't you?"
  },
  {
   "id": "04266:0307",
@@ -1657,7 +1657,7 @@
  {
   "id": "04266:0331",
   "jp": "$c02死人$c00は$c02死人$c00、\\nあの$c02死$c00に方では\\n勘違いもおかしい",
-  "en": "The $c02dead$c00 are the $c02dead$c00. Such a $c02death$c00, mistaking it is absurd."
+  "en": "The $c02dead$c00 are the $c02dead$c00. With a $c02death$c00 like that, a mix-up is absurd."
  },
  {
   "id": "04266:0332",
@@ -1977,12 +1977,12 @@
  {
   "id": "04266:0395",
   "jp": "あぁ、言の葉の力を\\n持ってる彼が、",
-  "en": "Ah, that was about him, with the power of words,"
+  "en": "Ah, that was about him, the Word Wielder,"
  },
  {
   "id": "04266:0396",
   "jp": "譲葉芙蓉を差し置いて、\\n頭首になるって話だね",
-  "en": "becoming head in place of Fuyou Yuzuriha."
+  "en": "becoming the Head in place of Fuyou Yuzuriha."
  },
  {
   "id": "04266:0397",
@@ -2062,7 +2062,7 @@
  {
   "id": "04266:0412",
   "jp": "譲葉の名を奪われる\\n原因となった、麟を",
-  "en": "Rin was the reason she'd lose the Yuzuriha name,"
+  "en": "Rin was the reason Fuyou would lose the Yuzuriha name,"
  },
  {
   "id": "04266:0413",
