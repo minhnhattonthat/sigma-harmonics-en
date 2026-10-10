@@ -82,7 +82,7 @@ Pair it with `--mash` and a long `--frames` to sweep menus and dialogue cheaply.
 
 **DeSmuME 0.9.13 (NDS):**
 - Needs the 64-bit `lua51.dll` beside the exe (`setup.md`). There is no Lua CLI flag: emu.py turns on `[Scripting] AutoLoad=1` and points `[PathSettings] Lua` and `StateSlots` at `--out` in `desmume.ini`, so DeSmuME runs `<out>/<rom name>.lua` when the ROM loads. The ini is restored after the run.
-- A window opens; `BackgroundPause=0` keeps it running unfocused. `emu.speedmode("maximum")`: 600 frames take ~10 s.
+- A window opens; `BackgroundPause=0` keeps it running unfocused. `emu.speedmode("maximum")` alone stays at 60 fps: emu.py also sets `[FrameLimit] FrameLimit=0` and passes `--jit-enable` (not with `--debugger`, which exec hooks need). 0.9.14: 3000 frames in ~11 s (52 s throttled). `--frameskip` gains nothing.
 - Screenshots are both screens stacked (256×384). On-screen messages ("Loaded from 9 slot") land in the shots for ~2 s.
 - Savestates are slot files only: emu.py copies `--state-in` to slot 9 and moves slot 8 to `--state-out`. Loading must happen at a frame boundary (the driver does it on the first frame); the first shot after a load is grey.
 - Only one instance at a time (shared ini). `os.exit(n)` returns n.

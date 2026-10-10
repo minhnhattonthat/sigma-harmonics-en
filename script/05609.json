@@ -27,32 +27,32 @@
  {
   "id": "05609:0005",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "05609:0006",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "05609:0007",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "05609:0008",
   "jp": "旋律障壁",
-  "en": "Melody Wall"
+  "en": "Melody Barrier"
  },
  {
   "id": "05609:0009",
   "jp": "旋律障壁",
-  "en": "Melody Wall"
+  "en": "Melody Barrier"
  },
  {
   "id": "05609:0010",
   "jp": "旋律障壁",
-  "en": "Melody Wall"
+  "en": "Melody Barrier"
  },
  {
   "id": "05609:0011",
@@ -222,7 +222,7 @@
  {
   "id": "05609:0044",
   "jp": "逢魔復活",
-  "en": "Revive Ouma"
+  "en": "Ouma Revival"
  },
  {
   "id": "05609:0045",
@@ -232,7 +232,7 @@
  {
   "id": "05609:0046",
   "jp": "猫ぶつけ",
-  "en": "Cat Throw"
+  "en": "Cat Toss"
  },
  {
   "id": "05609:0047",
@@ -297,7 +297,7 @@
  {
   "id": "05609:0059",
   "jp": "空間転位",
-  "en": "Space Shift"
+  "en": "Spatial Shift"
  },
  {
   "id": "05609:0060",
@@ -822,7 +822,7 @@
  {
   "id": "05609:0164",
   "jp": "神自己回復",
-  "en": "God Self-Heal"
+  "en": "Divine Self-Heal"
  },
  {
   "id": "05609:0165",
@@ -847,7 +847,7 @@
  {
   "id": "05609:0169",
   "jp": "神自動戦闘",
-  "en": "God Auto Battle"
+  "en": "Divine Auto Battle"
  },
  {
   "id": "05609:0170",
@@ -872,7 +872,7 @@
  {
   "id": "05609:0174",
   "jp": "神回復",
-  "en": "God Heal"
+  "en": "Divine Heal"
  },
  {
   "id": "05609:0175",
@@ -947,7 +947,7 @@
  {
   "id": "05609:0189",
   "jp": "神曲防御",
-  "en": "God Song Guard"
+  "en": "Divine Song Guard"
  },
  {
   "id": "05609:0190",
@@ -987,7 +987,7 @@
  {
   "id": "05609:0197",
   "jp": "全周僅攻撃",
-  "en": "Scant All-Around Attack"
+  "en": "Slight All-Around Attack"
  },
  {
   "id": "05609:0198",
@@ -1002,7 +1002,7 @@
  {
   "id": "05609:0200",
   "jp": "全周神攻撃",
-  "en": "God All-Around Attack"
+  "en": "Divine All-Around Attack"
  },
  {
   "id": "05609:0201",
@@ -1027,7 +1027,7 @@
  {
   "id": "05609:0205",
   "jp": "全周神停止",
-  "en": "God All-Around Stop"
+  "en": "Divine All-Around Stop"
  },
  {
   "id": "05609:0206",
@@ -1047,7 +1047,7 @@
  {
   "id": "05609:0209",
   "jp": "広範神瞬殺",
-  "en": "God Wide Instakill"
+  "en": "Divine Wide Instakill"
  },
  {
   "id": "05609:0210",
@@ -1072,7 +1072,7 @@
  {
   "id": "05609:0214",
   "jp": "正面神攻撃",
-  "en": "God Front Attack"
+  "en": "Divine Front Attack"
  },
  {
   "id": "05609:0215",
@@ -1102,21 +1102,21 @@
  {
   "id": "05609:0220",
   "jp": "追神攻撃",
-  "en": "God Follow-up Attack"
+  "en": "Divine Follow-up Attack"
  },
  {
   "id": "05609:0221",
   "jp": "術香猛撃",
-  "en": "Magic Scent Onslaught"
+  "en": "Magic Onslaught"
  },
  {
   "id": "05609:0222",
   "jp": "剣香猛撃",
-  "en": "Sword Scent Onslaught"
+  "en": "Sword Onslaught"
  },
  {
   "id": "05609:0223",
   "jp": "銃香猛撃",
-  "en": "Gun Scent Onslaught"
+  "en": "Gun Onslaught"
  }
 ]

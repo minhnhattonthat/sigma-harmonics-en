@@ -7,7 +7,7 @@
  {
   "id": "04726:0001",
   "jp": "（未使用）",
-  "en": "(Unused)"
+  "en": "(unused)"
  },
  {
   "id": "04726:0002",
@@ -122,7 +122,7 @@
  {
   "id": "04726:0024",
   "jp": "（未使用）",
-  "en": "(Unused)"
+  "en": "(unused)"
  },
  {
   "id": "04726:0025",
@@ -147,7 +147,7 @@
  {
   "id": "04726:0029",
   "jp": "エレキインパクト",
-  "en": "Electro Impact"
+  "en": "Electric Impact"
  },
  {
   "id": "04726:0030",
@@ -212,7 +212,7 @@
  {
   "id": "04726:0042",
   "jp": "助太刀",
-  "en": "Assist"
+  "en": "Aid"
  },
  {
   "id": "04726:0043",
@@ -227,7 +227,7 @@
  {
   "id": "04726:0045",
   "jp": "オトメガフレアー！",
-  "en": "Omega Flare!"
+  "en": "Maiden Mega Flare!"
  },
  {
   "id": "04726:0046",
@@ -237,27 +237,27 @@
  {
   "id": "04726:0047",
   "jp": "（未使用）",
-  "en": "(Unused)"
+  "en": "(unused)"
  },
  {
   "id": "04726:0048",
   "jp": "（未使用）",
-  "en": "(Unused)"
+  "en": "(unused)"
  },
  {
   "id": "04726:0049",
   "jp": "魔奏曲",
-  "en": "Demon Song"
+  "en": "Demon Sonata"
  },
  {
   "id": "04726:0050",
   "jp": "最終魔奏曲",
-  "en": "Final Demon Song"
+  "en": "Final Demon Sonata"
  },
  {
   "id": "04726:0051",
   "jp": "産卵",
-  "en": "Lay Eggs"
+  "en": "Spawn"
  },
  {
   "id": "04726:0052",
@@ -282,7 +282,7 @@
  {
   "id": "04726:0056",
   "jp": "演奏開始",
-  "en": "Start Performance"
+  "en": "Start Playing"
  },
  {
   "id": "04726:0057",
@@ -472,12 +472,12 @@
  {
   "id": "04726:0094",
   "jp": "（ステージボス用）",
-  "en": "(For stage bosses)"
+  "en": "(stage boss)"
  },
  {
   "id": "04726:0095",
   "jp": "（ラスボス用）",
-  "en": "(For the final boss)"
+  "en": "(final boss)"
  },
  {
   "id": "04726:0096",
@@ -502,7 +502,7 @@
  {
   "id": "04726:0100",
   "jp": "前方攻撃",
-  "en": "Front Attack"
+  "en": "Forward Attack"
  },
  {
   "id": "04726:0101",
@@ -552,7 +552,7 @@
  {
   "id": "04726:0110",
   "jp": "前方殺",
-  "en": "Front Kill"
+  "en": "Forward Kill"
  },
  {
   "id": "04726:0111",
@@ -637,7 +637,7 @@
  {
   "id": "04726:0127",
   "jp": "オルト剣",
-  "en": "Ort Sword"
+  "en": "Ortgol Sword"
  },
  {
   "id": "04726:0128",
@@ -657,7 +657,7 @@
  {
   "id": "04726:0131",
   "jp": "オルト銃",
-  "en": "Ort Gun"
+  "en": "Ortgol Gun"
  },
  {
   "id": "04726:0132",
@@ -677,7 +677,7 @@
  {
   "id": "04726:0135",
   "jp": "オルト術",
-  "en": "Ort Magic"
+  "en": "Ortgol Magic"
  },
  {
   "id": "04726:0136",
@@ -762,27 +762,27 @@
  {
   "id": "04726:0152",
   "jp": "大瞬殺法",
-  "en": "Great Instant Kill"
+  "en": "Big Instakill"
  },
  {
   "id": "04726:0153",
   "jp": "瞬殺法",
-  "en": "Instant Kill"
+  "en": "Instakill"
  },
  {
   "id": "04726:0154",
   "jp": "弱瞬殺法",
-  "en": "Weak Instant Kill"
+  "en": "Weak Instakill"
  },
  {
   "id": "04726:0155",
   "jp": "超瞬殺法",
-  "en": "Super Instant Kill"
+  "en": "Super Instakill"
  },
  {
   "id": "04726:0156",
   "jp": "右大攻撃",
-  "en": "Great Right Attack"
+  "en": "Big Right Attack"
  },
  {
   "id": "04726:0157",
@@ -812,7 +812,7 @@
  {
   "id": "04726:0162",
   "jp": "微自己回復",
-  "en": "Minor Self-Heal"
+  "en": "Mini Self-Heal"
  },
  {
   "id": "04726:0163",
@@ -842,7 +842,7 @@
  {
   "id": "04726:0168",
   "jp": "微自動戦闘",
-  "en": "Minor Auto Battle"
+  "en": "Mini Auto Battle"
  },
  {
   "id": "04726:0169",
@@ -852,7 +852,7 @@
  {
   "id": "04726:0170",
   "jp": "大回復",
-  "en": "Great Heal"
+  "en": "Big Heal"
  },
  {
   "id": "04726:0171",
@@ -877,32 +877,32 @@
  {
   "id": "04726:0175",
   "jp": "後攻撃",
-  "en": "Rear Attack"
+  "en": "Back Attack"
  },
  {
   "id": "04726:0176",
   "jp": "後弱攻撃",
-  "en": "Weak Rear Attack"
+  "en": "Weak Back Attack"
  },
  {
   "id": "04726:0177",
   "jp": "後微攻撃",
-  "en": "Minor Rear Attack"
+  "en": "Mini Back Attack"
  },
  {
   "id": "04726:0178",
   "jp": "後大攻撃",
-  "en": "Great Rear Attack"
+  "en": "Big Back Attack"
  },
  {
   "id": "04726:0179",
   "jp": "後超攻撃",
-  "en": "Super Rear Attack"
+  "en": "Super Back Attack"
  },
  {
   "id": "04726:0180",
   "jp": "左大攻撃",
-  "en": "Great Left Attack"
+  "en": "Big Left Attack"
  },
  {
   "id": "04726:0181",
@@ -937,7 +937,7 @@
  {
   "id": "04726:0187",
   "jp": "微曲防御",
-  "en": "Minor Song Guard"
+  "en": "Mini Song Guard"
  },
  {
   "id": "04726:0188",
@@ -952,7 +952,7 @@
  {
   "id": "04726:0190",
   "jp": "大停止",
-  "en": "Great Stop"
+  "en": "Big Stop"
  },
  {
   "id": "04726:0191",
@@ -982,7 +982,7 @@
  {
   "id": "04726:0196",
   "jp": "全周微攻撃",
-  "en": "Minor All-Around Attack"
+  "en": "Mini All-Around Attack"
  },
  {
   "id": "04726:0197",
@@ -992,7 +992,7 @@
  {
   "id": "04726:0198",
   "jp": "全周大攻撃",
-  "en": "Great All-Around Attack"
+  "en": "Big All-Around Attack"
  },
  {
   "id": "04726:0199",
@@ -1012,7 +1012,7 @@
  {
   "id": "04726:0202",
   "jp": "全周大停止",
-  "en": "Great All-Around Stop"
+  "en": "Big All-Around Stop"
  },
  {
   "id": "04726:0203",
@@ -1032,52 +1032,52 @@
  {
   "id": "04726:0206",
   "jp": "広範大瞬殺",
-  "en": "Great Wide Instant Kill"
+  "en": "Big Wide Instakill"
  },
  {
   "id": "04726:0207",
   "jp": "広範瞬殺",
-  "en": "Wide Instant Kill"
+  "en": "Wide Instakill"
  },
  {
   "id": "04726:0208",
   "jp": "広範超瞬殺",
-  "en": "Super Wide Instant Kill"
+  "en": "Super Wide Instakill"
  },
  {
   "id": "04726:0209",
   "jp": "広範神瞬殺",
-  "en": "Divine Wide Instant Kill"
+  "en": "Divine Wide Instakill"
  },
  {
   "id": "04726:0210",
   "jp": "正面大攻撃",
-  "en": "Great Frontal Attack"
+  "en": "Big Front Attack"
  },
  {
   "id": "04726:0211",
   "jp": "正面攻撃",
-  "en": "Frontal Attack"
+  "en": "Front Attack"
  },
  {
   "id": "04726:0212",
   "jp": "正面強攻撃",
-  "en": "Strong Frontal Attack"
+  "en": "Strong Front Attack"
  },
  {
   "id": "04726:0213",
   "jp": "正面超攻撃",
-  "en": "Super Frontal Attack"
+  "en": "Super Front Attack"
  },
  {
   "id": "04726:0214",
   "jp": "正面神攻撃",
-  "en": "Divine Frontal Attack"
+  "en": "Divine Front Attack"
  },
  {
   "id": "04726:0215",
   "jp": "追大攻撃",
-  "en": "Great Follow-up Attack"
+  "en": "Big Follow-up Attack"
  },
  {
   "id": "04726:0216",
@@ -1092,7 +1092,7 @@
  {
   "id": "04726:0218",
   "jp": "追微攻撃",
-  "en": "Minor Follow-up Attack"
+  "en": "Mini Follow-up Attack"
  },
  {
   "id": "04726:0219",

@@ -92,7 +92,8 @@ def desmume_ini(exe, out):
     if old:
         c.read_string(old.decode("utf-16"))
     for sec, key, val in [("Scripting", "AutoLoad", "1"), ("PathSettings", "Lua", out),
-                          ("PathSettings", "StateSlots", out), ("Main", "BackgroundPause", "0")]:
+                          ("PathSettings", "StateSlots", out), ("Main", "BackgroundPause", "0"),
+                          ("FrameLimit", "FrameLimit", "0")]:  # unthrottled; Lua speedmode alone stays at 60 fps
         if not c.has_section(sec):
             c.add_section(sec)
         c.set(sec, key, val)
@@ -186,7 +187,8 @@ def run(a):
         cmd.append(rom)
     elif system == "nds":
         restore = desmume_ini(exe, out)
-        cmd, cwd = [exe, "--disable-sound", rom], os.path.dirname(exe)
+        jit = [] if a.debugger else ["--jit-enable"]  # ~1.5x; exec hooks (L.on_exec) keep the interpreter
+        cmd, cwd = [exe, "--disable-sound", *jit, rom], os.path.dirname(exe)
     else:
         bios = a.bios or os.environ.get("PSX_BIOS")
         cmd = [exe, "-portable", "-noupdate", "-no-ui", "-run", "-fastboot", "-loadiso", rom, "-dofile", lua]
@@ -255,7 +257,7 @@ if __name__ == "__main__":
     ap.add_argument("--script")
     ap.add_argument("--emu")
     ap.add_argument("--bios", help="PS1 BIOS image (else env PSX_BIOS, else PCSX-Redux's OpenBIOS)")
-    ap.add_argument("--debugger", action="store_true", help="PS1: debugger + interpreter, needed for L.on_exec")
+    ap.add_argument("--debugger", action="store_true", help="PS1/NDS: debugger/interpreter (no JIT), needed for L.on_exec")
     ap.add_argument("--timeout", type=int, default=300)
     ap.add_argument("--sheet", action="store_true")
     ap.add_argument("--smoke", action="store_true")

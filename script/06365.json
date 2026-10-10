@@ -52,47 +52,47 @@
  {
   "id": "06365:0010",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "06365:0011",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "06365:0012",
   "jp": "旋律遮断",
-  "en": "Melody Cut"
+  "en": "Melody Block"
  },
  {
   "id": "06365:0013",
   "jp": "旋律遮断２",
-  "en": "Melody Cut 2"
+  "en": "Melody Block 2"
  },
  {
   "id": "06365:0014",
   "jp": "旋律遮断２",
-  "en": "Melody Cut 2"
+  "en": "Melody Block 2"
  },
  {
   "id": "06365:0015",
   "jp": "旋律遮断２",
-  "en": "Melody Cut 2"
+  "en": "Melody Block 2"
  },
  {
   "id": "06365:0016",
   "jp": "旋律遮断３",
-  "en": "Melody Cut 3"
+  "en": "Melody Block 3"
  },
  {
   "id": "06365:0017",
   "jp": "旋律遮断３",
-  "en": "Melody Cut 3"
+  "en": "Melody Block 3"
  },
  {
   "id": "06365:0018",
   "jp": "旋律遮断３",
-  "en": "Melody Cut 3"
+  "en": "Melody Block 3"
  },
  {
   "id": "06365:0019",
@@ -977,7 +977,7 @@
  {
   "id": "06365:0195",
   "jp": "神自己回復",
-  "en": "God Self-Heal"
+  "en": "Divine Self-Heal"
  },
  {
   "id": "06365:0196",
@@ -1002,7 +1002,7 @@
  {
   "id": "06365:0200",
   "jp": "神自動戦闘",
-  "en": "God Auto Battle"
+  "en": "Divine Auto Battle"
  },
  {
   "id": "06365:0201",
@@ -1027,7 +1027,7 @@
  {
   "id": "06365:0205",
   "jp": "神回復",
-  "en": "God Heal"
+  "en": "Divine Heal"
  },
  {
   "id": "06365:0206",
@@ -1102,7 +1102,7 @@
  {
   "id": "06365:0220",
   "jp": "神曲防御",
-  "en": "God Song Guard"
+  "en": "Divine Song Guard"
  },
  {
   "id": "06365:0221",
@@ -1142,7 +1142,7 @@
  {
   "id": "06365:0228",
   "jp": "全周僅攻撃",
-  "en": "Scant All-Around Attack"
+  "en": "Slight All-Around Attack"
  },
  {
   "id": "06365:0229",
@@ -1157,7 +1157,7 @@
  {
   "id": "06365:0231",
   "jp": "全周神攻撃",
-  "en": "God All-Around Attack"
+  "en": "Divine All-Around Attack"
  },
  {
   "id": "06365:0232",
@@ -1182,7 +1182,7 @@
  {
   "id": "06365:0236",
   "jp": "全周神停止",
-  "en": "God All-Around Stop"
+  "en": "Divine All-Around Stop"
  },
  {
   "id": "06365:0237",
@@ -1202,7 +1202,7 @@
  {
   "id": "06365:0240",
   "jp": "広範神瞬殺",
-  "en": "God Wide Instakill"
+  "en": "Divine Wide Instakill"
  },
  {
   "id": "06365:0241",
@@ -1227,7 +1227,7 @@
  {
   "id": "06365:0245",
   "jp": "正面神攻撃",
-  "en": "God Front Attack"
+  "en": "Divine Front Attack"
  },
  {
   "id": "06365:0246",
@@ -1257,6 +1257,6 @@
  {
   "id": "06365:0251",
   "jp": "追神攻撃",
-  "en": "God Follow-up Attack"
+  "en": "Divine Follow-up Attack"
  }
 ]
