@@ -227,7 +227,7 @@
  {
   "id": "04406:0045",
   "jp": "静馬が$c02死$c00んだ２０の刻で\\n佳子がとった行動を\\nまとめてみよう",
-  "en": "Let me sort out what Yoshiko did at 20 o'clock, when Shizuma $c02died$c00."
+  "en": "Let me sort out what Yoshiko did at 20:00, when Shizuma $c02died$c00."
  },
  {
   "id": "04406:0046",
@@ -502,7 +502,7 @@
  {
   "id": "04406:0100",
   "jp": "２０の刻で\\n静馬が$c02殺$c00された時、",
-  "en": "At 8 PM, when Shizuma was $c02killed$c00,"
+  "en": "At 20:00, when Shizuma was $c02killed$c00,"
  },
  {
   "id": "04406:0101",

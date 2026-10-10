@@ -89,7 +89,7 @@ def limit_of(row, m):
 
 
 # Location-name tables: full names don't fit the JP-sized budget; box width unverified in game (docs/re/verify.md)
-PROVISIONAL = {4700: 150, 4708: 150, 6413: 180}
+PROVISIONAL = {4700: 150, 4708: 150, 6413: 180, 4741: 156, 4726: 210}
 
 
 def errors(row, en, m):

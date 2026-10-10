@@ -4,3 +4,4 @@
 - Echo list 04390: names checked against neighbour budget (216 px, 3 lines); confirm the list item width.
 - UI tables guessed to use the main font (meta: own font cannot draw their text): 4390 4985 5609 6365 6413 6813.
 - Term list readings (04388/04741): English term repeated in the reading row; check how the glossary list shows them.
+- Glossary term list 04741 (9px font, 110 px JP budget) and skill list 04726 (190 px): provisional 150/210 px.
