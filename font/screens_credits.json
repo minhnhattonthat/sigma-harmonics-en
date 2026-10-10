@@ -1,0 +1,4891 @@
+{
+ "00191": {
+  "wipe": [
+   [
+    0,
+    121,
+    192,
+    142
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshinori Kitase",
+    "box": [
+     4,
+     119,
+     188,
+     143
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00194": {
+  "wipe": [
+   [
+    0,
+    121,
+    192,
+    141
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hiroki Chiba",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00197": {
+  "wipe": [
+   [
+    0,
+    121,
+    192,
+    141
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yusaku Nakaaki",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00200": {
+  "wipe": [
+   [
+    0,
+    72,
+    192,
+    92
+   ],
+   [
+    0,
+    179,
+    192,
+    199
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hiroki Chiba",
+    "box": [
+     4,
+     70,
+     188,
+     93
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takatsugu Nakazawa",
+    "box": [
+     4,
+     177,
+     188,
+     200
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00203": {
+  "wipe": [
+   [
+    0,
+    50,
+    192,
+    70
+   ],
+   [
+    0,
+    126,
+    192,
+    147
+   ],
+   [
+    0,
+    201,
+    192,
+    221
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yasuhiro Sato",
+    "box": [
+     4,
+     48,
+     188,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masahiro Ishihara",
+    "box": [
+     4,
+     124,
+     188,
+     148
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masanori Hoshino",
+    "box": [
+     4,
+     199,
+     188,
+     222
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00206": {
+  "wipe": [
+   [
+    0,
+    72,
+    192,
+    92
+   ],
+   [
+    0,
+    179,
+    192,
+    200
+   ]
+  ],
+  "text": [
+   {
+    "text": "Tomohiko Goto",
+    "box": [
+     4,
+     70,
+     188,
+     93
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takuji Sasaki",
+    "box": [
+     4,
+     177,
+     188,
+     201
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00209": {
+  "wipe": [
+   [
+    0,
+    49,
+    192,
+    69
+   ],
+   [
+    0,
+    127,
+    192,
+    147
+   ],
+   [
+    0,
+    203,
+    192,
+    223
+   ]
+  ],
+  "text": [
+   {
+    "text": "Kenichi Shida",
+    "box": [
+     4,
+     47,
+     188,
+     70
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takayuki Naito",
+    "box": [
+     4,
+     125,
+     188,
+     148
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Makoto Ota",
+    "box": [
+     4,
+     201,
+     176,
+     224
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00212": {
+  "wipe": [
+   [
+    0,
+    73,
+    192,
+    93
+   ],
+   [
+    0,
+    178,
+    192,
+    199
+   ]
+  ],
+  "text": [
+   {
+    "text": "Sho Okamura",
+    "box": [
+     4,
+     71,
+     188,
+     94
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Sachiko Tanabe",
+    "box": [
+     4,
+     176,
+     188,
+     200
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00215": {
+  "wipe": [
+   [
+    0,
+    72,
+    192,
+    92
+   ],
+   [
+    0,
+    175,
+    192,
+    195
+   ]
+  ],
+  "text": [
+   {
+    "text": "Masahiko Dairaku",
+    "box": [
+     4,
+     70,
+     188,
+     93
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Airi Yoshioka",
+    "box": [
+     4,
+     173,
+     188,
+     196
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00218": {
+  "wipe": [
+   [
+    0,
+    73,
+    192,
+    93
+   ],
+   [
+    0,
+    178,
+    192,
+    199
+   ]
+  ],
+  "text": [
+   {
+    "text": "Toshiyuki Momose",
+    "box": [
+     4,
+     71,
+     188,
+     94
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tomoko Sekii",
+    "box": [
+     4,
+     176,
+     188,
+     200
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00221": {
+  "wipe": [
+   [
+    0,
+    72,
+    192,
+    86
+   ],
+   [
+    0,
+    92,
+    192,
+    113
+   ],
+   [
+    0,
+    151,
+    192,
+    165
+   ],
+   [
+    0,
+    169,
+    192,
+    190
+   ]
+  ],
+  "text": [
+   {
+    "text": "Sigma Kurogami",
+    "box": [
+     44,
+     70,
+     187,
+     87
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Daisuke Ono",
+    "box": [
+     4,
+     90,
+     188,
+     114
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Neon Tsukiyumi",
+    "box": [
+     45,
+     149,
+     187,
+     166
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Aya Hirano",
+    "box": [
+     4,
+     167,
+     188,
+     191
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00224": {
+  "wipe": [
+   [
+    192,
+    72,
+    384,
+    86
+   ],
+   [
+    192,
+    92,
+    384,
+    113
+   ]
+  ],
+  "text": [
+   {
+    "text": "Sigma Kurogami",
+    "box": [
+     236,
+     70,
+     379,
+     87
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Daisuke Ono",
+    "box": [
+     196,
+     90,
+     380,
+     114
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00227": {
+  "wipe": [
+   [
+    0,
+    72,
+    192,
+    86
+   ],
+   [
+    0,
+    92,
+    192,
+    113
+   ],
+   [
+    192,
+    151,
+    384,
+    165
+   ],
+   [
+    192,
+    169,
+    384,
+    190
+   ]
+  ],
+  "text": [
+   {
+    "text": "Sigma Kurogami",
+    "box": [
+     44,
+     70,
+     187,
+     87
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Daisuke Ono",
+    "box": [
+     4,
+     90,
+     188,
+     114
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Neon Tsukiyumi",
+    "box": [
+     237,
+     149,
+     379,
+     166
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Aya Hirano",
+    "box": [
+     196,
+     167,
+     380,
+     191
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00230": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    44
+   ],
+   [
+    0,
+    50,
+    192,
+    70
+   ],
+   [
+    0,
+    103,
+    192,
+    117
+   ],
+   [
+    0,
+    121,
+    192,
+    141
+   ],
+   [
+    0,
+    174,
+    192,
+    188
+   ],
+   [
+    0,
+    193,
+    192,
+    214
+   ]
+  ],
+  "text": [
+   {
+    "text": "Housui",
+    "box": [
+     44,
+     28,
+     187,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Jun Fukuyama",
+    "box": [
+     4,
+     48,
+     188,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Dickson",
+    "box": [
+     45,
+     101,
+     187,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Tetsu Inada",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Christie",
+    "box": [
+     45,
+     172,
+     187,
+     189
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Mamiko Noto",
+    "box": [
+     4,
+     191,
+     188,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00233": {
+  "wipe": [
+   [
+    192,
+    30,
+    384,
+    44
+   ],
+   [
+    192,
+    50,
+    384,
+    70
+   ],
+   [
+    384,
+    103,
+    576,
+    117
+   ],
+   [
+    384,
+    121,
+    576,
+    141
+   ],
+   [
+    576,
+    174,
+    768,
+    188
+   ],
+   [
+    576,
+    193,
+    768,
+    214
+   ]
+  ],
+  "text": [
+   {
+    "text": "Housui",
+    "box": [
+     236,
+     28,
+     379,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Jun Fukuyama",
+    "box": [
+     196,
+     48,
+     380,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Dickson",
+    "box": [
+     429,
+     101,
+     571,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Tetsu Inada",
+    "box": [
+     388,
+     119,
+     572,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Christie",
+    "box": [
+     621,
+     172,
+     763,
+     189
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Mamiko Noto",
+    "box": [
+     580,
+     191,
+     764,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00236": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    44
+   ],
+   [
+    0,
+    50,
+    192,
+    70
+   ],
+   [
+    192,
+    103,
+    384,
+    117
+   ],
+   [
+    192,
+    121,
+    384,
+    141
+   ]
+  ],
+  "text": [
+   {
+    "text": "Housui",
+    "box": [
+     44,
+     28,
+     187,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Jun Fukuyama",
+    "box": [
+     4,
+     48,
+     188,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Dickson",
+    "box": [
+     237,
+     101,
+     379,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Tetsu Inada",
+    "box": [
+     196,
+     119,
+     380,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00239": {
+  "wipe": [
+   [
+    0,
+    103,
+    192,
+    117
+   ],
+   [
+    0,
+    121,
+    192,
+    141
+   ],
+   [
+    192,
+    174,
+    384,
+    188
+   ],
+   [
+    192,
+    193,
+    384,
+    214
+   ]
+  ],
+  "text": [
+   {
+    "text": "Dickson",
+    "box": [
+     45,
+     101,
+     187,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Tetsu Inada",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Christie",
+    "box": [
+     237,
+     172,
+     379,
+     189
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Mamiko Noto",
+    "box": [
+     196,
+     191,
+     380,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00242": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    44
+   ],
+   [
+    0,
+    50,
+    192,
+    70
+   ],
+   [
+    0,
+    103,
+    192,
+    117
+   ],
+   [
+    0,
+    121,
+    192,
+    141
+   ],
+   [
+    0,
+    174,
+    192,
+    188
+   ],
+   [
+    0,
+    193,
+    192,
+    214
+   ]
+  ],
+  "text": [
+   {
+    "text": "Head of the Kurogami (Yuu)",
+    "box": [
+     44,
+     28,
+     187,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Rikiya Koyama",
+    "box": [
+     4,
+     48,
+     188,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yoshiko Kurogami",
+    "box": [
+     45,
+     101,
+     187,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Yu Kobayashi",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Ranpo Morito",
+    "box": [
+     45,
+     172,
+     187,
+     189
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Keiji Fujiwara",
+    "box": [
+     4,
+     191,
+     188,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00245": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    44
+   ],
+   [
+    0,
+    50,
+    192,
+    70
+   ]
+  ],
+  "text": [
+   {
+    "text": "Head of the Kurogami (Yuu)",
+    "box": [
+     44,
+     28,
+     187,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Rikiya Koyama",
+    "box": [
+     4,
+     48,
+     188,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00248": {
+  "wipe": [
+   [
+    192,
+    30,
+    384,
+    44
+   ],
+   [
+    192,
+    50,
+    384,
+    70
+   ],
+   [
+    0,
+    103,
+    192,
+    117
+   ],
+   [
+    0,
+    121,
+    192,
+    141
+   ]
+  ],
+  "text": [
+   {
+    "text": "Head of the Kurogami (Yuu)",
+    "box": [
+     236,
+     28,
+     379,
+     45
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Rikiya Koyama",
+    "box": [
+     196,
+     48,
+     380,
+     71
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yoshiko Kurogami",
+    "box": [
+     45,
+     101,
+     187,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Yu Kobayashi",
+    "box": [
+     4,
+     119,
+     188,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00251": {
+  "wipe": [
+   [
+    192,
+    103,
+    384,
+    117
+   ],
+   [
+    192,
+    121,
+    384,
+    141
+   ],
+   [
+    0,
+    174,
+    192,
+    188
+   ],
+   [
+    0,
+    193,
+    192,
+    214
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshiko Kurogami",
+    "box": [
+     237,
+     101,
+     379,
+     118
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Yu Kobayashi",
+    "box": [
+     196,
+     119,
+     380,
+     142
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Ranpo Morito",
+    "box": [
+     45,
+     172,
+     187,
+     189
+    ],
+    "size": 13,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     189,
+     180,
+     180
+    ],
+    "align": "left"
+   },
+   {
+    "text": "Keiji Fujiwara",
+    "box": [
+     4,
+     191,
+     188,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00254": {
+  "wipe": [
+   [
+    0,
+    18,
+    192,
+    32
+   ],
+   [
+    0,
+    180,
+    192,
+    200
+   ]
+  ],
+  "text": [
+   {
+    "text": "Think Garage Co., Ltd.",
+    "box": [
+     4,
+     16,
+     188,
+     33
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Kazunobu Sato",
+    "box": [
+     4,
+     178,
+     188,
+     201
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00257": {
+  "wipe": [
+   [
+    0,
+    60,
+    192,
+    80
+   ],
+   [
+    0,
+    119,
+    192,
+    139
+   ],
+   [
+    0,
+    179,
+    192,
+    200
+   ],
+   [
+    0,
+    206,
+    192,
+    218
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshiyuki Tsuchida",
+    "box": [
+     4,
+     58,
+     188,
+     81
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Hideyasu Enami",
+    "box": [
+     4,
+     117,
+     188,
+     140
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Hiroyuki Oda",
+    "box": [
+     4,
+     177,
+     188,
+     201
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Platinum Egg)",
+    "box": [
+     109,
+     205,
+     182,
+     218
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00260": {
+  "wipe": [
+   [
+    0,
+    58,
+    192,
+    79
+   ],
+   [
+    0,
+    134,
+    192,
+    155
+   ],
+   [
+    0,
+    160,
+    192,
+    171
+   ],
+   [
+    0,
+    193,
+    192,
+    213
+   ],
+   [
+    0,
+    220,
+    192,
+    231
+   ]
+  ],
+  "text": [
+   {
+    "text": "Daisuke Karasawa",
+    "box": [
+     4,
+     56,
+     188,
+     80
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Naoki Kojima",
+    "box": [
+     4,
+     132,
+     188,
+     156
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Elements)",
+    "box": [
+     129,
+     159,
+     182,
+     171
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Seiya Hasegawa",
+    "box": [
+     4,
+     191,
+     188,
+     214
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     219,
+     182,
+     231
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00263": {
+  "wipe": [
+   [
+    0,
+    32,
+    192,
+    53
+   ],
+   [
+    0,
+    57,
+    192,
+    68
+   ],
+   [
+    0,
+    114,
+    192,
+    134
+   ],
+   [
+    0,
+    139,
+    192,
+    150
+   ],
+   [
+    0,
+    163,
+    192,
+    182
+   ],
+   [
+    0,
+    187,
+    192,
+    198
+   ],
+   [
+    0,
+    210,
+    192,
+    229
+   ],
+   [
+    0,
+    236,
+    192,
+    247
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshihiro Ogawa",
+    "box": [
+     4,
+     30,
+     188,
+     54
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Elements)",
+    "box": [
+     129,
+     56,
+     182,
+     68
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Satoshi Iijima",
+    "box": [
+     4,
+     112,
+     188,
+     135
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     138,
+     182,
+     150
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masahiro Shinbo",
+    "box": [
+     4,
+     161,
+     188,
+     183
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     186,
+     182,
+     198
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Fumika Hasegawa",
+    "box": [
+     4,
+     208,
+     188,
+     230
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     235,
+     182,
+     247
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00266": {
+  "wipe": [
+   [
+    0,
+    49,
+    192,
+    68
+   ],
+   [
+    0,
+    97,
+    192,
+    116
+   ],
+   [
+    0,
+    122,
+    192,
+    133
+   ],
+   [
+    0,
+    149,
+    192,
+    168
+   ],
+   [
+    0,
+    174,
+    192,
+    185
+   ],
+   [
+    0,
+    202,
+    192,
+    221
+   ],
+   [
+    0,
+    226,
+    192,
+    237
+   ]
+  ],
+  "text": [
+   {
+    "text": "Masahiro Endo",
+    "box": [
+     4,
+     47,
+     188,
+     69
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Seiya Hasegawa",
+    "box": [
+     4,
+     95,
+     188,
+     117
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     121,
+     182,
+     133
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takashi Sawada",
+    "box": [
+     4,
+     147,
+     188,
+     169
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     173,
+     182,
+     185
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takehiro Aoto",
+    "box": [
+     4,
+     200,
+     188,
+     222
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     115,
+     225,
+     182,
+     237
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00269": {
+  "wipe": [
+   [
+    0,
+    18,
+    192,
+    37
+   ],
+   [
+    0,
+    43,
+    192,
+    54
+   ],
+   [
+    0,
+    70,
+    192,
+    89
+   ],
+   [
+    0,
+    95,
+    192,
+    106
+   ],
+   [
+    0,
+    150,
+    192,
+    169
+   ],
+   [
+    0,
+    185,
+    192,
+    204
+   ],
+   [
+    0,
+    219,
+    192,
+    238
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshinori Kato",
+    "box": [
+     4,
+     16,
+     184,
+     38
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Crest Works)",
+    "box": [
+     112,
+     42,
+     179,
+     54
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yoshihiro Ogawa",
+    "box": [
+     4,
+     68,
+     186,
+     90
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Elements)",
+    "box": [
+     127,
+     94,
+     180,
+     106
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Fumihiko Mori",
+    "box": [
+     4,
+     148,
+     188,
+     170
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Nobuyoshi Kamezaki",
+    "box": [
+     4,
+     183,
+     188,
+     205
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yukinori Akiyama",
+    "box": [
+     4,
+     217,
+     188,
+     239
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00272": {
+  "wipe": [
+   [
+    0,
+    45,
+    192,
+    59
+   ],
+   [
+    0,
+    77,
+    192,
+    96
+   ],
+   [
+    0,
+    116,
+    192,
+    135
+   ],
+   [
+    0,
+    188,
+    192,
+    208
+   ],
+   [
+    0,
+    224,
+    192,
+    243
+   ]
+  ],
+  "text": [
+   {
+    "text": "Nenet Inc.",
+    "box": [
+     4,
+     43,
+     188,
+     60
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takehiko Ono",
+    "box": [
+     4,
+     75,
+     188,
+     97
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Jisaku Hamada",
+    "box": [
+     4,
+     114,
+     188,
+     136
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Hiroyuki Shimazu",
+    "box": [
+     4,
+     186,
+     188,
+     209
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Todama",
+    "box": [
+     6,
+     222,
+     188,
+     244
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00275": {
+  "wipe": [
+   [
+    0,
+    79,
+    192,
+    99
+   ],
+   [
+    0,
+    178,
+    192,
+    199
+   ]
+  ],
+  "text": [
+   {
+    "text": "Masashi Hamauzu",
+    "box": [
+     4,
+     77,
+     188,
+     100
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Mitsuto Suzuki",
+    "box": [
+     4,
+     176,
+     188,
+     200
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00278": {
+  "wipe": [
+   [
+    0,
+    53,
+    192,
+    73
+   ],
+   [
+    0,
+    129,
+    192,
+    149
+   ],
+   [
+    0,
+    206,
+    192,
+    227
+   ]
+  ],
+  "text": [
+   {
+    "text": "Kazuhiro Hosoe",
+    "box": [
+     4,
+     51,
+     188,
+     74
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Jota Goto",
+    "box": [
+     4,
+     127,
+     188,
+     150
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masashi Kitagawa",
+    "box": [
+     8,
+     204,
+     188,
+     228
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00281": {
+  "wipe": [
+   [
+    0,
+    45,
+    192,
+    64
+   ],
+   [
+    0,
+    79,
+    192,
+    98
+   ],
+   [
+    0,
+    146,
+    192,
+    165
+   ],
+   [
+    0,
+    181,
+    192,
+    200
+   ],
+   [
+    0,
+    216,
+    192,
+    235
+   ]
+  ],
+  "text": [
+   {
+    "text": "Kazuki Hamamoto",
+    "box": [
+     4,
+     43,
+     188,
+     65
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Saeko Kanazawa",
+    "box": [
+     4,
+     77,
+     188,
+     99
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Satoshi Akamatsu",
+    "box": [
+     4,
+     144,
+     186,
+     166
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Keiji Kawamori",
+    "box": [
+     4,
+     179,
+     188,
+     201
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yuji Isogawa",
+    "box": [
+     4,
+     214,
+     188,
+     236
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00284": {
+  "wipe": [
+   [
+    0,
+    44,
+    192,
+    65
+   ],
+   [
+    0,
+    113,
+    192,
+    134
+   ],
+   [
+    0,
+    137,
+    192,
+    149
+   ],
+   [
+    0,
+    195,
+    192,
+    215
+   ],
+   [
+    0,
+    220,
+    192,
+    232
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hijiri Kuwano",
+    "box": [
+     4,
+     42,
+     188,
+     66
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Akira Kobayashi",
+    "box": [
+     4,
+     111,
+     188,
+     135
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Mixer's Lab)",
+    "box": [
+     100,
+     136,
+     165,
+     149
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Fumio Takano",
+    "box": [
+     4,
+     193,
+     188,
+     216
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Tokyo Chamber Music Society)",
+    "box": [
+     4,
+     219,
+     155,
+     232
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00287": {
+  "wipe": [
+   [
+    0,
+    26,
+    192,
+    40
+   ],
+   [
+    0,
+    80,
+    192,
+    99
+   ],
+   [
+    0,
+    132,
+    192,
+    151
+   ],
+   [
+    0,
+    195,
+    192,
+    214
+   ],
+   [
+    0,
+    224,
+    192,
+    243
+   ]
+  ],
+  "text": [
+   {
+    "text": "Tohokushinsha Film Corporation",
+    "box": [
+     4,
+     24,
+     184,
+     41
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masaya Hojo",
+    "box": [
+     4,
+     78,
+     188,
+     100
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Keiichiro Miyoshi",
+    "box": [
+     4,
+     130,
+     188,
+     152
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takuya Ono",
+    "box": [
+     6,
+     193,
+     188,
+     215
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yuta Nakagawa",
+    "box": [
+     6,
+     222,
+     188,
+     244
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00290": {
+  "wipe": [
+   [
+    0,
+    24,
+    192,
+    38
+   ],
+   [
+    0,
+    88,
+    192,
+    107
+   ],
+   [
+    0,
+    121,
+    192,
+    140
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hitokuchi-zaka Studios",
+    "box": [
+     4,
+     22,
+     182,
+     39
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yasuhiko Miyasaka",
+    "box": [
+     4,
+     86,
+     188,
+     108
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tomoki Kagami",
+    "box": [
+     4,
+     119,
+     188,
+     141
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00293": {
+  "wipe": [
+   [
+    0,
+    121,
+    192,
+    142
+   ]
+  ],
+  "text": [
+   {
+    "text": "Aya Hirano",
+    "box": [
+     4,
+     119,
+     188,
+     143
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00296": {
+  "wipe": [
+   [
+    0,
+    55,
+    192,
+    74
+   ],
+   [
+    0,
+    110,
+    192,
+    129
+   ],
+   [
+    0,
+    166,
+    192,
+    185
+   ]
+  ],
+  "text": [
+   {
+    "text": "Aya Hirano",
+    "box": [
+     4,
+     53,
+     188,
+     75
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Shinya Saito",
+    "box": [
+     4,
+     108,
+     188,
+     130
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Aki Hata",
+    "box": [
+     4,
+     164,
+     188,
+     186
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00299": {
+  "wipe": [
+   [
+    0,
+    33,
+    192,
+    52
+   ],
+   [
+    0,
+    85,
+    192,
+    104
+   ],
+   [
+    0,
+    144,
+    192,
+    163
+   ],
+   [
+    0,
+    208,
+    192,
+    227
+   ],
+   [
+    0,
+    232,
+    192,
+    243
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoshiyuki Ito",
+    "box": [
+     4,
+     31,
+     188,
+     53
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Junnosuke Sato",
+    "box": [
+     4,
+     83,
+     188,
+     105
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yuka Sakurai",
+    "box": [
+     4,
+     142,
+     184,
+     164
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tomomi Kudo",
+    "box": [
+     4,
+     206,
+     184,
+     228
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Space Craft Entertainment)",
+    "box": [
+     55,
+     231,
+     186,
+     243
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00302": {
+  "wipe": [
+   [
+    0,
+    36,
+    192,
+    50
+   ],
+   [
+    0,
+    89,
+    192,
+    103
+   ],
+   [
+    0,
+    118,
+    192,
+    130
+   ],
+   [
+    0,
+    146,
+    192,
+    160
+   ],
+   [
+    0,
+    175,
+    192,
+    189
+   ],
+   [
+    0,
+    202,
+    192,
+    216
+   ],
+   [
+    0,
+    229,
+    192,
+    242
+   ]
+  ],
+  "text": [
+   {
+    "text": "Aoni Production",
+    "box": [
+     6,
+     34,
+     188,
+     51
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Office Osawa",
+    "box": [
+     6,
+     87,
+     188,
+     104
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Space Craft Entertainment",
+    "box": [
+     4,
+     116,
+     188,
+     131
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Haiyuza Theater Company",
+    "box": [
+     4,
+     144,
+     188,
+     161
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Holy Peak",
+    "box": [
+     4,
+     173,
+     188,
+     190
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Production Baobab",
+    "box": [
+     4,
+     200,
+     188,
+     217
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Mausu Promotion",
+    "box": [
+     4,
+     227,
+     188,
+     243
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00305": {
+  "wipe": [
+   [
+    0,
+    80,
+    192,
+    100
+   ],
+   [
+    0,
+    175,
+    192,
+    196
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hideki Imaizumi",
+    "box": [
+     4,
+     78,
+     188,
+     101
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Makoto Ezaki",
+    "box": [
+     4,
+     173,
+     188,
+     197
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00308": {
+  "wipe": [
+   [
+    0,
+    36,
+    192,
+    55
+   ],
+   [
+    0,
+    72,
+    192,
+    91
+   ],
+   [
+    0,
+    140,
+    192,
+    159
+   ],
+   [
+    0,
+    206,
+    192,
+    225
+   ]
+  ],
+  "text": [
+   {
+    "text": "Reiko Kondo",
+    "box": [
+     4,
+     34,
+     188,
+     56
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Sueko Kogai",
+    "box": [
+     4,
+     70,
+     188,
+     92
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masashi Hiramatsu",
+    "box": [
+     4,
+     138,
+     188,
+     160
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Toshiro Tsuchida",
+    "box": [
+     4,
+     204,
+     188,
+     226
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00311": {
+  "wipe": [
+   [
+    0,
+    80,
+    192,
+    100
+   ],
+   [
+    0,
+    181,
+    192,
+    201
+   ]
+  ],
+  "text": [
+   {
+    "text": "Akio Ohfuji",
+    "box": [
+     4,
+     78,
+     188,
+     101
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Publicist Y",
+    "box": [
+     6,
+     179,
+     188,
+     202
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00314": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    49
+   ],
+   [
+    0,
+    66,
+    192,
+    85
+   ],
+   [
+    0,
+    101,
+    192,
+    120
+   ],
+   [
+    0,
+    137,
+    192,
+    156
+   ],
+   [
+    0,
+    206,
+    192,
+    225
+   ]
+  ],
+  "text": [
+   {
+    "text": "Kakuko Obinata",
+    "box": [
+     4,
+     28,
+     188,
+     50
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Masato Kogure",
+    "box": [
+     4,
+     64,
+     188,
+     86
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yohei Murakami",
+    "box": [
+     4,
+     99,
+     188,
+     121
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Noriko Inoue",
+    "box": [
+     4,
+     135,
+     188,
+     157
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Koji Taguchi",
+    "box": [
+     4,
+     204,
+     188,
+     226
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00317": {
+  "wipe": [
+   [
+    0,
+    61,
+    192,
+    80
+   ],
+   [
+    0,
+    121,
+    192,
+    140
+   ],
+   [
+    0,
+    181,
+    192,
+    200
+   ],
+   [
+    0,
+    218,
+    192,
+    237
+   ]
+  ],
+  "text": [
+   {
+    "text": "Tetsuya Hiraoka",
+    "box": [
+     6,
+     59,
+     188,
+     81
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Toshihiro Takemoto",
+    "box": [
+     4,
+     119,
+     188,
+     141
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Kazuya Okamoto",
+    "box": [
+     4,
+     179,
+     186,
+     201
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Toshimitsu Umezawa",
+    "box": [
+     4,
+     216,
+     186,
+     238
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00320": {
+  "wipe": [
+   [
+    0,
+    30,
+    192,
+    49
+   ],
+   [
+    0,
+    65,
+    192,
+    84
+   ],
+   [
+    0,
+    119,
+    192,
+    138
+   ],
+   [
+    0,
+    155,
+    192,
+    174
+   ],
+   [
+    0,
+    190,
+    192,
+    209
+   ]
+  ],
+  "text": [
+   {
+    "text": "Kunihiko Matsumoto",
+    "box": [
+     4,
+     28,
+     188,
+     50
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Akira Morishita",
+    "box": [
+     4,
+     63,
+     188,
+     85
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Mao Fujimura",
+    "box": [
+     4,
+     117,
+     188,
+     139
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Akira Ebisawa",
+    "box": [
+     4,
+     153,
+     188,
+     175
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Akira Minagawa",
+    "box": [
+     4,
+     188,
+     188,
+     210
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00323": {
+  "wipe": [
+   [
+    0,
+    52,
+    192,
+    71
+   ],
+   [
+    0,
+    125,
+    192,
+    144
+   ],
+   [
+    0,
+    200,
+    192,
+    219
+   ]
+  ],
+  "text": [
+   {
+    "text": "Hideyuki Kato",
+    "box": [
+     4,
+     50,
+     188,
+     72
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yukihiro Shibuya",
+    "box": [
+     4,
+     123,
+     188,
+     145
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Koji Yamashita",
+    "box": [
+     4,
+     198,
+     188,
+     220
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00326": {
+  "wipe": [
+   [
+    0,
+    62,
+    192,
+    82
+   ],
+   [
+    0,
+    126,
+    192,
+    146
+   ],
+   [
+    0,
+    188,
+    192,
+    209
+   ]
+  ],
+  "text": [
+   {
+    "text": "Tsutomu Yamada",
+    "box": [
+     4,
+     60,
+     188,
+     83
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Koji Takada",
+    "box": [
+     4,
+     124,
+     188,
+     147
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Makoto Tsuda",
+    "box": [
+     4,
+     186,
+     188,
+     210
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00329": {
+  "wipe": [
+   [
+    0,
+    33,
+    192,
+    52
+   ],
+   [
+    0,
+    93,
+    192,
+    112
+   ],
+   [
+    0,
+    213,
+    192,
+    232
+   ]
+  ],
+  "text": [
+   {
+    "text": "Satoshi Kashiwazaki",
+    "box": [
+     4,
+     31,
+     188,
+     53
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tomoyoshi Osaki",
+    "box": [
+     4,
+     91,
+     188,
+     113
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Shinji Hashimoto",
+    "box": [
+     4,
+     211,
+     188,
+     233
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00332": {
+  "wipe": [
+   [
+    0,
+    23,
+    192,
+    38
+   ],
+   [
+    0,
+    52,
+    192,
+    67
+   ],
+   [
+    0,
+    82,
+    192,
+    97
+   ],
+   [
+    0,
+    112,
+    192,
+    127
+   ],
+   [
+    0,
+    144,
+    192,
+    159
+   ],
+   [
+    0,
+    174,
+    192,
+    189
+   ],
+   [
+    0,
+    188,
+    192,
+    199
+   ],
+   [
+    0,
+    204,
+    192,
+    219
+   ],
+   [
+    0,
+    218,
+    192,
+    229
+   ],
+   [
+    0,
+    233,
+    192,
+    248
+   ]
+  ],
+  "text": [
+   {
+    "text": "Jiyu Ogi",
+    "box": [
+     4,
+     23,
+     176,
+     37
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yukiya Sakikawa",
+    "box": [
+     4,
+     52,
+     174,
+     66
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Isao Nakajima",
+    "box": [
+     4,
+     82,
+     182,
+     96
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Shunji Matsutani",
+    "box": [
+     4,
+     112,
+     182,
+     126
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yukihiko Kono",
+    "box": [
+     4,
+     144,
+     182,
+     158
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Kentaro Kawai",
+    "box": [
+     4,
+     174,
+     186,
+     188
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Dentsu)",
+    "box": [
+     104,
+     187,
+     146,
+     199
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     222,
+     213,
+     213
+    ]
+   },
+   {
+    "text": "Daisuke Shin",
+    "box": [
+     4,
+     204,
+     182,
+     218
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "(Dentsu)",
+    "box": [
+     104,
+     217,
+     146,
+     229
+    ],
+    "size": 11,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     222,
+     213,
+     213
+    ]
+   },
+   {
+    "text": "Root Co., Ltd.",
+    "box": [
+     8,
+     233,
+     188,
+     247
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00335": {
+  "wipe": [
+   [
+    0,
+    19,
+    192,
+    35
+   ],
+   [
+    0,
+    47,
+    192,
+    63
+   ],
+   [
+    0,
+    76,
+    192,
+    92
+   ],
+   [
+    0,
+    105,
+    192,
+    121
+   ],
+   [
+    0,
+    134,
+    192,
+    150
+   ],
+   [
+    0,
+    163,
+    192,
+    179
+   ],
+   [
+    0,
+    192,
+    192,
+    208
+   ],
+   [
+    0,
+    221,
+    192,
+    237
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoichi Seki",
+    "box": [
+     4,
+     19,
+     186,
+     34
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takashi Arai",
+    "box": [
+     4,
+     47,
+     186,
+     62
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tatsuya Kando",
+    "box": [
+     4,
+     76,
+     186,
+     91
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Ayako Hino",
+    "box": [
+     4,
+     105,
+     186,
+     120
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Hiroshi Harada",
+    "box": [
+     4,
+     134,
+     186,
+     149
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Saori Shibano",
+    "box": [
+     4,
+     163,
+     186,
+     178
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tetsuya Nomura",
+    "box": [
+     4,
+     192,
+     186,
+     207
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tatsuya Nonaka",
+    "box": [
+     4,
+     221,
+     186,
+     236
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00338": {
+  "wipe": [
+   [
+    0,
+    19,
+    192,
+    35
+   ],
+   [
+    0,
+    47,
+    192,
+    63
+   ],
+   [
+    0,
+    104,
+    192,
+    120
+   ],
+   [
+    0,
+    133,
+    192,
+    149
+   ],
+   [
+    0,
+    162,
+    192,
+    178
+   ],
+   [
+    0,
+    191,
+    192,
+    207
+   ],
+   [
+    0,
+    220,
+    192,
+    236
+   ]
+  ],
+  "text": [
+   {
+    "text": "Taketo Nozawa",
+    "box": [
+     4,
+     19,
+     188,
+     34
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Ichiro Hazama",
+    "box": [
+     4,
+     47,
+     186,
+     62
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tomohiko Hirano",
+    "box": [
+     4,
+     104,
+     186,
+     119
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Izumi Tsukushi",
+    "box": [
+     4,
+     133,
+     186,
+     148
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Yasuhiro Takamatsu",
+    "box": [
+     4,
+     162,
+     186,
+     177
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Soshi Yoshida",
+    "box": [
+     4,
+     191,
+     186,
+     206
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Akio Shiraishi",
+    "box": [
+     4,
+     220,
+     186,
+     235
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00341": {
+  "wipe": [
+   [
+    0,
+    19,
+    192,
+    35
+   ],
+   [
+    0,
+    47,
+    192,
+    63
+   ],
+   [
+    0,
+    75,
+    192,
+    91
+   ],
+   [
+    0,
+    104,
+    192,
+    120
+   ],
+   [
+    0,
+    133,
+    192,
+    149
+   ],
+   [
+    0,
+    162,
+    192,
+    178
+   ],
+   [
+    0,
+    191,
+    192,
+    207
+   ]
+  ],
+  "text": [
+   {
+    "text": "Nozomi Miyazawa",
+    "box": [
+     4,
+     19,
+     184,
+     34
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Chizuru Abumiya",
+    "box": [
+     4,
+     47,
+     186,
+     62
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Tetsuya Okamoto",
+    "box": [
+     4,
+     75,
+     186,
+     90
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Shingo Niwano",
+    "box": [
+     4,
+     104,
+     186,
+     119
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Ryuhei Komura",
+    "box": [
+     4,
+     133,
+     186,
+     148
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takako Naganuma",
+    "box": [
+     4,
+     162,
+     186,
+     177
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Takashi Fuchigami",
+    "box": [
+     4,
+     191,
+     186,
+     206
+    ],
+    "size": 15,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ },
+ "00344": {
+  "wipe": [
+   [
+    0,
+    80,
+    192,
+    101
+   ],
+   [
+    0,
+    164,
+    192,
+    185
+   ]
+  ],
+  "text": [
+   {
+    "text": "Yoichi Wada",
+    "box": [
+     4,
+     78,
+     188,
+     102
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Keiji Honda",
+    "box": [
+     4,
+     162,
+     188,
+     186
+    ],
+    "size": 18,
+    "font": "STIXGeneral.ttf",
+    "fill": [
+     255,
+     255,
+     255
+    ]
+   }
+  ]
+ }
+}
