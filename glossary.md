@@ -62,7 +62,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
-| 刻音 | Echo | | sounds Sigma engraves in his mind (pun 刻む carve + 音 sound); "obtained the [X] Echo!" | Seal, Kokuin |
+| 刻音 | Echo | | sounds Sigma engraves in his mind (pun 刻む carve + 音 sound); "Obtained the Echo [X]!" | Seal, Kokuin |
 | 超推理 | Super Reasoning | | the deduction screen | Hyper Reasoning |
 | 調音査 | Sound Search | | Sigma's investigation by sound | |
 | 逢魔 | Ouma | | time demons | Oma |
@@ -142,7 +142,7 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   Divine Spirit tics にゃ -> -nya, っす -> -ssu; 「神降」 menu -> "Descent"; 「神」 button -> "God" button; 章の状況 -> [Movement Status];
   裏Ⅲ楽章 -> Hidden Movement III; イベント制作中 -> Event under construction; ダミー -> Dummy; 判定エラー -> Check error.
 - RULING: 時の変革者 -> Changer of Time; 過去の変革者 -> Changer of the Past (they are distinct JP phrases).
-- b034-b046 再推理 -> Re-Reason; 階層 -> layer; 刻音を生みだした -> "Created the [X] Echo!"; 思考連鎖 -> Chain of Thought;
+- b034-b046 再推理 -> Re-Reason; 階層 -> layer; 刻音を生みだした -> "Created the Echo [X]!"; 思考連鎖 -> Chain of Thought;
   人物刻音 -> Person Echo; 闇が生まれる -> A Darkness is born...; 歴史改変 -> alteration of history; 不在証明 -> alibi;
   凶器 -> weapon; SFX lines (扉の開く音) -> "The sound of a door opening"; 銃声 -> Gunshot; 通信機 -> transmitter; 無線(機) -> radio;
   機関室 -> engine room; 回廊 -> Corridor; 時空の裂け目 -> rift in space-time; 不可能殺人 -> impossible murder; ダイイングメッセージ -> dying message.

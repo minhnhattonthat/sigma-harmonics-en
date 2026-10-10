@@ -44,7 +44,7 @@ in its own voice; never merge them.
 - Honorifics stay, hyphenated: Neon-san, Sigma-kun, Obaba-sama, Yuriko-san. Given name first.
 - Punctuation: 「」 -> "...", 【X】 -> [X] (keep brackets around key terms/Echo names), 《X》 -> <X>, …… -> ...,
   ！？ -> ?!, ～ -> ~. Full-width digits -> ASCII. "Ｑ．Ｅ．Ｄ．" -> "Q.E.D."
-- Echo-get lines: `【X】 / の刻音を手に入れた！` -> `Obtained the [X] Echo!`. Glossary-add lines:
+- Echo-get lines: `【X】 / の刻音を手に入れた！` -> `Obtained the Echo [X]!`. Glossary-add lines:
   `$c01【用語集】に / 項目が追加された$c00` -> `$c01A new entry was added to the [Glossary].$c00`.
 - No ordinal suffix glued to a number ("1th"): write "No. 1", "the first", etc.
 - Sound effects / stammers: "Wh-what?", "Ngh!", "Kyaaa!".

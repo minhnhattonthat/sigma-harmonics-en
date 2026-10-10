@@ -1,6 +1,6 @@
 """Echo names already settled in dialogue: build/echoes.tsv (JP name<TAB>EN name<TAB>id).
 
-Source lines: 【X】\\nの刻音を手に入れた！ / を生みだした！ -> "Obtained/Created the [Y] Echo!".
+Source lines: 【X】\\nの刻音を手に入れた！ / を生みだした！ -> "Obtained/Created the Echo [Y]!".
 UI tables (the Echo list 04390, Super Reasoning screens) must reuse these names.
 python -X utf8 tools/echoes.py
 """
@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import text  # noqa: E402
 
 JP = re.compile(r'【(.+?)】(?:\\n)?の刻音を(?:手に入れた|生みだした)')
-EN = re.compile(r'\[(.+?)\] Echo')
+EN = re.compile(r'Echo \[(.+?)\]')
 
 
 def main():

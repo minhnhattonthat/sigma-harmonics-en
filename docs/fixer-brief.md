@@ -13,7 +13,7 @@ You apply one reviewer report to the merged English. Work only on the batch in y
   that makes the meaning worse.
 - Settled forms win: Master Key (capitalised), ではでは -> "Then, then", はてな -> "Question mark?",
   時の変革者 -> Changer of Time, 過去の変革者 -> Changer of the Past, Nの刻 -> "N:00", -fuu tic, "Age of the Gods".
-- Do NOT rename an Echo (the [X] in "Obtained the [X] Echo!" and Echo-list names): Echo names are shared across
+- Do NOT rename an Echo (the [X] in "Obtained the Echo [X]!" and Echo-list names): Echo names are shared across
   many tables. If a review says an Echo name is wrong, leave it and report `ECHO: jp -> suggested en`.
 - Keep colour codes ($cNN) in place, plain ASCII, dialogue without `\n`.
 

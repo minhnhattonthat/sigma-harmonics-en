@@ -23,7 +23,7 @@
 | 今朝もここから普通に登校したんだよね？ | You left for school from here this morning like always, right? |
 | 何が起こっているか推理をしてみよう | Let me try to reason out what's going on. |
 | 【刻音】（こくいん）と呼びます | are called [Echoes]. |
-| 【五十年不在】の刻音を手に入れた！ | Obtained the [Fifty-Year Absence] Echo! |
+| 【五十年不在】の刻音を手に入れた！ | Obtained the Echo [Fifty-Year Absence]! |
 | $c01【用語集】に項目が追加された$c00 | $c01A new entry was added to the [Glossary].$c00 |
 | $c01メニューから【調音査】が選べるようになった$c00 | $c01[Sound Search] can now be selected from the menu.$c00 |
 | つまり、過去という時が…… / 書き変わっている | In other words, the time we call the past... / has been rewritten. |
