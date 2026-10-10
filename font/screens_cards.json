@@ -1,0 +1,165 @@
+{
+ "03215": {
+  "wipe": [[16, 0, 176, 226], [66, 222, 72, 256]],
+  "text": [
+   {"text": "Movement I", "box": [10, 40, 182, 62], "size": 15},
+   {"text": "The Old Sparrow\nPoisoning Case", "box": [10, 80, 182, 180], "size": 22}
+  ]
+ },
+ "03245": {
+  "wipe": [[16, 0, 176, 226], [90, 222, 96, 256]],
+  "text": [
+   {"text": "Movement II", "box": [10, 30, 182, 52], "size": 15},
+   {"text": "The Woman\nWho Vanished\nUpstairs", "box": [10, 62, 182, 160], "size": 22},
+   {"text": "Enter the\nGreat Detective", "box": [10, 166, 182, 200], "size": 12}
+  ]
+ },
+ "03236": {
+  "wipe": [[16, 0, 176, 226], [66, 222, 72, 256]],
+  "text": [
+   {"text": "Movement III", "box": [10, 30, 182, 52], "size": 15},
+   {"text": "Murder in the\nKurogami\nMansion", "box": [10, 66, 182, 186], "size": 22}
+  ]
+ },
+ "03248": {
+  "wipe": [[16, 0, 176, 226], [66, 222, 72, 256]],
+  "text": [
+   {"text": "Movement IV", "box": [10, 40, 182, 62], "size": 15},
+   {"text": "The Hour\nof Massacre", "box": [10, 80, 182, 180], "size": 22}
+  ]
+ },
+ "01133": {
+  "wipe": [[16, 0, 176, 226], [66, 222, 72, 256]],
+  "text": [
+   {"text": "Death Movement", "box": [10, 40, 182, 62], "size": 15},
+   {"text": "The Mask\nof Terror", "box": [10, 80, 182, 180], "size": 22}
+  ]
+ },
+ "03020": {
+  "wipe": [[16, 0, 176, 226], [66, 222, 72, 256]],
+  "text": [
+   {"text": "Hidden Movement III", "box": [10, 30, 182, 52], "size": 15},
+   {"text": "The Woman in\nthe Connecting\nCorridor", "box": [10, 66, 182, 186], "size": 22}
+  ]
+ },
+ "01103": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "The Old Sparrow\nPoisoning Case", "box": [8, 8, 186, 64], "size": 20}]},
+ "01106": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "The Woman Who\nVanished Upstairs", "box": [8, 8, 186, 64], "size": 20}]},
+ "01109": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "Murder in the\nKurogami Mansion", "box": [8, 8, 186, 64], "size": 20}]},
+ "00944": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "The Hour\nof Massacre", "box": [8, 8, 186, 64], "size": 20}]},
+ "02201": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "Murder in the\nKurogami Mansion II", "box": [8, 8, 186, 64], "size": 20}]},
+ "02204": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "An Offering\nto the Future", "box": [8, 8, 186, 64], "size": 20}]},
+ "02945": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "The Woman in the\nConnecting Corridor", "box": [8, 8, 186, 64], "size": 20}]},
+ "02948": {"wipe": [[120, 0, 192, 192]], "text": [{"text": "The Mask\nof Terror", "box": [8, 8, 186, 64], "size": 20}]},
+ "02270": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [189, 139, 0]}]
+ },
+ "02273": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [180, 57, 0]}]
+ },
+ "02276": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [0, 131, 115]}]
+ },
+ "02711": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [148, 139, 139]}]
+ },
+ "03239": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [164, 32, 57]}]
+ },
+ "03242": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [{"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [115, 41, 213]}]
+ },
+ "02279": {
+  "wipe": [[16, 0, 176, 200], [94, 196, 98, 256]],
+  "text": [
+   {"text": "Curtain Up", "box": [10, 92, 182, 120], "size": 22, "fill": [156, 49, 156]},
+   {"text": "on Truth", "box": [10, 120, 182, 148], "size": 22, "fill": [230, 222, 222]}
+  ]
+ },
+ "00857": {
+  "wipe": [[16, 0, 176, 180], [50, 176, 88, 256]],
+  "text": [
+   {"text": "Kurogami\nMansion", "box": [10, 70, 182, 130], "size": 22},
+   {"text": "Platform", "box": [10, 138, 182, 168], "size": 22, "fill": [255, 180, 205]}
+  ]
+ },
+ "02951": {
+  "wipe": [[16, 0, 176, 200], [91, 196, 103, 256]],
+  "text": [{"text": "Kurogami\nMansion", "box": [10, 80, 182, 170], "size": 22}]
+ },
+ "02624": {
+  "wipe": [[16, 205, 180, 233]],
+  "text": [{"text": "— Tokyo Ward, Japan —", "box": [8, 207, 184, 231], "size": 14, "fill": [238, 238, 238]}]
+ },
+ "02888": {
+  "wipe": [[14, 30, 180, 57]],
+  "text": [{"text": "— Tokyo Ward, Underground —", "box": [6, 32, 186, 55], "size": 14, "fill": [238, 238, 238]}]
+ },
+ "03152": {
+  "wipe": [[10, 32, 184, 56]],
+  "text": [{"text": "Kurogami Academy, Platform 3", "box": [6, 33, 186, 55], "size": 14, "fill": [238, 238, 238]}]
+ },
+ "06416": {
+  "wipe": [[76, 66, 116, 200]],
+  "text": [{"text": "Location\nUnknown", "box": [60, 108, 132, 158], "size": 15, "outline": [16, 16, 16]}]
+ },
+ "02180": {"wipe": [[103, 126, 165, 159]], "text": [{"text": ":00", "box": [100, 126, 168, 158], "size": 40}]},
+ "03287": {"wipe": [[103, 126, 165, 159]], "text": [{"text": ":00", "box": [100, 126, 168, 158], "size": 40}]},
+ "03290": {"wipe": [[103, 126, 165, 159]], "text": [{"text": ":00", "box": [100, 126, 168, 158], "size": 40}]},
+ "03293": {"wipe": [[103, 126, 165, 159]], "text": [{"text": ":00", "box": [100, 126, 168, 158], "size": 40}]},
+ "03296": {"wipe": [[103, 126, 165, 159]], "text": [{"text": ":00", "box": [100, 126, 168, 158], "size": 40}]},
+ "02183": {
+  "wipe": [],
+  "text": [
+   {"text": "██", "box": [66, 48, 112, 76], "size": 26, "font": "DejaVuSans.ttf", "fill": [106, 90, 74]},
+   {"text": ":00", "box": [64, 48, 112, 75], "size": 30, "fill": [57, 41, 24]},
+   {"text": "███", "box": [100, 205, 155, 232], "size": 22, "font": "DejaVuSans.ttf", "fill": [90, 90, 65]},
+   {"text": ":00", "box": [100, 205, 154, 231], "size": 30, "fill": [57, 57, 41]}
+  ]
+ },
+ "02630": {
+  "wipe": [],
+  "text": [
+   {"text": "██", "box": [66, 48, 112, 76], "size": 26, "font": "DejaVuSans.ttf", "fill": [106, 90, 74]},
+   {"text": ":00", "box": [64, 48, 112, 75], "size": 30, "fill": [57, 41, 24]},
+   {"text": "███", "box": [100, 205, 155, 232], "size": 22, "font": "DejaVuSans.ttf", "fill": [90, 90, 65]},
+   {"text": ":00", "box": [100, 205, 154, 231], "size": 30, "fill": [57, 57, 41]}
+  ]
+ },
+ "02633": {
+  "wipe": [],
+  "text": [
+   {"text": "██", "box": [66, 48, 112, 76], "size": 26, "font": "DejaVuSans.ttf", "fill": [106, 90, 74]},
+   {"text": ":00", "box": [64, 48, 112, 75], "size": 30, "fill": [57, 41, 24]},
+   {"text": "███", "box": [100, 205, 155, 232], "size": 22, "font": "DejaVuSans.ttf", "fill": [90, 90, 65]},
+   {"text": ":00", "box": [100, 205, 154, 231], "size": 30, "fill": [57, 57, 41]}
+  ]
+ },
+ "02639": {
+  "wipe": [],
+  "text": [
+   {"text": "██", "box": [66, 48, 112, 76], "size": 26, "font": "DejaVuSans.ttf", "fill": [106, 90, 74]},
+   {"text": ":00", "box": [64, 48, 112, 75], "size": 30, "fill": [57, 41, 24]},
+   {"text": "███", "box": [100, 205, 155, 232], "size": 22, "font": "DejaVuSans.ttf", "fill": [90, 90, 65]},
+   {"text": ":00", "box": [100, 205, 154, 231], "size": 30, "fill": [57, 57, 41]}
+  ]
+ },
+ "02642": {
+  "wipe": [],
+  "text": [
+   {"text": "██", "box": [66, 48, 112, 76], "size": 26, "font": "DejaVuSans.ttf", "fill": [106, 90, 74]},
+   {"text": ":00", "box": [64, 48, 112, 75], "size": 30, "fill": [57, 41, 24]},
+   {"text": "███", "box": [97, 206, 146, 232], "size": 20, "font": "DejaVuSans.ttf", "fill": [90, 90, 65]},
+   {"text": ":00", "box": [97, 206, 146, 231], "size": 28, "fill": [57, 57, 41]}
+  ]
+ },
+ "06519": {
+  "wipe": [[46, 18, 82, 35]],
+  "text": [{"text": ":00", "box": [46, 17, 82, 35], "size": 14, "fill": [172, 115, 189]}]
+ }
+}
