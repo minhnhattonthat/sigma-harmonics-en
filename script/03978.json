@@ -2,7 +2,7 @@
  {
   "id": "03978:0000",
   "jp": "良かった、\\nここは無事だった",
-  "en": ""
+  "en": "Thank goodness, this place is still in one piece."
  },
  {
   "id": "03978:0001",
@@ -12,27 +12,27 @@
  {
   "id": "03978:0002",
   "jp": "ただいま！\\n一体、何が……",
-  "en": ""
+  "en": "I'm home! What on earth happened..."
  },
  {
   "id": "03978:0003",
   "jp": "何者だ？",
-  "en": ""
+  "en": "Who goes there?"
  },
  {
   "id": "03978:0004",
   "jp": "この施設は、\\n関係者以外の\\n立ち入りを禁じている",
-  "en": ""
+  "en": "Entry to this facility is forbidden to all but authorized persons."
  },
  {
   "id": "03978:0005",
   "jp": "今すぐに帰れ",
-  "en": ""
+  "en": "Leave at once."
  },
  {
   "id": "03978:0006",
   "jp": "な、なんで？\\nどうして\\nそんなこと言うの？",
-  "en": ""
+  "en": "Wh-what? Why would you say something like that?"
  },
  {
   "id": "03978:0007",
@@ -42,12 +42,12 @@
  {
   "id": "03978:0008",
   "jp": "$c04八咫に持たれし\\n非時香果……",
-  "en": ""
+  "en": "$c04The Everlasting Fruit held by Yata..."
  },
  {
   "id": "03978:0009",
   "jp": "$c04この手に取り戻し\\n帰られん$c00",
-  "en": ""
+  "en": "$c04I take back into my hands, and return.$c00"
  },
  {
   "id": "03978:0010",
@@ -57,181 +57,181 @@
  {
   "id": "03978:0011",
   "jp": "し、失礼いたしました",
-  "en": ""
+  "en": "F-forgive me."
  },
  {
   "id": "03978:0012",
   "jp": "お帰りなさいませ、\\n【使い人】様……",
-  "en": ""
+  "en": "Welcome home, honored [Tsukaibito]..."
  },
  {
   "id": "03978:0013",
   "jp": "ひとつ聞いて\\nいいかい？",
-  "en": ""
+  "en": "May I ask you one thing?"
  },
  {
   "id": "03978:0014",
   "jp": "はい、なんなりと",
-  "en": ""
+  "en": "Yes, anything at all."
  },
  {
   "id": "03978:0015",
   "jp": "僕と面識は？",
-  "en": ""
+  "en": "Have we met before?"
  },
  {
   "id": "03978:0016",
   "jp": "いえ……",
-  "en": ""
+  "en": "No, sir..."
  },
  {
   "id": "03978:0017",
   "jp": "ここ$c02五十年$c00、\\n使い人様が訪れた\\n記録は、ございません",
-  "en": ""
+  "en": "There is no record of a Tsukaibito visiting here in $c02fifty years$c00, sir."
  },
  {
   "id": "03978:0018",
   "jp": "なんだって？\\n…………五十年？",
-  "en": ""
+  "en": "What did you say? ...Fifty years?"
  },
  {
   "id": "03978:0019",
   "jp": "？？？\\nど、どういうこと？",
-  "en": ""
+  "en": "??? Wh-what's that supposed to mean?"
  },
  {
   "id": "03978:0020",
   "jp": "執事さん、\\nどうしちゃったの？",
-  "en": ""
+  "en": "What's gotten into the butler?"
  },
  {
   "id": "03978:0021",
   "jp": "ねぇ、シグマ",
-  "en": ""
+  "en": "Hey, Sigma."
  },
  {
   "id": "03978:0022",
   "jp": "今朝もここから\\n普通に\\n登校したんだよね？",
-  "en": ""
+  "en": "You left for school from here this morning like always, right?"
  },
  {
   "id": "03978:0023",
   "jp": "あぁ……",
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "03978:0024",
   "jp": "執事さん、緊急事態で\\nあんな態度を\\n取ってるの？",
-  "en": ""
+  "en": "Is the butler acting like that because of some emergency?"
  },
  {
   "id": "03978:0025",
   "jp": "……いや。\\nそれにしては、\\n様子がおかしい……",
-  "en": ""
+  "en": "...No. If that were it, he wouldn't be acting this strangely..."
  },
  {
   "id": "03978:0026",
   "jp": "もう少し、ここを\\n調べた方がよさそうだ",
-  "en": ""
+  "en": "I'd better look around here a little more."
  },
  {
   "id": "03978:0027",
   "jp": "何が起こっているか\\n推理をしてみよう",
-  "en": ""
+  "en": "Let me try to reason out what's going on."
  },
  {
   "id": "03978:0028",
   "jp": "シグマは得た情報から\\n重要な【音】を聞き\\n分けることができます",
-  "en": ""
+  "en": "From the information he gathers, Sigma can pick out the important [Sounds]."
  },
  {
   "id": "03978:0029",
   "jp": "この【音】を、\\n彼の頭脳に\\n【刻】み込んだものを",
-  "en": ""
+  "en": "These [Sounds], once engraved into his mind,"
  },
  {
   "id": "03978:0030",
   "jp": "【刻音】（こくいん）\\nと呼びます",
-  "en": ""
+  "en": "are called [Echoes]."
  },
  {
   "id": "03978:0031",
   "jp": "刻音はシグマが推理を\\n展開する時に\\n必要となります",
-  "en": ""
+  "en": "Sigma needs Echoes to build his reasoning."
  },
  {
   "id": "03978:0032",
   "jp": "$c01【用語集】に\\n項目が追加された$c00",
-  "en": ""
+  "en": "$c01A new entry was added to the [Glossary].$c00"
  },
  {
   "id": "03978:0033",
   "jp": "《用語》はストーリー\\n進行に合わせて\\n追加されていきます",
-  "en": ""
+  "en": "<Terms> are added as the story progresses."
  },
  {
   "id": "03978:0034",
   "jp": "【用語集】はメニュー\\n【システム】から\\n選ぶことができます",
-  "en": ""
+  "en": "The [Glossary] can be opened from [System] in the menu."
  },
  {
   "id": "03978:0035",
   "jp": "シグマ、調べないの？",
-  "en": ""
+  "en": "Sigma, aren't you going to investigate?"
  },
  {
   "id": "03978:0036",
   "jp": "そうだね、\\n調音査を使って\\n光を調べてみよう",
-  "en": ""
+  "en": "Right. Let's use Sound Search to examine the light."
  },
  {
   "id": "03978:0037",
   "jp": "調音査をするには\\nメニューの【調音査】\\nを選ぶんだよ",
-  "en": ""
+  "en": "To use Sound Search, pick [Sound Search] from the menu."
  },
  {
   "id": "03978:0038",
   "jp": "ねぇ、シグマ",
-  "en": ""
+  "en": "Hey, Sigma."
  },
  {
   "id": "03978:0039",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "03978:0040",
   "jp": "さっき、\\n執事さんに言ってた\\n八咫のなんとかって",
-  "en": ""
+  "en": "That Yata-whatsit you said to the butler a moment ago..."
  },
  {
   "id": "03978:0041",
   "jp": "黒上が使う術か\\n何かの一文？",
-  "en": ""
+  "en": "Is that some Kurogami spell, or a line from something?"
  },
  {
   "id": "03978:0042",
   "jp": "あぁ、合い言葉として\\n使ったんだ",
-  "en": ""
+  "en": "Ah, I used it as a password."
  },
  {
   "id": "03978:0043",
   "jp": "僕が黒上だって\\n気づいてもらう\\nためにね",
-  "en": ""
+  "en": "So he'd realize I'm a Kurogami."
  },
  {
   "id": "03978:0044",
   "jp": "【執事は僕らを……】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [The butler... us] Echo!"
  },
  {
   "id": "03978:0045",
   "jp": "【五十年不在】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Fifty-Year Absence] Echo!"
  },
  {
   "id": "03978:0046",
   "jp": "【シグマが唱えた言葉】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Sigma's Words] Echo!"
  }
 ]

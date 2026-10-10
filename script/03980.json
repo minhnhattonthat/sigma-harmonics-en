@@ -2,12 +2,12 @@
  {
   "id": "03980:0000",
   "jp": "そんな……",
-  "en": ""
+  "en": "No way..."
  },
  {
   "id": "03980:0001",
   "jp": "ここは無事だと\\n思ったのに、中は\\nめちゃくちゃなんて",
-  "en": ""
+  "en": "I thought this place was safe, but inside it's a total wreck..."
  },
  {
   "id": "03980:0002",
@@ -17,62 +17,62 @@
  {
   "id": "03980:0003",
   "jp": "ねぇ、これって、\\nおかしすぎるよ！",
-  "en": ""
+  "en": "Hey, this is way too weird!"
  },
  {
   "id": "03980:0004",
   "jp": "シグマのお父様と\\nお母様を探して、",
-  "en": ""
+  "en": "Let's find your father and mother, Sigma,"
  },
  {
   "id": "03980:0005",
   "jp": "何が起こったのか\\n教えてもらおうよ",
-  "en": ""
+  "en": "and have them tell us what happened."
  },
  {
   "id": "03980:0006",
   "jp": "無駄だよ",
-  "en": ""
+  "en": "It's no use."
  },
  {
   "id": "03980:0007",
   "jp": "えっ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "03980:0008",
   "jp": "よく見て",
-  "en": ""
+  "en": "Look closely."
  },
  {
   "id": "03980:0009",
   "jp": "あっ……",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "03980:0010",
   "jp": "大時計……",
-  "en": ""
+  "en": "The Great Clock..."
  },
  {
   "id": "03980:0011",
   "jp": "あっ！　あっ……",
-  "en": ""
+  "en": "Ah! Ah..."
  },
  {
   "id": "03980:0012",
   "jp": "そ、そうよ……\\nこんなの……\\nありえない……",
-  "en": ""
+  "en": "Th-that's... This... This can't be..."
  },
  {
   "id": "03980:0013",
   "jp": "神代の時代より、\\n僕ら黒上が守っている\\n封印……",
-  "en": ""
+  "en": "The seal we Kurogami have guarded since the Age of the Gods..."
  },
  {
   "id": "03980:0014",
   "jp": "その大時計までも\\n破壊されてるんだ……",
-  "en": ""
+  "en": "Even the Great Clock itself has been destroyed..."
  },
  {
   "id": "03980:0015",
@@ -82,277 +82,277 @@
  {
   "id": "03980:0016",
   "jp": "やっぱり、そのせいで\\n【$c02逢魔$c00】が\\n外の世界にまで……",
-  "en": ""
+  "en": "So that's why the [$c02Ouma$c00] got out into the world..."
  },
  {
   "id": "03980:0017",
   "jp": "あぁ、こんなことは\\n僕の両親……",
-  "en": ""
+  "en": "Yeah. Something like this... with my parents..."
  },
  {
   "id": "03980:0018",
   "jp": "いや、使い人たちが\\nいるのなら\\n起こるはずがない",
-  "en": ""
+  "en": "No, with the Tsukaibito around, it should never have happened."
  },
  {
   "id": "03980:0019",
   "jp": "なんなの……\\n一体……",
-  "en": ""
+  "en": "What is this... What's going on..."
  },
  {
   "id": "03980:0020",
   "jp": "みんな\\n消えちゃったの？",
-  "en": ""
+  "en": "Is everyone gone?"
  },
  {
   "id": "03980:0021",
   "jp": "何が起こってるの……",
-  "en": ""
+  "en": "What's happening..."
  },
  {
   "id": "03980:0022",
   "jp": "なんの光だ……？",
-  "en": ""
+  "en": "What's that light...?"
  },
  {
   "id": "03980:0023",
   "jp": "なに！？",
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "03980:0024",
   "jp": "シグマ、\\n【音】を使って\\n調査してみよ",
-  "en": ""
+  "en": "Sigma, try investigating with [Sound]."
  },
  {
   "id": "03980:0025",
   "jp": "【調音査】か……",
-  "en": ""
+  "en": "[Sound Search], huh..."
  },
  {
   "id": "03980:0026",
   "jp": "あぁ、\\nやってみよう",
-  "en": ""
+  "en": "All right, let's try it."
  },
  {
   "id": "03980:0027",
   "jp": "シグマは【音】を使い\\n調べた対象から\\n【刻音】を作りだせます",
-  "en": ""
+  "en": "Using [Sound], Sigma can create [Echoes] from whatever he investigates."
  },
  {
   "id": "03980:0028",
   "jp": "これを【調音査】\\nと呼びます",
-  "en": ""
+  "en": "This is called [Sound Search]."
  },
  {
   "id": "03980:0029",
   "jp": "$c01メニューから\\n【調音査】\\nが選べるようになった$c00",
-  "en": ""
+  "en": "$c01[Sound Search] can now be selected from the menu.$c00"
  },
  {
   "id": "03980:0030",
   "jp": "【調音査】を選ぶと\\nタッチした場所を\\n調べることができます",
-  "en": ""
+  "en": "Select [Sound Search] to investigate the place you touch."
  },
  {
   "id": "03980:0031",
   "jp": "$c01【用語集】に\\n【調音査】\\nが追加された$c00",
-  "en": ""
+  "en": "$c01[Sound Search] was added to the [Glossary].$c00"
  },
  {
   "id": "03980:0032",
   "jp": "空間が歪んでるのか？",
-  "en": ""
+  "en": "Is space itself warping?"
  },
  {
   "id": "03980:0033",
   "jp": "くっ！\\n吸い込まれる？！",
-  "en": ""
+  "en": "Ngh! It's pulling us in?!"
  },
  {
   "id": "03980:0034",
   "jp": "【空間の歪み】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Warped Space] Echo!"
  },
  {
   "id": "03980:0035",
   "jp": "えっ！えっ！えっ？！",
-  "en": ""
+  "en": "Eh! Eh! Ehh?!"
  },
  {
   "id": "03980:0036",
   "jp": "ホールが消えちゃった！",
-  "en": ""
+  "en": "The hall disappeared!"
  },
  {
   "id": "03980:0037",
   "jp": "ね、ねぇシグマ！\\nここって？！",
-  "en": ""
+  "en": "H-hey, Sigma! Where are we?!"
  },
  {
   "id": "03980:0038",
   "jp": "分からない……",
-  "en": ""
+  "en": "I don't know..."
  },
  {
   "id": "03980:0039",
   "jp": "よし、\\n推理をしてみよう",
-  "en": ""
+  "en": "All right. Let's reason this out."
  },
  {
   "id": "03980:0040",
   "jp": "今まで手に入れた\\n刻音を使えば【超推理】\\nができるはずだ",
-  "en": ""
+  "en": "With the Echoes I've gathered, I should be able to use [Super Reasoning]."
  },
  {
   "id": "03980:0041",
   "jp": "$c01メニューから\\n【超推理】\\nが選べるようになった$c00",
-  "en": ""
+  "en": "$c01[Super Reasoning] can now be selected from the menu.$c00"
  },
  {
   "id": "03980:0042",
   "jp": "【超推理】画面では\\n手に入れた【刻音】の\\n確認もできます",
-  "en": ""
+  "en": "The [Super Reasoning] screen also lets you review your [Echoes]."
  },
  {
   "id": "03980:0043",
   "jp": "メニューから\\n【超推理】を選び\\n謎を解いてみましょう",
-  "en": ""
+  "en": "Select [Super Reasoning] from the menu and try to solve the mystery."
  },
  {
   "id": "03980:0044",
   "jp": "$c01【用語集】に\\n【超推理】\\nが追加された$c00",
-  "en": ""
+  "en": "$c01[Super Reasoning] was added to the [Glossary].$c00"
  },
  {
   "id": "03980:0045",
   "jp": "ここは……",
-  "en": ""
+  "en": "This place is..."
  },
  {
   "id": "03980:0046",
   "jp": "時の狭間……",
-  "en": ""
+  "en": "The Rift of Time..."
  },
  {
   "id": "03980:0047",
   "jp": "時の狭間",
-  "en": ""
+  "en": "The Rift of Time."
  },
  {
   "id": "03980:0048",
   "jp": "？\\nときの……\\nはざま……？",
-  "en": ""
+  "en": "? The Rift... of Time...?"
  },
  {
   "id": "03980:0049",
   "jp": "時と時の隙間にある、\\n時間の流れから\\n切り離された異世界",
-  "en": ""
+  "en": "Another world in the gap between moments, cut off from the flow of time."
  },
  {
   "id": "03980:0050",
   "jp": "時間という概念から\\n外れた同位要素を\\n含む世界を……",
-  "en": ""
+  "en": "A world containing isomeric elements outside the very concept of time..."
  },
  {
   "id": "03980:0051",
   "jp": "ん？？？？",
-  "en": ""
+  "en": "Hm????"
  },
  {
   "id": "03980:0052",
   "jp": "そうだね、\\n単純に時間が\\n止まってる世界……",
-  "en": ""
+  "en": "Okay, simply put, it's a world where time has stopped..."
  },
  {
   "id": "03980:0053",
   "jp": "くらいの認識で\\nいいと思う",
-  "en": ""
+  "en": "Thinking of it like that should be good enough."
  },
  {
   "id": "03980:0054",
   "jp": "うん。\\nでも何もないね……",
-  "en": ""
+  "en": "Uh-huh. But there's nothing here..."
  },
  {
   "id": "03980:0055",
   "jp": "これは、僕らが世界を\\n認識するための\\n条件である、",
-  "en": ""
+  "en": "That's because [Time], one of the conditions we need to perceive the world,"
  },
  {
   "id": "03980:0056",
   "jp": "【時】が定められて\\nいないからだね",
-  "en": ""
+  "en": "hasn't been fixed here."
  },
  {
   "id": "03980:0057",
   "jp": "ふ～ん",
-  "en": ""
+  "en": "Hmm~"
  },
  {
   "id": "03980:0058",
   "jp": "ネオン",
-  "en": ""
+  "en": "Neon."
  },
  {
   "id": "03980:0059",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "03980:0060",
   "jp": "ネオン、館の入口で\\n執事が言っていたこと\\n憶えてるかい？",
-  "en": ""
+  "en": "Neon, do you remember what the butler said at the mansion entrance?"
  },
  {
   "id": "03980:0061",
   "jp": "うん、私たちのことを\\n知らないって感じで\\n変なこと言ってた",
-  "en": ""
+  "en": "Yeah. He acted like he didn't know us, and said weird stuff."
  },
  {
   "id": "03980:0062",
   "jp": "あれは、\\n変じゃないんだよ",
-  "en": ""
+  "en": "That wasn't weird, actually."
  },
  {
   "id": "03980:0063",
   "jp": "彼のいる世界では",
-  "en": ""
+  "en": "Not in the world he lives in."
  },
  {
   "id": "03980:0064",
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "03980:0065",
   "jp": "彼の生まれた世界では、",
-  "en": ""
+  "en": "In the world he was born into,"
  },
  {
   "id": "03980:0066",
   "jp": "五十年の間、\\n使い人は\\n存在しておらず、",
-  "en": ""
+  "en": "there have been no Tsukaibito for fifty years,"
  },
  {
   "id": "03980:0067",
   "jp": "もちろん、\\n僕との面識もない",
-  "en": ""
+  "en": "and of course, he's never met me."
  },
  {
   "id": "03980:0068",
   "jp": "どういうこと？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "03980:0069",
   "jp": "つまり、\\n過去という時が……",
-  "en": ""
+  "en": "In other words, the time we call the past..."
  },
  {
   "id": "03980:0070",
   "jp": "書き変わっている",
-  "en": ""
+  "en": "has been rewritten."
  },
  {
   "id": "03980:0071",
@@ -362,87 +362,87 @@
  {
   "id": "03980:0072",
   "jp": "！？\\n時が……？？",
-  "en": ""
+  "en": "!? Time has...??"
  },
  {
   "id": "03980:0073",
   "jp": "な、何が\\n変わってるの？！",
-  "en": ""
+  "en": "Wh-what's been changed?!"
  },
  {
   "id": "03980:0074",
   "jp": "今までの状況から\\n導きだされる\\n結論はひとつ……",
-  "en": ""
+  "en": "From everything so far, only one conclusion can be drawn..."
  },
  {
   "id": "03980:0075",
   "jp": "黒上一族、",
-  "en": ""
+  "en": "The Kurogami clan..."
  },
  {
   "id": "03980:0076",
   "jp": "いや、使い人たちの\\n$c02滅亡$c00",
-  "en": ""
+  "en": "no, the Tsukaibito, have been $c02wiped out$c00."
  },
  {
   "id": "03980:0077",
   "jp": "$c02滅亡$c00……？！",
-  "en": ""
+  "en": "$c02Wiped out$c00...?!"
  },
  {
   "id": "03980:0078",
   "jp": "そ、そんな……",
-  "en": ""
+  "en": "B-but that's..."
  },
  {
   "id": "03980:0079",
   "jp": "で、でも、シグマ",
-  "en": ""
+  "en": "B-but, Sigma,"
  },
  {
   "id": "03980:0080",
   "jp": "時を書き変えるなんて\\n簡単にできること\\nじゃないよ",
-  "en": ""
+  "en": "rewriting time isn't something anyone can just do."
  },
  {
   "id": "03980:0081",
   "jp": "そう、こんなことが\\nできるのは、\\nひどく限られる",
-  "en": ""
+  "en": "Right. Very few could pull off something like this."
  },
  {
   "id": "03980:0082",
   "jp": "僕ら……\\n黒上や月弓……\\nとかね",
-  "en": ""
+  "en": "Us... the Kurogami or the Tsukiyumi... for instance."
  },
  {
   "id": "03980:0083",
   "jp": "あっ！\\n思い出した！",
-  "en": ""
+  "en": "Ah! I remember!"
  },
  {
   "id": "03980:0084",
   "jp": "黒上と月弓に\\n伝えられる古の秘術",
-  "en": ""
+  "en": "The secret art handed down by the Kurogami and Tsukiyumi."
  },
  {
   "id": "03980:0085",
   "jp": "封印されし狭間を使い\\n今ではない時を結ぶ",
-  "en": ""
+  "en": "It uses the sealed Rift to tie together a time other than now:"
  },
  {
   "id": "03980:0086",
   "jp": "【時紡ぎの儀】！",
-  "en": ""
+  "en": "the [Rite of Time Weaving]!"
  },
  {
   "id": "03980:0087",
   "jp": "あぁ、誰かが、大時計の\\n封印を解き、この狭間で\\n【時を紡いだ】",
-  "en": ""
+  "en": "Yes. Someone broke the Great Clock's seal and [wove time] in this Rift."
  },
  {
   "id": "03980:0088",
   "jp": "私たち……\\n一族の人間が……？",
-  "en": ""
+  "en": "Someone from... our own families...?"
  },
  {
   "id": "03980:0089",
@@ -452,62 +452,62 @@
  {
   "id": "03980:0090",
   "jp": "とにかく……",
-  "en": ""
+  "en": "Anyway..."
  },
  {
   "id": "03980:0091",
   "jp": "この狭間が\\n繋がる過去で、",
-  "en": ""
+  "en": "in the past this Rift connects to,"
  },
  {
   "id": "03980:0092",
   "jp": "一体、\\n何が起こったのか\\n調べてみよう",
-  "en": ""
+  "en": "let's find out what on earth happened."
  },
  {
   "id": "03980:0093",
   "jp": "う、うん",
-  "en": ""
+  "en": "O-okay."
  },
  {
   "id": "03980:0094",
   "jp": "まずは、\\nここを認識するために\\n時間を安定させないと",
-  "en": ""
+  "en": "First, we need to stabilize time so we can perceive this place."
  },
  {
   "id": "03980:0095",
   "jp": "時間の安定？",
-  "en": ""
+  "en": "Stabilize time?"
  },
  {
   "id": "03980:0096",
   "jp": "それって、\\nその【時紡ぎ】でしょ？",
-  "en": ""
+  "en": "You mean with that [Time Weaving], right?"
  },
  {
   "id": "03980:0097",
   "jp": "そ、そんなの\\n私たちじゃ無理だよ",
-  "en": ""
+  "en": "Th-there's no way we can do that."
  },
  {
   "id": "03980:0098",
   "jp": "それくらい\\n大きな術だと",
-  "en": ""
+  "en": "For an art that big,"
  },
  {
   "id": "03980:0099",
   "jp": "かなり強い\\n神霊とかいないと……",
-  "en": ""
+  "en": "we'd need a really strong Divine Spirit or something..."
  },
  {
   "id": "03980:0100",
   "jp": "ネオン、この狭間に\\nいる神霊は？",
-  "en": ""
+  "en": "Neon, are there any Divine Spirits in this Rift?"
  },
  {
   "id": "03980:0101",
   "jp": "ここで新しい\\n【式札】を\\n生みだせないかな？",
-  "en": ""
+  "en": "Couldn't you create new [Shiki Cards] here?"
  },
  {
   "id": "03980:0102",
@@ -517,87 +517,87 @@
  {
   "id": "03980:0103",
   "jp": "……あっ！",
-  "en": ""
+  "en": "...Ah!"
  },
  {
   "id": "03980:0104",
   "jp": "うん、いくつか、\\n強い力がある",
-  "en": ""
+  "en": "Yeah, there are a few strong powers here."
  },
  {
   "id": "03980:0105",
   "jp": "やってみる",
-  "en": ""
+  "en": "I'll try."
  },
  {
   "id": "03980:0106",
   "jp": "我、月弓の名において\\n其らを求む者なり",
-  "en": ""
+  "en": "In the name of Tsukiyumi, I am the one who seeks thee."
  },
  {
   "id": "03980:0107",
   "jp": "古の盟約に従い\\n式なる札に\\n力を分け与え賜え",
-  "en": ""
+  "en": "By the ancient covenant, grant thy power unto these Shiki Cards."
  },
  {
   "id": "03980:0108",
   "jp": "式力封神！！",
-  "en": ""
+  "en": "Shikiryoku Fuujin!!"
  },
  {
   "id": "03980:0109",
   "jp": "何の準備もなかった\\nから、今の所は、\\nこれだけね",
-  "en": ""
+  "en": "I didn't have anything prepared, so this is all for now."
  },
  {
   "id": "03980:0110",
   "jp": "よし、まずは、\\nその札で時を\\n安定させてみよう",
-  "en": ""
+  "en": "Good. First, let's try to stabilize time with those cards."
  },
  {
   "id": "03980:0111",
   "jp": "うん！",
-  "en": ""
+  "en": "Okay!"
  },
  {
   "id": "03980:0112",
   "jp": "【時紡ぎ】……\\n時間は十二時？",
-  "en": ""
+  "en": "[Time Weaving]... The time is twelve o'clock?"
  },
  {
   "id": "03980:0113",
   "jp": "初めてだったけど、\\nうまくいったね",
-  "en": ""
+  "en": "It was my first time, but it went well!"
  },
  {
   "id": "03980:0114",
   "jp": "まぁね",
-  "en": ""
+  "en": "I suppose."
  },
  {
   "id": "03980:0115",
   "jp": "ただ僕らは、誰かが\\n繋げた道をなぞって",
-  "en": ""
+  "en": "But we only traced a path someone else had connected"
  },
  {
   "id": "03980:0116",
   "jp": "時間を安定させた\\nだけだからね",
-  "en": ""
+  "en": "to stabilize time."
  },
  {
   "id": "03980:0117",
   "jp": "１からやるとなると、\\nこう簡単には\\nいかないさ",
-  "en": ""
+  "en": "Doing it from scratch wouldn't be this easy."
  },
  {
   "id": "03980:0118",
   "jp": "そうだよね。\\n黒上と月弓の秘中の秘、\\nだもんね",
-  "en": ""
+  "en": "I guess so. It's the deepest secret of the Kurogami and Tsukiyumi, after all."
  },
  {
   "id": "03980:0119",
   "jp": "あぁ",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "03980:0120",
@@ -607,26 +607,26 @@
  {
   "id": "03980:0121",
   "jp": "これって、過去が……\\n視えてきてるの？",
-  "en": ""
+  "en": "Is this... the past we're starting to see?"
  },
  {
   "id": "03980:0122",
   "jp": "あぁ、【時の再演】だ。\\nそしてこれが……",
-  "en": ""
+  "en": "Yes, the [Replay of Time]. And this is..."
  },
  {
   "id": "03980:0123",
   "jp": "ねじ曲げられた\\n世界があげる、\\n最初の悲鳴……",
-  "en": ""
+  "en": "the first scream raised by a twisted world..."
  },
  {
   "id": "03980:0124",
   "jp": "【荒廃している館】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Ruined Mansion] Echo!"
  },
  {
   "id": "03980:0125",
   "jp": "【空間の歪み】\\nの刻音を手に入れた！",
-  "en": ""
+  "en": "Obtained the [Warped Space] Echo!"
  }
 ]
