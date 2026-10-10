@@ -5,6 +5,7 @@ python -X utf8 tools/batches.py split [--chars 3500]   # work/tl/bNNN.tsv + buil
 python -X utf8 tools/batches.py check bNNN      # validate work/tl/bNNN.out.tsv; prints OK or errors
 python -X utf8 tools/batches.py merge bNNN      # check, then write English into script/*.json (+ exact-duplicate JP)
 python -X utf8 tools/batches.py pairs bNNN      # work/tl/bNNN.pairs.txt for the reviewer
+python -X utf8 tools/batches.py apply NAME      # apply fixes in work/tl/NAME.tsv (id<TAB>English) to script/*.json
 
 Input TSV: id<TAB>box<TAB>form<TAB>limit<TAB>jp   (jp line breaks shown as " / ")
 Output TSV: id<TAB>English  (dialogue is auto-wrapped by the build; write \\n only in ui text that needs a break)
@@ -264,6 +265,58 @@ def merge(name):
     print(f'merge {name}: {n} entries written')
 
 
+def apply(name):
+    """Apply work/tl/<name>.tsv (id<TAB>English, any ids) to script/*.json after the usual checks.
+    Holds work/tl/.apply.lock so parallel fixers don't overwrite each other's script files."""
+    import os
+    import time
+    lock = TL / '.apply.lock'
+    for _ in range(600):
+        try:
+            fd = os.open(lock, os.O_CREAT | os.O_EXCL)
+            break
+        except FileExistsError:
+            time.sleep(0.5)
+    else:
+        sys.exit(f'apply {name}: {lock} held for 5 min; delete it if no apply is running')
+    try:
+        _apply(name)
+    finally:
+        os.close(fd)
+        lock.unlink()
+
+
+def _apply(name):
+    path = TL / f'{name}.tsv'
+    fixes = dict(ln.split('\t', 1) for ln in path.read_text(encoding='utf-8-sig').split('\n') if '\t' in ln)
+    script = text.load_script()
+    m = load_meta()
+    terms = glossary()
+    errs, done = [], 0
+    for fid, rs in script.items():
+        for r in rs:
+            if r['id'] not in fixes:
+                continue
+            en = fixes.pop(r['id']).strip()
+            e = errors(r, en, m[fid]) + term_errors(r['jp'], en, terms)
+            if e:
+                errs += [f"{r['id']}: {x}" for x in e]
+            else:
+                r['en'] = en
+                done += 1
+    errs += [f'{i}: unknown id' for i in fixes]
+    for e in errs:
+        print(e)
+    if errs:
+        sys.exit(f'apply {name}: refused, nothing written')
+    for fid, rs in script.items():
+        p = text.SCRIPT / f'{fid:05d}.json'
+        new = json.dumps(rs, ensure_ascii=False, indent=1) + '\n'
+        if p.read_text(encoding='utf-8') != new:
+            p.write_text(new, encoding='utf-8', newline='\n')
+    print(f'apply {name}: {done} lines written')
+
+
 def pairs(name):
     out = read_out(name)
     script = text.load_script()
@@ -274,7 +327,7 @@ def pairs(name):
                 continue
             for c in rs[max(0, k - 2):k]:
                 lines.append(f"   {c['id']} | {c['jp']} / {c['en']}")
-            lines.append(f">> {r['id']} | {r['jp']}\n   EN: {out[r['id']]}")
+            lines.append(f">> {r['id']} | {r['jp']}\n   EN: {r['en']}")  # merged English, incl. later fixes
     (TL / f'{name}.pairs.txt').write_text('\n'.join(lines) + '\n', encoding='utf-8', newline='\n')
     print(f'pairs: {TL / (name + ".pairs.txt")}')
 
@@ -289,5 +342,7 @@ if __name__ == '__main__':
         sys.exit(0 if check(sys.argv[2]) else 1)
     elif cmd == 'merge':
         merge(sys.argv[2])
+    elif cmd == 'apply':
+        apply(sys.argv[2])
     elif cmd == 'pairs':
         pairs(sys.argv[2])
