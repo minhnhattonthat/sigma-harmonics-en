@@ -12,7 +12,7 @@
  {
   "id": "04186:0002",
   "jp": "扉を破る音\\n（仮）",
-  "en": "Sound of door being broken (temp)"
+  "en": "The sound of a door being broken down (temp)"
  },
  {
   "id": "04186:0003",
@@ -37,7 +37,7 @@
  {
   "id": "04186:0007",
   "jp": "えぇ",
-  "en": "Yeah."
+  "en": "Yes."
  },
  {
   "id": "04186:0008",
@@ -47,6 +47,6 @@
  {
   "id": "04186:0009",
   "jp": "さっさと、入るわよ！",
-  "en": "Hurry up and get inside!"
+  "en": "Hurry up, we're going in!"
  }
 ]

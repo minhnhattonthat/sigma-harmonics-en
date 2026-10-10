@@ -152,4 +152,5 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   rooms: [Fuyou's Room]/[Shizuma's Room]/[Take's Room]/[Courtyard]/[Storehouse]/[Station Platform]; 判定ミス -> Check mistake.
 - RULING: Nの刻 (time slots) -> "N:00" (１２の刻 -> 12:00, ２０の刻 -> 20:00). Fix older "o'clock"/"8 PM" forms in the polish pass.
 - RULING: 法水 is "Housui" for every character/clan mention (the glossary's のりみず reading is an in-joke; keep Housui).
+- b023-b030 reviews: 旦那様 -> the master; 奥様 -> Madam; 無言 is always "...Silence." (never "Speechless").
 - RULING: glossary-screen headings (03976, "term / ～kana reading") -> the English term only, one line, no reading.
