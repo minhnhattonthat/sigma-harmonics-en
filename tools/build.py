@@ -14,6 +14,7 @@ import fit  # noqa: E402
 import latin  # noqa: E402
 import rom  # noqa: E402
 import text  # noqa: E402
+import scredit  # noqa: E402
 import texedit  # noqa: E402
 
 BUILD = text.ROOT / 'build'
@@ -84,6 +85,10 @@ def main(argv):
     for tid, recipe in texedit.recipes().items():  # English UI textures (font/textures.json)
         _, new = texedit.apply(tid, recipe, c.get(byid[int(tid)]))
         rep[int(tid)] = (new, len(new))
+    for sid, recipe in scredit.recipes().items():  # English full-screen graphics (font/screens.json)
+        n = int(sid)
+        _, new = scredit.apply(*(c.get(byid[n + k]) for k in range(3)), recipe)
+        rep[n] = (new, len(new))
     BUILD.mkdir(exist_ok=True)
     out.write_bytes(rom.put_cpk(data, c.build(rep)))
     print(f'build: {len(rep)} files changed -> {out}')

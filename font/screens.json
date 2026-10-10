@@ -1,0 +1,23 @@
+{
+ "00063": {
+  "wipe": [[16, 0, 176, 256]],
+  "text": [
+   {"text": "Movement V", "box": [10, 30, 182, 52], "size": 15},
+   {"text": "Murder in the\nKurogami\nMansion II", "box": [10, 62, 182, 160], "size": 22},
+   {"text": "The Great Detective's\nLast Case File", "box": [10, 178, 182, 218], "size": 12}
+  ]
+ },
+ "00066": {
+  "wipe": [[16, 0, 176, 256]],
+  "text": [
+   {"text": "Movement VI", "box": [10, 40, 182, 62], "size": 15},
+   {"text": "An Offering\nto the Future", "box": [10, 80, 182, 180], "size": 22}
+  ]
+ },
+ "00093": {
+  "wipe": [[16, 0, 176, 256]],
+  "text": [
+   {"text": "Curtain Up\non Tragedy", "box": [10, 70, 182, 170], "size": 22, "fill": [214, 82, 165]}
+  ]
+ }
+}

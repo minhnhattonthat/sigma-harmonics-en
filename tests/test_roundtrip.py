@@ -44,6 +44,19 @@ def test_utf_build_roundtrip():
     assert cpk.utf_parse(b) == ('T', cols, rows)
 
 
+@needs_rom
+def test_screen_edit_roundtrip(orig):
+    import scredit
+    _, c = orig
+    byid = {f['id']: f for f in c.files}
+    for n in (63, 93):  # 8bpp and 4bpp with per-tile palettes
+        g, p, s = (c.get(byid[n + k]) for k in range(3))
+        im = scredit.player_view(g, p, s)
+        assert scredit.encode(g, p, s, im.rotate(-90, expand=True)) == g  # untouched image: bytes unchanged
+        _, new = scredit.apply(g, p, s, scredit.recipes()[f'{n:05d}'])
+        assert len(new) == len(g) and new != g
+
+
 def test_script_ids_stable():
     for p in sorted(text.SCRIPT.glob('*.json')):
         rows = json.loads(p.read_text(encoding='utf-8'))
