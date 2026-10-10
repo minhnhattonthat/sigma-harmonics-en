@@ -36,10 +36,13 @@ def marker(r):
 CTRL = re.compile(r'(\$c\d\d|\\n)')
 
 
-def to_fullwidth(s):
-    """UI routines (e.g. location names, table 6413) hang on 1-byte UTF-8, so UI English uses the full-width
-    twins, which the fonts draw with the same narrow Latin glyphs. Control codes stay ASCII."""
-    return ''.join(p if CTRL.fullmatch(p) else ''.join(chr(latin.fullwidth(ch)) if ' ' <= ch <= '~' else ch for ch in p)
+def to_fullwidth(s, chars=' ~'):
+    """Swap ASCII in [chars[0], chars[1]] for the full-width twins, which the fonts draw with the same narrow
+    Latin glyphs. UI routines (e.g. location names, table 6413) hang on any 1-byte UTF-8, so UI text swaps all;
+    the dialogue renderer clips the glyph after any of 0x50-0x5F (P-Z [ \\ ] ^ _), so dialogue swaps only those.
+    Control codes ($cNN, \\n) stay ASCII."""
+    lo, hi = chars
+    return ''.join(p if CTRL.fullmatch(p) else ''.join(chr(latin.fullwidth(ch)) if lo <= ch <= hi else ch for ch in p)
                    for p in CTRL.split(s))
 
 
@@ -71,7 +74,7 @@ def main(argv):
         for fid, rows in script.items():
             for r in rows:
                 if r['en'] and meta[fid]['form'] == 'dlg':
-                    r['en'] = fit.fit_dialogue(r['en'])
+                    r['en'] = to_fullwidth(fit.fit_dialogue(r['en']), 'P_').replace(' ', chr(latin.SPACE))
                 elif r['en']:
                     r['en'] = to_fullwidth(r['en'])
         rep, out = text.replacements(c, script), BUILD / 'sigma_en.nds'

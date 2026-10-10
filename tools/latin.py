@@ -19,6 +19,7 @@ import nftr
 FONT_DIR = Path(__file__).resolve().parent.parent / 'font'
 ASCII = [chr(c) for c in range(0x20, 0x7F)]
 SPACE_ADV = 4
+SPACE = 0x2002  # en space: the renderer gives U+0020 and U+3000 a full-cell advance, so English spaces use this
 DLG_TTF, DLG_PX = 'STIXGeneral.ttf', 13
 
 
@@ -57,9 +58,9 @@ def raster_ttf(ch, ttf, px, w, h, base, bpp):
         return [[0] * w for _ in range(h)], SPACE_ADV
     im = Image.new('L', (w * 2, h), 0)
     ImageDraw.Draw(im).text((2, base), ch, font=f, fill=255, anchor='ls')
-    l, _, r, _ = im.getbbox()
-    adv = min(w, r - l)      # ink width; the renderer adds 1 px between glyphs
     top = (1 << bpp) - 1
+    l, _, r, _ = im.point(lambda v: 255 if round(v * top / 255) else 0).getbbox()  # ink that survives quantising
+    adv = min(w, r - l)      # ink width; the renderer adds 1 px between glyphs
     return [[round(im.getpixel((l + x, y)) * top / 255) if x < adv else 0 for x in range(w)]
             for y in range(h)], adv
 
@@ -128,7 +129,7 @@ def glyphs(x):
 
 def fullwidth(ch):
     """Full-width twin of an ASCII char: some UI routines only step 3-byte UTF-8, so those tables get these."""
-    return 0x3000 if ch == ' ' else ord(ch) - 0x21 + 0xFF01
+    return SPACE if ch == ' ' else ord(ch) - 0x21 + 0xFF01
 
 
 def set_glyph(x, idx, bitmap, widths):
@@ -145,11 +146,12 @@ def set_glyph(x, idx, bitmap, widths):
 def add_ascii(x):
     """Font bytes with every ASCII glyph present and drawn in our Latin style."""
     have = nftr.codes(x)
+    gl = glyphs(x)
     new = {}
-    for code, g in glyphs(x).items():
+    for code, g in gl.items():
         idx = nftr.lookup(x, code) if code in have else None
-        if idx is None or (code in (0x20, 0x3000) and idx == 0):
-            new[code] = g  # space shares glyph 0, drawn a full cell wide: give it its own narrow glyph
-        else:
+        if idx is None:
+            new[code] = g
+        elif code != 0x20:  # keep the game's own space (glyph 0); English uses SPACE
             x = set_glyph(x, idx, g[0], g[1:])
     return nftr.add_glyphs(x, new) if new else x
