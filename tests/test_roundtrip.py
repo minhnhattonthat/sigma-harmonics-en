@@ -49,7 +49,7 @@ def test_screen_edit_roundtrip(orig):
     import scredit
     _, c = orig
     byid = {f['id']: f for f in c.files}
-    for n in (63, 93, 2624):  # 8bpp, 4bpp with per-tile palettes, 72 tiles sharing a blank one
+    for n in (63, 93, 2624, 1118):  # 8bpp, 4bpp with per-tile palettes, 72 tiles sharing a blank one, 64 wide
         g, p, s = (c.get(byid[n + k]) for k in range(3))
         im = scredit.player_view(g, p, s)
         assert scredit.encode(g, p, s, im.rotate(-90, expand=True)) == (g, s)  # untouched image: bytes unchanged

@@ -132,7 +132,8 @@ def encode(g, p, s, new_raw):
             struct.pack_into('<HH', out, j + 0xC, w, h)
     j, _ = gfx.block(s, b'NRCS')
     new_s = bytearray(s)
-    struct.pack_into(f'<{len(ents)}H', new_s, j + 0x14, *ents)
+    for k, o in enumerate(gfx.screen_order(sw, sh)):
+        struct.pack_into('<H', new_s, j + 0x14 + 2 * o, ents[k])
     return bytes(out), bytes(new_s)
 
 

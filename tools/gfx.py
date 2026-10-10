@@ -47,11 +47,17 @@ def nclr(b):
     return out
 
 
+def screen_order(sw, sh):
+    """File index of each row-major cell: screens wider than 32 cells are stored as 32-wide blocks, left to right."""
+    return [c // 32 * 32 * sh + r * min(32, sw - c // 32 * 32) + c % 32 for r in range(sh) for c in range(sw)]
+
+
 def nscr(b):
+    """(cells wide, cells high, entries in row-major order)."""
     i, _ = block(b, b'NRCS')
     w, h, _, size = struct.unpack_from('<HHII', b, i + 8)
-    d = b[i + 0x14:i + 0x14 + size]
-    return w // 8, h // 8, [struct.unpack_from('<H', d, k)[0] for k in range(0, len(d), 2)]
+    d = struct.unpack_from(f'<{size // 2}H', b, i + 0x14)
+    return w // 8, h // 8, [d[k] for k in screen_order(w // 8, h // 8)]
 
 
 def render(tiles, pal, bpp, cols=32, screen=None, pal_n=0):
