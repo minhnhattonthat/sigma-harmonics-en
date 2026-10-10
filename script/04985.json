@@ -562,7 +562,7 @@
  {
   "id": "04985:0112",
   "jp": "敵全体にダメージ",
-  "en": "Damage all foes"
+  "en": "Damages all foes"
  },
  {
   "id": "04985:0113",
@@ -632,7 +632,7 @@
  {
   "id": "04985:0126",
   "jp": "闇を切る騎士",
-  "en": "Knight Who Cleaves the Dark"
+  "en": "Dark-Cleaving Knight"
  },
  {
   "id": "04985:0127",
@@ -647,7 +647,7 @@
  {
   "id": "04985:0129",
   "jp": "歴史を導く剣匠",
-  "en": "Swordmaster Who Guides History"
+  "en": "History-Guiding Swordmaster"
  },
  {
   "id": "04985:0130",
@@ -667,7 +667,7 @@
  {
   "id": "04985:0133",
   "jp": "真実に挑む銃手",
-  "en": "Gunner Who Challenges Truth"
+  "en": "Truth-Challenging Gunner"
  },
  {
   "id": "04985:0134",

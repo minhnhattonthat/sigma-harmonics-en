@@ -47,7 +47,7 @@
  {
   "id": "04404:0009",
   "jp": "犯人は、大婆が$c02死$c00んだ時\\n【居間にいた人物】\\nだろうか？",
-  "en": "When Obaba $c02died$c00, was the culprit a [Person in the Living Room]?"
+  "en": "When Obaba $c02died$c00, was the culprit the [Person in the Living Room]?"
  },
  {
   "id": "04404:0010",
@@ -87,7 +87,7 @@
  {
   "id": "04404:0017",
   "jp": "まず、考えるべきは\\n【居間にいた人物】が\\n犯人かどうかだ",
-  "en": "The first thing to consider is whether a [Person in the Living Room] is the culprit."
+  "en": "The first thing to consider is whether the [Person in the Living Room] is the culprit."
  },
  {
   "id": "04404:0018",
@@ -322,7 +322,7 @@
  {
   "id": "04404:0064",
   "jp": "再推理をすると",
-  "en": "If I reason it out again..."
+  "en": "If I choose Re-Reason..."
  },
  {
   "id": "04404:0065",

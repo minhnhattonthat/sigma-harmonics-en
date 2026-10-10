@@ -42,7 +42,7 @@
  {
   "id": "04402:0008",
   "jp": "黒い丸の中に見える\\n白い丸は【思考の闇】が\\n求める刻音の数",
-  "en": "The white circles inside are the Echoes the [Darkness of Thought] needs."
+  "en": "The white circles show how many Echoes the [Darkness of Thought] needs."
  },
  {
   "id": "04402:0009",
@@ -207,7 +207,7 @@
  {
   "id": "04402:0041",
   "jp": "答えは出ていた\\nこれで……",
-  "en": "the answer was there. With this..."
+  "en": "The answer was there. With this..."
  },
  {
   "id": "04402:0042",
@@ -332,7 +332,7 @@
  {
   "id": "04402:0066",
   "jp": "それに関する\\n刻音だけを",
-  "en": "then, if you place only the Echoes related to it,"
+  "en": "and if you place only the Echoes related to it,"
  },
  {
   "id": "04402:0067",
@@ -342,12 +342,12 @@
  {
   "id": "04402:0068",
   "jp": "それと、１度置いた\\n刻音は元に戻せない\\nので、再推理をタッチ",
-  "en": "Also, a placed Echo can't be taken back, so touch Re-Reason--"
+  "en": "Also, a placed Echo can't be taken back, so touch Re-Reason"
  },
  {
   "id": "04402:0069",
   "jp": "推理を最初から\\n組み立てなおす必要が\\nあります",
-  "en": "you'll need to rebuild your reasoning from the start."
+  "en": "and rebuild your reasoning from the start."
  },
  {
   "id": "04402:0070",

@@ -32,7 +32,7 @@
  {
   "id": "04674:0006",
   "jp": "仕方がない、\\n全ての時間の$c02大逢魔$c00を\\n倒して出直そう",
-  "en": "No choice. Let's defeat the $c02Great Ouma$c00 of every time and come back."
+  "en": "No choice. Let's defeat the $c02Great Ouma$c00 of every era and come back."
  },
  {
   "id": "04674:0007",
@@ -282,7 +282,7 @@
  {
   "id": "04674:0056",
   "jp": "負けたことがないと\\n言い切る！",
-  "en": "You declare you've never lost!"
+  "en": "So you declare you've never lost!"
  },
  {
   "id": "04674:0057",
@@ -477,7 +477,7 @@
  {
   "id": "04674:0095",
   "jp": "もしかして",
-  "en": "Hey, could it be"
+  "en": "Could it be"
  },
  {
   "id": "04674:0096",

@@ -72,7 +72,7 @@
  {
   "id": "04414:0014",
   "jp": "犯人と思しき人物の\\n刻音と、それを裏付ける\\n刻音を置こう",
-  "en": "Place the Echo of the likely culprit and an Echo that backs it up."
+  "en": "Place the Person Echo of the likely culprit, and an Echo that backs it up."
  },
  {
   "id": "04414:0015",
@@ -137,7 +137,7 @@
  {
   "id": "04414:0027",
   "jp": "犯人の人物刻音、\\nそして犯行の裏付けと\\nなる刻音を置こう",
-  "en": "Place the culprit's person Echo, and an Echo that backs up the crime."
+  "en": "Place the culprit's Person Echo, and an Echo that backs up the crime."
  },
  {
   "id": "04414:0028",
@@ -242,7 +242,7 @@
  {
   "id": "04414:0048",
   "jp": "銃声が館全体に\\n響き渡ったと\\n考えていいだろう",
-  "en": "we can assume the gunshot echoed through the whole mansion."
+  "en": "we can assume the gunshot resounded through the whole mansion."
  },
  {
   "id": "04414:0049",
