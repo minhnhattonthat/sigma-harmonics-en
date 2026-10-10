@@ -24,7 +24,8 @@ def main():
             if not r['en']:
                 continue
             done += 1
-            for e in batches.errors(r, r['en'], m[fid]) + batches.term_errors(r['jp'], r['en'], terms):
+            exempt = r['id'].startswith(batches.TERM_EXEMPT)
+            for e in batches.errors(r, r['en'], m[fid]) + ([] if exempt else batches.term_errors(r['jp'], r['en'], terms)):
                 errs.append(f"{r['id']}: {e}")
             if KANA.search(r['en']):
                 errs.append(f"{r['id']}: Japanese left in English")

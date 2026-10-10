@@ -86,11 +86,21 @@ def limit_of(row, m):
                                        if is_text(r2['jp'])]
     near = [_jp_budget(jp, m['cell']) for jp in _ui_budget.get(row['id'], [row['jp']])] or [_jp_budget(row['jp'], m['cell'])]
     px = max(px for _, px in near)
-    return max(n for n, _ in near), max(px, PROVISIONAL.get(int(row['id'][:5]), 0))
+    measured = [v for k, v in MEASURED.items() if row['id'].startswith(k)]
+    return max(n for n, _ in near), measured[0] if measured else max(px, PROVISIONAL.get(int(row['id'][:5]), 0))
 
 
-# Location-name tables: full names don't fit the JP-sized budget; box width unverified in game (docs/re/verify.md)
-PROVISIONAL = {4700: 150, 4708: 150, 6413: 180, 4741: 156, 4726: 210}
+# Term/skill lists: full names don't fit the JP-sized budget; box width unverified in game (docs/re/verify.md)
+PROVISIONAL = {4741: 156, 4726: 210}
+# Widths measured in game (id prefix -> px); override the budgets above
+MEASURED = {
+    '06413': 128,       # field location label, 128 px to the screen edge after the dlgfont.PATCH canvas move
+    '04695:003': 54,    # save/load card chapter, before the fixed hour column
+    '04703:003': 54,
+    '04700': 113,       # save/load card location line, to the card border (narrow font: ~0.82 px per lint px)
+    '04708': 113,
+}
+TERM_EXEMPT = ('04695:003', '04703:003')  # save card chapter: numerals only (I, Hidden III), no room for "Movement"
 
 
 def errors(row, en, m):

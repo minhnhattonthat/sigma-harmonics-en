@@ -45,6 +45,8 @@ PATCH = [
     (0x200d920, 0xe59a1010, 0xe59a1014),  # ldr r1, [sl, #0x14]  per char: y += advance (was x -= advance)
     (0x200d924, 0xe0410000, 0xe0810000),  # add r0, r1, r0
     (0x200d928, 0xe58a0010, 0xe58a0014),  # str r0, [sl, #0x14]
+    # not dialogue: field location label (table 06413) canvas starts at tile row 8, not 12 (128 px room, was 96)
+    (0x2048a10, 0xe3a0c00c, 0xe3a0c008),  # mov ip, #8
 ]
 
 

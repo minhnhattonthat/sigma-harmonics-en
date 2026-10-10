@@ -161,15 +161,19 @@ def set_glyph(x, idx, bitmap, widths):
     return bytes(x)
 
 
+KEEP = range(0x30, 0x3b)  # the game's own ASCII digits and ':' (play time, counters): drawn into tight canvases
+
+
 def add_ascii(x):
-    """Font bytes with every ASCII glyph present and drawn in our Latin style."""
+    """Font bytes with every ASCII glyph present and drawn in our Latin style (native digits and ':' kept)."""
     have = nftr.codes(x)
     gl = glyphs(x)
+    keep = () if params(x)['flags'] == 3 else KEEP  # the dialogue font's direction changes, so it takes ours
     new = {}
     for code, g in gl.items():
         idx = nftr.lookup(x, code) if code in have else None
         if idx is None:
             new[code] = g
-        elif code != 0x20:  # keep the game's own space (glyph 0); English uses SPACE
+        elif code != 0x20 and code not in keep:  # keep the game's own space (glyph 0); English uses SPACE
             x = set_glyph(x, idx, g[0], g[1:])
     return nftr.add_glyphs(x, new) if new else x
