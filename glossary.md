@@ -16,7 +16,8 @@ Seeded from the game's own term list (string table 04741, term + kana reading) a
   《term》 -> <term>, …… / ・・・ -> ..., ！？ / ？！ -> ?!, ～ -> ~, ー (long stretch) -> letters ("Kyaaa!").
 - Full-width digits/letters become ASCII (１８時 -> 6 PM / 18:00, Ｑ．Ｅ．Ｄ． -> Q.E.D.).
 - `$cNN ... $c00` are colour codes: keep every one, in order, around the matching English words.
-- Dialogue is auto-wrapped by the build (3 lines x 180 px, ~26 chars/line). Don't write `\n` in dialogue.
+- Dialogue is auto-wrapped by the build (a bubble is 62 px wide, up to 12 lines; long words get hyphenated). Don't
+  write `\n` in dialogue; the lint fails a line that can't fit.
 - Plain ASCII only. No curly quotes, no em dash (use --).
 
 ## Characters

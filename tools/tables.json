@@ -1,0 +1,1812 @@
+{
+"3964": {
+"form": "ui",
+"font": 3963,
+"cell": 12
+},
+"3966": {
+"form": "ui",
+"font": 3965,
+"cell": 9
+},
+"3976": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3978": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3980": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3984": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3986": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3988": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3990": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3992": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3996": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"3998": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4000": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4002": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4004": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4006": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4008": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4010": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4016": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4018": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4020": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4022": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4024": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4026": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4028": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4030": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4032": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4034": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4036": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4038": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4040": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4042": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4044": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4046": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4048": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4050": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4052": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4054": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4056": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4058": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4060": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4062": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4064": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4066": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4068": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4070": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4072": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4078": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4080": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4082": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4084": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4086": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4088": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4090": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4092": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4094": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4096": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4098": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4100": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4102": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4104": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4106": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4108": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4110": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4112": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4114": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4116": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4118": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4120": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4122": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4124": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4126": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4128": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4130": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4132": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4134": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4136": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4138": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4140": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4142": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4144": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4146": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4148": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4150": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4152": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4156": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4158": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4160": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4162": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4164": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4166": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4168": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4170": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4172": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4174": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4176": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4178": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4180": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4182": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4184": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4186": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4188": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4190": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4192": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4194": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4196": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4198": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4200": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4202": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4204": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4206": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4208": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4210": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4212": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4214": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4216": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4218": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4220": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4222": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4224": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4226": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4228": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4230": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4232": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4234": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4236": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4238": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4240": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4242": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4244": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4246": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4248": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4250": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4252": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4254": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4256": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4258": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4260": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4262": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4264": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4266": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4268": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4270": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4272": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4274": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4276": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4278": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4280": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4282": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4284": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4286": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4288": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4290": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4292": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4294": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4296": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4298": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4300": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4302": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4304": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4306": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4308": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4310": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4312": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4314": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4316": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4318": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4320": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4322": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4324": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4326": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4328": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4330": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4332": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4334": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4336": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4338": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4340": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4342": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4344": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4346": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4348": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4350": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4352": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4354": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4356": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4358": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4360": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4362": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4364": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4366": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4368": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4370": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4372": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4374": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4376": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4378": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4380": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4382": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4384": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4386": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4388": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"4390": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"4398": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4400": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4402": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4404": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4406": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4408": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4410": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4412": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4414": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4416": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4418": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4420": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4422": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4424": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4426": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4428": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4430": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4432": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4434": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4436": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4438": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4440": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4442": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4444": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4446": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4448": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4450": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4452": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4454": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4456": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4458": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4460": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4462": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4466": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4468": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4470": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4472": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4474": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4476": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4478": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4480": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4482": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4486": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4488": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4490": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4494": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4496": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4498": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4502": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4504": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4506": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4508": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4510": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4512": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4514": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4532": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4534": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4536": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4538": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4540": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4542": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4544": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4546": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4548": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4550": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4552": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4554": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4558": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4560": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4562": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4564": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4566": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4568": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4570": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4572": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4574": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4576": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4578": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4580": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4582": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4584": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4586": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4588": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4590": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4592": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4594": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4596": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4598": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4600": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4602": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4604": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4606": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4608": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4610": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4612": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4614": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4618": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4620": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4622": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4624": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4626": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4628": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4630": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4632": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4634": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4636": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4638": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4640": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4642": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4646": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4648": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4650": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4652": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4654": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4658": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4660": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4662": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4664": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4668": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4670": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4672": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4674": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4676": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4678": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4680": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4682": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4684": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4686": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4688": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4690": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4692": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4695": {
+"form": "ui",
+"font": 4694,
+"cell": 9
+},
+"4697": {
+"form": "ui",
+"font": 4696,
+"cell": 9
+},
+"4700": {
+"form": "ui",
+"font": 4699,
+"cell": 9
+},
+"4703": {
+"form": "ui",
+"font": 4702,
+"cell": 9
+},
+"4705": {
+"form": "ui",
+"font": 4704,
+"cell": 9
+},
+"4708": {
+"form": "ui",
+"font": 4707,
+"cell": 9
+},
+"4711": {
+"form": "ui",
+"font": 4710,
+"cell": 9
+},
+"4713": {
+"form": "ui",
+"font": 4712,
+"cell": 9
+},
+"4716": {
+"form": "ui",
+"font": 4715,
+"cell": 9
+},
+"4719": {
+"form": "ui",
+"font": 4718,
+"cell": 11
+},
+"4722": {
+"form": "ui",
+"font": 4721,
+"cell": 8
+},
+"4724": {
+"form": "ui",
+"font": 4723,
+"cell": 5
+},
+"4726": {
+"form": "ui",
+"font": 4725,
+"cell": 9
+},
+"4729": {
+"form": "ui",
+"font": 4728,
+"cell": 18
+},
+"4732": {
+"form": "ui",
+"font": 4731,
+"cell": 9
+},
+"4734": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4736": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4739": {
+"form": "ui",
+"font": 4738,
+"cell": 9
+},
+"4741": {
+"form": "ui",
+"font": 4740,
+"cell": 9
+},
+"4743": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4745": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4747": {
+"form": "dlg",
+"font": 4387,
+"cell": 16
+},
+"4985": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"5609": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"6365": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"6367": {
+"form": "ui",
+"font": 6366,
+"cell": 11
+},
+"6413": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+},
+"6813": {
+"form": "ui",
+"font": 4387,
+"cell": 16
+}
+}

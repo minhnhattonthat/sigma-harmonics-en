@@ -1,6 +1,6 @@
 """Translation batches for agents.
 
-python -X utf8 tools/batches.py meta            # build/tables.json: per table form (dlg|ui) and font (needs ROM)
+python -X utf8 tools/batches.py meta            # tools/tables.json: per table form (dlg|ui) and font (needs ROM)
 python -X utf8 tools/batches.py split [--chars 3500]   # work/tl/bNNN.tsv + build/terms_bNNN.txt for untranslated text
 python -X utf8 tools/batches.py check bNNN      # validate work/tl/bNNN.out.tsv; prints OK or errors
 python -X utf8 tools/batches.py merge bNNN      # check, then write English into script/*.json (+ exact-duplicate JP)
@@ -24,7 +24,7 @@ import text  # noqa: E402
 
 ROOT = text.ROOT
 TL = ROOT / 'work' / 'tl'
-META = ROOT / 'build' / 'tables.json'
+META = ROOT / 'tools' / 'tables.json'  # committed, so the text checks run without the ROM
 SPEAKERS = ROOT / 'build' / 'speakers.json'
 GLOSSARY = ROOT / 'glossary.md'
 JP = re.compile('[぀-ヿ一-鿿]')

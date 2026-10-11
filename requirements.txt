@@ -1,0 +1,6 @@
+Pillow>=10
+pytest>=8
+# optional, only for the arm9 research helpers (tools/arm9dis.py, tools/exp_horizontal.py)
+# ndspy>=4.2
+# capstone>=5
+# keystone-engine>=0.9
