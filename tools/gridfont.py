@@ -2,11 +2,11 @@
 becomes a run of 9-column chunk glyphs holding two lines of pixel Latin, and the font's cell is made 16 rows tall
 (nftr recell: every glyph shifted 7 columns, since flags 2 stores the vertical axis as columns).
 
-STYLES, by table:
-- 05609, Descent skill grid (3 columns x 7 rows of 62 px cells, 16 px high): every name is chunks of px9 text, one
-  or two lines. PATCH moves the 21 grid rects to tile-aligned y and a 16 px height so the canvas holds it.
-- 04985, battle skill names under the cards (62 px wide, ~11 rows above the screen edge): names that fit one px9 line
-  stay plain text; longer ones are two lines of a 3x5 uppercase font (rows 0-4 and 6-10).
+Table 05609 rows 152-223 are the skill names of BOTH the Descent grid (3 columns x 7 rows of 62 px cells; PATCH moves
+the 21 rects to tile-aligned y and a 16 px height so the canvas holds a taller glyph) and the battle cards (62 px
+wide, only ~11 rows from y=245 to the screen edge). So a name that fits one line of plain text stays plain, and a
+longer one is two lines of a 3x5 uppercase font in rows 0-4 and 6-10, which fits both. ('px9' style, two lines of
+the 9 px font, needs 16 rows: fine for Descent, cut off in battle.) 04985/06365 hold the same names, drawn plain.
 Only these screens draw with 05611 (headers use 04725), so nothing else changes.
 """
 import re
@@ -14,11 +14,12 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import fit  # noqa: E402
 import latin  # noqa: E402
 import nftr  # noqa: E402
 
 FONT = 5611
-STYLES = {'05609': 'px9', '04985': 'tiny'}
+STYLES = {'05609': 'tiny'}    # the Descent grid and the battle cards read the SAME table, so one style serves both
 FIRST, LAST = 152, 223        # string indices both screens read (docs/re/verify.md)
 CELL = 58                     # px a one-line (px9) name may use; wider ones go on two lines
 MAXLINE = 62                  # px of a two-line half: the cell pitch
@@ -85,7 +86,8 @@ def px(s, style='px9'):
 
 def lines(name, style='px9'):
     """[line]: one px9 line if it fits a cell, else the most even two-line split at a space or hyphen."""
-    if px(name) <= CELL:
+    plain = fit.width(name, ui=True)  # ordinary text spaces every glyph by advance + 1 (wider than the strip)
+    if (px(name) if style == 'px9' else plain) <= CELL:
         return [name]
     cuts = [m.end() for m in re.finditer(r'[ -]', name)]
     best = min(((max(px(name[:k].rstrip(), style), px(name[k:], style)), k) for k in cuts), default=None)
@@ -137,7 +139,7 @@ class Plan:
 
     def chunked(self, name):
         """px9 draws every name as chunks; tiny only the names that do not fit one px9 line."""
-        return self.style == 'px9' or len(lines(name)) == 2
+        return self.style == 'px9' or len(lines(name, self.style)) == 2
 
     def encode(self, name):
         if not self.chunked(name):
