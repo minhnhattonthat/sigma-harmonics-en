@@ -116,8 +116,8 @@ def errors(row, en, m):
         out.append("stray '$' (only $cNN colour codes are allowed)")
     if ORDINAL.search(en):
         out.append('ordinal suffix after a number (rephrase)')
-    if gridfont.is_grid(row['id']):  # Descent skill grid: two lines of pixel text in a cell
-        return out + gridfont.errors(en)
+    if gridfont.is_grid(row['id']):  # skill names drawn as pixel chunks (Descent grid, battle cards)
+        return out + gridfont.errors(en, gridfont.style_of(row['id']))
     nlines, px = limit_of(row, m)
     if m['form'] == 'dlg':
         try:

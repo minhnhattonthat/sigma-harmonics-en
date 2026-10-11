@@ -16,7 +16,13 @@ Checked 2026-10-11 with an end-game save (Death Movement, 1F Great Clock Chamber
   16 rows (flags 2 keeps the vertical axis in columns: old columns shift +7) and each name is a run of 9-column chunk
   glyphs (U+F900..) holding 1 or 2 lines of px9. Drawn by 0x2051e70 (open) and the code around 0x2051d08 (card
   switch); slot data fp+0x1eb98 + col*0x38 + row*8 (<0 = empty). Widest line 62 px (cell pitch). QA: all 12 cards of
-  the end-game save, both tabs. The same names in 04985/05609/06365 elsewhere (battle) are untouched.
+  the end-game save, both tabs.
+- Battle (user state tools/desmume/StateSlots/battle.dst, made with the recelled font): loads 05610 (12x13) and 05611.
+  The skill name under each of the 3 cards comes from table 04985 rows 152-223 (not 05609; descriptions in the top bar
+  are rows 111-124, fine). The engine wraps at 62 px and line 2 falls off the screen: ~11 rows from y=245 to the
+  edge, so gridfont style 'tiny' draws names wider than one px9 line as two lines of 3x5 caps (rows 0-4 / 6-10).
+  Names are drawn ONCE at battle start (and when a card is replaced), so a state made mid-battle shows the old
+  strings: IN-GAME CHECK STILL OPEN, pixel-exact mockup only (work/qa/bt1/mock.png). 06365 (battle status/other) untouched.
 - Sprites (tools/sprite.py, font/sprites.json): field hour badge 06421, Notebook 06822 buttons, battle labels
   05714/05717/05735 done. Left as is: Shiki card art (zodiac kanji), battle icons 曲/技/神 (05720/05729/05738, which
   already carry -Battle Music- / -Card Skill- / -Job Change-).
