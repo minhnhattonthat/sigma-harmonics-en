@@ -16,6 +16,7 @@ import latin  # noqa: E402
 import rom  # noqa: E402
 import text  # noqa: E402
 import scredit  # noqa: E402
+import sprite  # noqa: E402
 import texedit  # noqa: E402
 
 BUILD = text.ROOT / 'build'
@@ -100,6 +101,10 @@ def main(argv):
         n = int(sid)
         _, g, s = scredit.apply(*(c.get(byid[n + k]) for k in range(3)), recipe)
         rep[n], rep[n + 2] = (g, len(g)), (s, len(s))
+    for sid, recipe in sprite.recipes().items():  # English sprite labels (font/sprites.json)
+        n = int(sid)
+        g = sprite.apply(*(c.get(byid[n + k]) for k in (-1, 0, 1)), recipe)
+        rep[n] = (g, len(g))
     BUILD.mkdir(exist_ok=True)
     new_rom = rom.put_cpk(data, c.build(rep))
     out.write_bytes(dlgfont.patch_arm9(new_rom) if plan else new_rom)

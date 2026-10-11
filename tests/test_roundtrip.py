@@ -62,6 +62,28 @@ def test_screen_edit_roundtrip(orig):
         assert diff < 0.01 * back.width * back.height, diff
 
 
+@needs_rom
+def test_sprite_edit_roundtrip(orig):
+    import sprite
+    _, c = orig
+    byid = {f['id']: f for f in c.files}
+    for n, rec in sprite.recipes().items():  # every recipe: only its cells change, and what was drawn lands
+        e, g, p = (c.get(byid[int(n) + k]) for k in (-1, 0, 1))
+        assert sprite.apply(e, g, p, {}) == g
+        ng = sprite.apply(e, g, p, rec)
+        tiles, bpp, _, _, _ = sprite.gfx.ncgr(ng)
+        pal = sprite.palette(p)
+        for k, cell in enumerate(sprite.ncer(e)):
+            old = sprite.raw_cell(cell, sprite.gfx.ncgr(g)[0], pal, bpp)[0]
+            new = sprite.raw_cell(cell, tiles, pal, bpp)[0]
+            if str(k) in rec:
+                want = sprite.edit(old.rotate(90, expand=True), rec[str(k)]).rotate(-90, expand=True)
+                bad = sum(1 for a, b in zip(new.getdata(), want.getdata()) if (a[3] > 0) != (b[3] >= 128))
+                assert bad < 0.02 * new.width * new.height, (n, k, bad)
+            else:
+                assert new.tobytes() == old.tobytes(), (n, k)  # no tile shared with an edited cell
+
+
 def test_script_ids_stable():
     for p in sorted(text.SCRIPT.glob('*.json')):
         rows = json.loads(p.read_text(encoding='utf-8'))
