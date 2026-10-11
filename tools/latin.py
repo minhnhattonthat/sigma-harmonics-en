@@ -22,6 +22,7 @@ ASCII = [chr(c) for c in range(0x20, 0x7F)]
 SPACE_ADV = 4
 SPACE = 0x2002  # en space: the renderer gives U+0020 and U+3000 a full-cell advance, so English spaces use this
 DLG_TTF, DLG_PX = 'STIXGeneral.ttf', 13
+BASIC = ImageFont.Layout.BASIC  # not raqm (Pillow's Linux wheels have it): same widths and pixels on every platform
 
 
 def params(x):
@@ -32,7 +33,7 @@ def params(x):
 
 @lru_cache(None)
 def _ttf(name, px):
-    return ImageFont.truetype(str(FONT_DIR / name), px)
+    return ImageFont.truetype(str(FONT_DIR / name), px, layout_engine=BASIC)
 
 
 @lru_cache(None)

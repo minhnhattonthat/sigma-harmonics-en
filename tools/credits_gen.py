@@ -239,7 +239,7 @@ def lines(i):
 
 
 def width(text, size):
-    f = ImageFont.truetype(STIX, size)
+    f = ImageFont.truetype(STIX, size, layout_engine=ImageFont.Layout.BASIC)  # same on every platform
     l, _, r, _ = f.getbbox(text)
     return r - l
 

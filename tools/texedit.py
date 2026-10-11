@@ -76,7 +76,7 @@ def label(im, box, text, size=None, align='center', border=BORDER, fill=(255, 25
     layer = Image.new('RGBA', im.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(layer)
     while True:  # shrink until it fits the face ('\n' gives two lines)
-        f = ImageFont.truetype(str(font), size)
+        f = ImageFont.truetype(str(font), size, layout_engine=ImageFont.Layout.BASIC)  # same on every platform
         l, t, r, b = d.multiline_textbbox((0, 0), text, font=f, spacing=0, align='center')
         if (r - l <= bw and b - t <= bh) or size <= 7:
             break
