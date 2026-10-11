@@ -97,9 +97,11 @@ def _map_code(blk, code, idx):
         raise ValueError(f'U+{code:04X} falls in a direct CMAP block')
 
 
-def add_glyphs(x, new):
+def add_glyphs(x, new, recell=None):
     """Append glyphs and map their codes in the existing CMAP chain. The game stops at the first
-    CMAP block whose range holds a code, so new codes must go into the block that owns them."""
+    CMAP block whose range holds a code, so new codes must go into the block that owns them.
+    recell = (w, size, fn, dw): first change the cell to width w / `size` bytes per glyph, rewriting every existing
+    glyph with fn(bytes) and adding dw to each non-zero glyph width; `new` glyphs then use the new size."""
     head, blocks = _blocks(x)
     tags = [t for t, _ in blocks]
     finf, cglp, cwdh = (blocks[tags.index(t)][1] for t in (b'FNIF', b'PLGC', b'HDWC'))
@@ -116,6 +118,15 @@ def add_glyphs(x, new):
         chain.append(at[ptr])
         ptr, = struct.unpack_from('<I', at[ptr], 0x10)
     n = last + 1
+    if recell:                                  # after the chain is mapped: block sizes change here
+        w, size, fn, dw = recell
+        old = [bytes(cglp[0x10 + i * cs:0x10 + (i + 1) * cs]) for i in range(n)]
+        cglp[8], cglp[0xA:0xC] = w, struct.pack('<H', size)
+        cglp[:] = cglp[:0x10] + b''.join(fn(g) for g in old)
+        for i in range(n):
+            if cwdh[0x11 + 3 * i]:
+                cwdh[0x11 + 3 * i] += dw
+        cs = size
     codes = sorted(new)
     cglp[:] = _pad(cglp[:0x10 + n * cs] + b''.join(new[c][0] for c in codes))
     cwdh[:] = _pad(cwdh[:0x10 + 3 * n] + b''.join(bytes(new[c][1:]) for c in codes))

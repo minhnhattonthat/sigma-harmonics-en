@@ -12,7 +12,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 import batches  # noqa: E402
 import dlgfont  # noqa: E402
 import fit  # noqa: E402
+import gridfont  # noqa: E402
 import latin  # noqa: E402
+import nftr  # noqa: E402
 import rom  # noqa: E402
 import text  # noqa: E402
 import scredit  # noqa: E402
@@ -83,17 +85,25 @@ def main(argv):
                 if r['en'] and meta[fid]['form'] == 'dlg':
                     r['en'] = fit.fit_dialogue(r['en'])
                     dlg.append(r)
-                elif r['en']:
+                elif r['en'] and not gridfont.is_grid(r['id']):  # grid names: see gridfont, encoded below
                     r['en'] = to_fullwidth(r['en'])
         keep = {ch for rows in script.values() for r in rows if not r['en'] for ch in r['jp']}  # still Japanese
+        grid = gridfont.Plan([r['en'] for rows in script.values() for r in rows if r['en'] and gridfont.is_grid(r['id'])],
+                             nftr.codes(c.get(byid[gridfont.FONT])))
         plan = dlgfont.Plan([r['en'] for r in dlg], dlgfont.slots(c.get(byid[dlgfont.FONT]), keep))
         for r in dlg:
             r['en'] = plan.encode(r['en'])
+        for rows in script.values():
+            for r in rows:
+                if r['en'] and gridfont.is_grid(r['id']):
+                    r['en'] = to_fullwidth(grid.encode(r['en']))
         rep, out = text.replacements(c, script), BUILD / 'sigma_en.nds'
     rep.update(fonts(c))
     if plan:
         new = plan.font(rep[dlgfont.FONT][0])
         rep[dlgfont.FONT] = (new, len(new))
+        new = grid.font(rep[gridfont.FONT][0])
+        rep[gridfont.FONT] = (new, len(new))
     for tid, recipe in texedit.recipes().items():  # English UI textures (font/textures.json)
         _, new = texedit.apply(tid, recipe, c.get(byid[int(tid)]))
         rep[int(tid)] = (new, len(new))

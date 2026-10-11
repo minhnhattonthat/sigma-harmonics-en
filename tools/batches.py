@@ -17,6 +17,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import fit  # noqa: E402
+import gridfont  # noqa: E402
 import latin  # noqa: E402
 import nftr  # noqa: E402
 import text  # noqa: E402
@@ -115,6 +116,8 @@ def errors(row, en, m):
         out.append("stray '$' (only $cNN colour codes are allowed)")
     if ORDINAL.search(en):
         out.append('ordinal suffix after a number (rephrase)')
+    if gridfont.is_grid(row['id']):  # Descent skill grid: two lines of pixel text in a cell
+        return out + gridfont.errors(en)
     nlines, px = limit_of(row, m)
     if m['form'] == 'dlg':
         try:

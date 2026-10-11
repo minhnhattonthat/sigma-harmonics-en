@@ -30,5 +30,6 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
 ## Status
 - Done: engine, 53 batches translated + reviewed, all graphics groups (font/screens*.json), credits verified,
   horizontal dialogue bubbles (opening QA'd), end-game save QA (docs/re/verify.md), sprite labels.
-- Next: Descent skill grid (3 x 64 px cells, names overflow; docs/re/verify.md), battle screens, release (xdelta).
-  Marker build (--marker) does not apply dlgfont.
+- Descent skill grid: two-line names via tools/gridfont.py (font 05611 re-celled, rect patch in dlgfont.PATCH).
+- Next: battle screens (skill/status names 04985/06365, Auto Attack labels), release (xdelta).
+  Marker build (--marker) does not apply dlgfont or gridfont.

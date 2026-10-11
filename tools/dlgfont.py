@@ -14,6 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import fit  # noqa: E402
+import gridfont  # noqa: E402
 import latin  # noqa: E402
 import nftr  # noqa: E402
 
@@ -48,6 +49,7 @@ PATCH = [
     # not dialogue: field location label (table 06413) canvas starts at tile row 8, not 12 (128 px room, was 96)
     (0x2048a10, 0xe3a0c00c, 0xe3a0c008),  # mov ip, #8
 ]
+PATCH += gridfont.PATCH  # Descent skill grid rects (static data)
 
 
 def patch_arm9(rom):
