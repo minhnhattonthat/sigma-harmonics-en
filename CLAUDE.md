@@ -12,7 +12,10 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
 ## Paths
 - Original ROM: `rom/Sigma Harmonics (Japan).nds` (gitignored, SHA-1 7b37857acc91704d05f3c90143cbf8e972c54ffd). Emulator: `tools/desmume/` (gitignored, lua51.dll beside exe).
 - Text: `script/NNNNN.json` (one per CPK string table; `id`, `jp`, `en`). Glossary + rulings: `glossary.md`. RE notes: `docs/re/README.md`.
-- Code: `tools/` cpk.py (CPK/@UTF/CRILAYLA), rom.py (NitroFS cpk swap), strtab.py, text.py, build.py, nftr.py (fonts).
+- Code: `tools/` cpk.py (CPK/@UTF/CRILAYLA), rom.py (NitroFS cpk swap), strtab.py, text.py, build.py, nftr.py (fonts),
+  scredit.py (screens, font/screens*.json), sprite.py (sprite cells, font/sprites.json).
+- End-game save: `rom/Sigma Harmonics (Japan).dsv` (user's; copy to tools/desmume/Battery/<rom name>.dsv). Load route:
+  title t128,96 x2, Continue t93,110, slot t195,78, Yes t155,88, tap. Savestates go stale after every rebuild.
 
 ## Rulings
 - Honorifics kept, given name first. Romanisation: official/fan (chocomog257 guide) else Hepburn. Credits English. No abbreviations.
@@ -26,6 +29,6 @@ Skill: translate-retro-game (H:/translation/sigma-hamonics/.claude/skills/transl
 
 ## Status
 - Done: engine, 53 batches translated + reviewed, all graphics groups (font/screens*.json), credits verified,
-  horizontal dialogue bubbles (opening QA'd).
-- Next: QA other screens that draw with font 04387 (its direction flipped), in-game UI widths (docs/re/verify.md),
-  release (xdelta). Marker build (--marker) does not apply dlgfont.
+  horizontal dialogue bubbles (opening QA'd), end-game save QA (docs/re/verify.md), sprite labels.
+- Next: Descent skill grid (3 x 64 px cells, names overflow; docs/re/verify.md), battle screens, release (xdelta).
+  Marker build (--marker) does not apply dlgfont.

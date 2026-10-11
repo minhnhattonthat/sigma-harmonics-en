@@ -9,9 +9,13 @@ Checked 2026-10-11 with an end-game save (Death Movement, 1F Great Clock Chamber
   the field label.
 - Echo list 04390 and event list 06813 (Notebook): fine.
 - Descent screen skill grid (04985/05609/06365 names): 3 columns of 64 px, centred; most English names overflow.
-  OPEN.
-- Still Japanese, sprites (not screens): field hour badge "15の刻" (sub OBJ, tiles from 06421/04793), Notebook
-  "第死楽章" button and "15の刻" plate. OPEN.
+  OPEN. Layout: descriptor table 0x20c3b58 (26 x 0x1c: x, y, w, h, ... player view); entries 5-25 = 3 category
+  columns x 7 slots (x 6/68/130, y 134 + 16k, w 56), canvases tile-aligned (2 tiles high). Drawn by 0x2051e70
+  (open) and the routine around 0x2051d08 (card switch); slot data fp+0x1eb98 + col*0x38 + row*8 (<0 = empty).
+  End-game cards show 13-15 skills.
+- Sprites (tools/sprite.py, font/sprites.json): field hour badge 06421, Notebook 06822 buttons, battle labels
+  05714/05717/05735 done. Left as is: Shiki card art (zodiac kanji), battle icons 曲/技/神 (05720/05729/05738, which
+  already carry -Battle Music- / -Card Skill- / -Job Change-).
 
 Not seen yet:
 - UI tables guessed to use the main font (meta: own font cannot draw their text): 4985 5609 6365 in battle.
