@@ -8,18 +8,21 @@ Human contributors: README.md, CONTRIBUTING.md.
 - Check:    `python -X utf8 tools/check.py` (pytest + lint; pre-commit and GitHub CI run it; ROM tests skip without ROM)
 - Extract:  `python -X utf8 tools/text.py extract` (writes missing script/*.json only)
 - Smoke:    `python -X utf8 .claude/skills/translate-retro-game/scripts/emu.py build/sigma_en.nds --out work/qa/smoke --route tools/routes/newgame.txt --shot-every 150 --smoke --sheet`
+- Debug:    `python -X utf8 tools/debug/tour.py [TABLE..]` plays dialogue events from a cold boot (no save) ->
+  work/qa/events/<table>/sheet.png + report.tsv (rows shown/total); `--rooms [N..]` warps to rooms. See tools/debug/.
 - Release:  `python -X utf8 tools/release.py X.Y` (xdelta3 on PATH; re-applies and compares) -> release/*.zip with
   docs/release-readme.md. Never publish, push or upload without the maintainer's say-so.
 
 ## Paths
-- Original ROM: `rom/Sigma Harmonics (Japan).nds` (gitignored, SHA-1 7b37857acc91704d05f3c90143cbf8e972c54ffd). Emulator: `tools/desmume/` (gitignored, lua51.dll beside exe).
+- Original ROM: `rom/Sigma Harmonics (Japan).nds` (gitignored, SHA-1 7b37857acc91704d05f3c90143cbf8e972c54ffd). Emulator: DeSmuME QA fork in `tools/desmume/` (gitignored; `scripts/fetch_emu.py desmume` =
+  github.com/minhnhattonthat/desmume qa-2: headless, own ini per run, parallel-safe). Stock build kept in work/desmume-stock.
 - Text: `script/NNNNN.json` (one per CPK string table; `id`, `jp`, `en`). Glossary + rulings: `glossary.md`. RE notes: `docs/re/README.md`.
 - Table metadata (form, font per table): `tools/tables.json` (committed; regenerate with `tools/batches.py meta`, needs ROM).
 - Code: `tools/` cpk.py (CPK/@UTF/CRILAYLA), rom.py (NitroFS cpk swap), strtab.py, text.py, build.py, nftr.py (fonts),
   scredit.py (screens, font/screens*.json), sprite.py (sprite cells, font/sprites.json), dlgfont.py (dialogue + arm9
   PATCH), gridfont.py (two-line skill names).
-- Load an end-game save: title t128,96 x2, Continue t93,110, slot t195,78, Yes t155,88, tap. Savestates go stale after
-  any rebuild that changes file sizes (they hang on the loading screen).
+- Load a save: `--sav F.dsv --route tools/routes/continue.txt`. Make one without playing: tools/debug/capture.lua +
+  mksave.py (card +0xa = room). Savestates go stale after any rebuild that changes file sizes (hang on loading).
 
 ## Rulings
 - Honorifics kept, given name first. Romanisation: official/fan (chocomog257 guide) else Hepburn. Credits English. No abbreviations.

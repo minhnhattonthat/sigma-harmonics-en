@@ -48,3 +48,6 @@
   arm9 PATCH list (layout, 12 lines at 14 px, no extra 1 px), text reflowed to 62 px x 12 lines (fit.py, words
   hyphenated) and packed into <=16 px chunk glyphs drawn into unused kanji slots, one centring spacer per line.
   tools/exp_horizontal.py is the first prototype (kept for reference).
+
+## Game state, save, tasks (debug tool)
+- Files, events, save layout, task switching and the warp hooks: tools/debug/README.md.

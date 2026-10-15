@@ -9,6 +9,8 @@ __pycache__/
 tools/desmume/
 tools/*/
 !tools/routes/
+!tools/debug/
+!tools/lua/
 *.nds
 *.ds[0-9]
 *.dst

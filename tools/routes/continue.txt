@@ -1,0 +1,14 @@
+# boot -> title -> Continue -> slot 1 -> Yes (needs --sav with a save in slot 1)
+900 -
+6 t128,96
+300 -
+6 t128,96
+900 -
+6 t93,110
+300 -
+6 t195,78
+200 -
+6 t155,88
+600 -
+6 t128,96
+600 -

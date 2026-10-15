@@ -1,0 +1,19 @@
+{
+  "_doc": "Named screens for tour.py --scenes. save: mksave.py args (--unlock = every menu button and Shiki card) applied to the New Game capture (base/game.bin), booted with tools/routes/continue.txt (field ~frame 3850) then route; no save: cold boot with route. args: extra emu.py args. Menu taps (raw bottom screen): Menu t245,165; buttons at y 150: System x80, Super Reasoning x115, Shiki Cards x150, Descent x186, Sound Search x215.",
+  "field": {"route": "900 -;6 t128,96;300 -;6 t128,96;900 -;6 t163,110;600 -;1200 -",
+            "args": ["--script", "tools/debug/warp.lua", "--var", "SWAP='5915=8391'"]},
+  "battle": {"route": "900 -;6 t128,96;300 -;6 t128,96;900 -;6 t163,110;600 -",
+             "args": ["--script", "tools/debug/warp.lua", "--script", "tools/debug/field.lua", "--var", "SWAP='5915=8391'",
+                      "--var", "BATTLE=1", "--frames", "5000", "--mash", "60", "--mash-key", "t128,96"]},
+  "menu": {"save": ["--unlock"], "route": "6 t245,165;300 -"},
+  "system": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -"},
+  "config": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -;6 t36,78;400 -"},
+  "glossary": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -;6 t76,78;400 -"},
+  "movements": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -;6 t116,78;400 -"},
+  "load": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -;6 t156,78;400 -"},
+  "save": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t80,150;400 -;6 t196,78;400 -"},
+  "reasoning": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t115,150;600 -"},
+  "shiki": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t150,150;600 -"},
+  "descent": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t186,150;600 -"},
+  "sound": {"save": ["--unlock"], "route": "6 t245,165;300 -;6 t215,150;600 -"}
+}
