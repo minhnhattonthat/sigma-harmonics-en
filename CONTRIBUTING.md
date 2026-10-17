@@ -33,14 +33,16 @@ Rules the lint enforces:
 
 ## 3. Build and test in an emulator (needs the ROM)
 
-See "Build your own patched ROM" in the README. For scripted QA there is a headless DeSmuME driver:
+See "Build your own patched ROM" in the README. For scripted QA there is a headless DeSmuME driver in the
+translate-retro-game skill: clone github.com/minhnhattonthat/translate-retro-game and set `RETRO_SKILL` to its
+`skills/translate-retro-game` folder (`<skill>` below; the tools find it there or in the Claude Code plugin):
 
 - Get the DeSmuME QA fork (headless runs, Lua included):
-  `python -X utf8 .claude/skills/translate-retro-game/scripts/fetch_emu.py desmume` unpacks it into `tools/desmume/`.
+  `python -X utf8 <skill>/scripts/fetch_emu.py desmume` unpacks it into `tools/desmume/`.
 - See a scene without playing to it: `python -X utf8 tools/debug/tour.py 4100` boots a new game, jumps into the
   event whose text is `script/04100.json`, taps through it and writes `work/qa/events/04100/sheet.png`. With no
   table ids it runs every dialogue event; `--rooms` jumps to field rooms instead. Details: `tools/debug/README.md`.
-- `python -X utf8 .claude/skills/translate-retro-game/scripts/emu.py build/sigma_en.nds --out work/qa/smoke --route tools/routes/newgame.txt --shot-every 150 --smoke --sheet`
+- `python -X utf8 <skill>/scripts/emu.py build/sigma_en.nds --out work/qa/smoke --route tools/routes/newgame.txt --shot-every 150 --smoke --sheet`
   boots a new game and writes screenshots plus a contact sheet. `--route-str "900 -;6 t128,96"` sends inputs
   (frames, then buttons or a touch at raw screen coordinates), `--state-in`/`--state-out` load and save states.
 - The game is held sideways: screenshots are raw; rotate 90 degrees counter-clockwise to see what the player sees.
@@ -58,5 +60,5 @@ Optionally install the pre-commit hook so every commit runs the check: `cp tools
 
 ## Working with an AI coding agent
 
-`CLAUDE.md` (and the `translate-retro-game` skill under `.claude/skills/`) give an agent the commands, rulings and
+`CLAUDE.md` (and the `translate-retro-game` plugin enabled in `.claude/settings.json`) give an agent the commands, rulings and
 tools for this repo. Review its changes like any other pull request.

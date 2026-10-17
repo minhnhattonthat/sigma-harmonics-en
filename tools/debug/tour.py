@@ -24,11 +24,12 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-EMU = ROOT / '.claude/skills/translate-retro-game/scripts/emu.py'
-SHEET = EMU.with_name('sheet.py')
 HERE = Path(__file__).resolve().parent
 SCENES = json.loads((HERE / 'scenes.json').read_text(encoding='utf-8'))
 sys.path.insert(0, str(ROOT / 'tools'))
+import text  # noqa: E402
+EMU = text.skill_script('emu.py')
+SHEET = EMU.with_name('sheet.py')
 
 
 def dialogue_tables():

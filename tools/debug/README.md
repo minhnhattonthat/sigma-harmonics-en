@@ -1,7 +1,7 @@
 # Debug tool: reach any scene without playing
 
 Everything here boots the ROM cold in the DeSmuME QA fork (`tools/desmume/`, from
-`.claude/skills/translate-retro-game/scripts/fetch_emu.py desmume`). No user save, no savestate, so it keeps working
+`<skill>/scripts/fetch_emu.py desmume`, <skill> = the translate-retro-game skill folder: $RETRO_SKILL or the plugin). No user save, no savestate, so it keeps working
 after every rebuild.
 
 ```

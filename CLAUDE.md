@@ -1,13 +1,13 @@
 # Sigma Harmonics (NDS) English translation
 
-Skill: translate-retro-game (`.claude/skills/translate-retro-game/SKILL.md`). Read it before ROM, text or QA work.
+Skill: translate-retro-game (plugin, enabled in .claude/settings.json; <skill> = its folder, or $RETRO_SKILL). Read it before ROM, text or QA work.
 Human contributors: README.md, CONTRIBUTING.md.
 
 ## Commands (run from repo root; venv with `pip install -r requirements.txt`; Windows: `.venv/Scripts/python`)
 - Build:    `python -X utf8 tools/build.py` -> build/sigma_en.nds (`--marker` id build, `--identity` check)
 - Check:    `python -X utf8 tools/check.py` (pytest + lint; pre-commit and GitHub CI run it; ROM tests skip without ROM)
 - Extract:  `python -X utf8 tools/text.py extract` (writes missing script/*.json only)
-- Smoke:    `python -X utf8 .claude/skills/translate-retro-game/scripts/emu.py build/sigma_en.nds --out work/qa/smoke --route tools/routes/newgame.txt --shot-every 150 --smoke --sheet`
+- Smoke:    `python -X utf8 <skill>/scripts/emu.py build/sigma_en.nds --out work/qa/smoke --route tools/routes/newgame.txt --shot-every 150 --smoke --sheet`
 - Debug:    `python -X utf8 tools/debug/tour.py [TABLE..]` plays dialogue events from a cold boot (no save) ->
   work/qa/events/<table>/sheet.png + report.tsv (rows shown/total); `--rooms [N..]` warps to rooms. See tools/debug/.
 - Release:  `python -X utf8 tools/release.py X.Y` (xdelta3 on PATH; re-applies and compares) -> release/*.zip with

@@ -17,6 +17,20 @@ ROM = ROOT / 'rom' / 'Sigma Harmonics (Japan).nds'
 SCRIPT = ROOT / 'script'
 
 
+def skill_script(name):
+    """Path of a translate-retro-game skill script (emu.py, sheet.py, ...): $RETRO_SKILL (the skill folder, e.g. a
+    clone's skills/translate-retro-game) or the newest copy the Claude Code plugin installed."""
+    import os
+    if os.environ.get('RETRO_SKILL'):
+        return Path(os.environ['RETRO_SKILL']) / 'scripts' / name
+    found = sorted(Path.home().glob(f'.claude/plugins/*/*/**/skills/translate-retro-game/scripts/{name}'),
+                   key=lambda p: p.stat().st_mtime)
+    if not found:
+        sys.exit(f'{name} not found: install the translate-retro-game plugin (/plugin) or set RETRO_SKILL to a '
+                 'clone of github.com/minhnhattonthat/translate-retro-game/skills/translate-retro-game')
+    return found[-1]
+
+
 def load_rom():
     data = ROM.read_bytes()
     return data, cpk.Cpk(rom.get_cpk(data))

@@ -14,7 +14,7 @@ import build  # noqa: E402
 import rom  # noqa: E402
 import text  # noqa: E402
 
-EMU = text.ROOT / '.claude/skills/translate-retro-game/scripts/emu.py'
+EMU = text.skill_script('emu.py')
 
 
 def boots(c, data, script, ids, fonts, route, tag):
