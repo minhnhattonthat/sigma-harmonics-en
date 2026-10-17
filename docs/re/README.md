@@ -54,6 +54,11 @@
   start their ink 1 px into the cell (latin.dlg_glyph bubble=True); tests/test_dlgfont.py checks it.
 - Battle card names: one-line names were plain text in re-celled font 05611, whose glyph widths are +7, so the
   battle screen centred "Big Stop" ~20 px left (off screen). gridfont now draws every name as chunks.
+- Battle action banner (top screen): 0x202b060 -> 0x205cfac draws 05609 rows with font 05610 (12x13), which has no
+  chunk glyphs, so player skills (rows 152-223) were blank. 05609 rows 224-295 are plain copies and an arm9 patch
+  (gridfont.PATCH) makes the banner read row + 72 for rows >= 152. Enemy skills (rows 0-151) unchanged.
+  The banner centres the name at x~148 and the screen edge cuts it at 192 (text wraps at ~130 px), so 05610 gets the
+  condensed Latin of font/px9c.txt (lowercase 3 px, capitals 4, space 1): every skill name <= 88 px (test_gridfont).
 
 ## Game state, save, tasks (debug tool)
 - Files, events, save layout, task switching and the warp hooks: tools/debug/README.md.

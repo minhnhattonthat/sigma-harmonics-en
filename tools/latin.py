@@ -37,10 +37,10 @@ def _ttf(name, px):
 
 
 @lru_cache(None)
-def px9():
-    """{char: rows} from font/px9.txt."""
-    out, cur = {}, None
-    for line in (FONT_DIR / 'px9.txt').read_text(encoding='utf-8').split('\n'):
+def px9(condensed=False):
+    """{char: rows} from font/px9.txt; condensed=True applies the font/px9c.txt overrides."""
+    out, cur = (dict(px9()), None) if condensed else ({}, None)
+    for line in (FONT_DIR / ('px9c.txt' if condensed else 'px9.txt')).read_text(encoding='utf-8').split('\n'):
         if line.startswith('# '):  # comment; glyph rows never contain spaces
             continue
         if line.startswith('='):
@@ -103,10 +103,10 @@ def dlg_image(s, w, h, base, x=0):
     return im
 
 
-def raster_px9(ch, w, h, base, bpp):
+def raster_px9(ch, w, h, base, bpp, condensed=False):
     """Upright pixel glyph placed so its baseline (under px9 row 6) sits 2 rows above the cell baseline,
     as the game's own 9px glyphs fill the cell to the bottom."""
-    g = px9()[ch]
+    g = px9(condensed)[ch]
     top = (1 << bpp) - 1
     dy = max(0, min(base, h) - 9)
     rows = [[0] * w for _ in range(h)]
@@ -143,7 +143,7 @@ def pack(rows, bpp, size):
     return bytes(int(bits[i:i + 8], 2) for i in range(0, len(bits), 8)).ljust(size, b'\0')[:size]
 
 
-def glyphs(x):
+def glyphs(x, condensed=False):
     """{code: (bitmap, left, width, advance)} for the full ASCII set in this font's format."""
     p = params(x)
     rotated = p['flags'] in (2, 6)
@@ -156,7 +156,7 @@ def glyphs(x):
             out[fullwidth(ch)] = out[ord(ch)]
             continue
         else:
-            rows, adv = raster_px9(ch, wu, hu, hu, p['bpp'])
+            rows, adv = raster_px9(ch, wu, hu, hu, p['bpp'], condensed)
             stored = orient(rows, p['flags'], p['w'], p['h'])
             inked = [x for r in stored for x, v in enumerate(r) if v]
             width = max(inked) + 1 if inked else 0
@@ -185,10 +185,10 @@ def set_glyph(x, idx, bitmap, widths):
 KEEP = range(0x30, 0x3b)  # the game's own ASCII digits and ':' (play time, counters): drawn into tight canvases
 
 
-def add_ascii(x):
+def add_ascii(x, condensed=False):
     """Font bytes with every ASCII glyph present and drawn in our Latin style (native digits and ':' kept)."""
     have = nftr.codes(x)
-    gl = glyphs(x)
+    gl = glyphs(x, condensed)
     keep = () if params(x)['flags'] == 3 else KEEP  # the dialogue font's direction changes, so it takes ours
     new = {}
     for code, g in gl.items():

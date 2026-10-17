@@ -50,3 +50,10 @@ def test_font_recell_keeps_glyphs_and_adds_chunks():
         assert nftr.widths(y, nftr.lookup(y, cp))[1] in (0, nftr.widths(x, nftr.lookup(x, cp))[1] + 7)
     for cp in list(a.code.values()) + list(b.code.values()):
         assert nftr.widths(y, nftr.lookup(y, cp))[1] == 16 and len(nftr.glyph(y, nftr.lookup(y, cp))) == gridfont.SIZE
+
+
+def test_banner_names_fit_condensed():
+    # the battle banner (font 05610) centres a name at x~148 and the screen edge cuts it at 192
+    g = latin.px9(condensed=True)
+    width = lambda s: sum(len(g[c][0]) + 1 for c in s) - 1  # noqa: E731
+    assert [n for n in names('05609') if width(n) > 88] == []

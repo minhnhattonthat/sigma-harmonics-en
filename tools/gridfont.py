@@ -61,6 +61,20 @@ def _rect_patch():
 
 PATCH = _rect_patch()
 
+# The battle action banner (0x202b060 -> 0x205cfac) draws the same rows with font 05610, which has no chunk glyphs,
+# so player skills came out blank. Rows 224-295 are plain copies of 152-223 and the banner reads row + 72 for rows
+# >= 152 (enemy skills are rows 0-151). Room: 0x205d234 returns the object in r0, and strd zeroes the 4 stack args.
+BANNER = LAST + 1             # first plain copy; 05609 has exactly 224 rows
+BANNER_FONT = 5610            # gets the condensed Latin (font/px9c.txt): the banner shows only ~88 px of a name
+assert (FIRST, LAST - FIRST + 1) == (152, 72)  # the cmp / add immediates below
+PATCH += [
+    (0x202b088, 0xe58d2000, 0xe3a03000),  # mov r3, #0
+    (0x202b08c, 0xe58d2004, 0xe1cd20f0),  # strd r2, r3, [sp]
+    (0x202b090, 0xe58d2008, 0xe1cd20f8),  # strd r2, r3, [sp, #8]
+    (0x202b098, 0xe1a00005, 0xe3540098),  # cmp r4, #152         (was mov r0, r5: r0 is already r5)
+    (0x202b0a0, 0xe58d200c, 0xa2833048),  # addge r3, r3, #72    row of the plain copy
+]
+
 
 def style_of(row_id):
     """'px9' / 'tiny' for a row drawn through this module, else None."""

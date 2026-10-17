@@ -61,7 +61,7 @@ def fonts(c):
         x = c.get(f)
         if x[:4] != b'RTFN':
             continue
-        new = latin.add_ascii(x)
+        new = latin.add_ascii(x, condensed=f['id'] == gridfont.BANNER_FONT)
         out[f['id']] = (new, len(new))
     return out
 
@@ -96,6 +96,10 @@ def main(argv):
         plan = dlgfont.Plan([r['en'] for r in dlg], dlgfont.slots(c.get(byid[dlgfont.FONT]), keep))
         for r in dlg:
             r['en'] = plan.encode(r['en'])
+        names = script[5609]
+        assert len(names) == gridfont.BANNER
+        names += [{'id': f'05609:{gridfont.BANNER + k:04d}', 'jp': r['jp'], 'en': to_fullwidth(r['en'] or r['jp'])}
+                  for k, r in enumerate(names[gridfont.FIRST:])]  # plain copies for the battle banner
         for rows in script.values():
             for r in rows:
                 if r['en'] and gridfont.is_grid(r['id']):
