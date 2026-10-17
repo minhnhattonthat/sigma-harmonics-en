@@ -48,6 +48,12 @@
   arm9 PATCH list (layout, 12 lines at 14 px, no extra 1 px), text reflowed to 62 px x 12 lines (fit.py, words
   hyphenated) and packed into <=16 px chunk glyphs drawn into unused kanji slots, one centring spacer per line.
   tools/exp_horizontal.py is the first prototype (kept for reference).
+- Chunk spacing (fixed 2026-10, found by the debug-tool event tour): the patched bubble centres each glyph at
+  advance / 2 (integer), so an odd-advance chunk landed 1 px early: a gap after it ("wa s") and a squeezed space
+  before it ("madeto"). Chunks now draw each char at whole-pixel positions (latin.dlg_adv) and odd-advance chunks
+  start their ink 1 px into the cell (latin.dlg_glyph bubble=True); tests/test_dlgfont.py checks it.
+- Battle card names: one-line names were plain text in re-celled font 05611, whose glyph widths are +7, so the
+  battle screen centred "Big Stop" ~20 px left (off screen). gridfont now draws every name as chunks.
 
 ## Game state, save, tasks (debug tool)
 - Files, events, save layout, task switching and the warp hooks: tools/debug/README.md.

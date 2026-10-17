@@ -61,13 +61,17 @@ def rows_of(table):
     return len(json.loads((ROOT / f'script/{table:05d}.json').read_text(encoding='utf-8')))
 
 
-def play(table, a, out, frames, chapter):
-    """One cold-boot run of the event; chapter = save-card chapter byte poked before the warp (scripts branch on it).
+FIELD_HOST = 4512  # first field event: field events crash in the opening's place; it loads ~2400 frames later
+
+
+def play(table, a, out, frames, chapter, host):
+    """One cold-boot run of the event; chapter = save-card chapter byte set as it loads (scripts branch on it).
     Returns (verdict, set of text rows the dialogue fetched: warp.lua logs "msg 2 <row>")."""
     poke = ['--var', f'CHAPTER={chapter}'] if chapter else []
+    frames += 2400 if host == FIELD_HOST else 0
     code = emu(out, [a.rom, '--route', str(HERE / 'newgame.txt'), '--frames', str(frames),
-                     '--timeout', str(frames // 30 + 120), '--shot-every', '60', '--mash', '40', '--mash-key', 't128,96',
-                     '--script', str(HERE / 'warp.lua'), '--var', f'TABLE={table}', '--var', f'HOST={a.host}', *poke])
+                     '--timeout', str(frames // 15 + 180), '--shot-every', '60', '--mash', '40', '--mash-key', 't128,96',
+                     '--script', str(HERE / 'warp.lua'), '--var', f'TABLE={table}', '--var', f'HOST={host}', *poke])
     res = verdict(code, out, 'warp ')
     log = (out / 'log.txt').read_text(encoding='utf-8', errors='replace') if res == 'ok' else ''
     return res, {int(x) for x in re.findall(r'^msg 2 (\d+)$', log, re.M) if int(x) < rows_of(table)}
@@ -77,16 +81,20 @@ def event(table, a):
     out = Path(a.out) / f'{table:05d}'
     rows = rows_of(table)
     frames = a.frames or min(3000 + 90 * rows, 45000)  # ~2 taps per line; the warp lands ~frame 2300
-    chapter = a.chapter or 0
-    res, shown = play(table, a, out, frames, chapter)
+    chapter, host = a.chapter or 0, a.host
+    res, shown = play(table, a, out, frames, chapter, host)
+    if res.startswith('exit') and res != 'exit 124' and host != FIELD_HOST:  # emulator crash: retry in the field
+        host = FIELD_HOST
+        res, shown = play(table, a, out, frames, chapter, host)
     if a.sweep and res == 'ok' and len(shown) * 2 < rows:  # mostly unseen: try the other chapters (short probes)
-        probes = {c: len(play(table, a, out / f'ch{c}', min(frames, 6000), c)[1]) for c in range(8) if c != chapter}
+        probes = {c: len(play(table, a, out / f'ch{c}', min(frames, 6000), c, host)[1]) for c in range(8)}
         best = max(probes, key=probes.get)
-        if probes[best] > len(play(table, a, out / f'ch{chapter}', min(frames, 6000), chapter)[1]):
+        if probes[best] > probes[chapter]:
             chapter = best
-            res, shown = play(table, a, out, frames, chapter)
+            res, shown = play(table, a, out, frames, chapter, host)
     if res == 'ok':  # unshown rows: other choice branches, lines needing more story context, or a stall
-        res += f' {len(shown)}/{rows} ch{chapter}' + (f' missing {sorted(set(range(rows)) - shown)}' if len(shown) < rows else '')
+        res += f' {len(shown)}/{rows} ch{chapter} host{host}' + (
+            f' missing {sorted(set(range(rows)) - shown)}' if len(shown) < rows else '')
     return res
 
 

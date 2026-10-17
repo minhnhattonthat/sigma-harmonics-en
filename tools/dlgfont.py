@@ -64,7 +64,7 @@ def patch_arm9(rom):
 
 
 def adv(s):
-    return round(latin.dlg_ttf().getlength(s))
+    return latin.dlg_adv(s)
 
 
 def _greedy(text, ok):
@@ -148,7 +148,7 @@ class Plan:
             if isinstance(key, tuple):
                 bitmap, widths = bytes(p['size']), (0, 0, key[1])  # glyphWidth 0: the blitter draws nothing
             else:
-                bitmap, widths = latin.dlg_glyph(key, p)
+                bitmap, widths = latin.dlg_glyph(key, p, bubble=True)
             x = latin.set_glyph(x, idx, bitmap, widths)
         x = bytearray(x)
         x[bytes(x).find(b'PLGC') + 15] = 2

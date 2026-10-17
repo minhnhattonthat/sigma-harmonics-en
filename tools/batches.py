@@ -95,7 +95,8 @@ def limit_of(row, m):
 PROVISIONAL = {4741: 156, 4726: 210}
 # Widths measured in game (id prefix -> px); override the budgets above
 MEASURED = {
-    '06413': 128,       # field location label, 128 px to the screen edge after the dlgfont.PATCH canvas move
+    '06413': 129,       # field location label, 128 px to the screen edge after the dlgfont.PATCH canvas move; the
+                        # whole-pixel metric reads "Kurogami Mansion Stop" as 129 px, in game it ends well short (2026-10)
     '04695:003': 54,    # save/load card chapter, before the fixed hour column
     '04703:003': 54,
     '04700': 113,       # save/load card location line, to the card border (narrow font: ~0.82 px per lint px)

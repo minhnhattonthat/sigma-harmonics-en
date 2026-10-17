@@ -24,7 +24,8 @@ FIRST, LAST = 152, 223        # string indices both screens read (docs/re/verify
 CELL = 58                     # px a one-line (px9) name may use; wider ones go on two lines
 MAXLINE = 62                  # px of a two-line half: the cell pitch
 ROWS, SLICE, OLDW, SIZE = 16, 9, 9, 18   # glyph rows (upright height), columns per chunk, old cell width, bytes/glyph
-LINE_Y = {'px9': {1: (4,), 2: (0, 8)}, 'tiny': {2: (0, 6)}}  # top row of each line (px9 caps rows 0-6, desc 7-8)
+# top row of each line (px9 caps rows 0-6, desc 7-8); one line ends at row 10, the last the battle screen shows
+LINE_Y = {'px9': {1: (2,), 2: (0, 8)}, 'tiny': {2: (0, 6)}}
 CODE0, CODE1 = 0xF900, 0xFE00  # chunk codes: CJK compatibility range, free in the font (catch-all CMAP block)
 
 # 3x5 uppercase pixel font (M, N, W wider); '#' ink
@@ -112,8 +113,9 @@ def strip(ls, style='px9'):
 
 
 def slices(name, style='px9'):
-    """[(bytes of 16 x 9 bits, columns used)] 9-column slices of a name's strip."""
-    rows = strip(lines(name, style), style)
+    """[(bytes of 16 x 9 bits, columns used)] 9-column slices of a name's strip; a one-line name is a px9 line."""
+    ls = lines(name, style)
+    rows = strip(ls, 'px9' if len(ls) == 1 else style)
     w = len(rows[0])
     return [(bytes(v for r in rows for v in (r[x:x + SLICE] + [0] * SLICE)[:SLICE]), min(SLICE, w - x))
             for x in range(0, w, SLICE)]
@@ -138,8 +140,9 @@ class Plan:
         self.code = {s: next(free) for s in sorted({s for n in self.names for s in slices(n, style)})}
 
     def chunked(self, name):
-        """px9 draws every name as chunks; tiny only the names that do not fit one px9 line."""
-        return self.style == 'px9' or len(lines(name, self.style)) == 2
+        """Every name is drawn as chunks: the battle cards centre plain text from the re-celled glyphs' widths, which
+        put "Big Stop" ~20 px left of its card (off screen under the first card)."""
+        return True
 
     def encode(self, name):
         if not self.chunked(name):
@@ -166,6 +169,8 @@ def errors(name, style='px9'):
     except ValueError as e:
         return [str(e)]
     out = []
+    if len(ls) == 1 and px(name) > CELL:  # one line is always drawn as a px9 strip (slices)
+        out.append(f'one-line px9 width {px(name)} > {CELL}px')
     if len(ls) == 2 and max(px(s, style) for s in ls) > MAXLINE:
         out.append(f'two-line width {[px(s, style) for s in ls]} > {MAXLINE}px')
     if style == 'tiny' and len(ls) == 2:

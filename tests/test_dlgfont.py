@@ -17,6 +17,7 @@ def test_hyphenate_fits_and_prefers_own_hyphen():
     assert ''.join(pieces).replace('--', '-').replace('-', '') == 'Himekagosannookusama'.replace('-', '')
     assert not any(p.endswith('--') for p in pieces)
     assert pieces[0].endswith('-') and fit.hyphenate('cat', 40) == ['cat']
+    assert fit.hyphenate('Handprints...', fit.DLG_PX)[0] == 'Hand-'  # not 'Handp-': keeps the 'pr' together
 
 
 def test_plan_encodes_within_budget_and_centres():
@@ -29,6 +30,30 @@ def test_plan_encodes_within_budget_and_centres():
     assert sum(1 for ch in long if ord(ch) >= 0x5000) + long.count(fit.NL) <= dlgfont.MAX_RECORDS
     with pytest.raises(ValueError):
         p.encode(fit.NL.join(['Hm?'] * 61))
+
+
+def test_chunked_line_looks_like_unchunked_line():
+    """Bubble placement: each chunk at the pen, but an odd-advance glyph lands 1 px early (centred at advance / 2),
+    which dlg_glyph(bubble=True) offsets. Chunk boundaries then add no gap and eat no space."""
+    from PIL import Image, ImageChops
+    import latin  # noqa: E402
+    line = 'He was made to grip the floor too.'
+    want = latin.dlg_image(line, 260, 16, 12)
+    got, pen = Image.new('L', (260, 16), 0), 0
+    for chunk in dlgfont._greedy(line, lambda c: len(c) <= 2 or c in (' to', 'was')):
+        adv = dlgfont.adv(chunk)
+        g = latin.dlg_image(chunk, 16, 16, 12, adv % 2)
+        got = ImageChops.lighter(got, _at(got.size, g, pen - adv % 2))
+        pen += adv
+    # overlapping anti-aliased edges blend slightly differently; under one 3 bpp level (255 / 7) is the same pixel
+    assert pen == dlgfont.adv(line) and ImageChops.difference(got, want).getextrema()[1] < 255 // 7
+
+
+def _at(size, im, x):
+    from PIL import Image
+    out = Image.new('L', size, 0)
+    out.paste(im, (x, 0))
+    return out
 
 
 @needs_rom

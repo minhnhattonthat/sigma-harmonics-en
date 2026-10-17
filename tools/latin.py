@@ -71,16 +71,36 @@ def dlg_ttf():
     return _ttf(DLG_TTF, DLG_PX)
 
 
-def dlg_glyph(s, p):
-    """Dialogue-font glyph for string `s` (one char or a chunk), upright for the player: drawn at its natural
-    advance, rotated into the cell like the flags-2 fonts. Widths (left, glyphWidth, advance): glyphWidth is the
-    full cell because the blitter copies that many raw-x columns (docs/re/README.md)."""
-    f, top = dlg_ttf(), (1 << p['bpp']) - 1
-    adv = round(f.getlength(s)) if s != ' ' else SPACE_ADV
-    im = Image.new('L', (p['h'], p['w']), 0)  # upright: width along the advance (cell h), height = cell w
-    ImageDraw.Draw(im).text((0, p['base']), s, font=f, fill=255, anchor='ls')
+def dlg_char_adv(c):
+    return SPACE_ADV if c == ' ' else round(dlg_ttf().getlength(c))
+
+
+def dlg_adv(s):
+    """Dialogue advance of `s`: whole pixels per char, so a chunk is exactly its chars side by side and a line
+    split into chunks at any point spaces out like the unsplit line (no +-1 px at chunk boundaries)."""
+    return sum(dlg_char_adv(c) for c in s)
+
+
+def dlg_glyph(s, p, bubble=False):
+    """Dialogue-font glyph for string `s` (one char or a chunk), upright for the player: each char at its whole-pixel
+    position (dlg_adv), rotated into the cell like the flags-2 fonts. Widths (left, glyphWidth, advance): glyphWidth
+    is the full cell because the blitter copies that many raw-x columns (docs/re/README.md).
+    bubble: the patched bubble layout centres a glyph at advance / 2 (integer), which puts an odd-advance glyph 1 px
+    early (a gap after it, a squeezed space before it), so its ink starts 1 px into the cell."""
+    top, adv = (1 << p['bpp']) - 1, dlg_adv(s)
+    im = dlg_image(s, p['h'], p['w'], p['base'], adv % 2 if bubble else 0)
     rows = [[round(im.getpixel((x, y)) * top / 255) for x in range(p['h'])] for y in range(p['w'])]
     return pack(orient(rows, 2, p['w'], p['h']), p['bpp'], p['size']), (0, p['w'], adv)
+
+
+def dlg_image(s, w, h, base, x=0):
+    """Upright greyscale image (w along the advance, h tall) of `s`, each char at its whole-pixel position from x."""
+    im, f = Image.new('L', (w, h), 0), dlg_ttf()
+    draw = ImageDraw.Draw(im)
+    for c in s:
+        draw.text((x, base), c, font=f, fill=255, anchor='ls')
+        x += dlg_char_adv(c)
+    return im
 
 
 def raster_px9(ch, w, h, base, bpp):

@@ -5,7 +5,6 @@ DLG_LINES lines of DLG_PX pixels, then packed into chunk glyphs by dlgfont.py. U
 the Japanese line count and pixel budget (JP chars x cell width).
 python -X utf8 tools/fit.py "Some English text" [--ui]   # dry run: prints the wrapped lines and widths
 """
-import math
 import re
 import sys
 from functools import lru_cache
@@ -31,7 +30,7 @@ def width(s, ui=False):
     s = CODE.sub('', s)
     if ui:
         return sum(_ui_adv().get(ch, 99) for ch in s)
-    return math.ceil(latin.dlg_ttf().getlength(s))  # dialogue font: natural advance, as dlgfont draws it
+    return latin.dlg_adv(s)  # dialogue font: whole-pixel advances, as dlgfont draws it
 
 
 def hyphenate(word, limit, ui=False):
@@ -49,6 +48,8 @@ def hyphenate(word, limit, ui=False):
 SUFFIXES = ('ing', 'ment', 'tion', 'sion', 'ness', 'able', 'ible', 'ful', 'less', 'ous', 'ive', 'est', 'ance',
             'ence', 'ity', 'ism', 'ist', 'ize', 'ise', 'ward', 'some', 'ship', 'hood', 'er', 'ed', 'ly')
 VOWELS = set('aeiouyAEIOUY')
+ONSETS = {'bl', 'br', 'ch', 'cl', 'cr', 'dr', 'fl', 'fr', 'gl', 'gr', 'ph', 'pl', 'pr', 'sc', 'sh', 'sk', 'sl', 'sm',
+          'sn', 'sp', 'st', 'sw', 'th', 'tr', 'tw', 'wh', 'wr'}  # consonant pairs that start a syllable: keep together
 
 
 def _break_score(word, k):
@@ -63,7 +64,7 @@ def _break_score(word, k):
     if tail.lower().rstrip('.,!?;:)]>"\'').startswith(SUFFIXES):
         return 3
     if head[-1].isalpha() and tail[0].isalpha() and head[-1] not in VOWELS and tail[0] not in VOWELS:
-        return 2
+        return 1 if (head[-1] + tail[0]).lower() in ONSETS else 2  # "Hand-prints", not "Handp-rints"
     return 1
 
 
