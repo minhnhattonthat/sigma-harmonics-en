@@ -58,6 +58,12 @@ Translation fixes, bug reports with screenshots and engine work are all welcome.
 
 Details: [docs/re/README.md](docs/re/README.md).
 
+## Support
+
+If you enjoy this translation, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minhnhattonthat)
+
 ## Licence
 
 Tools and English translation: MIT, see [LICENSE](LICENSE). The bundled fonts keep their own licences
