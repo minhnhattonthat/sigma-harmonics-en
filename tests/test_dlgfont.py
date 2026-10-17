@@ -26,6 +26,7 @@ def test_plan_encodes_within_budget_and_centres():
     enc = p.encode(texts[1])
     pad = {cp: key[1] for key, cp in p.code.items() if isinstance(key, tuple)}
     assert ord(enc[0]) in pad and abs(pad[ord(enc[0])] * 2 + dlgfont.adv('Hm?') - fit.DLG_PX) <= 1
+    assert enc.endswith(fit.NL + chr(p.code[('pad', dlgfont.CURSOR_PAD)]))  # page cursor alone on the last line
     long = p.encode(texts[0])
     assert sum(1 for ch in long if ord(ch) >= 0x5000) + long.count(fit.NL) <= dlgfont.MAX_RECORDS
     with pytest.raises(ValueError):

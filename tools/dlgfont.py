@@ -22,6 +22,7 @@ FONT = 4387
 MAX_RECORDS = 60
 CHUNK = 16                 # max chunk advance: the glyph cell is 16 px along the advance
 SPACERS = range(1, 31)     # centring pads (DLG_PX / 2)
+CURSOR_PAD = 24            # spacer before the page cursor on its own line (centred in game: work/qa/dlg3)
 
 # (address, original word, new word): arm9 is uncompressed at 0x02000000
 PATCH = [
@@ -136,9 +137,13 @@ class Plan:
         centre = records + sum(1 for p in pads if p > 0) <= MAX_RECORDS
         if records > MAX_RECORDS:
             raise ValueError(f'{records} glyph records, max {MAX_RECORDS}')
-        return fit.NL.join(
+        out = fit.NL.join(
             (chr(self.code[('pad', min(p, SPACERS[-1]))]) if centre and p > 0 else '') + ''.join(out)
             for (out, _), p in zip(lines, pads))
+        # the page cursor is drawn after the last glyph: a last line holding only a spacer centres it under the text
+        if len(lines) < fit.DLG_LINES and records + 2 + (len(pads) if centre else 0) <= MAX_RECORDS:
+            out += fit.NL + chr(self.code[('pad', CURSOR_PAD)])
+        return out
 
     def font(self, x):
         """Font 04387 bytes: flags 2 and every planned glyph drawn into its slot."""
