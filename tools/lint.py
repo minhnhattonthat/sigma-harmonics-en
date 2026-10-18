@@ -18,6 +18,8 @@ def main():
     errs, done, total = [], 0, 0
     for fid, rows in script.items():
         for r in rows:
+            if not r['en'] and '…' in r['jp']:  # punctuation-only lines are not "text", but untranslated they draw vertical
+                errs.append(f"{r['id']}: '…' line has no English (use ...)")
             if not batches.is_text(r['jp']):
                 continue
             total += 1
