@@ -1,4 +1,4 @@
-# Sigma Harmonics (Nintendo DS) - English patch v0.9 (beta)
+# Sigma Harmonics (Nintendo DS) - English patch v0.9.1 (beta)
 
 Unofficial fan translation of **Sigma Harmonics** (シグマ ハーモニクス, Square Enix / Think Garage, 2008) into English.
 This is a patch only. It contains no game data; you need your own dump of the Japanese game.
@@ -16,13 +16,19 @@ This is a patch only. It contains no game data; you need your own dump of the Ja
    - CRC32 `81c7d250`
    - MD5 `721cf278bf87208f35ab77d51b1459c0`
    - SHA-1 `7b37857acc91704d05f3c90143cbf8e972c54ffd`
-2. Apply `Sigma_Harmonics_EN_v0.9.xdelta` with an xdelta patcher (xdelta3 command line, [xdelta UI](https://www.romhacking.net/utilities/598/), Delta Patcher):
-   `xdelta3 -d -s "Sigma Harmonics (Japan).nds" Sigma_Harmonics_EN_v0.9.xdelta "Sigma Harmonics (English).nds"`
-3. The patched ROM should be: CRC32 `bafc1774`, MD5 `d6120b1ea203576dfe4ab7f5dd958631`,
-   SHA-1 `2b6b582e740d7bde37e505b3f1183f30992cea32`.
+2. Apply `Sigma_Harmonics_EN_v0.9.1.xdelta` with an xdelta patcher (xdelta3 command line, [xdelta UI](https://www.romhacking.net/utilities/598/), Delta Patcher):
+   `xdelta3 -d -s "Sigma Harmonics (Japan).nds" Sigma_Harmonics_EN_v0.9.1.xdelta "Sigma Harmonics (English).nds"`
+3. The patched ROM should be: CRC32 `0322fc69`, MD5 `626cfb3d9e406c70abfa778968401b1a`,
+   SHA-1 `8550cfa475e05341d093562fe5c2bcad326d2ee2`.
 
 Start a **new game or load a save** with the patched ROM. Existing save files work (checked with an end-game save);
 savestates made with another build do not.
+
+## Changes in v0.9.1
+- Battle: the player's skill name now shows in the top-screen action banner (it was blank), in a narrower font so
+  every name fits; skill names under the battle cards are centred again.
+- Dialogue: the page cursor sits alone on its own line, centred under the text; no more stray gaps or squeezed spaces between letters.
+- Ellipsis-only lines ("...", "...?", "...!!") were left in Japanese and showed as vertical dots; now English.
 
 ## Tested on
 DeSmuME 0.9.14 (x64, JIT on and off). Not tested on real hardware or other emulators.
