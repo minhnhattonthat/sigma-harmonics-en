@@ -9,6 +9,20 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story (bubbles laid out left-to-right) | Translated |
+| Menus, notebook, skill and Echo names, locations, tutorials, system text | Translated |
+| Title screen, chapter and time cards, Super Reasoning menus, Notebook buttons | Translated |
+| Battle labels and skill names | Translated (Shiki card zodiac kanji and the 曲/技/神 icons kept; they already carry English) |
+| Staff credits | Translated |
+| Later chapters, other battles, rarely used screens | Not checked in play (a leftover Japanese label is possible) |
+
+Known issues: the font is hard to read ([#1](../../issues/1)); skill names too wide for one line use a tiny two-line
+capital font; the "Hidden Movement III" Notebook button is not verified on screen.
+
 ## What's here
 
 | Path | What it is |
